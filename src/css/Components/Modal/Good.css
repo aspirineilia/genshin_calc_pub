@@ -1,0 +1,48 @@
+.gi-window-good #good_text {
+    width: 100%;
+}
+
+.gi-good-inputs > div {
+    margin-bottom: 10px;
+}
+
+.gi-good-result {
+    width: 100%;
+}
+
+.gi-good-result-line {
+    width: 100%;
+    display: flex;
+}
+
+.gi-good-result-line.big {
+    height: 30px;
+    padding-bottom: 7px;
+}
+
+.gi-good-result-line.big .controls-bar {
+    padding: 0;
+}
+
+.gi-good-result-line > div {
+    height: 30px;
+    line-height: 30px;
+}
+
+.gi-good-result-line .title {
+    width: 150px;
+    flex-grow: 0;
+}
+
+.gi-good-result-line .value {
+    width: 60px;
+    flex-grow: 0;
+}
+
+.gi-good-result-line .full {
+    flex-grow: 1;
+}
+
+.gi-good-result-line .group {
+    width: 100%;
+}

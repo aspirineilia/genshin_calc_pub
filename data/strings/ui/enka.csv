@@ -1,0 +1,18 @@
+category;name;rus;eng
+enka_import;title;Enka.Network;Enka.Network
+enka_import;window_title;Импорт со Стенда персонажей;Import from Character showcase
+enka_import;button;Загрузить;Load
+enka_import;disclaimer;<p>С помощью сайта <a href="https://enka.network/" target="_blank">Enka.Network</a> Вы можете импортировать своего персонажа со Cтенда персонажей в игре</p>;<p>With <a href="https://enka.network/" target="_blank">Enka.Network</a> website you can import characters from ingame Character Showcase.</p>
+enka_import;open_window;Импортировать;Import
+enka_import;loading;Загрузка...;Loading...
+enka_import;enter_uid;UID/Профиль;UID/Profile
+enka_import;error;При оптравке запроса произошла ошибка. Проверьте правильность ввода UID или повторите попытку позже.;An error occurred while sending request. Please check UID or try again later.
+enka_import;empty;На стенде отсутствуют персонажи или просмотр деталей персонажей отключён.;There is no character in Showcase or details are hidden.
+enka_import;save_char;Добавить в сохранённые персонажи;Add to saved characters
+enka_import;load_char;Загрузить в калькулятор;Load into calculator
+enka_import;confirm_load_char;Выбранный персонаж загрузится вместо текущего персонажа. Продолжить?;Selected char will replace current set. Do you want to continue?
+enka_import;confirm_save_char;Добавить персонажа в список сохранённых?;Add selected character to saved characters?
+enka_import;save_all_chars;Сохранить всех персонажей;Save all characters
+enka_import;save_all_arts;Сохранить все артефакты;Save all artifacts
+enka_import;confirm_save_all_chars;Сохранить локально всех персонажей со Стенда?;Save locally all characters from Showcase?
+enka_import;confirm_save_all_arts;Добавить в хранилище все артефакты с персонажей на Стенде?;Add all equipped artifacts to Artifacts storage?

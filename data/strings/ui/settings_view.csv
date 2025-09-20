@@ -1,0 +1,23 @@
+category;name;rus;eng
+settings_view;common;Общие;Common
+settings_view;backup;Резервная копия;Backup
+settings_view;create_backup;Создать резервную копию;Create backup
+settings_view;create_backup_chars;Сохранить персонажей;Save characters
+settings_view;create_backup_artifacts;Сохранить артефакты;Save artifacts
+settings_view;create_backup_rotations;Сохранить ротации;Save rotations
+settings_view;create_backup_button;Сохранить;Save
+
+settings_view;load_backup;Загрузить резервную копию;Load backup
+settings_view;load_backup_button;Загрузить;Load
+settings_view;error;Ошибка;Error
+settings_view;error_text;При загрузке файла произошла ошибка;File loading error
+settings_view;success;Успех;Success
+settings_view;success_text;Резервная копия успешно загружена;Backup is successfully loaded
+
+settings_view;restore_title;Восстановление резервной копии полностью заменяет сохранённые данные. Если вы хотите добавить, а не заменить отдельные элементы отметьте их ниже:;Backup replace all your saved data. If you want to add elements (instead of replacement) check them below:
+settings_view;restore_chars;Персонажей;Characters
+settings_view;restore_artifacts;Артефакты;Artifacts
+settings_view;restore_rotations;Ротации;Rotations
+
+settings_view;beta;Бета-версии;Beta version
+settings_view;show_beta;Показвать контент из бета-версии игры;Show beta version content

@@ -1,0 +1,103 @@
+.gi-window-confirm {
+    z-index: 10001;
+}
+
+.gi-window-confirm-back {
+    z-index: 10000;
+}
+
+.gi-artifact-window {
+    z-index: 1011;
+}
+
+.gi-artifact-window-back {
+    z-index: 1010;
+}
+
+.gi-window-rotation-feature, .gi-window-rotation-condition, .gi-window-rotation-storage {
+    z-index: 911;
+}
+
+.gi-window-rotation-feature-back, .gi-window-rotation-condition-back, .gi-window-rotation-storage-back {
+    z-index: 910;
+}
+
+.gi-window-select {
+    z-index: 1001;
+}
+
+.gi-window-select-back {
+    z-index: 1000;
+}
+
+.gi-pool-lock {
+    z-index: 1001;
+}
+
+.gi-pool-lock-back {
+    z-index: 1000;
+}
+
+.gi-window-settings {
+    z-index: 1001;
+}
+
+.gi-window-settings-back {
+    z-index: 1000;
+}
+
+.gi-window-select-artifact-set {
+    z-index: 2001;
+}
+
+.gi-window-select-artifact-set-back {
+    z-index: 2000;
+}
+
+.gi-window-artifact-scanner {
+    z-index: 901;
+}
+
+.gi-window-artifact-scanner-back {
+    z-index: 900;
+}
+
+.gi-window-help {
+    z-index: 10001;
+}
+
+.gi-window-help-back {
+    z-index: 10000;
+}
+
+.gi-window-progress {
+    z-index: 11001;
+}
+
+.gi-window-progress-back {
+    z-index: 11000;
+}
+
+.gi-window-message {
+    z-index: 11001;
+}
+
+.gi-window-message-back {
+    z-index: 11000;
+}
+
+.gi-tooltip {
+    z-index: 99990;
+}
+
+.tooltip-wrapper {
+    z-index: 99999;
+}
+
+.gi-window-talent {
+    z-index: 9001;
+}
+
+.gi-window-talent-back {
+    z-index: 9000;
+}

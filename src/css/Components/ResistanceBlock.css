@@ -1,0 +1,48 @@
+.resistance-block {
+    width: 100%;
+}
+
+.resistance-block .row {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    font-size: 12px;
+    color: #BEAEA9;
+    padding: 2px 0;
+}
+
+.resistance-block.mini .row {
+    padding: 0;
+}
+
+.resistance-block .icon {
+    width: 20px;
+}
+
+.resistance-block .text {
+    width: 50px;
+    padding-left: 3px;
+    display: flex;
+}
+
+.resistance-block.mini .text {
+    width: 45px;
+}
+
+.resistance-block.multiplier .text {
+    width: 100px;
+}
+
+.resistance-block .green {
+    color: #90E800;
+}
+
+.resistance-block .red {
+    color: #d64848;
+}
+
+.resistance-block .multi {
+    flex-grow: 1;
+    text-align: right;
+    padding-right: 10px;
+}

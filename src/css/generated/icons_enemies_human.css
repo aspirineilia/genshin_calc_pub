@@ -1,0 +1,244 @@
+.type-human.enemy-icon-aahigaru-male-01 {background-image: url("../../images/enemies/human/aahigaru_male_01.png")}
+.type-human.enemy-icon-aahigaru-male-02 {background-image: url("../../images/enemies/human/aahigaru_male_02.png")}
+.type-human.enemy-icon-aahigarutaisho-male-01 {background-image: url("../../images/enemies/human/aahigarutaisho_male_01.png")}
+.type-human.enemy-icon-millelith-male-01 {background-image: url("../../images/enemies/human/millelith_male_01.png")}
+.type-human.enemy-icon-millelith-male-02 {background-image: url("../../images/enemies/human/millelith_male_02.png")}
+.type-human.enemy-icon-samurai-ronin-01 {background-image: url("../../images/enemies/human/samurai_ronin_01.png")}
+.type-human.enemy-icon-samurai-ronin-02 {background-image: url("../../images/enemies/human/samurai_ronin_02.png")}
+.type-human.enemy-icon-samurai-ronin-03 {background-image: url("../../images/enemies/human/samurai_ronin_03.png")}
+.type-human.enemy-icon-thoarder-female-hatchet-01 {background-image: url("../../images/enemies/human/thoarder_female_hatchet_01.png")}
+.type-human.enemy-icon-thoarder-male-chemist-electric-01 {background-image: url("../../images/enemies/human/thoarder_male_chemist_electric_01.png")}
+.type-human.enemy-icon-thoarder-male-chemist-fire-01 {background-image: url("../../images/enemies/human/thoarder_male_chemist_fire_01.png")}
+.type-human.enemy-icon-thoarder-male-chemist-ice-01 {background-image: url("../../images/enemies/human/thoarder_male_chemist_ice_01.png")}
+.type-human.enemy-icon-thoarder-male-chemist-water-01 {background-image: url("../../images/enemies/human/thoarder_male_chemist_water_01.png")}
+.type-human.enemy-icon-thoarder-male-crossbow-01 {background-image: url("../../images/enemies/human/thoarder_male_crossbow_01.png")}
+.type-human.enemy-icon-thoarder-male-fat-shovel-02 {background-image: url("../../images/enemies/human/thoarder_male_fat_shovel_02.png")}
+.type-human.enemy-icon-thoarder-male-hunter-01 {background-image: url("../../images/enemies/human/thoarder_male_hunter_01.png")}
+.type-human.enemy-icon-thoarder-male-noweapon-01 {background-image: url("../../images/enemies/human/thoarder_male_noweapon_01.png")}
+.type-human.enemy-icon-thoarder-male-rogue-01 {background-image: url("../../images/enemies/human/thoarder_male_rogue_01.png")}
+.type-human.enemy-icon-thoarder-male-rogue-fat-01 {background-image: url("../../images/enemies/human/thoarder_male_rogue_fat_01.png")}
+.type-human.enemy-icon-thoarder-male-rogue-fat-02 {background-image: url("../../images/enemies/human/thoarder_male_rogue_fat_02.png")}
+.type-human.enemy-icon-thoarder-male-sailor-01 {background-image: url("../../images/enemies/human/thoarder_male_sailor_01.png")}
+.type-human.enemy-icon-thoarder-male-shovel-01 {background-image: url("../../images/enemies/human/thoarder_male_shovel_01.png")}
+.type-human.enemy-icon-thoarder-male-standard-crossbow-02 {background-image: url("../../images/enemies/human/thoarder_male_standard_crossbow_02.png")}
+.type-human.enemy-icon-thoarder-male-standard-noweapon-02 {background-image: url("../../images/enemies/human/thoarder_male_standard_noweapon_02.png")}
+.type-human.enemy-icon-thoarder-male-standard-noweapon-fire-01 {background-image: url("../../images/enemies/human/thoarder_male_standard_noweapon_fire_01.png")}
+.type-human.enemy-icon-thoarder-muscleman-boxer-01 {background-image: url("../../images/enemies/human/thoarder_muscleman_boxer_01.png")}
+.type-human.enemy-icon-thoarder-muscleman-hammer-01 {background-image: url("../../images/enemies/human/thoarder_muscleman_hammer_01.png")}
+.type-human.enemy-icon-thoarder-muscleman-miner-01 {background-image: url("../../images/enemies/human/thoarder_muscleman_miner_01.png")}
+.type-human.enemy-icon-thoarder-muscleman-noweapon-01 {background-image: url("../../images/enemies/human/thoarder_muscleman_noweapon_01.png")}
+.type-human.enemy-icon-samurai-hatamoto-01 {background-image: url("../../images/enemies/human/samurai_hatamoto_01.png")}
+.type-human.enemy-icon-samurai-kairagi-01 {background-image: url("../../images/enemies/human/samurai_kairagi_01.png")}
+.type-human.enemy-icon-samurai-kairagi-02 {background-image: url("../../images/enemies/human/samurai_kairagi_02.png")}
+.type-human.enemy-icon-eremite-axe-vanguard {background-image: url("../../images/enemies/human/eremite axe vanguard.png")}
+.type-human.enemy-icon-eremite-crossbow {background-image: url("../../images/enemies/human/eremite crossbow.png")}
+.type-human.enemy-icon-eremite-daythunder {background-image: url("../../images/enemies/human/eremite daythunder.png")}
+.type-human.enemy-icon-eremite-desert-clearwater {background-image: url("../../images/enemies/human/eremite desert clearwater.png")}
+.type-human.enemy-icon-eremite-linebreaker {background-image: url("../../images/enemies/human/eremite linebreaker.png")}
+.type-human.enemy-icon-eremite-ravenbeak-halberdier {background-image: url("../../images/enemies/human/eremite ravenbeak halberdier.png")}
+.type-human.enemy-icon-eremite-sunfrost {background-image: url("../../images/enemies/human/eremite sunfrost.png")}
+.type-human.enemy-icon-eremite-sword-dancer {background-image: url("../../images/enemies/human/eremite sword-dancer.png")}
+.type-human.enemy-icon-eremite-female-standard-longbow {background-image: url("../../images/enemies/human/eremite_female_standard_longbow.png")}
+.type-human.enemy-icon-eremite-male-strong-katar {background-image: url("../../images/enemies/human/eremite_male_strong_katar.png")}
+.type-human.enemy-icon-eremite-female-standard-oracle {background-image: url("../../images/enemies/human/eremite_female_standard_oracle.png")}
+.type-human.enemy-icon-eremite-female-standard-dancer {background-image: url("../../images/enemies/human/eremite_female_standard_dancer.png")}
+.type-human.enemy-icon-tribalwarrior-launcher-mosasaurus {background-image: url("../../images/enemies/human/tribalwarrior_launcher_mosasaurus.png")}
+.type-human.enemy-icon-tribalwarrior-slingshot-mosasaurus {background-image: url("../../images/enemies/human/tribalwarrior_slingshot_mosasaurus.png")}
+.type-human.enemy-icon-tribalwarrior-launcher-hookwalker {background-image: url("../../images/enemies/human/tribalwarrior_launcher_hookwalker.png")}
+.type-human.enemy-icon-tribalwarrior-chainsword-hookwalker {background-image: url("../../images/enemies/human/tribalwarrior_chainsword_hookwalker.png")}
+.type-human.enemy-icon-tribalwarrior-chainsword-drillhead {background-image: url("../../images/enemies/human/tribalwarrior_chainsword_drillhead.png")}
+.type-human.enemy-icon-tribalwarrior-powermaul-drillhead {background-image: url("../../images/enemies/human/tribalwarrior_powermaul_drillhead.png")}
+.type-human.enemy-icon-human-fat-noweapon-mosasaurus {background-image: url("../../images/enemies/human/human_fat_noweapon_mosasaurus.png")}
+.type-human.enemy-icon-human-fat-noweapon-drillhead {background-image: url("../../images/enemies/human/human_fat_noweapon_drillhead.png")}
+.type-human.enemy-icon-human-muscleman-claymore-drillhead {background-image: url("../../images/enemies/human/human_muscleman_claymore_drillhead.png")}
+.type-human.enemy-icon-human-male-claymore-hookwalker {background-image: url("../../images/enemies/human/human_male_claymore_hookwalker.png")}
+.type-human.enemy-icon-human-male-sword-mosasaurus {background-image: url("../../images/enemies/human/human_male_sword_mosasaurus.png")}
+.type-human.enemy-icon-human-male-sword-hookwalker {background-image: url("../../images/enemies/human/human_male_sword_hookwalker.png")}
+.type-human.enemy-icon-human-female-sword-hookwalker {background-image: url("../../images/enemies/human/human_female_sword_hookwalker.png")}
+.type-human.enemy-icon-human-female-noweapon-drillhead {background-image: url("../../images/enemies/human/human_female_noweapon_drillhead.png")}
+.type-human.enemy-icon-human-female-noweapon-mosasaurus {background-image: url("../../images/enemies/human/human_female_noweapon_mosasaurus.png")}
+.type-human.enemy-icon-human-male-claymore-shamansaurus {background-image: url("../../images/enemies/human/human_male_claymore_shamansaurus.png")}
+.type-human.enemy-icon-human-male-sword-shamansaurus {background-image: url("../../images/enemies/human/human_male_sword_shamansaurus.png")}
+.type-human.enemy-icon-human-female-sword-shamansaurus {background-image: url("../../images/enemies/human/human_female_sword_shamansaurus.png")}
+.type-human.enemy-icon-human-female-sword-flamingo {background-image: url("../../images/enemies/human/human_female_sword_flamingo.png")}
+.type-human.enemy-icon-human-female-noweapon-flamingo {background-image: url("../../images/enemies/human/human_female_noweapon_flamingo.png")}
+.type-human.enemy-icon-tribalwarrior-launcher-shamansaurus {background-image: url("../../images/enemies/human/tribalwarrior_launcher_shamansaurus.png")}
+.type-human.enemy-icon-tribalwarrior-chainsword-shamansaurus {background-image: url("../../images/enemies/human/tribalwarrior_chainsword_shamansaurus.png")}
+.type-human.enemy-icon-tribalwarrior-slingshot-flamingo {background-image: url("../../images/enemies/human/tribalwarrior_slingshot_flamingo.png")}
+.type-human.enemy-icon-tribalwarrior-powermaul-flamingo {background-image: url("../../images/enemies/human/tribalwarrior_powermaul_flamingo.png")}
+.type-human.enemy-icon-human-muscleman-claymore-flamingo {background-image: url("../../images/enemies/human/human_muscleman_claymore_flamingo.png")}
+.type-human.enemy-icon-tribalwarrior-udugan {background-image: url("../../images/enemies/human/tribalwarrior_udugan.png")}
+.type-human.enemy-icon-human-male-sword-bisonsaurus {background-image: url("../../images/enemies/human/human_male_sword_bisonsaurus.png")}
+.type-human.enemy-icon-human-muscleman-claymore-bisonsaurus {background-image: url("../../images/enemies/human/human_muscleman_claymore_bisonsaurus.png")}
+.type-human.enemy-icon-human-fat-sword-bisonsaurus {background-image: url("../../images/enemies/human/human_fat_sword_bisonsaurus.png")}
+.type-human.enemy-icon-tribalwarrior-powermaul-bisonsaurus {background-image: url("../../images/enemies/human/tribalwarrior_powermaul_bisonsaurus.png")}
+.type-human.enemy-icon-tribalwarrior-slingshot-bisonsaurus {background-image: url("../../images/enemies/human/tribalwarrior_slingshot_bisonsaurus.png")}
+.type-human.sprite-enemy.sprite-24 {
+	background-image: url("../../images/sprites/enemy_human_800a8791aade52c994b0f786a1f46b72.png");
+	background-size: 120px 504px;
+}
+.type-human.sprite-enemy.sprite-60 {
+	background-image: url("../../images/sprites/enemy_human_16d5275c5e12b4409b23b5b6310e9b3a.png");
+	background-size: 300px 1260px;
+}
+.sprite.type-human.enemy-icon-aahigaru-male-01 {background-position: 0% 0%}
+.sprite.type-human.enemy-icon-aahigaru-male-02 {background-position: 25% 0%}
+.sprite.type-human.enemy-icon-aahigarutaisho-male-01 {background-position: 50% 0%}
+.sprite.type-human.enemy-icon-millelith-male-01 {background-position: 75% 0%}
+.sprite.type-human.enemy-icon-millelith-male-02 {background-position: 100% 0%}
+.sprite.type-human.enemy-icon-samurai-ronin-01 {background-position: 0% 5%}
+.sprite.type-human.enemy-icon-samurai-ronin-02 {background-position: 25% 5%}
+.sprite.type-human.enemy-icon-samurai-ronin-03 {background-position: 50% 5%}
+.sprite.type-human.enemy-icon-thoarder-female-hatchet-01 {background-position: 75% 5%}
+.sprite.type-human.enemy-icon-thoarder-male-chemist-electric-01 {background-position: 100% 5%}
+.sprite.type-human.enemy-icon-thoarder-male-chemist-fire-01 {background-position: 0% 10%}
+.sprite.type-human.enemy-icon-thoarder-male-chemist-ice-01 {background-position: 25% 10%}
+.sprite.type-human.enemy-icon-thoarder-male-chemist-water-01 {background-position: 50% 10%}
+.sprite.type-human.enemy-icon-thoarder-male-crossbow-01 {background-position: 75% 10%}
+.sprite.type-human.enemy-icon-thoarder-male-fat-shovel-02 {background-position: 100% 10%}
+.sprite.type-human.enemy-icon-thoarder-male-hunter-01 {background-position: 0% 15%}
+.sprite.type-human.enemy-icon-thoarder-male-noweapon-01 {background-position: 25% 15%}
+.sprite.type-human.enemy-icon-thoarder-male-rogue-01 {background-position: 50% 15%}
+.sprite.type-human.enemy-icon-thoarder-male-rogue-fat-01 {background-position: 75% 15%}
+.sprite.type-human.enemy-icon-thoarder-male-rogue-fat-02 {background-position: 100% 15%}
+.sprite.type-human.enemy-icon-thoarder-male-sailor-01 {background-position: 0% 20%}
+.sprite.type-human.enemy-icon-thoarder-male-shovel-01 {background-position: 25% 20%}
+.sprite.type-human.enemy-icon-thoarder-male-standard-crossbow-02 {background-position: 50% 20%}
+.sprite.type-human.enemy-icon-thoarder-male-standard-noweapon-02 {background-position: 75% 20%}
+.sprite.type-human.enemy-icon-thoarder-male-standard-noweapon-fire-01 {background-position: 100% 20%}
+.sprite.type-human.enemy-icon-thoarder-muscleman-boxer-01 {background-position: 0% 25%}
+.sprite.type-human.enemy-icon-thoarder-muscleman-hammer-01 {background-position: 25% 25%}
+.sprite.type-human.enemy-icon-thoarder-muscleman-miner-01 {background-position: 50% 25%}
+.sprite.type-human.enemy-icon-thoarder-muscleman-noweapon-01 {background-position: 75% 25%}
+.sprite.type-human.enemy-icon-samurai-hatamoto-01 {background-position: 100% 25%}
+.sprite.type-human.enemy-icon-samurai-kairagi-01 {background-position: 0% 30%}
+.sprite.type-human.enemy-icon-samurai-kairagi-02 {background-position: 25% 30%}
+.sprite.type-human.enemy-icon-eremite-axe-vanguard {background-position: 50% 30%}
+.sprite.type-human.enemy-icon-eremite-crossbow {background-position: 75% 30%}
+.sprite.type-human.enemy-icon-eremite-daythunder {background-position: 100% 30%}
+.sprite.type-human.enemy-icon-eremite-desert-clearwater {background-position: 0% 35%}
+.sprite.type-human.enemy-icon-eremite-linebreaker {background-position: 25% 35%}
+.sprite.type-human.enemy-icon-eremite-ravenbeak-halberdier {background-position: 50% 35%}
+.sprite.type-human.enemy-icon-eremite-sunfrost {background-position: 75% 35%}
+.sprite.type-human.enemy-icon-eremite-sword-dancer {background-position: 100% 35%}
+.sprite.type-human.enemy-icon-eremite-female-standard-longbow {background-position: 0% 40%}
+.sprite.type-human.enemy-icon-eremite-male-strong-katar {background-position: 25% 40%}
+.sprite.type-human.enemy-icon-eremite-female-standard-oracle {background-position: 50% 40%}
+.sprite.type-human.enemy-icon-eremite-female-standard-dancer {background-position: 75% 40%}
+.sprite.type-human.enemy-icon-tribalwarrior-launcher-mosasaurus {background-position: 100% 40%}
+.sprite.type-human.enemy-icon-tribalwarrior-slingshot-mosasaurus {background-position: 0% 45%}
+.sprite.type-human.enemy-icon-tribalwarrior-launcher-hookwalker {background-position: 25% 45%}
+.sprite.type-human.enemy-icon-tribalwarrior-chainsword-hookwalker {background-position: 50% 45%}
+.sprite.type-human.enemy-icon-tribalwarrior-chainsword-drillhead {background-position: 75% 45%}
+.sprite.type-human.enemy-icon-tribalwarrior-powermaul-drillhead {background-position: 100% 45%}
+.sprite.type-human.enemy-icon-human-fat-noweapon-mosasaurus {background-position: 0% 50%}
+.sprite.type-human.enemy-icon-human-fat-noweapon-drillhead {background-position: 25% 50%}
+.sprite.type-human.enemy-icon-human-muscleman-claymore-drillhead {background-position: 50% 50%}
+.sprite.type-human.enemy-icon-human-male-claymore-hookwalker {background-position: 75% 50%}
+.sprite.type-human.enemy-icon-human-male-sword-mosasaurus {background-position: 100% 50%}
+.sprite.type-human.enemy-icon-human-male-sword-hookwalker {background-position: 0% 55%}
+.sprite.type-human.enemy-icon-human-female-sword-hookwalker {background-position: 25% 55%}
+.sprite.type-human.enemy-icon-human-female-noweapon-drillhead {background-position: 50% 55%}
+.sprite.type-human.enemy-icon-human-female-noweapon-mosasaurus {background-position: 75% 55%}
+.sprite.type-human.enemy-icon-human-male-claymore-shamansaurus {background-position: 100% 55%}
+.sprite.type-human.enemy-icon-human-male-sword-shamansaurus {background-position: 0% 60%}
+.sprite.type-human.enemy-icon-human-female-sword-shamansaurus {background-position: 25% 60%}
+.sprite.type-human.enemy-icon-human-female-sword-flamingo {background-position: 50% 60%}
+.sprite.type-human.enemy-icon-human-female-noweapon-flamingo {background-position: 75% 60%}
+.sprite.type-human.enemy-icon-tribalwarrior-launcher-shamansaurus {background-position: 100% 60%}
+.sprite.type-human.enemy-icon-tribalwarrior-chainsword-shamansaurus {background-position: 0% 65%}
+.sprite.type-human.enemy-icon-tribalwarrior-slingshot-flamingo {background-position: 25% 65%}
+.sprite.type-human.enemy-icon-tribalwarrior-powermaul-flamingo {background-position: 50% 65%}
+.sprite.type-human.enemy-icon-human-muscleman-claymore-flamingo {background-position: 75% 65%}
+.sprite.type-human.enemy-icon-tribalwarrior-udugan {background-position: 100% 65%}
+.sprite.type-human.enemy-icon-human-male-sword-bisonsaurus {background-position: 0% 70%}
+.sprite.type-human.enemy-icon-human-muscleman-claymore-bisonsaurus {background-position: 25% 70%}
+.sprite.type-human.enemy-icon-human-fat-sword-bisonsaurus {background-position: 50% 70%}
+.sprite.type-human.enemy-icon-tribalwarrior-powermaul-bisonsaurus {background-position: 75% 70%}
+.sprite.type-human.enemy-icon-tribalwarrior-slingshot-bisonsaurus {background-position: 100% 70%}
+
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (   min--moz-device-pixel-ratio: 2),
+only screen and (     -o-min-device-pixel-ratio: 2/1),
+only screen and (        min-device-pixel-ratio: 2),
+only screen and (                min-resolution: 192dpi),
+only screen and (                min-resolution: 2dppx) {
+	.type-human.enemy-icon-aahigaru-male-01 {background-image: url("../../images/enemies/human/aahigaru_male_01_2x.png")}
+	.type-human.enemy-icon-aahigaru-male-02 {background-image: url("../../images/enemies/human/aahigaru_male_02_2x.png")}
+	.type-human.enemy-icon-aahigarutaisho-male-01 {background-image: url("../../images/enemies/human/aahigarutaisho_male_01_2x.png")}
+	.type-human.enemy-icon-millelith-male-01 {background-image: url("../../images/enemies/human/millelith_male_01_2x.png")}
+	.type-human.enemy-icon-millelith-male-02 {background-image: url("../../images/enemies/human/millelith_male_02_2x.png")}
+	.type-human.enemy-icon-samurai-ronin-01 {background-image: url("../../images/enemies/human/samurai_ronin_01_2x.png")}
+	.type-human.enemy-icon-samurai-ronin-02 {background-image: url("../../images/enemies/human/samurai_ronin_02_2x.png")}
+	.type-human.enemy-icon-samurai-ronin-03 {background-image: url("../../images/enemies/human/samurai_ronin_03_2x.png")}
+	.type-human.enemy-icon-thoarder-female-hatchet-01 {background-image: url("../../images/enemies/human/thoarder_female_hatchet_01_2x.png")}
+	.type-human.enemy-icon-thoarder-male-chemist-electric-01 {background-image: url("../../images/enemies/human/thoarder_male_chemist_electric_01_2x.png")}
+	.type-human.enemy-icon-thoarder-male-chemist-fire-01 {background-image: url("../../images/enemies/human/thoarder_male_chemist_fire_01_2x.png")}
+	.type-human.enemy-icon-thoarder-male-chemist-ice-01 {background-image: url("../../images/enemies/human/thoarder_male_chemist_ice_01_2x.png")}
+	.type-human.enemy-icon-thoarder-male-chemist-water-01 {background-image: url("../../images/enemies/human/thoarder_male_chemist_water_01_2x.png")}
+	.type-human.enemy-icon-thoarder-male-crossbow-01 {background-image: url("../../images/enemies/human/thoarder_male_crossbow_01_2x.png")}
+	.type-human.enemy-icon-thoarder-male-fat-shovel-02 {background-image: url("../../images/enemies/human/thoarder_male_fat_shovel_02_2x.png")}
+	.type-human.enemy-icon-thoarder-male-hunter-01 {background-image: url("../../images/enemies/human/thoarder_male_hunter_01_2x.png")}
+	.type-human.enemy-icon-thoarder-male-noweapon-01 {background-image: url("../../images/enemies/human/thoarder_male_noweapon_01_2x.png")}
+	.type-human.enemy-icon-thoarder-male-rogue-01 {background-image: url("../../images/enemies/human/thoarder_male_rogue_01_2x.png")}
+	.type-human.enemy-icon-thoarder-male-rogue-fat-01 {background-image: url("../../images/enemies/human/thoarder_male_rogue_fat_01_2x.png")}
+	.type-human.enemy-icon-thoarder-male-rogue-fat-02 {background-image: url("../../images/enemies/human/thoarder_male_rogue_fat_02_2x.png")}
+	.type-human.enemy-icon-thoarder-male-sailor-01 {background-image: url("../../images/enemies/human/thoarder_male_sailor_01_2x.png")}
+	.type-human.enemy-icon-thoarder-male-shovel-01 {background-image: url("../../images/enemies/human/thoarder_male_shovel_01_2x.png")}
+	.type-human.enemy-icon-thoarder-male-standard-crossbow-02 {background-image: url("../../images/enemies/human/thoarder_male_standard_crossbow_02_2x.png")}
+	.type-human.enemy-icon-thoarder-male-standard-noweapon-02 {background-image: url("../../images/enemies/human/thoarder_male_standard_noweapon_02_2x.png")}
+	.type-human.enemy-icon-thoarder-male-standard-noweapon-fire-01 {background-image: url("../../images/enemies/human/thoarder_male_standard_noweapon_fire_01_2x.png")}
+	.type-human.enemy-icon-thoarder-muscleman-boxer-01 {background-image: url("../../images/enemies/human/thoarder_muscleman_boxer_01_2x.png")}
+	.type-human.enemy-icon-thoarder-muscleman-hammer-01 {background-image: url("../../images/enemies/human/thoarder_muscleman_hammer_01_2x.png")}
+	.type-human.enemy-icon-thoarder-muscleman-miner-01 {background-image: url("../../images/enemies/human/thoarder_muscleman_miner_01_2x.png")}
+	.type-human.enemy-icon-thoarder-muscleman-noweapon-01 {background-image: url("../../images/enemies/human/thoarder_muscleman_noweapon_01_2x.png")}
+	.type-human.enemy-icon-samurai-hatamoto-01 {background-image: url("../../images/enemies/human/samurai_hatamoto_01_2x.png")}
+	.type-human.enemy-icon-samurai-kairagi-01 {background-image: url("../../images/enemies/human/samurai_kairagi_01_2x.png")}
+	.type-human.enemy-icon-samurai-kairagi-02 {background-image: url("../../images/enemies/human/samurai_kairagi_02_2x.png")}
+	.type-human.enemy-icon-eremite-axe-vanguard {background-image: url("../../images/enemies/human/eremite axe vanguard_2x.png")}
+	.type-human.enemy-icon-eremite-crossbow {background-image: url("../../images/enemies/human/eremite crossbow_2x.png")}
+	.type-human.enemy-icon-eremite-daythunder {background-image: url("../../images/enemies/human/eremite daythunder_2x.png")}
+	.type-human.enemy-icon-eremite-desert-clearwater {background-image: url("../../images/enemies/human/eremite desert clearwater_2x.png")}
+	.type-human.enemy-icon-eremite-linebreaker {background-image: url("../../images/enemies/human/eremite linebreaker_2x.png")}
+	.type-human.enemy-icon-eremite-ravenbeak-halberdier {background-image: url("../../images/enemies/human/eremite ravenbeak halberdier_2x.png")}
+	.type-human.enemy-icon-eremite-sunfrost {background-image: url("../../images/enemies/human/eremite sunfrost_2x.png")}
+	.type-human.enemy-icon-eremite-sword-dancer {background-image: url("../../images/enemies/human/eremite sword-dancer_2x.png")}
+	.type-human.enemy-icon-eremite-female-standard-longbow {background-image: url("../../images/enemies/human/eremite_female_standard_longbow_2x.png")}
+	.type-human.enemy-icon-eremite-male-strong-katar {background-image: url("../../images/enemies/human/eremite_male_strong_katar_2x.png")}
+	.type-human.enemy-icon-eremite-female-standard-oracle {background-image: url("../../images/enemies/human/eremite_female_standard_oracle_2x.png")}
+	.type-human.enemy-icon-eremite-female-standard-dancer {background-image: url("../../images/enemies/human/eremite_female_standard_dancer_2x.png")}
+	.type-human.enemy-icon-tribalwarrior-launcher-mosasaurus {background-image: url("../../images/enemies/human/tribalwarrior_launcher_mosasaurus_2x.png")}
+	.type-human.enemy-icon-tribalwarrior-slingshot-mosasaurus {background-image: url("../../images/enemies/human/tribalwarrior_slingshot_mosasaurus_2x.png")}
+	.type-human.enemy-icon-tribalwarrior-launcher-hookwalker {background-image: url("../../images/enemies/human/tribalwarrior_launcher_hookwalker_2x.png")}
+	.type-human.enemy-icon-tribalwarrior-chainsword-hookwalker {background-image: url("../../images/enemies/human/tribalwarrior_chainsword_hookwalker_2x.png")}
+	.type-human.enemy-icon-tribalwarrior-chainsword-drillhead {background-image: url("../../images/enemies/human/tribalwarrior_chainsword_drillhead_2x.png")}
+	.type-human.enemy-icon-tribalwarrior-powermaul-drillhead {background-image: url("../../images/enemies/human/tribalwarrior_powermaul_drillhead_2x.png")}
+	.type-human.enemy-icon-human-fat-noweapon-mosasaurus {background-image: url("../../images/enemies/human/human_fat_noweapon_mosasaurus_2x.png")}
+	.type-human.enemy-icon-human-fat-noweapon-drillhead {background-image: url("../../images/enemies/human/human_fat_noweapon_drillhead_2x.png")}
+	.type-human.enemy-icon-human-muscleman-claymore-drillhead {background-image: url("../../images/enemies/human/human_muscleman_claymore_drillhead_2x.png")}
+	.type-human.enemy-icon-human-male-claymore-hookwalker {background-image: url("../../images/enemies/human/human_male_claymore_hookwalker_2x.png")}
+	.type-human.enemy-icon-human-male-sword-mosasaurus {background-image: url("../../images/enemies/human/human_male_sword_mosasaurus_2x.png")}
+	.type-human.enemy-icon-human-male-sword-hookwalker {background-image: url("../../images/enemies/human/human_male_sword_hookwalker_2x.png")}
+	.type-human.enemy-icon-human-female-sword-hookwalker {background-image: url("../../images/enemies/human/human_female_sword_hookwalker_2x.png")}
+	.type-human.enemy-icon-human-female-noweapon-drillhead {background-image: url("../../images/enemies/human/human_female_noweapon_drillhead_2x.png")}
+	.type-human.enemy-icon-human-female-noweapon-mosasaurus {background-image: url("../../images/enemies/human/human_female_noweapon_mosasaurus_2x.png")}
+	.type-human.enemy-icon-human-male-claymore-shamansaurus {background-image: url("../../images/enemies/human/human_male_claymore_shamansaurus_2x.png")}
+	.type-human.enemy-icon-human-male-sword-shamansaurus {background-image: url("../../images/enemies/human/human_male_sword_shamansaurus_2x.png")}
+	.type-human.enemy-icon-human-female-sword-shamansaurus {background-image: url("../../images/enemies/human/human_female_sword_shamansaurus_2x.png")}
+	.type-human.enemy-icon-human-female-sword-flamingo {background-image: url("../../images/enemies/human/human_female_sword_flamingo_2x.png")}
+	.type-human.enemy-icon-human-female-noweapon-flamingo {background-image: url("../../images/enemies/human/human_female_noweapon_flamingo_2x.png")}
+	.type-human.enemy-icon-tribalwarrior-launcher-shamansaurus {background-image: url("../../images/enemies/human/tribalwarrior_launcher_shamansaurus_2x.png")}
+	.type-human.enemy-icon-tribalwarrior-chainsword-shamansaurus {background-image: url("../../images/enemies/human/tribalwarrior_chainsword_shamansaurus_2x.png")}
+	.type-human.enemy-icon-tribalwarrior-slingshot-flamingo {background-image: url("../../images/enemies/human/tribalwarrior_slingshot_flamingo_2x.png")}
+	.type-human.enemy-icon-tribalwarrior-powermaul-flamingo {background-image: url("../../images/enemies/human/tribalwarrior_powermaul_flamingo_2x.png")}
+	.type-human.enemy-icon-human-muscleman-claymore-flamingo {background-image: url("../../images/enemies/human/human_muscleman_claymore_flamingo_2x.png")}
+	.type-human.enemy-icon-tribalwarrior-udugan {background-image: url("../../images/enemies/human/tribalwarrior_udugan_2x.png")}
+	.type-human.enemy-icon-human-male-sword-bisonsaurus {background-image: url("../../images/enemies/human/human_male_sword_bisonsaurus_2x.png")}
+	.type-human.enemy-icon-human-muscleman-claymore-bisonsaurus {background-image: url("../../images/enemies/human/human_muscleman_claymore_bisonsaurus_2x.png")}
+	.type-human.enemy-icon-human-fat-sword-bisonsaurus {background-image: url("../../images/enemies/human/human_fat_sword_bisonsaurus_2x.png")}
+	.type-human.enemy-icon-tribalwarrior-powermaul-bisonsaurus {background-image: url("../../images/enemies/human/tribalwarrior_powermaul_bisonsaurus_2x.png")}
+	.type-human.enemy-icon-tribalwarrior-slingshot-bisonsaurus {background-image: url("../../images/enemies/human/tribalwarrior_slingshot_bisonsaurus_2x.png")}
+	.type-human.sprite-enemy.sprite-24 {background-image: url("../../images/sprites/enemy_human_91c2690f30142f8a087996b28f876cdc.png")}
+	.type-human.sprite-enemy.sprite-60 {background-image: url("../../images/sprites/enemy_human_7fdbf815359c19ac7fc206fbbbec0ce7.png")}
+}

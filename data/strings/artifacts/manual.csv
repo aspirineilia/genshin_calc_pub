@@ -1,0 +1,6 @@
+category;name;rus;eng
+set_bonus;husk_of_opulent_dreams_4_def;Уровень Любопытства (Защита);Curiosity effect stacks (DEF)
+set_descr;husk_of_opulent_dreams_4_def;Каждый ур. эффекта прибавляет %{def_percent} к name{защите};Each stack provides %{def_percent} DEF
+set_bonus;husk_of_opulent_dreams_4_geo;Уровень Любопытства (Гео урон);Curiosity effect stacks (Geo DMG)
+set_descr;husk_of_opulent_dreams_4_geo;Каждый ур. эффекта прибавляет %{dmg_geo} к geo{Гео урону};Each stack provides %{dmg_geo} geo{Geo DMG} Bonus
+set_bonus;ocean_hued_clam_4_stack;Накопленное лечение;Accumulated amount of HP

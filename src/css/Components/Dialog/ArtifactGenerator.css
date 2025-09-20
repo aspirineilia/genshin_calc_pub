@@ -1,0 +1,7 @@
+.artifact-generator-modal.dialog {
+    z-index: 1501;
+}
+
+.artifact-generator-modal.dialog-back {
+    z-index: 1500;
+}

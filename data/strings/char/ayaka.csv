@@ -1,0 +1,8 @@
+category;name;rus;eng
+feature_burst;ayaka_add_bladestorm_dmg;Доп. Урон цветения;Additional Bloom DMG
+feature_burst;ayaka_add_slashing_dmg;Доп. Режущий урон;Additional Cutting DMG
+feature_burst;ayaka_bladestorm_dmg;Урон цветения;Bloom DMG
+feature_burst;ayaka_slashing_dmg;Режущий урон;Cutting DMG
+feature_other;ayaka_infusion_duration;Длительность инфузии;Infusion Duration
+
+talent_descr;kamisato_ayaka_senho_talent;После окончания skill{other:формы Сэнхо} и при повторном появлении происходят следующие эффекты:<br>• Высвобождается холодная энергия, которая накладывает эффект cryo{Крио} на ближайших противников.<br>• Холод собирается вдоль лезвия name{Аяки}, на короткое время наделяя её атаки cryo{инфузией Крио}.;In skill{other:Senho} form, she moves at high speed on water.<br>When she reappears, the following effects occur:<br>• Unleashes frigid energies to apply cryo{Cryo} on nearby opponents.<br>• Cold congeals along name{Ayaka}'s blade, cryo{infusing her attacks a Cryo} for a brief period.

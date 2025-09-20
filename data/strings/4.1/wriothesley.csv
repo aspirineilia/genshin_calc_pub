@@ -1,0 +1,17 @@
+category;name;rus;eng
+char_name;wriothesley;Ризли;Wriothesley
+
+stat;crit_rate_charged_wriothesley;Взыскания: Морозный кулак в прыжке;Rebuke: Vaulting Fist
+stat;crit_dmg_charged_wriothesley;Взыскания: Морозный кулак в прыжке;Rebuke: Vaulting Fist
+stat;dmg_charged_wriothesley;Взыскания: Морозный кулак в прыжке;Rebuke: Vaulting Fist
+stat;dmg_burst_wriothesley;Укус чернозлатого волка;Darkgold Wolfbite
+
+feature_attack;wriothesley_vaulting_fist_dmg;Взыскания: Морозный кулак в прыжке;Rebuke: Vaulting Fist DMG
+feature_attack;wriothesley_vaulting_fist_heal;Лечение Морозный кулак в прыжке;Rebuke: Vaulting Fist Heal
+feature_skill;wriothesley_enhanced_repelling_fist;Урон усиленных Кулаков изгнания;Enhanced Repelling Fist DMG
+
+talent_name;wriothesley_chilling_penalty;Леденящее наказание;Chilling Penalty
+talent_descr;wriothesley_chilling_penalty;Если HP более 50%, name{Кулаки изгнания} name{Свирепых кулаков стужи} наносят больше урона и при попадании по противникам расходуют HP name{Ризли}.;When his HP is above 50%, it will enhance the name{Repelling Fists} of name{Normal Attack: Forceful Fists of Frost} and increase its DMG. When such an attack hits opponents, it will consume name{Wriothesley}'s HP.
+
+talent_name;wriothesley_redemption_for_the_suffering_2;Принести спасение страждущим (На поле);Redeem Those Who Suffer (On-field)
+talent_name;wriothesley_redemption_for_the_suffering_3;Принести спасение страждущим (вне поля);Redeem Those Who Suffer (Off-field)

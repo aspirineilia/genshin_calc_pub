@@ -1,0 +1,143 @@
+.gi-tooltip {
+    position: fixed;
+}
+
+.gi-tooltip-artifact {
+    width: 400px;
+    background: #ECE5D8;
+    color: #495366;
+    padding-bottom: 15px;
+}
+
+.narrow .gi-tooltip-artifact {
+    display: none;
+}
+
+.gi-tooltip-artifact-caption {
+    width: 100%;
+    height: 40px;
+    position: relative;
+    text-align: left;
+    padding-left: 25px;
+    padding-right: 25px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: #FFF7E9;
+    line-height: 40px;
+    font-size: 20px;
+    box-sizing: border-box;
+}
+
+.gi-tooltip-artifact-caption-background-left {
+    width: 19px;
+    height: 100%;
+    background-image: url("../../../images/artifact_title_background_left.png");
+    background-size: 19px 40px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.gi-tooltip-artifact-caption-background-right {
+    width: 19px;
+    height: 100%;
+    background-image: url("../../../images/artifact_title_background_right.png");
+    background-size: 19px 40px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+.gi-tooltip-artifact-caption-background-middle {
+    height: 100%;
+    background-image: url("../../../images/artifact_title_background_middle.png");
+    background-size: 100% 40px;
+    position: absolute;
+    top: 0px;
+    right: 19px;
+    left: 19px;
+}
+
+.gi-tooltip-artifact-stats {
+    width: 100%;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.gi-tooltip-artifact-mainstat {
+    height: 80px;
+    width: 100%;
+    position: relative;
+}
+
+.gi-tooltip-artifact-mainstat-name {
+    padding-top: 15px;
+    padding-left: 35px;
+    font-size: 20px;
+    line-height: 20px;
+}
+
+.gi-tooltip-artifact-mainstat-value {
+    padding-top: 5px;
+    padding-left: 35px;
+    font-size: 40px;
+}
+
+.gi-tooltip-artifact-mainstat-image {
+    width: 120px;
+    height: 120px;
+    background-size: cover;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    z-index: -1;
+}
+
+.gi-tooltip-artifact-substats {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: #495366;
+}
+
+.gi-tooltip-artifact ul {
+    margin: 0px;
+    padding-right: 15px;
+}
+
+.gi-tooltip-artifact li {
+    padding: 2px;
+}
+
+.gi-tooltip-artifact-set-name {
+    padding-left: 35px;
+    color: #5CB256;
+    font-size: 18px;
+    margin: 10px 0px;
+}
+
+.gi-tooltip-artifact-feature {
+    padding-left: 30px;
+}
+
+.gi-tooltip-artifact-feature th {
+    text-align: left;
+}
+
+.gi-tooltip-artifact-feature td {
+    width: 75px;
+    text-align: right;
+}
+
+.gi-tooltip-artifact-pieces li {
+    max-height: 245px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.gi-tooltip-artifact .text-name, .gi-tooltip-artifact .text-value {
+    color: #495366;
+}
+.gi-tooltip-artifact .text-anemo, .gi-tooltip-artifact .text-electro, .gi-tooltip-artifact .text-pyro, .gi-tooltip-artifact .text-hydro, .gi-tooltip-artifact .text-cryo, .gi-tooltip-artifact .text-geo, .gi-tooltip-artifact .text-dendro {
+    color: #495366;
+}

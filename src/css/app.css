@@ -1,0 +1,110 @@
+.text-caption {
+    color: #D3BC8E;
+}
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.rarity-1 {
+    background-color: #78797D;
+}
+.rarity-2 {
+    background-color: #699A85;
+}
+.rarity-3 {
+    background-color: #4E86A7;
+}
+.rarity-4 {
+    background-color: #8F73BC;
+}
+.rarity-5 {
+    background-color: #A76739;
+}
+
+.border-rarity-1 {
+    border-color: #78797D !important;
+}
+.border-rarity-2 {
+    border-color: #699A85 !important;
+}
+.border-rarity-3 {
+    border-color: #4E86A7 !important;
+}
+.border-rarity-4 {
+    border-color: #8F73BC !important;
+}
+.border-rarity-5 {
+    border-color: #A76739 !important;
+}
+
+.background-element-anemo {
+    background-color: rgb(133, 190, 159);
+}
+.background-element-electro {
+    background-color: rgb(191, 158, 212);
+}
+.background-element-pyro {
+    background-color: rgb(197, 120, 97);
+}
+.background-element-hydro {
+    background-color: rgb(30, 175, 194);
+}
+.background-element-cryo {
+    background-color: rgb(165, 212, 212);
+}
+.background-element-geo {
+    background-color: rgb(161, 144, 69);
+}
+.background-element-dendro {
+    background-color: #B2EA2A;
+}
+
+.text-name, .text-value, .text-skill {
+    color: #E6DCD2;
+    font-style: normal;
+}
+.text-anemo {
+    color: #A8F7D1;
+    font-style: normal;
+}
+.text-electro {
+    color: #DEBBFD;
+    font-style: normal;
+}
+.text-pyro {
+    color: #FDA76C;
+    font-style: normal;
+}
+.text-hydro {
+    color: #06E3FD;
+    font-style: normal;
+}
+.text-cryo {
+    color: #CBFFFF;
+    font-style: normal;
+}
+.text-geo {
+    color: #F4D860;
+    font-style: normal;
+}
+.text-dendro {
+    color: #B2EA2A;
+    font-style: normal;
+}
+.text-remark {
+    color: #BEAEA9;
+    font-style: normal;
+}
+.text-fade {
+    opacity: 0.4;
+}
+.text-name.gi-skill-info, .text-name.gi-tab-change, .gi-text-link {
+    cursor: pointer;
+    border-bottom: 1px solid #E6DCD2;
+}
+.text-nobr {
+    white-space: nowrap;
+}

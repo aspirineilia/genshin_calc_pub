@@ -1,0 +1,75 @@
+.gi-window-artifact-scanner .gi-modal-content {
+    overflow: visible;
+}
+
+.gi-scanner-image-preview {
+    width: 350px;
+    height: 400px;
+    overflow: hidden;
+    float: left;
+}
+
+.gi-scanner-image-preview input{
+    height: 20px;
+    width: 100%;
+}
+
+.gi-scanner-image-controls {
+    width: 500px;
+    height: 400px;
+    float: left;
+}
+
+.gi-scanner-image-preview > img, .gi-scanner-image-preview > canvas {
+    max-width: 350px;
+    max-height: 400px;
+    display: block;
+}
+
+.gi-artifact-scanner-artifact {
+    width: 100%;
+    height: 255px;
+    padding: 0px 10px;
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.gi-artifact-scanner-artifact > div {
+    width: 50%;
+    box-sizing: border-box;
+}
+
+.gi-artifact-scanner-artifact > div.gi-scanner-text, .gi-artifact-scanner-artifact > div.gi-scanner-progress-wrapper {
+    flex-basis: 100%;
+}
+
+.gi-scanner-progress-wrapper {
+    width: calc(100% - 30px);
+    margin: 0 15px;
+    text-align: center;
+    height: 24px;
+    line-height: 24px;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.gi-scanner-progress {
+    width: 0px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 24px;
+    background-color: #2B2D33;
+    border-radius: 5px;
+    z-index: -1;
+}
+
+.gi-artifact-scanner-artifact-current, .gi-artifact-scanner-artifact-similar {
+    padding: 0 10px;
+    max-height: 255px;
+}
+
+.gi-artifact-scanner-artifact-current > .artifact-list-box, .gi-artifact-scanner-artifact-similar > .artifact-list-box {
+    width: 100%;
+}

@@ -1,0 +1,9 @@
+.gi-char-list-items {
+    margin-top: 10px;
+    padding-right: 10px;
+}
+
+.gi-char-list-filter {
+    margin: 5px 0;
+    display: flex;
+}

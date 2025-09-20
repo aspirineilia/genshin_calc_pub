@@ -1,0 +1,12 @@
+category;name;rus;eng
+modal_window;scanning_artifact;Сканирование артефакта;Artifact scanning
+scanner;add_to_pool;Добавить;Add
+scanner;update_storage;Обновить выбранный;Update selected
+scanner;edit;Редактировать;Edit
+scanner;paste;Вставьте скриншот из буфера обмена или загрузите файл;Paste screenshot from clipboard of upload file
+scanner;error;Не удалось распознать артефакт;Could not recognize the artifact
+scanner;instruction;<div class="gi-scanner-text">Пример скриншота артефакта приведён на изображении слева.</div><div class="gi-scanner-text">Скриншот должен содержать заголовок с названием артефакта полностью и по высоте должен как минимум включать название набора (зелёный текст).</div><div class="gi-scanner-text">Рекомендуется использовать формат сжатия без потерь PNG, разрешение экрана в игре 1920х1080.</div><div class="gi-scanner-text">Вставить скопированное изображение - Ctrl+V.</div><div class="gi-scanner-text">Также доступен импорт артефактов из tab{settings:формата GOOD}.</div>;<div class="gi-scanner-text">The image on the left is an example of screenshot.</div><div class="gi-scanner-text">Screenshot should contain artifact whole header and set name (green text).</div><div class="gi-scanner-text">It is recommend to use PNG format and ingame screen resolution 1920х1080.</div><div class="gi-scanner-text">Paste image from clipboard - Ctrl+V</div><div class="gi-scanner-text">You can also import artifacts from tab{settings:GOOD format}.</div>
+scanner;scanned_artifact;Отсканировано;Scanned
+scanner;storage_artifact;В хранилище;In storage
+scanner;no_similar;Не найдено похожих артефактов;No similar artifacts found
+scanner;use_similar;Обновить;Update

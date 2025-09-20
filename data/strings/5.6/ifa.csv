@@ -1,0 +1,10 @@
+category;name;rus;eng
+feature_skill;ifa_tonicshot_dmg;Урон Лекарственного выстрела;Tonicshot DMG
+feature_skill;ifa_tonicshot_add_dmg;Урон дополнительного Лекарственного выстрела;Additional Tonicshot DMG
+feature_skill;ifa_tonicshot_heal;Лечение Лекарственного выстрела при попадании;Tonicshot Healing On Hit
+feature_burst;ifa_sedation_mark_dmg;Урон Седативной метки;Sedation Mark DMG
+feature_burst;ifa_sedation_mark_pyro_dmg;Пиро урон Седативной метки;Pyro Sedation Mark DMG
+feature_burst;ifa_sedation_mark_hydro_dmg;Гидро урон Седативной метки;Hydro Sedation Mark DMG
+feature_burst;ifa_sedation_mark_cryo_dmg;Крио урон Седативной метки;Cryo Sedation Mark DMG
+feature_burst;ifa_sedation_mark_electro_dmg;Электро урон Седативной метки;Electro Sedation Mark DMG
+feature_other;ifa_reaction_bonus;Бонус урона реакциями;Reaction DMG Bonus

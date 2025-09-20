@@ -1,0 +1,22 @@
+.char-list {
+    margin-right: 15px;
+}
+
+.char-list > .item {
+    margin: 5px 0;
+}
+
+.gi-share-delete {
+    background-size: cover;
+    background-image: url("../../../images/icons/delete2.png");
+}
+
+.gi-share-load {
+    background-size: cover;
+    background-image: url("../../../images/icons/arrow_up.png");
+}
+
+.gi-share-overwrite {
+    background-size: cover;
+    background-image: url("../../../images/icons/arrow_down.png");
+}

@@ -1,0 +1,18 @@
+category;name;rus;eng
+feature_skill;nilou_sword_dance_1_dmg;Урон Танца мечей 1;Sword Dance 1-Hit DMG
+feature_skill;nilou_sword_dance_2_dmg;Урон Танца мечей 2;Sword Dance 2-Hit DMG
+feature_skill;nilou_watery_moon_dmg;Урон Сияющей иллюзии;Luminous Illusion DMG
+feature_skill;nilou_whirling_steps_1_dmg;Урон Кружащих шагов 1;Whirling Steps 1-Hit DMG
+feature_skill;nilou_whirling_steps_2_dmg;Урон Кружащих шагов 2;Whirling Steps 2-Hit DMG
+feature_skill;nilou_water_wheel_dmg;Урон Водяного колеса;Water Wheel DMG
+feature_skill;nilou_pirouette_duration;Длительность Пируэта;Pirouette Duration
+feature_skill;nilou_lunar_prayer_duration;Длительность Лунной молитвы;Lunar Prayer Duration
+feature_skill;nilou_tranquility_aura_duration;Длительность Ауры покоя;Tranquility Aura Duration
+feature_burst;nilou_lingering_aeon;Урон Течения вечности;Lingering Aeon DMG
+feature_other;nilou_bloom_bonus;Увеличение урона Ядер изобилия;Bloom DMG Bonus
+feature_other;crit_rate_bonus;Уведичение шанс критического попадания;Crit Rate Bonus
+feature_other;crit_dmg_bonus;Увеличение критического урона;Crit DMG Bonus
+
+talent_name;nilou_the_starry_skies_their_flowers_rain_1;Дождь лепестков звёздного неба (Гидро);The Starry Skies Their Flowers Rain (Hydro)
+talent_name;nilou_the_starry_skies_their_flowers_rain_2;Дождь лепестков звёздного неба (Дендро);The Starry Skies Their Flowers Rain (Dendro)
+

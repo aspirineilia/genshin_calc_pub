@@ -1,0 +1,27 @@
+category;name;rus;eng
+talent_name;stats_base_atk;Базовая атака;Base ATK
+talent_name;stats_total_atk;Атака;ATK
+talent_name;stats_total_def;Защита;DEF
+talent_name;stats_total_hp;Макс HP;Max HP
+talent_name;stats_total_mastery;Мастерство стихий;Elemental Mastery
+talent_name;stats_level_skill;Уровень элементального навыка;Elemental Skill level
+talent_name;stats_level_burst;Уровень взрыва стихий;Elemental Burst level
+talent_name;nightsoul_points;Очки Ночного духа;Nightsoul Points
+
+talent_descr;bonus_crit_rate;Увеличивает name{шанс крит. попадания} на  %{crit_rate}.;name{CRIT Rate} increased by %{crit_rate}.
+talent_descr;bonus_crit_dmg;Увеличивает name{крит. урон} на %{crit_dmg}.;Increases name{CRIT DMG} by %{crit_dmg}.
+talent_descr;bonus_atk;Увеличивает name{силу атаки} на %{atk_percent}.;name{ATK} is increased by %{atk_percent}.
+talent_descr;char_constellation_skill;Увеличивает уровень name{элементального навыка} на value{3}.;Increases the Level of name{Elemental Skill} by value{3}.
+talent_descr;char_constellation_burst;Увеличивает уровень name{взрыва стихий} на value{3}.;Increases the Level of name{Elemental Burst} by value{3}.
+talent_descr;talent_activation_chance;Шанс срабатывания способности: %{count100_percent};Activation chance is %{count100_percent}
+talent_descr;ocean_hued_clam_4_value;Накопленное лечение: %{count|0|0};Accumulated healing: %{count|0|0}
+
+talent_name;attack_infusion_priority;Приоритет инфузии;Infusion priority
+talent_descr;attack_infusion_priority;При наличии нескольких одновременных активных инфузий приоритет будет иметь выбранная.;While affected by several weapon infusions selected one will be used.
+
+talent_name;bond_of_life;Долг жизни;Bond of Life
+
+talent_name;imaginarium_theatre;Театр Воображариум;Imaginarium Theatre
+talent_descr;imaginarium_theatre;После включения в отряд name{макс. HP}, name{сила атаки} и name{защита} увеличиваются на %{atk_percent}. Эффект действует как в театре Воображариум, так и за его пределами.;After chatacter joins your party, name{Max HP}, name{ATK}, and name{DEF} are increased by %{atk_percent}. This will take effect both inside and outside Imaginarium Theatre.
+
+talent_name;nightsoul_blessing_state;Благословение Ночного духа;Nightsoul's Blessing state

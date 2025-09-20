@@ -1,0 +1,18 @@
+category;name;rus;eng
+
+feature_skill;freminet_upward_thrust_dmg;Урон воздушной атаки;Upward Thrust DMG
+feature_skill;freminet_frost_dmg;Урон мороза;Frost DMG
+feature_skill;freminet_pressure_0_dmg;Урон 0 уровня Дробящего давления;Level 0 Shattering Pressure DMG
+feature_skill;freminet_pressure_1_dmg;Урон 1 уровня Дробящего давления;Level 1 Shattering Pressure DMG
+feature_skill;freminet_pressure_1_cryo_dmg;Крио урон 1 уровня Дробящего давления;Level 1 Shattering Pressure Cryo DMG
+feature_skill;freminet_pressure_1_phys_dmg;Физ. урон 1 уровня Дробящего давления;Level 1 Shattering Pressure Phys DMG
+feature_skill;freminet_pressure_2_dmg;Урон 2 уровня Дробящего давления;Level 2 Shattering Pressure DMG
+feature_skill;freminet_pressure_2_cryo_dmg;Крио урон 2 уровня Дробящего давления;Level 2 Shattering Pressure Cryo DMG
+feature_skill;freminet_pressure_2_phys_dmg;Физ. урон 2 уровня Дробящего давления;Level 2 Shattering Pressure Phys DMG
+feature_skill;freminet_pressure_3_dmg;Урон 3 уровня Дробящего давления;Level 3 Shattering Pressure DMG
+feature_skill;freminet_pressure_3_cryo_dmg;Крио урон 3 уровня Дробящего давления;Level 3 Shattering Pressure Cryo DMG
+feature_skill;freminet_pressure_3_phys_dmg;Физ. урон 3 уровня Дробящего давления;Level 3 Shattering Pressure Phys DMG
+feature_skill;freminet_pressure_4_dmg;Урон 4 уровня Дробящего давления;Level 4 Shattering Pressure DMG
+
+talent_name;freminet_stalking_mode;Режим Преследования;Stalking mode
+talent_descr;freminet_stalking_mode;В режиме name{Преследования} повышается сопротивление прерыванию name{Фремине}, а skill{skill:Давление дрейфующего льда} получает следующие усиления:<br>· name{Время отката} сокращается на 70%.<br>· name{Обычные атаки} будут давать name{Таймеру Пера} 1 дополнительный name{уровень давления}, а name{морозные волны} name{обычных атак} наносят %{text_percent_dmg} от обычного урона.;While name{Stalking}, his interruption resistance will increase, and skill{skill:Pressurized Floe} will obtain the following buffs:<br>·name{CD} decreased by 70%.<br>·name{Normal Attacks} will give name{Pers} 1 additional name{Pressure stack}, and the frost released by his name{Normal Attacks} deal %{text_percent_dmg} of their original DMG.

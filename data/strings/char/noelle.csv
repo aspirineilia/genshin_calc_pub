@@ -1,0 +1,8 @@
+category;name;rus;eng
+feature_skill;noelle_heal_chance;Шанс лечения;Healing Triggering Chance
+feature_other;noelle_devotion_shield;Щит От всего сердца;Devotion Shield
+feature_skill;noelle_to_be_cleaned;Урон окончания Бронефарктука;Breastplate shatter DMG
+feature_burst;noelle_skill_dmg;Урон навыка;Skill Dmg
+feature_burst;noelle_atk_bonus;Урон;ATK Bonus
+
+talent_descr;noelle_sweeping_time_talent;name{Ноэлль} получает следующие эффекты:<br>• Увеличивается радиус атак.<br>• Конвертирует урон от атак в geo{Гео урон}, этот эффект не может быть отменён какой-либо элементальной инфузией.<br>• name{Сила атаки} увеличивается пропорционально защите name{Ноэлль}.;name{Noelle} gains the following effects:<br>• Larger attack AoE<br>• Converts attack DMG to geo{Geo DMG} that cannot be overridden by any other elemental infusion.<br>• Increased name{ATK} that scales based on her def{DEF}.

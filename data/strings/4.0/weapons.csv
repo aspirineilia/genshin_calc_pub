@@ -1,0 +1,61 @@
+category;name;rus;eng
+
+talent_name;weapon_wolf_fang;Волк северного ветра;Northwind Wolf
+talent_name;weapon_wolf_fang_2;Волк северного ветра (Элем. навык);Northwind Wolf  (Skill)
+talent_name;weapon_wolf_fang_3;Волк северного ветра (Взрыв стихий);Northwind Wolf  (Burst)
+talent_descr;weapon_wolf_fang_1;Увеличивает урон name{элементального навыка} и name{взрыва стихии} на %{dmg_skill}.;DMG dealt by name{Elemental Skill} and name{Elemental Burst} will be increased by %{dmg_skill}.
+talent_descr;weapon_wolf_fang_2;Когда name{элементальный навык} попадает по врагу, его name{шанс крит. попадания} увеличивается на %{crit_rate_skill}. Эффект длится 10 сек., складывается до 4 раз и может возникнуть один раз в 0,1 сек.;When an name{Elemental Skill} hits an opponent, its name{CRIT Rate} will be increased by %{crit_rate_skill}. Effect lasts 10s, have 4 max stacks, and can be triggered once every 0.1s.
+talent_descr;weapon_wolf_fang_3;Когда name{взрыв стихии} попадает по врагу, его name{шанс крит. попадания} увеличивается на %{crit_rate_burst}. Эффект длится 10 сек., складывается до 4 раз и может возникнуть один раз в 0,1 сек.;When an name{Elemental Burst} hits an opponent, its name{CRIT Rate} will be increased by %{crit_rate_burst}. Effect lasts 10s, have 4 max stacks, and can be triggered once every 0.1s.
+
+feature_weapon;weapon_finale_of_the_deep_bonus;Бонус силы атаки Финальное благородство;An End Sublime ATK Bonus
+talent_name;weapon_finale_of_the_deep;Финальное благородство;An End Sublime
+talent_descr;weapon_finale_of_the_deep_1;Активация name{элементального навыка} повышает name{силу атаки} на %{atk_percent} на 15 сек. и накладывает name{Долг жизни}, равный 25% от макс. HP. Эффект может возникнуть один раз в 10 сек.;When using an name{Elemental Skill}, name{ATK} will be increased by %{atk_percent} for 15s, and a name{Bond of Life} worth 25% of name{Max HP} will be granted. This effect can be triggered once every 10s.
+talent_name;weapon_finale_of_the_deep_2;Долг жизнии;Bond of Life
+talent_descr;weapon_finale_of_the_deep_2;Когда name{Долг жизни} снимается, name{сила атаки} повышается на %{text_percent_hp} от отданного значения name{Долга жизни} (макс. %{text_decimal} ед.) на 15 сек.;When the name{Bond of Life} is cleared, a maximum of %{text_decimal} name{ATK} will be gained based on %{text_percent_hp} of the total amount of the name{Life Bond} cleared, lasting for 15s.
+
+talent_name;weapon_fleuve_cendre_ferryman;Железная кость;Ironbone
+talent_descr;weapon_fleuve_cendre_ferryman_1;Увеличивает name{шанс крит. попадания} name{элементального навыка} на %{crit_rate_skill}.;Increases name{Elemental Skill} name{CRIT Rate} by %{crit_rate_skill}.
+talent_descr;weapon_fleuve_cendre_ferryman_2;После применения name{элементального навыка} name{восстановление энергии} повышается на %{recharge} на 5 сек.;Increases name{Energy Recharge} by %{recharge} for 5s after using an name{Elemental Skill}.
+
+talent_name;weapon_talking_stick_1;Острый язык (Сила атаки);The Silver Tongue (ATK)
+talent_descr;weapon_talking_stick_1;Повышает name{силу атаки} на %{atk_percent} на 15 сек. после получения эффекта pyro{Пиро}. Эффект может возникнуть один раз в 12 сек.;name{ATK} will be increased by %{atk_percent} for 15s after being affected by pyro{Pyro}.This effect can be triggered once every 12s.
+talent_name;weapon_talking_stick_2;Острый язык (Бонус урона);The Silver Tongue (DMG Bonus)
+talent_descr;weapon_talking_stick_2;После получения эффектов hydro{Гидро}, cryo{Крио}, electro{Электро} или dendro{Дендро} бонус name{элементального урона} на 15 сек. увеличивается на %{dmg_pyro}. Может возникнуть раз в 12 сек.;All name{Elemental DMG Bonus} will be increased by %{dmg_pyro} for 15s after being affected by hydro{Hydro}, cryo{Cryo}, electro{Electro}, or dendro{Dendro}. This effect can be triggered once every 12s.
+
+talent_name;weapon_tidal_shadow;Надвигающаяся белая волна;White Cruising Wave
+talent_descr;weapon_tidal_shadow;name{Сила атаки} после получения лечения увеличивается на %{atk_percent} на 8 сек. Эффект срабатывает, даже когда персонаж не на поле боя.;After the wielder is healed, name{ATK} will be increased by %{atk_percent} for 8s. This can be triggered even when the character is not on the field.
+
+talent_name;weapon_ballad_of_the_fjords;Истории тундры;Tales of the Tundra
+talent_descr;weapon_ballad_of_the_fjords;Если в отряде от 3 персонажей разных элементов, name{мастерство стихий} увеличивается на %{mastery} ед.;When there are at least 3 different Elemental Types in your party, name{Elemental Mastery} will be increased by %{mastery}.
+
+talent_name;weapon_rightful_reward;Острие копья;Tip of the Spear
+talent_descr;weapon_rightful_reward;При получении лечения персонаж восстанавливает %{text_number} ед. энергии. Эффект может возникнуть один раз в 10 сек. и срабатывает, даже когда персонаж не на поле боя.;When the wielder is healed, restore %{text_number} Energy. This effect can be triggered once every 10s, and can occur even when the character is not on the field.
+
+talent_name;weapon_sacrificial_jade;Нефритовый круговорот;Jade Circulation
+talent_descr;weapon_sacrificial_jade;Если персонаж не на поле боя более 5 сек., name{макс. HP} увеличивается на %{hp_percent}, а name{мастерство стихий} - на %{mastery} ед. После вступления персонажа в бой эффект длится 10 сек., после чего исчезает.;When not on the field for more than 5s, name{Max HP} will be increased by %{hp_percent} and name{Elemental Mastery} will be increased by %{mastery}. These effects will be canceled after the wielder has been on the field for 10s.
+
+feature_weapon;weapon_flowing_purity_bonus;Бонус урона Неоконченный шедевр;Unfinished Masterpiece DMG Bonus
+talent_name;weapon_flowing_purity_1;Неоконченный шедевр;Unfinished Masterpiece
+talent_descr;weapon_flowing_purity_1;Активация name{элементального навыка} повышает name{бонус урона} всеми элементами на %{dmg_pyro} на 15 сек. и накладывает name{Долг жизни}, равный 24% от макс. HP. Эффект может возникнуть один раз в 10 сек.;When using an name{Elemental Skill}, All Elemental name{DMG Bonus} will be increased by %{dmg_pyro} for 15s, and a name{Bond of Life} worth 24% of name{Max HP} will be granted. This effect can be triggered once every 10s.
+talent_name;weapon_flowing_purity_2;Долг жизни;Bond of Life
+talent_descr;weapon_flowing_purity_2;Когда name{Долг жизни} снимается, name{бонус урона} всеми элементами на 15 сек. увеличивается на %{text_percent} за каждые отданные %{text_value_hp} ед. HP name{Долга жизни}. Бонус урона всеми элементами, полученный таким образом, не может превышать %{text_percent_max}.;When the name{Bond of Life} is cleared, every %{text_value_hp} HP cleared in the process will provide %{text_percent} All Elemental name{DMG Bonus}, up to a maximum of %{text_percent_max}. This effect lasts 15s.
+
+
+
+feature_weapon;scion_of_the_blazing_sun_dmg;Урон Стрелы слепящего солнца;Sunfire Arrow DMG
+talent_name;weapon_scion_of_the_blazing_sun;Путь слепящего солнца;The Way of Sunfire
+talent_descr;weapon_scion_of_the_blazing_sun_1;Попадания name{заряженной атакой} обрушивают на врага name{Стрелу слепящего солнца}, которая наносит %{text_percent_dmg} урона от name{силы атаки}. Кроме того, на врага, получившего урон от name{Стрелы слепящего солнца}, на 10 сек. накладывается эффект name{Пылающего сердца}. name{Стрела слепящего солнца} может возникнуть один раз в 10 сек.;After a name{Charged Attack} hits an opponent, a name{Sunfire Arrow} will descend and deal %{text_percent_dmg} name{ATK} as DMG, and applying the name{Heartsearer} effect to the opponent damaged by said Arrow for 10s. A Sunfire Arrow can be triggered once every 10s.
+talent_name;weapon_scion_of_the_blazing_sun_2;Пылающее сердце;Heartsearer
+talent_descr;weapon_scion_of_the_blazing_sun_2;Урон name{заряженной атаки} экипированного персонажа по противнику, поражённому name{Стрелой слепящего солнца}, повышается на %{dmg_charged_enemy}.;Opponents affected by name{Heartsearer} take %{dmg_charged_enemy} more name{Charged Attack DMG} from the wielder.
+
+talent_name;weapon_song_of_stillness;Пульсация глубин;Benthic Pulse
+talent_descr;weapon_song_of_stillness;Наносимый урон после получения лечения увеличивается на %{dmg_all} на 8 сек. Эффект срабатывает, даже когда персонаж не на поле боя.;After the wielder is healed, they will deal %{dmg_all} more name{DMG} for 8s. This can be triggered even when the character is not on the field.
+
+
+
+talent_name;weapon_the_first_great_magic_1;Славься, Парсифаль!;Parsifal the Great
+talent_descr;weapon_the_first_great_magic_1;Увеличивает урон name{заряженной атаки} на %{dmg_charged}.;DMG dealt by name{Charged Attacks} increased by %{dmg_charged}.
+talent_name;weapon_the_first_great_magic_2;Уловка;Gimmick stacks
+talent_descr;weapon_the_first_great_magic_2;Предоставляет 1 уровень name{Уловки} за каждого персонажа того же элемента в отряде, что и экипированный персонаж (включая экипированного персонажа).<br>Когда действуют format{text_number_f=1|1}/format{text_number_f=2|2}/format{text_number_f=3|3} и более уровня name{Уловки}, name{сила атаки} повышается на format{text_number_f=1|%{text_number_1}}/format{text_number_f=2|%{text_number_2}}/format{text_number_f=3|%{text_number_3}}%.;For every party member with the same Elemental Type as the wielder (including the wielder themselves), gain 1 name{Gimmick} stack.<br>When the wielder has format{text_number_f=1|1}/format{text_number_f=2|2}/format{text_number_f=3|3} or more name{Gimmick} stacks, name{ATK} will be increased by format{text_number_f=1|%{text_number_1}}/format{text_number_f=2|%{text_number_2}}/format{text_number_f=3|%{text_number_3}}%.
+talent_name;weapon_the_first_great_magic_3;Актёрское мастерство;Theatrics stacks
+talent_descr;weapon_the_first_great_magic_3;За каждого персонажа отряда с другим элементом предоставляет 1 уровень name{Актёрского мастерства}.<br>Во время действия format{text_number_f=1|1}/format{text_number_f=2|2}/format{text_number_f=3|3} и более уровня name{Актёрского мастерства} name{скорость передвижения} увеличивается на format{text_number_f=1|%{text_number_1}}/format{text_number_f=2|%{text_number_2}}/format{text_number_f=3|%{text_number_3}}%.;For every party member with a different Elemental Type from the wielder, gain 1 name{Theatrics} stack.<br>When the wielder has format{text_number_f=1|1}/format{text_number_f=2|2}/format{text_number_f=3|3} or more name{Theatrics} stacks, name{Movement SPD} will be increased by format{text_number_f=1|%{text_number_1}}/format{text_number_f=2|%{text_number_2}}/format{text_number_f=3|%{text_number_3}}%.

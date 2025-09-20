@@ -1,0 +1,88 @@
+.food-list {
+    width: 100%;
+}
+
+.food-list .remark {
+    color: #BEAEA9;
+    font-size: 12px;
+}
+
+.food-list .item {
+    width: 100%;
+    border: solid 2px #626770;
+    border-radius: 15px;
+    margin: 5px 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: rgba(30, 30, 30, 0.5);
+    cursor: pointer;
+}
+
+.food-list .item.active {
+    background-color: #3e5842AA;
+}
+
+.food-list .title {
+    width: 100%;
+    padding: 0 10px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin-top: 5px;
+    box-sizing: border-box;
+}
+
+.food-list .quality {
+    color: #BEAEA9;
+    font-size: 12px;
+    margin-right: 5px;
+}
+
+.food-list .line {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    height: 55px;
+}
+
+.food-list .line > .icon {
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+    flex-shrink: 0;
+}
+
+.food-list .line > .char-icon {
+    width: 40px;
+    height: 40px;
+    flex-shrink: 0;
+    margin: 5px;
+    box-sizing: border-box;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+}
+
+.food-list .line .stats {
+    flex-grow: 1;
+    text-align: right;
+}
+
+.food-list .line .stat {
+    width: 100%;
+    display: flex;
+}
+
+.food-list .line .stat .name {
+    flex-grow: 1;
+    padding-right: 3px;
+    text-align: right;
+    color: #BEAEA9;
+    font-size: 14px;
+}
+
+.food-list .line .stat .value {
+    width: 50px;
+    padding-left: 3px;
+    text-align: left;
+    font-size: 15px;
+}

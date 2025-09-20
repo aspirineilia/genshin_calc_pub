@@ -1,0 +1,15 @@
+category;name;rus;eng
+stat_view;base;База;Base
+stat_view;bonus;Бонус;Bonus
+stat_view;total;Всего;Total
+stat_view;base_stats;Основные характеристики;Main stats
+stat_view;secondary_stats;Вторичные характеристики;Secondary stats
+stat_view;elemental_stats;Элементы;Elemental stats
+stat_view;damage_bonus;Модификаторы урона;Damage modifiers
+stat_view;reaction_bonus;Усиление элементальных реакций;Elemental Reaction bonus
+stat_view;normal;Обычн.;Normal
+stat_view;crit;Крит.;Crit
+stat_view;average;Средн.;Avg
+stat_view;average_roll;Средний прирост доп хр-ки;Average substat roll
+stat_view;other;Другое;Other
+stat_view;for_feature;Для показателя;For feature

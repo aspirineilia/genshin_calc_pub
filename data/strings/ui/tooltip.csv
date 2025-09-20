@@ -1,0 +1,11 @@
+category;name;rus;eng
+tooltip;share_load;Загрузить сохранение;Load saved character
+tooltip;share_overwite;Перезаписать сохранение;Overwrite saved character
+tooltip;share_delete;Удалить сохранение;Delete saved character
+tooltip;share_save;Сохранить персонажа;Save character
+tooltip;artifact_delete;Удалить;Delete
+tooltip;artifact_edit;Редактировать;Edit
+tooltip;artifact_unlock;Разрешить использовать артефакт для автоподбора;Enable artifact for optimizer
+tooltip;artifact_lock;Запретить использовать артефакт для автоподбора;Disable artifact for optimizer
+tooltip;suggester_apply;Применить к персонажу;Apply to build
+tooltip;suggester_compare;Добавить в сравнение;Add to comparison

@@ -1,0 +1,31 @@
+.type-legend.enemy-icon-liam {background-image: url("../../images/enemies/legend/liam.png")}
+.type-legend.enemy-icon-rockyavildsen {background-image: url("../../images/enemies/legend/rockyavildsen.png")}
+.type-legend.enemy-icon-tortoise-electric {background-image: url("../../images/enemies/legend/tortoise_electric.png")}
+.type-legend.enemy-icon-he-never-dies-icon {background-image: url("../../images/enemies/legend/he_never_dies_icon.png")}
+.type-legend.sprite-enemy.sprite-24 {
+	background-image: url("../../images/sprites/enemy_legend_7d4c7d77944f4d9d28048a3558e3d5a9.png");
+	background-size: 120px 120px;
+}
+.type-legend.sprite-enemy.sprite-60 {
+	background-image: url("../../images/sprites/enemy_legend_aa7f967012869111f437d9a74e987abe.png");
+	background-size: 300px 300px;
+}
+.sprite.type-legend.enemy-icon-liam {background-position: 0% 0%}
+.sprite.type-legend.enemy-icon-rockyavildsen {background-position: 25% 0%}
+.sprite.type-legend.enemy-icon-tortoise-electric {background-position: 50% 0%}
+.sprite.type-legend.enemy-icon-he-never-dies-icon {background-position: 75% 0%}
+
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (   min--moz-device-pixel-ratio: 2),
+only screen and (     -o-min-device-pixel-ratio: 2/1),
+only screen and (        min-device-pixel-ratio: 2),
+only screen and (                min-resolution: 192dpi),
+only screen and (                min-resolution: 2dppx) {
+	.type-legend.enemy-icon-liam {background-image: url("../../images/enemies/legend/liam_2x.png")}
+	.type-legend.enemy-icon-rockyavildsen {background-image: url("../../images/enemies/legend/rockyavildsen_2x.png")}
+	.type-legend.enemy-icon-tortoise-electric {background-image: url("../../images/enemies/legend/tortoise_electric_2x.png")}
+	.type-legend.enemy-icon-he-never-dies-icon {background-image: url("../../images/enemies/legend/he_never_dies_icon_2x.png")}
+	.type-legend.sprite-enemy.sprite-24 {background-image: url("../../images/sprites/enemy_legend_35483acefce93f0d483babe7fcd7eb9b.png")}
+	.type-legend.sprite-enemy.sprite-60 {background-image: url("../../images/sprites/enemy_legend_5a2fd13e1c39abcd56071133a2868d7e.png")}
+}

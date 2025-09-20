@@ -1,0 +1,13 @@
+category;name;rus;eng
+
+feature_skill;lynette_enigma_thrust_dmg;Урон Выпада тени;Enigma Thrust DMG
+feature_skill;lynette_hp_regeneration;Лечение/попадание;HP Regeneration
+feature_skill;lynette_max_duration;Макс. длительность долгого нажатия;Hold Max Duration
+
+feature_burst;lynette_bogglecat_box_dmg;Урон Изумительной кошачьей коробки;Bogglecat Box DMG
+feature_burst;lynette_vivid_shot_dmg;Урон Цветного фейерверка;Vivid Shot DMG
+feature_burst;lynette_duration;Длительность Изумительной кошачьей коробки;Bogglecat Box Duration
+feature_burst;lynette_vivid_shot_hydro_dmg;Урон Яркого выстрела Гидро;Vivid Shot Hydro
+feature_burst;lynette_vivid_shot_pyro_dmg;Урон Яркого выстрела Пиро;Vivid Shot Pyro
+feature_burst;lynette_vivid_shot_cryo_dmg;Урон Яркого выстрела Крио;Vivid Shot Cryo
+feature_burst;lynette_vivid_shot_electro_dmg;Урон Яркого выстрела Электро;Vivid Shot Electro

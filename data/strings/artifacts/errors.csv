@@ -1,0 +1,11 @@
+category;name;rus;eng
+artifact_error;no_set;Не указан набор;No artifact set
+artifact_error;no_main_stat;Не указан основной параметр;No main stat
+artifact_error;substat_count_mismatch;Некорретное число доп. параметров;Wrong substat count
+artifact_error;not_full_substats;Есть улучшения доп. параметров при не полном списке доп. параметров;Substats contain upgrades but not all substats selected
+artifact_error;too_much_upgrades;Слишком много улучшений параметров;Too much substat upgrades
+artifact_error;too_low_upgrades;Слишком мало улучшений параметров;Not enough substat upgrades
+artifact_error;substat_equal_main;Доп. параметр совпадает с основным;Substat is same as to main stat
+artifact_error;substat_value_rolls;Значение доп. параметра не совпадает с возможными;Substat value is not correct
+artifact_error;substat_value_range;Значение доп. параметра слишком большое;Substat value is too much
+artifact_error;substat_duplicate;Доп. параметр повторяется;Substat duplicates

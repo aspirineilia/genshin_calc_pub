@@ -1,0 +1,17 @@
+category;name;rus;eng
+
+feature_skill;yaoyao_radish_dmg;Урон Редьки белого нефрита;White Jade Radish DMG
+feature_skill;yaoyao_radish_heal;Лечение Редьки белого нефрита;White Jade Radish Healing
+feature_skill;yaoyao_megaradish_dmg;Урон Мегаредьки белого нефрита;White Mega Jade Radish DMG
+feature_skill;yaoyao_megaradish_heal;Лечение Мегаредьки белого нефрита;White Mega Jade Radish Healing
+feature_skill;yaoyao_throw_duration;Длительность Бросающего Юэгуя;Yuegui: Throwing Mode Duration
+feature_skill;yaoyao_radish_duration;Длительность Редьки белого нефрита;White Jade Radish Duration
+feature_skill;yaoyao_in_others_shoes_heal;Забота о ближнем;In Others' Shoes
+
+feature_burst;yaoyao_white_radish_dmg;Урон Редьки белого нефрита Наследия Адептов;Adeptal Legacy White Jade Radish DMG
+feature_burst;yaoyao_white_radish_heal;Лечение Редьки белого нефрита Наследия Адептов;Adeptal Legacy White Jade Radish Healing
+feature_burst;yaoyao_dendro_res_bonus;Дендро сопротивление;Dendro RES Bonus
+feature_burst;yaoyao_adept_duration;Длительность Наследия Адептов;Adeptal Legacy Duration
+
+talent_name;yaoyao_adeptal_legacy;Наследие Адептов;Adeptal Legacy
+talent_descr;yaoyao_adeptal_legacy;· Повышает name{скорость передвижения} name{Яо Яо} на %{move_speed}.<br>· dendro{Дендро сопротивление} name{Яо Яо} увеличивается на %{res_dendro}.;·name{Yaoyao}'s name{Movement SPD} is increased by %{move_speed}.<br>·name{Yaoyao}'s dendro{Dendro RES} will be increased by %{res_dendro}.

@@ -1,0 +1,13 @@
+category;name;rus;eng
+share_view;copy;Копировать;Copy
+share_view;save_local;Сохранить;Save
+share_view;confirm_delete;Удалить выбранное сохранение?;Are you sure you want to delete saved data?
+share_view;confirm_overwrite;Перезаписать сохранение?;Overwrite saved data?
+share_view;confirm_load;Выбранное сохранение загрузится вместо текущего персонажа. Продолжить?;Selected saved char will replace current set. Do you want to continue?
+share_view;search;Поиск;Search
+share_view;save_placeholder;Введите название сборки;Enter build name
+share_view;stored_title;Сохранённые персонажи;Saved characters
+share_view;showcase_import;Импорт со Стенда;Import from Showcase
+share_view;build_delete;Удалить;Delete
+share_view;build_overwrite;Перезаписать;Overwrite
+share_view;build_rename;Переименовать;Rename

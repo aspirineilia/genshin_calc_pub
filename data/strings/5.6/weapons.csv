@@ -1,0 +1,12 @@
+category;name;rus;eng
+
+weapon_name;symphonist_of_scents;Симфонист ароматов;Symphonist of Scents
+talent_name;weapon_symphonist_of_scents;Симфония вкусов;Seasoned Symphony
+talent_descr;weapon_symphonist_of_scents_1;name{Сила атаки} повышается на %{atk_percent}.;ATK is increased by %{atk_percent}.
+talent_descr;weapon_symphonist_of_scents_2;Если экипированный персонаж неактивен, name{сила атаки} дополнительно повышается на %{atk_percent}.;When the equipping character is off-field, name{ATK} is increased by an additional %{atk_percent}.
+talent_descr;weapon_symphonist_of_scents_3;При осуществлении лечения экипированный и получающий лечение персонажи получают эффект name{Шансон де бе}: name{сила атаки} повышается на %{atk_percent} на 3 сек. Этот эффект срабатывает, даже когда экипированный персонаж не на поле боя.;When initiating healing, the equipping character and healed character(s) will obtain the "name{Chanson de Baies}" effect, increasing their name{ATK} by %{atk_percent} for 3s. This effect can be triggered even if the equipping character is off-field.
+
+weapon_name;sequence_of_solitude;Каденция одиночества;Sequence of Solitude
+talent_name;weapon_sequence_of_solitude;Бесшумный спуск;Silent Trigger
+talent_descr;weapon_sequence_of_solitude;При попадании атаки по противнику на его позиции наносится урон по площади, равный %{text_percent_dmg} от name{макс. HP}. Этот эффект может возникнуть один раз в 15 сек.;When an attack hits an opponent, deal AoE DMG equal to %{text_percent_dmg} of name{Max HP} at the target location. This effect can be triggered once every 15s.
+feature_weapon;sequence_of_solitude_dmg;Урон Бесшумного спуска;Silent Trigger DMG

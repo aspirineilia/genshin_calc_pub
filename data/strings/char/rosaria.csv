@@ -1,0 +1,7 @@
+category;name;rus;eng
+feature_burst;rosaria_crit_dmg_buff;Доп. шанс крит. попадания;CRIT Rate Bonus
+feature_burst;rosaria_ice_lance;Период. урон Ледяного копья;Ice Lance DoT DMG
+feature_burst;rosaria_swing_dmg;Урон взмаха;Swing DMG
+feature_burst;rosaria_burst_lance_dmg;Урон Ледяного копья;Ice Lance DMG
+feature_skill;rosaria_stab_dmg;Удар со спины;Stab DMG
+feature_skill;rosaria_slash_dmg;Урон пронзания;Slash DMG

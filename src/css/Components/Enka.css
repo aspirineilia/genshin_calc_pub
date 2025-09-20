@@ -1,0 +1,41 @@
+.enka-icon {
+    display: block;
+    width: 167px;
+    height: 42px;
+    background-image: url("../../images/enka.png");
+}
+
+.enka-uid {
+    width: 200px;
+}
+
+.enka-player {
+    width: 100%;
+    display: flex;
+}
+
+.enka-player-info {
+    width: 100%;
+}
+
+.enka-player-info-line {
+    height: 30px;
+    line-height: 30px;
+    font-size: 30px;
+    margin: 10px 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-family: GenshinN;
+}
+
+.enka-player-info-line-2 {
+    height: 30px;
+    line-height: 30px;
+    font-size: 20px;
+    margin: 10px 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-family: GenshinN;
+}

@@ -1,0 +1,12 @@
+category;name;rus;eng
+tab_header;weapon_suggest;Подбор оружия;Weapon optimizer
+weapon_suggest;weapon_list;Настройка списка оружия;Weapon list settings
+weapon_suggest;loading;Идёт сортировка оружия...;Weapons sorting...
+weapon_suggest;generator_settings;Используемые артефакты;Used artifacts
+weapon_suggest;use_equipped;Использовать экипированные артефакты;Use equipped artifacts
+weapon_suggest;use_generated;Использовать сгенерированные артефакты;Use generated artifacts
+weapon_suggest;use_storage;Подобрать из хранилища;Use from Storage
+weapon_suggest;use_generated_remark;Для каждого оружия будут сгенерированы оптимальные артефакты по настройкам указанным ниже.;Generate optimal artifacts for each weapon with settings below.
+weapon_suggest;use_storage_remark;Подобрать лучший вариант из Хранилища артефактов. Настройки подбора задаются на соответствующей вкладке.;Optimize artifacts from Storage. Suggest settings can be set on corresponding tab.
+weapon_suggest;start;Запустить;Start
+weapon_suggest;stop;Остановить;Stop

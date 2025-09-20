@@ -1,0 +1,50 @@
+.object-select-modal .dialog-caption {
+    margin-bottom: 0;
+}
+
+.object-select .list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    overflow: auto;
+}
+
+.object-select .item {
+    border: 2px solid #626770;
+    border-radius: 10px;
+    box-sizing: border-box;
+    cursor: pointer;
+    height: 80px;
+    margin: 5px;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.object-select .selected .item {
+    background-color: #3e5842AA;
+}
+
+.object-select .item:hover {
+    background-color: #626770;
+}
+
+.object-select .info {
+    flex-grow: 1;
+    padding-left: 5px;
+    overflow: hidden;
+}
+
+.object-select .line {
+    display: flex;
+    align-items: center;
+}
+
+.object-select .name {
+    font-size: 15px;
+    height: 30px;
+    line-height: 30px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 100%;
+}

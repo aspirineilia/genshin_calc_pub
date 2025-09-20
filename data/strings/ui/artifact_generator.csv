@@ -1,0 +1,17 @@
+category;name;rus;eng
+art_gen;title;Генерация артефактов;Artifact generator
+art_gen;set_bonus;Бонус комплекта;Set bonus
+art_gen;conditions;Условия;Conditions
+art_gen;feature;Показатель;Feature
+art_gen;kqms;Стандарт <a href="https://compendium.keqingmains.com/" target="_blank">KQM</a>;<a href="https://compendium.keqingmains.com/" target="_blank">KQM</a> Standard
+art_gen;min_recharge;Восст. энергии;Energy Recharge
+art_gen;useful_rolls;Полезные роллы;Useful rolls
+art_gen;crit_rolls;Макс. крит роллы;Max crit rolls
+art_gen;roll_mode;Значение ролла;Roll value
+art_gen;roll_mode_min;Минимальное;Minimal
+art_gen;roll_mode_avg;Среднее;Average
+art_gen;roll_mode_max;Максимальное;Maximal
+art_gen;generate;Сгенерировать;Generate
+art_gen;apply;Применить;Apply
+art_gen;set_settings;Задайте настройки;Specify settings for generator
+art_gen;loading;Идёт генерация артефактов...;Generation in progress...

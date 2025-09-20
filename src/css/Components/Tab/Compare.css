@@ -1,0 +1,70 @@
+.gi-compare-tab .gi-tab-item-inner {
+    background-image: url("../../../images/icons/tab_compare_light.png");
+}
+.gi-compare-tab.active .gi-tab-item-inner {
+    background-color: #ECE5D8;
+    background-image: url("../../../images/icons/tab_compare_dark.png");
+}
+
+
+.compare-list .line {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 2px;
+    padding-right: 11px;
+    box-sizing: border-box;
+    min-height: 26px;
+    justify-content: center;
+}
+
+.compare-list .line.odd {
+    background-color: rgba(23, 17, 16, 0.5);
+}
+
+.compare-list .info {
+    flex-grow: 1;
+    overflow: hidden;
+}
+
+.compare-list .more-info {
+    flex-grow: 1;
+    text-align: right;
+    color: #BEAEA9;
+    font-size: 12px;
+}
+
+.compare-list .name {
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+}
+
+.compare-list .name-title {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.compare-list .name-edit {
+    width: 18px;
+    height: 18px;
+    border-radius: 5px;
+    background-color: rgba(40, 28, 15, 0.7);
+    cursor: pointer;
+    border: solid 1px#ECE5D8;
+    background-image: url("../../../images/icons/editart.png");
+    background-position: -1px -1px;
+    background-repeat: no-repeat;
+    margin-right: 5px;
+    position: relative;
+    flex-shrink: 0;
+}
+
+.compare-list .item-button {
+    cursor: pointer;
+    color: #BEAEA9;
+    font-size: 12px;
+    text-decoration: underline;
+    padding-right: 7px;
+}

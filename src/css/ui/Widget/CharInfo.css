@@ -1,0 +1,117 @@
+.gi-char-info {
+    width: 100%;
+    display: flex;
+}
+
+.gi-char-info:nth-child(n+2) {
+    margin-top: 10px;
+}
+
+.gi-char-info-data {
+    flex-grow: 1;
+    overflow: hidden;
+}
+
+.gi-char-info-icon {
+    width: 80px;
+    height: 80px;
+    flex-shrink: 0;
+    background-position: center;
+    box-sizing: border-box;
+    border-radius: 50%;
+    border: solid 4px transparent;
+    background-size: cover;
+    position: relative;
+}
+
+.gi-view-icon-background {
+    width: 80px;
+    height: 80px;
+    position: relative;
+    top: -4px;
+    left: -4px;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    background-size: cover;
+}
+
+.gi-char-info-name {
+    width: 100%;
+    height: 35px;
+    line-height: 35px;
+    font-size: 22px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    padding: 0 5px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+}
+
+.gi-char-info-name-edit, .gi-char-info-icon-edit {
+    width: 18px;
+    height: 18px;
+    border-radius: 5px;
+    background-color: rgba(40, 28, 15, 0.7);
+    cursor: pointer;
+    border: solid 1px #ECE5D8;
+    background-image: url("../../../images/icons/editart.png");
+    background-position: -1px -1px;
+    background-repeat: no-repeat;
+    margin-right: 5px;
+    position: relative;
+    top: 6px;
+    flex: none;
+}
+
+.gi-char-info-icon-edit {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.gi-char-info-name-title {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    flex-grow: 1;
+}
+
+.gi-char-info-items {
+    display: flex;
+    width: 100%;
+}
+
+.gi-char-info-weapon, .gi-char-info-artifact {
+    width: 40px;
+    height: 40px;
+    background-size: 100%;
+    box-sizing: border-box;
+    border-radius: 50%;
+    border: solid 2px transparent;
+    background-color: #3E4556;
+    margin-right: 2px;
+    position: relative;
+}
+
+.gi-char-info-weapon > .sprite, .gi-char-info-artifact > .sprite {
+    width: 40px;
+    height: 40px;
+    position: relative;
+    top: -2px;
+    left: -2px;
+    border-radius: 50%;
+}
+
+.gi-char-info-button {
+    width: 36px;
+    height: 36px;
+    margin-left: 2px;
+    background-position: center;
+    background-repeat: no-repeat;
+    float: right;
+    box-sizing: border-box;
+    border-radius: 50%;
+    background-color: #ECE5D8;
+    cursor: pointer;
+}

@@ -1,0 +1,71 @@
+.rotation-storage-modal .toolbar {
+    margin-bottom: 5px;
+}
+
+.rotation-list {
+    width: 100%;
+}
+
+.rotation-list .item {
+    display: flex;
+    align-items: center;
+}
+
+.rotation-list .icon, .rotation-list .control {
+    flex-grow: 0;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.rotation-list .control {
+    padding-left: 10px;
+}
+
+.rotation-list .info {
+    flex-grow: 1;
+}
+
+.rotation-list .icons {
+    width: 100%;
+    height: 40px;
+}
+
+.rotation-list .sub-icon {
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    border-radius: 50%;
+    border: 2px solid;
+    margin-right: 2px;
+}
+
+.rotation-list .edit {
+    width: 20px;
+    height: 20px;
+    border-radius: 5px;
+    background-color: rgba(40, 28, 15, 0.7);
+    cursor: pointer;
+    border: solid 1px #ECE5D8;
+    background-image: url("../../../images/icons/editart.png");
+    background-repeat: no-repeat;
+}
+
+.rotation-list .icon > .edit {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+.rotation-list .line {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.rotation-list .title {
+    width: 100%;
+    font-size: 22px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    margin: 0 3px;
+}

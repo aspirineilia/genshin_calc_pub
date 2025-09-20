@@ -1,0 +1,143 @@
+.gi-stats-tab .gi-tab-item-inner {
+    background-image: url("../../../images/icons/tab_stats_light.png");
+}
+.gi-stats-tab.active .gi-tab-item-inner {
+    background-color: #ECE5D8;
+    background-image: url("../../../images/icons/tab_stats_dark.png");
+}
+
+.stats-table-block {
+    width: 100%;
+}
+
+.stats-table-block.header {
+    width: 100%;
+    display: flex;
+}
+
+.stats-table-block .item {
+    flex-shrink: 0;
+    width: 67px;
+    padding: 3px;
+    text-align: right;
+    white-space: nowrap;
+}
+
+.stats-table-block .item:last-child {
+    padding-right: 16px;
+}
+
+.stats-table-block .item.green {
+    color: #32af00;
+}
+
+.stats-table-block .line {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.stats-table-block .line.odd {
+    background-color: rgba(23, 17, 16, 0.5);
+}
+
+.stats-table-block .line.optional {
+    font-size: 13px;
+    color: #BEAEA9;
+}
+
+.stats-table-block .line .icon {
+    flex-shrink: 0;
+    width: 20px;
+    padding: 3px;
+}
+
+.stats-table-block .line .icon > div {
+    width: 20px;
+    height: 20px;
+    background-size: 100px 80px;
+    background-repeat: no-repeat;
+}
+
+
+.stats-table-block .line .name {
+    flex-grow: 1;
+    line-height: 22px;
+    padding: 3px;
+}
+
+.stats-table-block .icon-hp {
+    background-image: url("../../../images/icons/stat_icons.png");
+}
+.stats-table-block .icon-atk {
+    background-image: url("../../../images/icons/stat_icons.png");
+    background-position: -20px 0px;
+}
+.stats-table-block .icon-def {
+    background-image: url("../../../images/icons/stat_icons.png");
+    background-position: -40px 0px;
+}
+.stats-table-block .icon-mastery {
+    background-image: url("../../../images/icons/stat_icons.png");
+    background-position: -60px 0px;
+}
+.stats-table-block .icon-recharge {
+    background-image: url("../../../images/icons/stat_icons.png");
+    background-position: -40px -20px;
+}
+.stats-table-block .icon-crit_rate {
+    background-image: url("../../../images/icons/stat_icons.png");
+    background-position: 0px -20px;
+}
+.stats-table-block .icon-crit {
+    background-image: url("../../../images/icons/stat_icons.png");
+    background-position: 20px 0px;
+}
+.stats-table-block .icon-healing {
+    background-image: url("../../../images/icons/stat_icons.png");
+    background-position: -20px -20px;
+}
+.stats-table-block .icon-healing_recv {
+    background-image: url("../../../images/icons/stat_icons.png");
+    background-position: 20px 0px;
+}
+.stats-table-block .icon-recovery {
+    background-image: url("../../../images/icons/stat_icons.png");
+    background-position: -60px -20px;
+}
+.stats-table-block .icon-shield {
+    background-image: url("../../../images/icons/stat_icons.png");
+    background-position: -80px -20px;
+}
+.stats-table-block .icon-dmg_anemo {
+    background-image: url("../../../images/icons/stat_icons.png");
+    background-position: -80px -40px;
+}
+.stats-table-block .icon-dmg_cryo {
+    background-image: url("../../../images/icons/stat_icons.png");
+    background-position: 0px -60px;
+}
+.stats-table-block .icon-dmg_electro {
+    background-image: url("../../../images/icons/stat_icons.png");
+    background-position: -60px -40px;
+}
+.stats-table-block .icon-dmg_geo {
+    background-image: url("../../../images/icons/stat_icons.png");
+    background-position: -20px -60px;
+}
+.stats-table-block .icon-dmg_hydro {
+    background-image: url("../../../images/icons/stat_icons.png");
+    background-position: -20px -40px;
+}
+.stats-table-block .icon-dmg_pyro {
+    background-image: url("../../../images/icons/stat_icons.png");
+    background-position: 0px -40px;
+}
+.stats-table-block .icon-dmg_phys {
+    background-image: url("../../../images/icons/stat_icons.png");
+    background-position: -40px -60px;
+}
+.stats-table-block .icon-dmg_dendro {
+    background-image: url("../../../images/icons/stat_icons.png");
+    background-position: -40px -40px;
+}

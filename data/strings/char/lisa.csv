@@ -1,0 +1,5 @@
+category;name;rus;eng
+feature_skill;lisa_stack_1;Урон с 1 Проводником;Stack 1 Hold DMG
+feature_skill;lisa_stack_2;Урон с 2 Проводниками;Stack 2 Hold DMG
+feature_skill;lisa_stack_3;Урон с 3 Проводниками;Stack 3 Hold DMG
+feature_burst;lisa_initial_dmg;Урон призыва;Summon DMG

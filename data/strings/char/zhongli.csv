@@ -1,0 +1,11 @@
+category;name;rus;eng
+feature_attack;zhongli_additional_dmg;Доп. урон;Additional DMG
+feature_burst;zhongli_additional_dmg;Доп. урон;Additional DMG
+feature_skill;zhongli_additional_dmg;Доп. урон;Additional DMG
+feature_skill;zhongli_resonance_dmg;Урон Резонанса;Resonance DMG
+feature_skill;zhongli_stele_dmg;Урон Каменной стелы;Stone Stele DMG
+feature_skill;zhongli_shield_duration;Длительность щита;Shield Duration
+feature_burst;zhongli_petrification_duration;Длительность окаменения;Petrification Duration
+
+talent_name;zhongli_jade_shield;Яшмовый щит;Jade Shield
+talent_descr;zhongli_jade_shield;Персонажи, защищённые name{Яшмовым щитом}, будут понижать name{элементальное} и name{физическое сопротивление} врагов в небольшом радиусе на %{enemy_res_phys}. Этот эффект не может складываться.;Characters protected by the name{Jade Shield} will decrease the name{Elemental RES} and name{Physical RES} of opponents in a small AoE by %{enemy_res_phys}. This effect cannot be stacked.

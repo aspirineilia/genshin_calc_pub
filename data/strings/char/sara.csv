@@ -1,0 +1,11 @@
+category;name;rus;eng
+feature_skill;sara_atk_bonus_duration;Длительность бонуса атаки;ATK Bonus Duration
+feature_skill;sara_ambush_dmg;Урон Тэнгу дзюрай: Засада;Tengu Juurai: Ambush DMG
+feature_skill;sara_atk_bonus;Бонус атаки;ATK Bonus
+feature_skill;sara_decorum;Энергия от Этикет;Decorum energy
+feature_skill;sara_dark_wings_dmg;Урон Тёмные крылья;Dark Wings DMG
+feature_burst;sara_titanbreaker_dmg;Урон Тэнгу дзюрай: Крушитель титанов;Tengu Juurai: Titanbreaker DMG
+feature_burst;sara_stormcluster_dmg;Урон Тэнгу дзюрай: Громокластер;Tengu Juurai: Stormcluster DMG
+
+talent_name;sara_tengu_juurai;Тэнгу дзюрай;Tengu Juurai
+talent_descr;sara_tengu_juurai;Даёт активному персонажу, находящемуся в зоне действия, бонус name{атаки}, зависящий от name{базовой атаки} name{Кудзё Сары}.;Grants the active character within its AoE an name{ATK} Bonus based on name{Kujou Sara}'s name{Base ATK}.

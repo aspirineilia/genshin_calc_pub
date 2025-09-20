@@ -1,0 +1,73 @@
+.narrow .gi-main-container {
+    min-width: 600px;
+    width: 100%;
+    height: auto !important;
+}
+
+.narrow .gi-layout-left-tabs, .narrow .gi-layout-right-tabs {
+    float: right;
+}
+
+.tab-narrow {
+    display: none;
+}
+
+.narrow .tab-narrow {
+    display: block;
+}
+
+.narrow .gi-main-container .gi-layout-left-container, .narrow .gi-main-container .gi-layout-right-container {
+    width: calc(100% - 70px);
+}
+
+.narrow .gi-tab-scrollable {
+    height: auto !important;
+    max-height: auto !important;
+}
+
+.narrow .gi-window-select, .narrow .gi-artifact-window, .narrow .gi-window-help, .narrow .gi-window-artifact-scanner,
+.narrow .gi-window-rotation-feature, .narrow .gi-window-rotation-condition, .narrow .gi-window-rotation-storage, .narrow .gi-window-talent {
+    position: fixed;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    bottom: 5px;
+    width: auto !important;
+    max-height: none;
+}
+
+.narrow .gi-layout-right-tabs {
+    display: none;
+}
+
+.narrow .gi-main-container {
+    margin: 5px;
+    border-radius: 0px;
+    width: 100%;
+    height: 100%;
+    background-color: unset;
+}
+
+.narrow .tabs-narrow {
+    display: block;
+}
+
+.narrow .gi-tab-item {
+    margin-bottom: 10px;
+}
+
+.narrow .gi-main-copyright {
+    margin-top: 10px;
+}
+
+.narrow .gi-copyright-text {
+    line-height: 30px;
+}
+
+.narrow .copyright-item {
+    white-space: nowrap;
+}
+
+.narrow .gi-window-select {
+    min-height: auto;
+}

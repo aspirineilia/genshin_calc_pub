@@ -1,0 +1,352 @@
+@font-face {
+    font-family: Genshin;
+    src: url("../../fonts/genshin.ttf");
+}
+
+@font-face {
+    font-family: GenshinN;
+    src: url("../../fonts/genshin2.ttf");
+}
+
+body {
+    background: url("../../images/background.jpg") repeat center center;
+    font-family: Genshin;
+    color: #FFF7E9;
+    font-size: 15px;
+}
+
+input {
+    font-family: Genshin;
+}
+
+.gi-main-container {
+    margin: 10px auto 0px auto;
+    width: 1140px;
+    min-height: 600px;
+    background-color: rgba(60, 60, 60, 0.4);
+    border-radius: 25px;
+}
+
+.gi-main-container > div {
+    float: left;
+}
+
+.gi-layout-left-container, .gi-layout-right-container {
+    width: 510px;
+    min-height: 1px;
+    box-sizing: border-box;
+    overflow-y: auto;
+    overflow-x: hidden;
+    height: 100%;
+    position: relative;
+}
+
+.gi-layout-right-container .gi-tab-container, .gi-layout-left-container .gi-tab-container {
+    display: none;
+}
+
+.narrow .gi-tab-container {
+    min-height: 500px;
+}
+
+.gi-layout-right-container .gi-tab-scrollable, .gi-layout-left-container .gi-tab-scrollable {
+    padding-right: 12px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.gi-layout-left-tabs, .gi-layout-right-tabs {
+    width: 56px;
+    box-sizing: border-box;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.gi-layout-right-tabs {
+    margin-left: 4px;
+}
+
+.gi-layout-left-tabs {
+    margin-right: 4px;
+}
+
+.gi-tab-item {
+    width: 50px;
+    height: 50px;
+    flex-shrink: unset;
+    flex-grow: unset;
+}
+
+.flex-spacer {
+    flex-grow: 1;
+}
+
+.flex-break {
+    flex-basis: 100%;
+    height: 0;
+}
+
+.flex {
+    width: 100%;
+    display: flex;
+}
+
+.gi-layout-right-tabs .gi-tab-item {
+    border-left: solid 4px transparent;
+    padding-left: 2px;
+}
+
+.gi-layout-left-tabs .gi-tab-item {
+    border-right: solid 4px transparent;
+    padding-right: 2px;
+}
+
+.gi-layout-right-tabs  .gi-tab-item.active {
+    border-left-color: #D3BC8E;
+}
+
+.gi-layout-left-tabs  .gi-tab-item.active {
+    border-right-color: #D3BC8E;
+}
+
+.gi-tab-item-inner {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 0px none;
+    cursor: pointer;
+    background-size: cover;
+}
+
+.gi-tab-item.active .gi-tab-item-inner {
+    background-color: #ECE5D8;
+}
+
+body .simplebar-scrollbar::before {
+    background-color: #CCC5B9;
+    opacity: 1;
+}
+
+.gi-main-copyright {
+    font-size: 11px;
+    line-height: 20px;
+    width: 100%;
+    padding: 0px 10px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.gi-spacer {
+    content: "";
+    display: inline-block;
+    width: 20px;
+}
+
+.gi-lang-switch {
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+a:link, a:visited {
+    color: #BEAEA9;
+}
+
+.flag {
+    display: inline-block;
+    height: 14px;
+    width: 28px;
+    position: relative;
+    top: 3px;
+    margin-right: 5px;
+}
+
+.flag-rus {
+    background-image: url("../../images/rus.png");
+}
+.flag-eng {
+    background-image: url("../../images/eng.png");
+}
+
+.gi-tab-header {
+    width: 100%;
+    color: #D3BC8E;
+    height: 36px;
+    line-height: 34px;
+    font-size: 22px;
+    text-align: center;
+    box-sizing: border-box;
+    position: relative;
+    background-color: rgba(23, 17, 16, 0.5);
+    border-bottom: solid 2px #6C6D76;
+    box-sizing: border-box;
+}
+
+.gi-tab-header-help {
+    float: right;
+    width: 24px;
+    height: 24px;
+    background-color: red;
+    margin: 3px;
+    font-size: 18px;
+    line-height: 28px;
+    color: #495366;
+    background-color: #ECE5D8;
+    border-radius: 50%;
+    text-align: center;
+    border: solid 2px #8A8687;
+    cursor: pointer;
+}
+
+.tooltip-wrapper {
+    position: absolute;
+    max-width: 300px;
+    background-color: #353D4F;
+    border: solid 2px #626770;
+    display: none;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.tooltip-wrapper p {
+    margin: 5px 0px;
+}
+
+.gi-radio-wrapper {
+    display: inline-block;
+    top: 3px;
+    position: relative;
+}
+
+.gi-radio-wrapper .span-label {
+    padding-left: 20px;
+    position: relative;
+    top: -2px;
+}
+
+.gi-radio-wrapper input[type=radio] {
+    display: none;
+}
+
+.gi-radio-wrapper label {
+    display: inline-block;
+    cursor: pointer;
+    border: 2px solid #626770;
+    background-color: #353D4F;
+    user-select: none;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.gi-radio-wrapper label::before {
+    position: absolute;
+    display: block;
+    content: "";
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #353D4F;
+    top: 2px;
+    left: 2px;
+}
+
+.gi-radio-wrapper input[type=radio]:checked + label::before {
+    background-color: #FFF7E9;
+}
+
+.tabs-narrow {
+    display: none;
+}
+
+.no-scroll {
+    overflow: hidden;
+}
+
+.gi-radio-2 {
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+    user-select: none;
+    margin-left: 5px;
+}
+
+.gi-radio-2 input {
+    opacity: 0;
+    cursor: pointer;
+    min-height: 1px;
+    height: 1px;
+    width: 20px;
+    margin: 0 3px 0 0;
+}
+
+.gi-radio-2 .checkmark {
+    display: block;
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    width: 18px;
+    height: 18px;
+    border: 2px solid #626770;
+    background-color: #353D4F;
+    user-select: none;
+    border-radius: 50%;
+    box-sizing: border-box;
+}
+
+.gi-radio-2 .checkmark::before {
+    position: absolute;
+    display: block;
+    content: "";
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #353D4F;
+    top: 2px;
+    left: 2px;
+}
+
+.gi-radio-2 input:checked ~ .checkmark::before {
+    background-color: #FFF7E9;
+}
+
+.gi-radio-2 .checkmark:after {
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background-color: #353D4F;
+    top: 2px;
+    left: 2px;
+    position: relative;
+}
+
+.gi-tab-button-back {
+    width: 30px;
+    height: 30px;
+    background-color: #ECE5D8;
+    border-radius: 50%;
+    float: left;
+    margin: 3px;
+    cursor: pointer;
+    background-image: url("../../images/icons/back.png");
+}
+
+.gi-foreground-text {
+    color: #BEAEA9;
+}
+
+.dotted {
+    text-decoration: underline dotted;
+}
+
+.gi-border-box {
+    border: solid 2px #626770;
+    box-sizing: border-box;
+    border-radius: 20px;
+    background: rgba(30, 30, 30, 0.5);
+    width: 100%;
+    padding: 5px;
+    margin: 5px 0px;
+}

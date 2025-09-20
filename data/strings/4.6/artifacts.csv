@@ -1,0 +1,12 @@
+category;name;rus;eng
+artifact_set;fragment_of_harmonic_whimsy;Фрагмент гармонической фантазии;Fragment of Harmonic Whimsy
+set_bonus;fragment_of_harmonic_whimsy_2;Фрагмент гармонической фантазии (2 предмета);Fragment of Harmonic Whimsy (2-Piece bonus)
+set_descr;fragment_of_harmonic_whimsy_2;Сила атаки +%{atk_percent};ATK +%{atk_percent}
+set_bonus;fragment_of_harmonic_whimsy_4;Фрагмент гармонической фантазии (4 предмета); Fragment of Harmonic Whimsy(4-Piece bonus)
+set_descr;fragment_of_harmonic_whimsy_4;Когда значение name{Долга жизни} увеличивается или уменьшается, наносимый персонажем урон увеличивается на %{dmg_all} на 6 сек. Эффект может складываться до 3 раз.;When the value of a name{Bond of Life} increases or decreases, this character deals %{dmg_all} increased DMG for 6s. Max 3 stacks.
+
+artifact_set;unfinished_reverie;Незаконченные грёзы;Unfinished Reverie
+set_bonus;unfinished_reverie_2;Незаконченные грёзы (2 предмета);Unfinished Reverie (2-Piece bonus)
+set_descr;unfinished_reverie_2;Сила атаки +%{atk_percent};ATK +%{atk_percent}
+set_bonus;unfinished_reverie_4;Незаконченные грёзы (4 предмета);Unfinished Reverie (4-Piece bonus)
+set_descr;unfinished_reverie_4;Урон персонажа через 3 сек. после того, как он покидает поле боя, повышается на %{text_percent_max}. В бою, если поблизости не менее 6 сек. нет врагов со статусом pyro{Горение}, персонаж начнёт терять %{dmg_all} увеличения урона в секунду, пока оно не упадёт до 0%. Если поблизости есть враги со статусом pyro{Горение}, урон будет увеличиваться на %{dmg_all} в секунду, пока не достигнет %{text_percent_max}. Этот эффект срабатывает, даже если экипированный персонаж не на поле боя.;After leaving combat for 3s, DMG dealt increased by %{text_percent_max}. In combat, if no pyro{Burning} opponents are nearby for more than 6s, this DMG Bonus will decrease by %{dmg_all} per second until it reaches 0%. When a pyro{Burning} opponent exists, it will increase by %{dmg_all} instead until it reaches %{text_percent_max}. This effect still triggers if the equipping character is off-field.

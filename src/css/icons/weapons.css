@@ -1,0 +1,15 @@
+.weapon-type-bow {
+    background-image: url("../../images/icons/weapon_bow.png");
+}
+.weapon-type-catalyst {
+    background-image: url("../../images/icons/weapon_catalyst.png");
+}
+.weapon-type-claymore {
+    background-image: url("../../images/icons/weapon_claymore.png");
+}
+.weapon-type-polearm {
+    background-image: url("../../images/icons/weapon_polearm.png");
+}
+.weapon-type-sword {
+    background-image: url("../../images/icons/weapon_sword.png");
+}

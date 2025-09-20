@@ -1,0 +1,16 @@
+category;name;rus;eng
+tab_header;compare;Сравнение;Comparison
+modal_window;select_feature_list;Выберите показатель;Select features
+tooltip;compare_sort;Сортировать по показателю;Sort by feature
+compare_view;add_placeholder;Введите название набора;Enter build name
+compare_view;add;Добавить;Add
+compare_view;clear;Очистить;Clear
+compare_view;set_title;Набор;Build
+compare_view;load_set;Загрузить;Load
+compare_view;delete_set;Удалить;Delete
+compare_view;set_details;Подробнее;Details
+compare_view;use_rotation;Использовать ротацию;Use rotation
+compare_view;rotation_saved;Сохранённую;Saved
+compare_view;rotation_current;Текущую;Current
+compare_view;clear_comparison_confirm;Очистить сравнение?;Clear comparison?
+compare_view;confirm_delete;Удалить выбранное сравнение?;Are you sure you want to remove item from comparison?

@@ -1,0 +1,141 @@
+.weapon-icon-claymore-unknown {background-image: url("../../images/weapons/claymore/unknown.png")}
+.weapon-icon-claymore-ferrous-shadow {background-image: url("../../images/weapons/claymore/claymore_glaive.png")}
+.weapon-icon-claymore-bloodtainted-greatsword {background-image: url("../../images/weapons/claymore/claymore_siegfry.png")}
+.weapon-icon-claymore-white-iron-greatsword {background-image: url("../../images/weapons/claymore/claymore_tin.png")}
+.weapon-icon-claymore-debate-club {background-image: url("../../images/weapons/claymore/claymore_reasoning.png")}
+.weapon-icon-claymore-skyrider-greatsword {background-image: url("../../images/weapons/claymore/claymore_mitsurugi.png")}
+.weapon-icon-claymore-favonius-greatsword {background-image: url("../../images/weapons/claymore/claymore_zephyrus.png")}
+.weapon-icon-claymore-the-bell {background-image: url("../../images/weapons/claymore/claymore_troupe.png")}
+.weapon-icon-claymore-sacrificial-greatsword {background-image: url("../../images/weapons/claymore/claymore_fossil.png")}
+.weapon-icon-claymore-royal-greatsword {background-image: url("../../images/weapons/claymore/claymore_theocrat.png")}
+.weapon-icon-claymore-rainslasher {background-image: url("../../images/weapons/claymore/claymore_perdue.png")}
+.weapon-icon-claymore-prototype-archaic {background-image: url("../../images/weapons/claymore/claymore_proto.png")}
+.weapon-icon-claymore-whiteblind {background-image: url("../../images/weapons/claymore/claymore_exotic.png")}
+.weapon-icon-claymore-blackcliff-slasher {background-image: url("../../images/weapons/claymore/claymore_blackrock.png")}
+.weapon-icon-claymore-serpent-spine {background-image: url("../../images/weapons/claymore/claymore_kione.png")}
+.weapon-icon-claymore-lithic-blade {background-image: url("../../images/weapons/claymore/claymore_lapis.png")}
+.weapon-icon-claymore-snow-tombed-starsilver {background-image: url("../../images/weapons/claymore/claymore_dragonfell.png")}
+.weapon-icon-claymore-luxurious-sea-lord {background-image: url("../../images/weapons/claymore/claymore_millenniatuna.png")}
+.weapon-icon-claymore-katsuragikiri-nagamasa {background-image: url("../../images/weapons/claymore/claymore_bakufu.png")}
+.weapon-icon-claymore-makhaira-aquamarine {background-image: url("../../images/weapons/claymore/claymore_pleroma.png")}
+.weapon-icon-claymore-akuoumaru {background-image: url("../../images/weapons/claymore/claymore_maria.png")}
+.weapon-icon-claymore-forest-regalia {background-image: url("../../images/weapons/claymore/claymore_arakalari.png")}
+.weapon-icon-claymore-mailed-flower {background-image: url("../../images/weapons/claymore/claymore_fleurfair.png")}
+.weapon-icon-claymore-talking-stick {background-image: url("../../images/weapons/claymore/claymore_beasttamer.png")}
+.weapon-icon-claymore-tidal-shadow {background-image: url("../../images/weapons/claymore/claymore_vorpal.png")}
+.weapon-icon-claymore-ultimate-overlords-mega-magic-sword {background-image: url("../../images/weapons/claymore/claymore_champion.png")}
+.weapon-icon-claymore-portable-power-saw {background-image: url("../../images/weapons/claymore/claymore_mechanic.png")}
+.weapon-icon-claymore-fruitful-hook {background-image: url("../../images/weapons/claymore/claymore_umpakati.png")}
+.weapon-icon-claymore-earth-shaker {background-image: url("../../images/weapons/claymore/claymore_isikhulu.png")}
+.weapon-icon-claymore-skyward-pride {background-image: url("../../images/weapons/claymore/claymore_dvalin.png")}
+.weapon-icon-claymore-wolfs-gravestone {background-image: url("../../images/weapons/claymore/claymore_wolfmound.png")}
+.weapon-icon-claymore-song-of-broken-pines {background-image: url("../../images/weapons/claymore/claymore_widsith.png")}
+.weapon-icon-claymore-the-unforged {background-image: url("../../images/weapons/claymore/claymore_kunwu.png")}
+.weapon-icon-claymore-redhorn-stonethresher {background-image: url("../../images/weapons/claymore/claymore_itadorimaru.png")}
+.weapon-icon-claymore-beacon-of-the-reed-sea {background-image: url("../../images/weapons/claymore/claymore_deshret.png")}
+.weapon-icon-claymore-verdict {background-image: url("../../images/weapons/claymore/claymore_goldenverdict.png")}
+.weapon-icon-claymore-fang-of-the-mountain-king {background-image: url("../../images/weapons/claymore/claymore_emeraldsword.png")}
+.weapon-icon-claymore-a-thousand-blazing-suns {background-image: url("../../images/weapons/claymore/claymore_radiancesword.png")}
+.weapon-icon-claymore-flame-forged-insight {background-image: url("../../images/weapons/claymore/claymore_polilith.png")}
+.sprite-weapon-claymore.sprite-24 {
+	background-image: url("../../images/sprites/weapon_claymore_2b85e7a6f36d547a9e5e1bee8f4d3e57.png");
+	background-size: 120px 264px;
+}
+.sprite-weapon-claymore.sprite-40 {
+	background-image: url("../../images/sprites/weapon_claymore_242b4074aceda345f16719e3baa086d5.png");
+	background-size: 200px 440px;
+}
+.sprite-weapon-claymore.sprite-60 {
+	background-image: url("../../images/sprites/weapon_claymore_6ce26dac2d702eaee7a6bf54860f542b.png");
+	background-size: 300px 660px;
+}
+.sprite.weapon-icon-claymore-unknown {background-position: 0% 0%}
+.sprite.weapon-icon-claymore-ferrous-shadow {background-position: 25% 0%}
+.sprite.weapon-icon-claymore-bloodtainted-greatsword {background-position: 50% 0%}
+.sprite.weapon-icon-claymore-white-iron-greatsword {background-position: 75% 0%}
+.sprite.weapon-icon-claymore-debate-club {background-position: 100% 0%}
+.sprite.weapon-icon-claymore-skyrider-greatsword {background-position: 0% 10%}
+.sprite.weapon-icon-claymore-favonius-greatsword {background-position: 25% 10%}
+.sprite.weapon-icon-claymore-the-bell {background-position: 50% 10%}
+.sprite.weapon-icon-claymore-sacrificial-greatsword {background-position: 75% 10%}
+.sprite.weapon-icon-claymore-royal-greatsword {background-position: 100% 10%}
+.sprite.weapon-icon-claymore-rainslasher {background-position: 0% 20%}
+.sprite.weapon-icon-claymore-prototype-archaic {background-position: 25% 20%}
+.sprite.weapon-icon-claymore-whiteblind {background-position: 50% 20%}
+.sprite.weapon-icon-claymore-blackcliff-slasher {background-position: 75% 20%}
+.sprite.weapon-icon-claymore-serpent-spine {background-position: 100% 20%}
+.sprite.weapon-icon-claymore-lithic-blade {background-position: 0% 30%}
+.sprite.weapon-icon-claymore-snow-tombed-starsilver {background-position: 25% 30%}
+.sprite.weapon-icon-claymore-luxurious-sea-lord {background-position: 50% 30%}
+.sprite.weapon-icon-claymore-katsuragikiri-nagamasa {background-position: 75% 30%}
+.sprite.weapon-icon-claymore-makhaira-aquamarine {background-position: 100% 30%}
+.sprite.weapon-icon-claymore-akuoumaru {background-position: 0% 40%}
+.sprite.weapon-icon-claymore-forest-regalia {background-position: 25% 40%}
+.sprite.weapon-icon-claymore-mailed-flower {background-position: 50% 40%}
+.sprite.weapon-icon-claymore-talking-stick {background-position: 75% 40%}
+.sprite.weapon-icon-claymore-tidal-shadow {background-position: 100% 40%}
+.sprite.weapon-icon-claymore-ultimate-overlords-mega-magic-sword {background-position: 0% 50%}
+.sprite.weapon-icon-claymore-portable-power-saw {background-position: 25% 50%}
+.sprite.weapon-icon-claymore-fruitful-hook {background-position: 50% 50%}
+.sprite.weapon-icon-claymore-earth-shaker {background-position: 75% 50%}
+.sprite.weapon-icon-claymore-skyward-pride {background-position: 100% 50%}
+.sprite.weapon-icon-claymore-wolfs-gravestone {background-position: 0% 60%}
+.sprite.weapon-icon-claymore-song-of-broken-pines {background-position: 25% 60%}
+.sprite.weapon-icon-claymore-the-unforged {background-position: 50% 60%}
+.sprite.weapon-icon-claymore-redhorn-stonethresher {background-position: 75% 60%}
+.sprite.weapon-icon-claymore-beacon-of-the-reed-sea {background-position: 100% 60%}
+.sprite.weapon-icon-claymore-verdict {background-position: 0% 70%}
+.sprite.weapon-icon-claymore-fang-of-the-mountain-king {background-position: 25% 70%}
+.sprite.weapon-icon-claymore-a-thousand-blazing-suns {background-position: 50% 70%}
+.sprite.weapon-icon-claymore-flame-forged-insight {background-position: 75% 70%}
+
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (   min--moz-device-pixel-ratio: 2),
+only screen and (     -o-min-device-pixel-ratio: 2/1),
+only screen and (        min-device-pixel-ratio: 2),
+only screen and (                min-resolution: 192dpi),
+only screen and (                min-resolution: 2dppx) {
+	.weapon-icon-claymore-unknown {background-image: url("../../images/weapons/claymore/unknown_2x.png")}
+	.weapon-icon-claymore-ferrous-shadow {background-image: url("../../images/weapons/claymore/claymore_glaive_2x.png")}
+	.weapon-icon-claymore-bloodtainted-greatsword {background-image: url("../../images/weapons/claymore/claymore_siegfry_2x.png")}
+	.weapon-icon-claymore-white-iron-greatsword {background-image: url("../../images/weapons/claymore/claymore_tin_2x.png")}
+	.weapon-icon-claymore-debate-club {background-image: url("../../images/weapons/claymore/claymore_reasoning_2x.png")}
+	.weapon-icon-claymore-skyrider-greatsword {background-image: url("../../images/weapons/claymore/claymore_mitsurugi_2x.png")}
+	.weapon-icon-claymore-favonius-greatsword {background-image: url("../../images/weapons/claymore/claymore_zephyrus_2x.png")}
+	.weapon-icon-claymore-the-bell {background-image: url("../../images/weapons/claymore/claymore_troupe_2x.png")}
+	.weapon-icon-claymore-sacrificial-greatsword {background-image: url("../../images/weapons/claymore/claymore_fossil_2x.png")}
+	.weapon-icon-claymore-royal-greatsword {background-image: url("../../images/weapons/claymore/claymore_theocrat_2x.png")}
+	.weapon-icon-claymore-rainslasher {background-image: url("../../images/weapons/claymore/claymore_perdue_2x.png")}
+	.weapon-icon-claymore-prototype-archaic {background-image: url("../../images/weapons/claymore/claymore_proto_2x.png")}
+	.weapon-icon-claymore-whiteblind {background-image: url("../../images/weapons/claymore/claymore_exotic_2x.png")}
+	.weapon-icon-claymore-blackcliff-slasher {background-image: url("../../images/weapons/claymore/claymore_blackrock_2x.png")}
+	.weapon-icon-claymore-serpent-spine {background-image: url("../../images/weapons/claymore/claymore_kione_2x.png")}
+	.weapon-icon-claymore-lithic-blade {background-image: url("../../images/weapons/claymore/claymore_lapis_2x.png")}
+	.weapon-icon-claymore-snow-tombed-starsilver {background-image: url("../../images/weapons/claymore/claymore_dragonfell_2x.png")}
+	.weapon-icon-claymore-luxurious-sea-lord {background-image: url("../../images/weapons/claymore/claymore_millenniatuna_2x.png")}
+	.weapon-icon-claymore-katsuragikiri-nagamasa {background-image: url("../../images/weapons/claymore/claymore_bakufu_2x.png")}
+	.weapon-icon-claymore-makhaira-aquamarine {background-image: url("../../images/weapons/claymore/claymore_pleroma_2x.png")}
+	.weapon-icon-claymore-akuoumaru {background-image: url("../../images/weapons/claymore/claymore_maria_2x.png")}
+	.weapon-icon-claymore-forest-regalia {background-image: url("../../images/weapons/claymore/claymore_arakalari_2x.png")}
+	.weapon-icon-claymore-mailed-flower {background-image: url("../../images/weapons/claymore/claymore_fleurfair_2x.png")}
+	.weapon-icon-claymore-talking-stick {background-image: url("../../images/weapons/claymore/claymore_beasttamer_2x.png")}
+	.weapon-icon-claymore-tidal-shadow {background-image: url("../../images/weapons/claymore/claymore_vorpal_2x.png")}
+	.weapon-icon-claymore-ultimate-overlords-mega-magic-sword {background-image: url("../../images/weapons/claymore/claymore_champion_2x.png")}
+	.weapon-icon-claymore-portable-power-saw {background-image: url("../../images/weapons/claymore/claymore_mechanic_2x.png")}
+	.weapon-icon-claymore-fruitful-hook {background-image: url("../../images/weapons/claymore/claymore_umpakati_2x.png")}
+	.weapon-icon-claymore-earth-shaker {background-image: url("../../images/weapons/claymore/claymore_isikhulu_2x.png")}
+	.weapon-icon-claymore-skyward-pride {background-image: url("../../images/weapons/claymore/claymore_dvalin_2x.png")}
+	.weapon-icon-claymore-wolfs-gravestone {background-image: url("../../images/weapons/claymore/claymore_wolfmound_2x.png")}
+	.weapon-icon-claymore-song-of-broken-pines {background-image: url("../../images/weapons/claymore/claymore_widsith_2x.png")}
+	.weapon-icon-claymore-the-unforged {background-image: url("../../images/weapons/claymore/claymore_kunwu_2x.png")}
+	.weapon-icon-claymore-redhorn-stonethresher {background-image: url("../../images/weapons/claymore/claymore_itadorimaru_2x.png")}
+	.weapon-icon-claymore-beacon-of-the-reed-sea {background-image: url("../../images/weapons/claymore/claymore_deshret_2x.png")}
+	.weapon-icon-claymore-verdict {background-image: url("../../images/weapons/claymore/claymore_goldenverdict_2x.png")}
+	.weapon-icon-claymore-fang-of-the-mountain-king {background-image: url("../../images/weapons/claymore/claymore_emeraldsword_2x.png")}
+	.weapon-icon-claymore-a-thousand-blazing-suns {background-image: url("../../images/weapons/claymore/claymore_radiancesword_2x.png")}
+	.weapon-icon-claymore-flame-forged-insight {background-image: url("../../images/weapons/claymore/claymore_polilith_2x.png")}
+	.sprite-weapon-claymore.sprite-24 {background-image: url("../../images/sprites/weapon_claymore_b24ab404a449143d56a6a4c515233d53.png")}
+	.sprite-weapon-claymore.sprite-40 {background-image: url("../../images/sprites/weapon_claymore_95e329195ffb47da3c9b31184217b211.png")}
+	.sprite-weapon-claymore.sprite-60 {background-image: url("../../images/sprites/weapon_claymore_956b3db6ef5035a31b480cdcf3d902fa.png")}
+}

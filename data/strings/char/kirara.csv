@@ -1,0 +1,10 @@
+category;name;rus;eng
+feature_skill;kirara_flying_kick_dmg; Урон удара в полёте;Tail-Flicking Flying Kick DMG
+feature_skill;kirara_urgent_neko_parcel_dmg;Урон удара Срочной посылки нэко;Urgent Neko Parcel Hit DMG
+feature_skill;kirara_urgent_neko_parcel_duration;Макс. длительность Срочной посылки нэко;Max Urgent Neko Parcel Duration
+feature_skill;kirara_flipclaw_strike_dmg;Урон Удара когтями;Flipclaw Strike DMG
+feature_skill;kirara_party_shield;Щит важной перевозки;Critical Transport Shield
+feature_burst;kirara_cat_grass_explosion_dmg;Урон взрыва Семян кошачьей мяты;Cat Grass Cardamom Explosion DMG
+feature_burst;kirara_cat_grass_duration;Длительность Семян кошачьей мяты;Cat Grass Cardamom Duration
+feature_burst;kirara_cat_grass_explosion_extra_dmg;Урон дополнительных Семян кошачьей мяты;Extra Cat Grass Cardamom DMG
+feature_burst;kirara_coordinated_dmg;Урон совместной атаки;Coordinated attack DMG

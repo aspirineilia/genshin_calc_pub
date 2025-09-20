@@ -1,0 +1,5 @@
+category;name;rus;eng
+weapon_name;azurelight;Лазурное сияние;Azurelight
+talent_name;weapon_azurelight;Дар Белой горы;White Mountain's Bounty
+talent_descr;weapon_azurelight;На 12 сек. после применения name{элементального навыка} name{сила атаки} повышается на %{atk_percent}.;Within 12s after an name{Elemental Skill} is used, name{ATK} is increased by %{atk_percent}.
+talent_descr;weapon_azurelight_2;Если в это время у экипированного персонажа закончится энергия, name{сила атаки} дополнительно повысится на %{atk_percent}, а name{крит. урон} увеличится на %{crit_dmg}.;During this time, when the equipping character has 0 Energy, name{ATK} will be further increased by %{atk_percent}, and name{CRIT DMG} will be increased by %{crit_dmg}.

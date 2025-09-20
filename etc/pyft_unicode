@@ -1,0 +1,13 @@
+# pyftsubset zh-cn.ttf –layout-features='*' --unicodes-file=data/etc/pyft_unicode --output-file=genshin.ttf
+U+0000-007F # Basic Latin
+U+0080-00FF # Latin-1 Supplement
+U+0100-017F # Latin Extended-A
+U+0180-024F # Latin Extended-B
+U+0250-02AF # IPA Extensions
+U+02B0-02FF # Spacing Modifier Letters
+U+0400-04FF # Cyrillic
+U+1E00-1EFF # Latin Extended Additional
+U+2000-206F # General Punctuation
+U+2070-209F # Superscripts and Subscripts
+U+2150-218F # Number Forms
+U+2600-26FF # Miscellaneous Symbols

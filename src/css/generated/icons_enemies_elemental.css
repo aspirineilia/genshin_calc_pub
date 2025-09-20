@@ -1,0 +1,127 @@
+.type-elemental.enemy-icon-effigy-electric {background-image: url("../../images/enemies/elemental/effigy_electric.png")}
+.type-elemental.enemy-icon-effigy-fire {background-image: url("../../images/enemies/elemental/effigy_fire.png")}
+.type-elemental.enemy-icon-effigy-ice {background-image: url("../../images/enemies/elemental/effigy_ice.png")}
+.type-elemental.enemy-icon-effigy-rock {background-image: url("../../images/enemies/elemental/effigy_rock.png")}
+.type-elemental.enemy-icon-effigy-water {background-image: url("../../images/enemies/elemental/effigy_water.png")}
+.type-elemental.enemy-icon-effigy-wind {background-image: url("../../images/enemies/elemental/effigy_wind.png")}
+.type-elemental.enemy-icon-elemental-wind-01 {background-image: url("../../images/enemies/elemental/elemental_wind_01.png")}
+.type-elemental.enemy-icon-oceanid {background-image: url("../../images/enemies/elemental/oceanid.png")}
+.type-elemental.enemy-icon-oceanid-underling {background-image: url("../../images/enemies/elemental/oceanid_underling.png")}
+.type-elemental.enemy-icon-raijin {background-image: url("../../images/enemies/elemental/raijin.png")}
+.type-elemental.enemy-icon-slime-electric-02 {background-image: url("../../images/enemies/elemental/slime_electric_02.png")}
+.type-elemental.enemy-icon-slime-electric-03 {background-image: url("../../images/enemies/elemental/slime_electric_03.png")}
+.type-elemental.enemy-icon-slime-electric-03-positive {background-image: url("../../images/enemies/elemental/slime_electric_03_positive.png")}
+.type-elemental.enemy-icon-slime-fire-02 {background-image: url("../../images/enemies/elemental/slime_fire_02.png")}
+.type-elemental.enemy-icon-slime-fire-03 {background-image: url("../../images/enemies/elemental/slime_fire_03.png")}
+.type-elemental.enemy-icon-slime-grass-02 {background-image: url("../../images/enemies/elemental/slime_grass_02.png")}
+.type-elemental.enemy-icon-slime-grass-03 {background-image: url("../../images/enemies/elemental/slime_grass_03.png")}
+.type-elemental.enemy-icon-slime-ice-02 {background-image: url("../../images/enemies/elemental/slime_ice_02.png")}
+.type-elemental.enemy-icon-slime-ice-03 {background-image: url("../../images/enemies/elemental/slime_ice_03.png")}
+.type-elemental.enemy-icon-slime-rock-02 {background-image: url("../../images/enemies/elemental/slime_rock_02.png")}
+.type-elemental.enemy-icon-slime-rock-03 {background-image: url("../../images/enemies/elemental/slime_rock_03.png")}
+.type-elemental.enemy-icon-slime-water-02 {background-image: url("../../images/enemies/elemental/slime_water_02.png")}
+.type-elemental.enemy-icon-slime-water-03 {background-image: url("../../images/enemies/elemental/slime_water_03.png")}
+.type-elemental.enemy-icon-slime-wind-02 {background-image: url("../../images/enemies/elemental/slime_wind_02.png")}
+.type-elemental.enemy-icon-slime-wind-03 {background-image: url("../../images/enemies/elemental/slime_wind_03.png")}
+.type-elemental.enemy-icon-sylph-electric-01 {background-image: url("../../images/enemies/elemental/sylph_electric_01.png")}
+.type-elemental.enemy-icon-sylph-fire-01 {background-image: url("../../images/enemies/elemental/sylph_fire_01.png")}
+.type-elemental.enemy-icon-sylph-ice-01 {background-image: url("../../images/enemies/elemental/sylph_ice_01.png")}
+.type-elemental.enemy-icon-sylph-rock-01 {background-image: url("../../images/enemies/elemental/sylph_rock_01.png")}
+.type-elemental.enemy-icon-sylph-water-01 {background-image: url("../../images/enemies/elemental/sylph_water_01.png")}
+.type-elemental.enemy-icon-sylph-wind-01 {background-image: url("../../images/enemies/elemental/sylph_wind_01.png")}
+.type-elemental.enemy-icon-dendro-specter {background-image: url("../../images/enemies/elemental/dendro specter.png")}
+.type-elemental.enemy-icon-effigy-grass {background-image: url("../../images/enemies/elemental/effigy_grass.png")}
+.type-elemental.enemy-icon-necalevia-big {background-image: url("../../images/enemies/elemental/necalevia_big.png")}
+.type-elemental.enemy-icon-necalevia-normal {background-image: url("../../images/enemies/elemental/necalevia_normal.png")}
+.type-elemental.enemy-icon-narcissusborn-normal-01 {background-image: url("../../images/enemies/elemental/narcissusborn_normal_01.png")}
+.type-elemental.sprite-enemy.sprite-24 {
+	background-image: url("../../images/sprites/enemy_elemental_25c7d0d95f0da86415e6a8045016ca1f.png");
+	background-size: 144px 144px;
+}
+.type-elemental.sprite-enemy.sprite-60 {
+	background-image: url("../../images/sprites/enemy_elemental_ef570e0cfedababf2c521b7f3e8fa75b.png");
+	background-size: 360px 360px;
+}
+.sprite.type-elemental.enemy-icon-effigy-electric {background-position: 0% 0%}
+.sprite.type-elemental.enemy-icon-effigy-fire {background-position: 20% 0%}
+.sprite.type-elemental.enemy-icon-effigy-ice {background-position: 40% 0%}
+.sprite.type-elemental.enemy-icon-effigy-rock {background-position: 60% 0%}
+.sprite.type-elemental.enemy-icon-effigy-water {background-position: 80% 0%}
+.sprite.type-elemental.enemy-icon-effigy-wind {background-position: 100% 0%}
+.sprite.type-elemental.enemy-icon-elemental-wind-01 {background-position: 0% 20%}
+.sprite.type-elemental.enemy-icon-oceanid {background-position: 20% 20%}
+.sprite.type-elemental.enemy-icon-oceanid-underling {background-position: 40% 20%}
+.sprite.type-elemental.enemy-icon-raijin {background-position: 60% 20%}
+.sprite.type-elemental.enemy-icon-slime-electric-02 {background-position: 80% 20%}
+.sprite.type-elemental.enemy-icon-slime-electric-03 {background-position: 100% 20%}
+.sprite.type-elemental.enemy-icon-slime-electric-03-positive {background-position: 0% 40%}
+.sprite.type-elemental.enemy-icon-slime-fire-02 {background-position: 20% 40%}
+.sprite.type-elemental.enemy-icon-slime-fire-03 {background-position: 40% 40%}
+.sprite.type-elemental.enemy-icon-slime-grass-02 {background-position: 60% 40%}
+.sprite.type-elemental.enemy-icon-slime-grass-03 {background-position: 80% 40%}
+.sprite.type-elemental.enemy-icon-slime-ice-02 {background-position: 100% 40%}
+.sprite.type-elemental.enemy-icon-slime-ice-03 {background-position: 0% 60%}
+.sprite.type-elemental.enemy-icon-slime-rock-02 {background-position: 20% 60%}
+.sprite.type-elemental.enemy-icon-slime-rock-03 {background-position: 40% 60%}
+.sprite.type-elemental.enemy-icon-slime-water-02 {background-position: 60% 60%}
+.sprite.type-elemental.enemy-icon-slime-water-03 {background-position: 80% 60%}
+.sprite.type-elemental.enemy-icon-slime-wind-02 {background-position: 100% 60%}
+.sprite.type-elemental.enemy-icon-slime-wind-03 {background-position: 0% 80%}
+.sprite.type-elemental.enemy-icon-sylph-electric-01 {background-position: 20% 80%}
+.sprite.type-elemental.enemy-icon-sylph-fire-01 {background-position: 40% 80%}
+.sprite.type-elemental.enemy-icon-sylph-ice-01 {background-position: 60% 80%}
+.sprite.type-elemental.enemy-icon-sylph-rock-01 {background-position: 80% 80%}
+.sprite.type-elemental.enemy-icon-sylph-water-01 {background-position: 100% 80%}
+.sprite.type-elemental.enemy-icon-sylph-wind-01 {background-position: 0% 100%}
+.sprite.type-elemental.enemy-icon-dendro-specter {background-position: 20% 100%}
+.sprite.type-elemental.enemy-icon-effigy-grass {background-position: 40% 100%}
+.sprite.type-elemental.enemy-icon-necalevia-big {background-position: 60% 100%}
+.sprite.type-elemental.enemy-icon-necalevia-normal {background-position: 80% 100%}
+.sprite.type-elemental.enemy-icon-narcissusborn-normal-01 {background-position: 100% 100%}
+
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (   min--moz-device-pixel-ratio: 2),
+only screen and (     -o-min-device-pixel-ratio: 2/1),
+only screen and (        min-device-pixel-ratio: 2),
+only screen and (                min-resolution: 192dpi),
+only screen and (                min-resolution: 2dppx) {
+	.type-elemental.enemy-icon-effigy-electric {background-image: url("../../images/enemies/elemental/effigy_electric_2x.png")}
+	.type-elemental.enemy-icon-effigy-fire {background-image: url("../../images/enemies/elemental/effigy_fire_2x.png")}
+	.type-elemental.enemy-icon-effigy-ice {background-image: url("../../images/enemies/elemental/effigy_ice_2x.png")}
+	.type-elemental.enemy-icon-effigy-rock {background-image: url("../../images/enemies/elemental/effigy_rock_2x.png")}
+	.type-elemental.enemy-icon-effigy-water {background-image: url("../../images/enemies/elemental/effigy_water_2x.png")}
+	.type-elemental.enemy-icon-effigy-wind {background-image: url("../../images/enemies/elemental/effigy_wind_2x.png")}
+	.type-elemental.enemy-icon-elemental-wind-01 {background-image: url("../../images/enemies/elemental/elemental_wind_01_2x.png")}
+	.type-elemental.enemy-icon-oceanid {background-image: url("../../images/enemies/elemental/oceanid_2x.png")}
+	.type-elemental.enemy-icon-oceanid-underling {background-image: url("../../images/enemies/elemental/oceanid_underling_2x.png")}
+	.type-elemental.enemy-icon-raijin {background-image: url("../../images/enemies/elemental/raijin_2x.png")}
+	.type-elemental.enemy-icon-slime-electric-02 {background-image: url("../../images/enemies/elemental/slime_electric_02_2x.png")}
+	.type-elemental.enemy-icon-slime-electric-03 {background-image: url("../../images/enemies/elemental/slime_electric_03_2x.png")}
+	.type-elemental.enemy-icon-slime-electric-03-positive {background-image: url("../../images/enemies/elemental/slime_electric_03_positive_2x.png")}
+	.type-elemental.enemy-icon-slime-fire-02 {background-image: url("../../images/enemies/elemental/slime_fire_02_2x.png")}
+	.type-elemental.enemy-icon-slime-fire-03 {background-image: url("../../images/enemies/elemental/slime_fire_03_2x.png")}
+	.type-elemental.enemy-icon-slime-grass-02 {background-image: url("../../images/enemies/elemental/slime_grass_02_2x.png")}
+	.type-elemental.enemy-icon-slime-grass-03 {background-image: url("../../images/enemies/elemental/slime_grass_03_2x.png")}
+	.type-elemental.enemy-icon-slime-ice-02 {background-image: url("../../images/enemies/elemental/slime_ice_02_2x.png")}
+	.type-elemental.enemy-icon-slime-ice-03 {background-image: url("../../images/enemies/elemental/slime_ice_03_2x.png")}
+	.type-elemental.enemy-icon-slime-rock-02 {background-image: url("../../images/enemies/elemental/slime_rock_02_2x.png")}
+	.type-elemental.enemy-icon-slime-rock-03 {background-image: url("../../images/enemies/elemental/slime_rock_03_2x.png")}
+	.type-elemental.enemy-icon-slime-water-02 {background-image: url("../../images/enemies/elemental/slime_water_02_2x.png")}
+	.type-elemental.enemy-icon-slime-water-03 {background-image: url("../../images/enemies/elemental/slime_water_03_2x.png")}
+	.type-elemental.enemy-icon-slime-wind-02 {background-image: url("../../images/enemies/elemental/slime_wind_02_2x.png")}
+	.type-elemental.enemy-icon-slime-wind-03 {background-image: url("../../images/enemies/elemental/slime_wind_03_2x.png")}
+	.type-elemental.enemy-icon-sylph-electric-01 {background-image: url("../../images/enemies/elemental/sylph_electric_01_2x.png")}
+	.type-elemental.enemy-icon-sylph-fire-01 {background-image: url("../../images/enemies/elemental/sylph_fire_01_2x.png")}
+	.type-elemental.enemy-icon-sylph-ice-01 {background-image: url("../../images/enemies/elemental/sylph_ice_01_2x.png")}
+	.type-elemental.enemy-icon-sylph-rock-01 {background-image: url("../../images/enemies/elemental/sylph_rock_01_2x.png")}
+	.type-elemental.enemy-icon-sylph-water-01 {background-image: url("../../images/enemies/elemental/sylph_water_01_2x.png")}
+	.type-elemental.enemy-icon-sylph-wind-01 {background-image: url("../../images/enemies/elemental/sylph_wind_01_2x.png")}
+	.type-elemental.enemy-icon-dendro-specter {background-image: url("../../images/enemies/elemental/dendro specter_2x.png")}
+	.type-elemental.enemy-icon-effigy-grass {background-image: url("../../images/enemies/elemental/effigy_grass_2x.png")}
+	.type-elemental.enemy-icon-necalevia-big {background-image: url("../../images/enemies/elemental/necalevia_big_2x.png")}
+	.type-elemental.enemy-icon-necalevia-normal {background-image: url("../../images/enemies/elemental/necalevia_normal_2x.png")}
+	.type-elemental.enemy-icon-narcissusborn-normal-01 {background-image: url("../../images/enemies/elemental/narcissusborn_normal_01_2x.png")}
+	.type-elemental.sprite-enemy.sprite-24 {background-image: url("../../images/sprites/enemy_elemental_4674246052c002983fa1eb7f250fda44.png")}
+	.type-elemental.sprite-enemy.sprite-60 {background-image: url("../../images/sprites/enemy_elemental_61dc8ac171ea33606c6e1c57c3042c89.png")}
+}

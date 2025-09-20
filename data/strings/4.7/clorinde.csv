@@ -1,0 +1,24 @@
+category;name;rus;eng
+char_name;clorinde;Клоринда;Clorinde
+
+feature_skill;clorinde_wild_hunt_dmg;Урон Неистовой охоты;Wild Hunt DMG
+feature_skill;clorinde_wild_hunt_1_dmg;Урон Неистовой охоты-1;Wild Hunt DMG-1
+feature_skill;clorinde_wild_hunt_2_dmg;Урон Неистовой охоты-2;Wild Hunt DMG-2
+feature_skill;clorinde_wild_hunt_bol;Долг жизни от Неистовой охоты;Wild Hunt Bond of Life Gain
+feature_skill;clorinde_impale_the_night_dmg;Урон Пронзания ночи;Impale the Night DMG
+feature_skill;clorinde_impale_the_night_1_dmg;Урон Пронзания ночи-1;Impale the Night DMG-1
+feature_skill;clorinde_impale_the_night_2_dmg;Урон Пронзания ночи-2;Impale the Night DMG-2
+feature_skill;clorinde_impale_the_night_3_dmg;Урон Пронзания ночи-3;Impale the Night DMG-3
+feature_skill;clorinde_impale_the_night_heal;Лечение Пронзания ночи;Impale the Night Healing
+feature_skill;clorinde_impale_the_night_2_heal;Лечение Пронзания ночи-2;Impale the Night Healing-2
+feature_skill;clorinde_impale_the_night_3_heal;Лечение Пронзания ночи-3;Impale the Night Healing-3
+feature_skill;clorinde_conversion;Конвертация Долга жизни;Bond of Life Conversion
+feature_skill;clorinde_duration;Длительность Ночного дозора;Night Watch Duration
+feature_skill;clorinde_nightwatch_shade_dmg;Урон Тени ночного дозора;Nightwatch Shade DMG
+feature_burst;clorinde_burst_bol;Получаемый Долг жизни;Bond of Life Gain
+feature_other;clorinde_glimbright_shade_dmg;Урон Тени яркой свечи;Glimbright Shade DMG
+
+stat;dmg_burst_clorinde;Последние лучи света;Last Lightfall
+
+talent_name;clorinde_night_watch;Ночной дозор;Night Watch
+talent_descr;clorinde_night_watch;В этом состоянии name{обычная атака} name{Клоринды} превращаются в мушкетные атаки name{Неистовой охоты}, а их урон конвертируется в урон electro{Электро}, который не может быть отменён другими инфузиями. Её name{элементальный навык} превращается в name{Пронзание ночи}: выполняет рывок и наносит electro{Электро урон}. Урон, наносимый таким способом, считается уроном name{обычной атаки}.;name{Clorinde}'s name{Normal Attacks} will be transformed into "name{Wild Hunt}" pistolet attacks, and the DMG dealt is converted into electro{Electro DMG} that cannot be overridden by infusions. Her name{Elemental Skill} will be transformed into "name{Impale the Night}": Performs a lunging attack, dealing electro{Electro DMG}. The DMG done through the aforementioned method is considered name{Normal Attack} DMG.

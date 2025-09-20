@@ -1,0 +1,5 @@
+category;name;rus;eng
+tab_header;buff_view;Усиления;Buffs
+modal_window;buff_select_char;Сохранённые персонажи;Saved char
+buff_view;buff_char_load;Загрузить;Load char
+buff_view;buff_no_char;Нет подходящих персонажей;No suitable characters

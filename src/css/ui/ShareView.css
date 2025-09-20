@@ -1,0 +1,115 @@
+.gi-share-tab .gi-tab-item-inner {
+    background-image: url("../../images/icons/tab_share_2_light.png");
+}
+.gi-share-tab.active .gi-tab-item-inner {
+    background-color: #ECE5D8;
+    background-image: url("../../images/icons/tab_share_2_dark.png");
+}
+
+.gi-share-text {
+    width: 100%;
+    margin: 5px 0;
+}
+
+.gi-share-link-wrapper {
+    width: 100%;
+    display: inline-flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    margin: 5px 0;
+}
+
+.gi-share-link {
+    height: 26px;
+    background-color: #353D4F;
+    border: solid 2px #626770;
+    border-right: 0px none;
+    border-radius: 13px 0 0 13px;
+    padding-left: 13px;
+    padding-right: 10px;
+    color: #FFF7E9;
+    display: block;
+    float: left;
+    box-sizing: border-box;
+    text-overflow: ellipsis;
+    flex-grow: 1;
+}
+
+.gi-share-button::before {
+    content: "";
+    width: 2px;
+    height: 14px;
+    background-color: #737C8B;
+    position: absolute;
+    left: -3px;
+    top: 4px;
+}
+
+.gi-share-button {
+    height: 26px;
+    line-height: 22px;
+    background-color: #353D4F;
+    border: solid 2px #626770;
+    color: #FFF7E9;
+    border-left: 0px none;
+    border-radius: 0 13px 13px 0;
+    display: block;
+    float: left;
+    box-sizing: border-box;
+    cursor: pointer;
+    padding-right: 13px;
+    padding-left: 22px;
+    position: relative;
+}
+
+.gi-share-copy {
+    width: 18px;
+    height: 18px;
+    position: absolute;
+    display: block;
+    background-image: url("../../images/icons/copy.png");
+    top: 2px;
+    left: 0px;
+}
+
+.gi-share-link:focus {
+    outline: none;
+}
+
+.gi-share-saved-char:nth-child(n+2) {
+    margin-top: 20px;
+}
+
+.gi-share-list {
+    margin: 5px 0;
+    width: 100%;
+    display: flex;
+    align-items: flex-end;
+}
+
+.gi-share-list-title {
+    padding-left: 10px;
+}
+
+.gi-share-delete {
+    background-size: cover;
+    background-image: url("../../images/icons/delete2.png");
+}
+
+.gi-share-load {
+    background-size: cover;
+    background-image: url("../../images/icons/arrow_up.png");
+}
+
+.gi-share-overwrite {
+    background-size: cover;
+    background-image: url("../../images/icons/arrow_down.png");
+}
+
+.gi-save-text-wrapper {
+    width: 100%;
+    display: inline-flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    box-sizing: border-box;
+}

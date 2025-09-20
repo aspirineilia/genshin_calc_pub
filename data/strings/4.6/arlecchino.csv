@@ -1,0 +1,19 @@
+category;name;rus;eng
+char_name;arlecchino;Арлекино;Arlecchino
+
+feature_attack;arlecchino_masque;Усиление Маски Красной Смерти;Masque of the Red Death Increase
+feature_attack;arlecchino_stamina_cost;Потребление выносливости на стремительное перемещение;High-Speed Movement Stamina Cost
+feature_skill;arlecchino_spike_dmg;Урон шипов;Spike DMG
+feature_skill;arlecchino_cleave_dmg;Урон выпада;Cleave DMG
+feature_skill;arlecchino_blooddebt_dmg;Урон Веления кровавого долга;Blood-Debt Directive DMG
+feature_skill;arlecchino_balemoon_bloodfire_dmg;Урон Пламени роковой луны;Balemoon Bloodfire DMG
+feature_burst;arlecchino_heal;Восстанавливаемое HP;Amount of HP Restored
+
+talent_descr;arlecchino_rotation_no_bond;Снижение долга жизни работает только при 1 ударе;BoL consumption works only with x1 count
+talent_descr;arlecchino_rotation_no_bond_block;Снижение долга жизни не работает внутри блоков;BoL consumption does not work inside blocks
+talent_descr;arlecchino_rotation_bond;Долг жизни: %{count_percent|0|1};Bond of Life: %{count_percent|0|1}
+
+talent_name;arlecchino_masque_of_the_red_death;Маска Красной Смерти;Masque of the Red Death
+talent_descr;arlecchino_masque_of_the_red_death;Когда name{Арлекино} обладает name{Долгом жизни}, который равен или превышает value{30%} от её макс. HP, она входит в состояние name{Маски Красной Смерти}: урон её name{обычных атак}, name{заряженных атак} и name{атак в падении} конвертируется в pyro{Пиро урон}. Этот эффект не может быть отменён какой-либо элементальной инфузией.;When name{Arlecchino} has a name{Bond of Life} equal to or greater than value{30%} of her Max HP, she will enter the "name{Masque of the Red Death}" state, where her name{Normal}, name{Charged}, and name{Plunging Attacks} will be converted to deal pyro{Pyro DMG}. This cannot be overridden.
+talent_name;arlecchino_cinders_alone_shall_nourish;Лишь пепел насытит;Cinders Alone Shall Nourish
+talent_descr;arlecchino_cinders_alone_shall_nourish;В бою name{Арлекино} получает %{dmg_pyro} бонус pyro{Пиро урона} и может исцеляться только skill{burst:Восхождением роковой луны}.;While in combat, name{Arlecchino} gains a %{dmg_pyro} pyro{Pyro DMG} Bonus and can only be healed through skill{burst:Balemoon Rising}.

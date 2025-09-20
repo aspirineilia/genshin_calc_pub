@@ -1,0 +1,9 @@
+category;name;rus;eng
+weapon_name;fractured_halo;Рассеянный свет;Fractured Halo
+talent_name;weapon_fractured_halo;Очищающий венец;Purifying Crown
+talent_descr;weapon_fractured_halo_1;При активации name{элементального навыка} или name{взрыва стихии} сила атаки увеличивается на %{atk_percent} на 20 сек.;After an name{Elemental Skill} or name{Elemental Burst} is used, name{ATK} is increased by %{atk_percent} for 20s.
+talent_descr;weapon_fractured_halo_2;Если экипированный персонаж в это время создаёт щит, то на 20 сек. он получает эффект name{Электризующего эдикта}: урон реакции electro{Лунный заряд} всех членов отряда поблизости увеличивается на %{dmg_reaction_lunarcharged|40}.;If the equipping character creates a Shield while this effect is active, they will gain the name{Electrifying Edict} effect for 20s: All nearby party members deal %{dmg_reaction_lunarcharged|40} more electro{Lunar-Charged} DMG.
+
+weapon_name;flame_forged_insight;Выкованное пламенем озарение;Flame-Forged Insight
+talent_name;weapon_flame_forged_insight;Разум в расцвете;Mind in Bloom
+talent_descr;weapon_flame_forged_insight;Активация реакций electro{Заряжен}, electro{Лунный заряд} или dendro{Бутонизация} восстанавливает %{text_value} ед. энергии и на 15 сек. повышает name{мастерство стихий} на %{mastery} ед. Эффект может возникнуть один раз в 15 сек. и срабатывает, даже когда экипированный персонаж не на поле боя.;When electro{Electro-Charged}, electro{Lunar-Charged}, or electro{Bloom} is triggered, restore %{text_value} Elemental Energy and increase name{Elemental Mastery} by %{mastery} for 15 seconds. This effect can be triggered once every 15s and can be triggered even when the equipping character is off-field.

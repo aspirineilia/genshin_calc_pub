@@ -1,0 +1,8 @@
+category;name;rus;eng
+artifact_view;scan;Сканировать;Scan
+artifact_view;change_set;Комплект;Switch set
+artifact_view;clear_artifacts;Очистить;Clear
+artifact_view;random_artifacts;Случайн.;Random
+artifact_view;clear_confirm;Снять все надетые артефакты?;Unequip all equipped artifacts?
+artifact_view;total_stats;Характеристики артефактов;Artifact details
+artifact_view;useful_rolls;Полезные роллы доп. характеристик;Useful substat rolls

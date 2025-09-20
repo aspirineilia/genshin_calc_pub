@@ -1,0 +1,7 @@
+.gi-suggest-artifact-set-tab .gi-tab-item-inner {
+    background-image: url("../../../images/icons/tab_artifact3_light.png");
+}
+.gi-suggest-artifact-set-tab.active .gi-tab-item-inner {
+    background-color: #ECE5D8;
+    background-image: url("../../../images/icons/tab_artifact3_dark.png");
+}

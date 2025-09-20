@@ -1,0 +1,47 @@
+.gi-pool-lock {
+    width: 550px;
+}
+
+.gi-window-pool-lock-chars-wrapper {
+    margin-top: 5px;
+    padding-right: 12px;
+}
+
+.gi-window-pool-buttons {
+    display: flex;
+}
+
+.gi-window-pool-buttons > .gi-inputs-button {
+    margin-right: 10px;
+}
+
+.gi-window-pool-lock-info {
+    height: 25px;
+    line-height: 25px;
+    color: #BEAEA9;
+    font-size: 12px;
+}
+
+.gi-char-info-artifact-locked {
+    position: absolute;
+    top: 7px;
+    left: 7px;
+    border: 1px solid rgb(30, 30, 30);
+    width: 20px;
+    height: 20px;
+    background: rgba(30, 30, 30, 0.5);
+    border-radius: 50%;
+    background-image: url("../../../images/icons/editart.png");
+    background-position: 0px -20px;
+    background-repeat: no-repeat;
+}
+
+.gi-artifact-pool-unlock-char {
+    background-image: url("../../../images/icons/btn_unlock.png");
+    background-size: 100%;
+}
+
+.gi-artifact-pool-lock-char {
+    background-image: url("../../../images/icons/btn_lock.png");
+    background-size: 100%;
+}

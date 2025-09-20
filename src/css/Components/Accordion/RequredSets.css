@@ -1,0 +1,13 @@
+.accordion-artifact-reqsets {
+    display: flex;
+    align-items: center;
+}
+
+.accordion-artifact-reqsets .pieces {
+    font-size: 13px;
+    color: #BEAEA9;
+}
+
+.accordion-artifact-reqsets .item-icon {
+    cursor: pointer;
+}

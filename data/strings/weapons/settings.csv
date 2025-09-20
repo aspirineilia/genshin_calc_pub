@@ -1,0 +1,37 @@
+category;name;rus;eng
+weapon_settings;widsith_atk;Сила атаки;ATK
+weapon_settings;widsith_eledmg;Стих. урон;El. DMG
+weapon_settings;widsith_mastery;Маст. стихий;El. Mastery
+weapon_settings;widsith_nobonus;Нет бонуса;No bonus
+weapon_settings;widsith_avg;Среднее;Average
+weapon_settings;fading_twilight_2;Туман;Afterglow
+weapon_settings;deathmatch_def;2+ врага;2+ enemies
+weapon_settings;deathmatch_atk;1 враг;1 enemy
+
+weapon_settings;no_stacks;Без зарядов;No stacks
+weapon_settings;stacks_1;1 заряд;1 stack
+weapon_settings;stacks_2;2 заряда;2 stacks
+weapon_settings;stacks_3;3 заряда;3 stacks
+weapon_settings;stacks_4;4 заряда;4 stacks
+weapon_settings;stacks_5;5 зарядов;5 stacks
+
+weapon_settings;unbuffed;Без бонуса;No buff
+weapon_settings;buffed;С бонусом;Buff
+weapon_settings;with_shield;С щитом;Shield
+weapon_settings;no_shield;Без щита;No shield
+weapon_settings;on_field;На поле боя;On field
+weapon_settings;off_field;Вне поля боя;Off field
+weapon_settings;average;Среднее;Average
+weapon_settings;stick_pypo;Сила атаки;ATK
+weapon_settings;stick_other;Стих. урон;Elem. DMG
+weapon_settings;no_heal;Без лечения;No healing
+weapon_settings;with_heal;С лечением;With healing
+
+weapon_settings;enemy_no_status;Без элемента;No element
+weapon_settings;enemy_cryo;Крио;Cryo
+weapon_settings;enemy_electro;Электро;Electro
+weapon_settings;enemy_hydro;Гидро;Hydro
+weapon_settings;enemy_pyro;Пиро;Pyro
+weapon_settings;enemy_geo;Гео;Geo
+weapon_settings;enemy_anemo;Анемо;Anemo
+weapon_settings;enemy_dendro;Дендро;Dendro

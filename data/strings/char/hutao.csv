@@ -1,0 +1,11 @@
+category;name;rus;eng
+feature_skill;hutao_atk_bonus;Бонус атаки;Atk bonus
+feature_skill;hutao_blood_blossom;Урон Кровавого цветка;Blood Blossom DMG
+feature_skill;hutao_max_hp_bonus;HP для макс. бонуса атаки;HP for max atk bonus
+feature_skill;hutao_skill_cost;Потребление навыка;Activation Cost
+feature_skill;hutao_blossom_duration;Длительность Кровавого цветка;Blood Blossom Duration
+feature_burst;hutao_burst_dmg_lowhp;Урон при низком здоровье;Low HP burst DMG
+feature_burst;hutao_heal_lowhp;Лечение при низком здоровье;Low HP burst Heal
+
+talent_name;hutao_paramita_papilio;Танец бабочки;Paramita Papilio
+talent_descr;hutao_paramita_papilio;Войдя в это состояние, name{сила атаки} name{Ху Тао} увеличивается в зависимости от её name{макс. HP}. Полученный таким образом бонус name{силы атаки} не может превышать %{text_percent_hp} от name{базовой силы атаки} name{Ху Тао}. Конвертирует урон от атак в pyro{Пиро урон}, этот эффект не может быть отменён какой-либо элементальной инфузией.;Increases name{Hu Tao}'s name{ATK} based on her name{Max HP} at the time of entering this state. ATK Bonus gained this way cannot exceed %{text_percent_hp} of name{Hu Tao}'s name{Base ATK}. name{Hu Tao}'s attack DMG is converted to pyro{Pyro DMG}, which cannot be overridden by any other elemental infusion.

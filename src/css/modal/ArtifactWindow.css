@@ -1,0 +1,353 @@
+.gi-artifact-window {
+    width: 880px;
+}
+
+.gi-modal-art-line {
+    width: 100%;
+    min-height: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-top: 5px;
+}
+
+.gi-modal-set-line {
+    width: 100%;
+    position: relative;
+}
+
+.gi-modal-mainstat-line {
+    width: 100%;
+    box-sizing: border-box;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+}
+
+.gi-modal-substat-line {
+    width: 100%;
+    box-sizing: border-box;
+    display: flex;
+}
+
+.gi-modal-substat-lines {
+    min-height: 270px;
+    width: 100%;
+}
+
+.gi-modal-substat-line:not(:first-child) {
+    margin-top: 10px;
+}
+
+.gi-modal-set-caption {
+    height: 40px;
+    line-height: 40px;
+    text-align: right;
+    padding-right: 5px;
+}
+
+.gi-modal-set-icon {
+    width: 40px;
+    height: 40px;
+    background-size: cover;
+    cursor: pointer;
+}
+
+.gi-modal-type-caption {
+    height: 40px;
+    line-height: 40px;
+    text-align: right;
+    padding-right: 5px;
+}
+
+.gi-modal-type {
+    width: 30px;
+    height: 30px;
+    background-size: 70%;
+    background-color: rgba(236, 229, 216, 0.3);
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 15px;
+    margin: 5px;
+    box-sizing: border-box;
+}
+
+.locked .gi-modal-type:not(.active) {
+    display: none;
+}
+
+.gi-modal-type.flower {
+    background-image: url("../../images/icons/artifact_flower.png");
+}
+
+.gi-modal-type.plume {
+    background-image: url("../../images/icons/artifact_plume.png");
+}
+
+.gi-modal-type.sands {
+    background-image: url("../../images/icons/artifact_sands.png");
+}
+
+.gi-modal-type.goblet {
+    background-image: url("../../images/icons/artifact_goblet.png");
+}
+
+.gi-modal-type.circlet {
+    background-image: url("../../images/icons/artifact_circlet.png");
+}
+
+.gi-modal-mainstat-item {
+    min-width: 140px;
+    height: 25px;
+    font-size: 14px;
+    background-color: rgba(236, 229, 216, 0.3);
+    margin: 2px;
+    text-align: center;
+    line-height: 25px;
+    border-radius: 4px;
+    color: black;
+    float: left;
+    display: none;
+    box-sizing: border-box;
+}
+
+.gi-modal-substat-item {
+    min-width: 85px;
+    height: 25px;
+    font-size: 12px;
+    background-color: rgba(236, 229, 216, 0.3);
+    margin: 2px;
+    text-align: center;
+    line-height: 25px;
+    border-radius: 4px;
+    color: black;
+    box-sizing: border-box;
+}
+
+.gi-modal-substat-stats {
+    width: 520px;
+    flex-shrink: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(85px, 1fr));
+    flex-grow: 1;
+}
+
+.gi-modal-substat-value-wrapper {
+    min-width: 350px;
+    flex-grow: 1;
+}
+
+.gi-modal-substat-value {
+    width: 100%;
+    text-align: center;
+    height: 30px;
+    display: flex;
+    flex-grow: 1;
+}
+
+.gi-modal-substat-value-rolls {
+    height: 28px;
+    width: 100%;
+    box-sizing: border-box;
+    padding-left: 10px;
+    flex-shrink: 0;
+}
+
+.gi-artifact-window .gi-inputs-number-input {
+    width: 70px;
+    display: block;
+    float: left;
+}
+
+.gi-modal-substat-value-slider {
+    width: 250px;
+    flex-grow: 1;
+    margin-top: 4px;
+}
+
+.flower > .flower, .plume > .plume, .sands > .sands, .goblet > .goblet, .circlet > .circlet {
+    display: block;
+}
+
+.gi-modal-mainstat-item:hover:not(.disabled), .gi-modal-type:hover:not(.disabled), .gi-modal-substat-item:hover:not(.disabled) {
+    border: 1px solid #2B2D33;
+    cursor: pointer;
+}
+
+.gi-modal-mainstat-item.active, .gi-modal-type.active, .gi-modal-substat-item.active {
+    background-color: #ECE5D8;
+}
+
+.gi-modal-mainstat-item.disabled, .gi-modal-type.disabled, .gi-modal-substat-item.disabled {
+    color: #747474;
+    background-color: rgba(236, 229, 216, 0.1);
+    cursor: not-allowed;
+}
+
+
+
+.gi-artifact-window-stars {
+    margin-left: 10px;
+    height: 40px;
+    padding-top: 10px;
+    box-sizing: border-box;
+}
+
+.gi-artifact-window-star {
+    background-image: url("../../images/icons/set_star.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    float: left;
+    width: 20px;
+    height: 20px;
+    opacity: 20%;
+    cursor: pointer;
+}
+
+.gi-artifact-window-star.active {
+    opacity: unset;
+}
+
+.gi-artifact-window-level {
+    margin-left: 10px;
+    height: 40px;
+    display: flex;
+}
+
+.gi-artifact-window-level .gi-slider-wrapper {
+    padding-top: 10px;
+    width: 165px;
+}
+
+.gi-artifact-window-level-value {
+    width: 35px;
+    text-align: center;
+    line-height: 40px;
+    display: block;
+}
+
+.gi-artifact-window-group-wrapper {
+    display: flex;
+    align-items: center;
+    flex-grow: 1;
+}
+
+.gi-artifact-window-group {
+    flex-grow: 1;
+    min-width: 280px;
+    max-width: 440px;
+}
+
+.narrow .gi-artifact-window-group {
+    max-width: none;
+}
+
+.gi-artifact-window-group-add-button {
+    width: 26px;
+    height: 26px;
+    max-height: 26px;
+    flex-shrink: 0;
+    background-color: #ECE5D8;
+    background-size: 80%;
+    background-position: center;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    margin: 3px;
+    cursor: pointer;
+    background-image: url("../../images/icons/plus.png");
+    background-size: 18px 18px;
+    background-position: center;
+}
+
+.gi-artifact-set {
+    height: 40px;
+    width: 250px;
+    float: left;
+    background: #ECE5D8;
+    border-radius: 20px;
+    color: #3B4255;
+    margin: 2px;
+    cursor: pointer;
+}
+
+.gi-artifact-set-icon {
+    width: 40px;
+    height: 40px;
+    background-size: contain;
+    display: block;
+    float: left;
+}
+
+.gi-artifact-set-name {
+    height: 40px;
+    width: calc(100% - 45px);
+    line-height: 40px;
+    display: block;
+    float: left;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.gi-modal-substat-value-roll {
+    float: left;
+    height: 20px;
+    min-width: 34px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 20px;
+    background-color: rgba(40, 28, 15, 0.7);
+    border: solid 1px #ECE5D8;
+    margin-top: 4px;
+    margin-right: 5px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    padding: 0px 3px;
+
+}
+
+.gi-modal-substat-value-roll.last {
+    color: red;
+    cursor: pointer;
+}
+
+.gi-modal-line-error {
+    width: 100%;
+    height: 20px;
+    line-height: 22px;
+    font-size: 12px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.gi-modal-line-error-icon {
+    width: 20px;
+    height: 20px;
+    display: block;
+    float: left;
+    background-image: url("../../images/icons/warning.png");
+    background-repeat: no-repeat;
+    margin-right: 5px;
+}
+
+.narrow .gi-modal-substat-line {
+    flex-wrap: wrap;
+}
+
+.narrow .gi-artifact-window {
+    min-width: 560px;
+    min-height: 580px;
+}
+
+.narrow .gi-modal-substat-value-wrapper {
+    display: flex;
+    margin-top: 7px;
+}
+
+.narrow .gi-modal-substat-value-rolls {
+    flex-shrink: 0;
+    width: 310px;
+}
+
+.narrow .gi-modal-substat-value-slider {
+    width: 150px;
+}

@@ -1,0 +1,99 @@
+.item-icon {
+    width: 80px;
+    height: 80px;
+    flex-shrink: 0;
+    border-radius: 50%;
+    border: solid 4px transparent;
+    background-position: center;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.item-icon.weapon {
+    background-color: #3E4556;
+}
+
+.icon-80 {
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    background-size: 80px 80px;
+}
+
+.icon-60 {
+    width: 60px;
+    height: 60px;
+    border: solid 3px transparent;
+}
+
+.icon-40 {
+    width: 40px;
+    height: 40px;
+    border: solid 2px transparent;
+}
+
+.icon-24 {
+    width: 24px;
+    height: 24px;
+}
+
+.item-icon > div {
+    position: relative;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    background-size: cover;
+}
+
+.item-icon.no-border {
+    border: 0px none;
+}
+
+.icon-80 > div {
+    width: 80px;
+    height: 80px;
+    top: -4px;
+    left: -4px;
+}
+
+.icon-60 > div {
+    width: 60px;
+    height: 60px;
+    top: -3px;
+    left: -3px;
+}
+
+.icon-40 > div {
+    width: 40px;
+    height: 40px;
+    top: -2px;
+    left: -2px;
+}
+
+.icon-24 > div {
+    width: 24px;
+    height: 24px;
+}
+
+.item-icon.enemy {
+    background-color: #3E4556;
+    border-color: #3E4556;
+    border-radius: 15%;
+}
+
+.item-icon.enemy > .sprite {
+    border-radius: 15%;
+}
+
+.item-icon.icon-40 .locked {
+    position: absolute;
+    top: 7px;
+    left: 7px;
+    border: 1px solid rgb(30, 30, 30);
+    width: 20px;
+    height: 20px;
+    background: rgba(30, 30, 30, 0.5);
+    border-radius: 50%;
+    background-image: url("../../images/icons/editart.png");
+    background-position: 0px -20px;
+    background-repeat: no-repeat;
+}

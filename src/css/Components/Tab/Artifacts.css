@@ -1,0 +1,136 @@
+.gi-artifacts-tab .gi-tab-item-inner {
+    background-image: url("../../../images/icons/tab_artifact_light.png");
+}
+
+.gi-artifacts-tab.active .gi-tab-item-inner {
+    background-image: url("../../../images/icons/tab_artifact_dark.png");
+}
+
+.artifact-big-block {
+    min-height: 120px;
+    width: 100%;
+    margin: 10px 0;
+}
+
+.artifact-big-block .line {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+}
+
+.artifact-big-block .line.icon-line {
+    position: relative;
+}
+
+.artifact-big-block .icon {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: #ECE5D8;
+    background-size: cover;
+    cursor: pointer;
+}
+
+.artifact-big-block .names {
+    padding-left: 5px;
+    overflow: hidden;
+}
+
+.artifact-big-block .icon.flower {
+    background-image: url("../../../images/icons/artifact_flower.png");
+}
+.artifact-big-block .icon.plume {
+    background-image: url("../../../images/icons/artifact_plume.png");
+}
+.artifact-big-block .icon.sands {
+    background-image: url("../../../images/icons/artifact_sands.png");
+}
+.artifact-big-block .icon.goblet {
+    background-image: url("../../../images/icons/artifact_goblet.png");
+}
+.artifact-big-block .icon.circlet {
+    background-image: url("../../../images/icons/artifact_circlet.png");
+}
+
+.artifact-big-block .item-icon {
+    background-color: #3E4556;
+}
+
+.artifact-big-block .name {
+    height: 30px;
+    line-height: 30px;
+    font-size: 20px;
+    font-family: GenshinN;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    padding-left: 3px;
+    box-sizing: border-box;
+    flex-grow: 1;
+}
+
+.artifact-big-block .line.main-stat {
+    height: 30px;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+.artifact-big-block .level {
+    padding: 0 5px;
+}
+
+.artifact-big-block .stat-name {
+    color: #BEAEA9;
+}
+
+.artifact-big-block .line.sub-stat {
+    flex-wrap: wrap;
+}
+
+.artifact-big-block .sub-stat .value {
+    width: 50%;
+    padding-top: 5px;
+}
+
+.artifact-big-block .buttons {
+    display: flex;
+}
+
+.artifact-big-block .button {
+    width: 20px;
+    height: 20px;
+    border-radius: 5px;
+    background-color: rgba(40, 28, 15, 0.7);
+    cursor: pointer;
+    border: solid 1px #ECE5D8;
+    flex-shrink: 0;
+    margin: 4px;
+    background-image: url("../../../images/icons/editart.png");
+    background-repeat: no-repeat;
+}
+
+.narrow .artifact-big-block .button {
+    margin: 10px;
+}
+
+.artifact-big-block .button.edit {
+    background-position: 0px 0px;
+}
+.artifact-big-block .button.delete {
+    background-position: -20px 0px;
+}
+.artifact-big-block .button.storage {
+    background-position: -40px 0px;
+}
+
+.artifact-big-block .invalid {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    bottom: 0px;
+    left: 2px;
+    background-image: url("../../../images/icons/warning.png");
+    background-repeat: no-repeat;
+    z-index: 10;
+}

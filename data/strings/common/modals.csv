@@ -1,0 +1,21 @@
+category;name;rus;eng
+modal;confirm;Подтвердите действие;Confirm action
+modal;disclaimer;Внимание;Disclaimer
+modal;disclaimer_text;Это всего лишь превью версия. Калькулятор в процессе разработки.;This is preview version. Work is still in progress.
+modal_buttons;confirm;Подтвердить;Confirm
+modal_buttons;cancel;Отмена;Cancel
+modal_buttons;reset;Сбросить;Reset
+modal_buttons;save;Сохранить;Save
+modal_buttons;gotit;Понятно;Got it
+modal_window;select_weapon;Выбор оружия;Weapon select
+modal_window;select_char;Выбор персонажа;Character select
+modal_window;suggest_artifact;Оптимизация артефактов;Artifact optimization
+modal_window;select_artifact_set;Выбор комплекта артефактов;Artifact set select
+modal_window;setting_weapon;Настройки подбора оружия;Weapon calculation settings
+modal_window;select_enemy;Выбор противника;Enemy select
+modal_window;enemy_custom;Настроить вручную;Custom Enemy
+modal_window;changelog;Список изменений;Changelog
+modal_window;artifact_set_info;Информация о комплекте;Artifact set info
+modal;edit_char_name;Название сохранения;Saved character name
+modal;edit_compare_name;Название сравнения;Comparison item name
+modal_window;suggest_no_artifact;Нет артефактов в хранилище удовлетворяющих выбранным критериям;There are no artifacts in storage that satisfy current settings

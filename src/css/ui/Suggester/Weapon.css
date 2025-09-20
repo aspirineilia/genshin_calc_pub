@@ -1,0 +1,58 @@
+.gi-suggester-rarity-wrapper {
+    display: flex;
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+.gi-suggester-rarity-separator {
+    flex-grow: 1;
+}
+
+.gi-suggester-rarity-item {
+    width: 90px;
+    height: 20px;
+    background-color: #353D4F;
+    border: solid 2px #626770;
+    margin-left: 5px;
+    border-radius: 12px;
+    background-position: center;
+    background-size: auto 20px;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    opacity: 0.3;
+}
+
+.gi-suggester-rarity-item.active {
+    background-color: #3e5842;
+    opacity: 1;
+}
+
+.gi-suggester-rarity-item.stars-3 {
+    background-image: url("../../../images/icons/rarity_3.png");
+}
+
+.gi-suggester-rarity-item.stars-4 {
+    background-image: url("../../../images/icons/rarity_4.png");
+}
+
+.gi-suggester-rarity-item.stars-5 {
+    background-image: url("../../../images/icons/rarity_5.png");
+}
+
+.gi-suggester-refine-item {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    text-align: center;
+    line-height: 22px;
+    background-color: #353D4F;
+    border: solid 2px #626770;
+    border-radius: 50%;
+    cursor: pointer;
+    opacity: 0.3;
+}
+
+.gi-suggester-refine-item.active {
+    background-color: #3e5842;
+    opacity: 1;
+}

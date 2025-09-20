@@ -1,0 +1,189 @@
+category;name;rus;eng
+stat;mastery;Мастерство стихий;Elemental Mastery
+stat;mastery_base;Базовое МС;Base EM
+stat;hp;HP;HP
+stat;hp_base;Базовые HP;Base HP
+stat;hp_percent;HP;HP
+stat;atk;Сила атаки;ATK
+stat;atk_base;Базовая сила атаки;Base ATK
+stat;atk_percent;Сила атаки;ATK
+stat;def_base;Базовая защита;Base DEF
+stat;def;Защита;DEF
+stat;def_percent;Защита;DEF
+stat;recharge;Воcст. энергии;Energy Recharge
+stat;crit_rate;Шанс крит. попадания;Crit. Rate
+stat;crit_dmg;Крит. урон;Crit. DMG
+stat;crit_value_percent;<span class="dotted" data-tooltip="Сумма Крит. урона и удвоенного Крит. шанса на артефактах">Крит. масса</span>;<span class="dotted" data-tooltip="Sum of Crit. DMG and doubled Crit. Rate from artifacts">Crit. Value</span>
+
+stat;healing;Бонус лечения;Healing Bonus
+stat;healing_recv;Бонус получаемого лечения;Incoming Healing Bonus
+stat;recovery;Снижение времени отката;CD Recovery
+stat;shield;Прочность щита;Shield Strength
+stat;dmg_anemo;Бонус Анемо урона;Anemo DMG
+stat;res_anemo;Сопр. Анемо урону;Anemo RES
+stat;dmg_cryo;Бонус Крио урона;Cryo DMG
+stat;res_cryo;Сопр. Крио урону;Cryo RES
+stat;dmg_electro;Бонус Электро урона;Electro DMG
+stat;res_electro;Сопр. Электро урону;Electro RES
+stat;dmg_geo;Бонус Гео урона;Geo DMG
+stat;res_geo;Сопр. Гео урону;Geo RES
+stat;dmg_hydro;Бонус Гидро урона;Hydro DMG
+stat;res_hydro;Сопр. Гидро урону;Hydro RES
+stat;dmg_pyro;Бонус Пиро урона;Pyro DMG
+stat;res_pyro;Сопр. Пиро урону;Pyro RES
+stat;dmg_phys;Бонус Физ. урона;Physical DMG
+stat;res_phys;Сопр. Физ. урону;Physical RES
+stat;dmg_dendro;Бонус Дендро урона;Dendro DMG
+stat;res_dendro;Сопр. Дендро урону;Dendro RES
+
+stat;dmg_anemo_base;Базовый Анемо урон;Base Anemo DMG
+stat;dmg_electro_base;Базовый Электро урон;Base Electro DMG
+stat;dmg_geo_base;Базовый Гео урон;Base Geo DMG
+stat;dmg_hydro_base;Базовый Гидро урон;Base Hydro DMG
+stat;dmg_pyro_base;Базовый Пиро урон;Base Pyro DMG
+stat;dmg_phys_base;Базовый Физ. урон;Base Phys. DMG
+stat;dmg_dendro_base;Базовый Дендро урон;Base Hydro DMG
+
+stat;atk_speed_normal;Скорость обычной атаки;Normal Attack Speed
+stat;atk_speed_charged;Скорость заряженной атаки;Charged Attack Speed
+stat;dmg_all;Весь урон;All DMG
+stat;dmg_normal;Урон обычной атаки;Normal Attack DMG
+stat;dmg_charged;Урон заряженной атаки;Charged Attack DMG
+stat;dmg_plunge_shockwave;Ударная волна;Plunge Shockwave
+stat;dmg_plunge;Урон атаки в падении;Plunge Attack DMG
+stat;dmg_skill;Урон элем. навыка;Elemental Skill DMG
+stat;dmg_burst;Урон взрыва стихии;Elemental Burst DMG
+
+stat;charged_stamina_cost;Выносливость заряж. атаки;Charged Attack Stamina Cost
+stat;charged_stamina_cost_sec;Выносливость заряж. атаки;Charged Attack Stamina Cost
+stat;burst_energy_cost;Энергия взрыва стихии;Burst Energy Cost
+stat;move_speed;Cкорость передвижения;Movement SPD
+
+stat;dmg_reaction_swirl;Урон Рассеивания;Swirl DMG
+stat;dmg_reaction_rupture;Урон Бутонизации;Bloom DMG
+stat;lunarcharged_multi;Базовый урон Лунного заряда;Lunar-Charged Base Bonus
+
+stat_short;mastery;М. стихий;EM
+stat_short;hp;HP;HP
+stat_short;hp_percent;HP%;HP%
+stat_short;atk;Атака;ATK
+stat_short;atk_percent;Атака%;ATK%
+stat_short;def;Защита;DEF
+stat_short;def_percent;Защита%;DEF%
+stat_short;recharge;Восст. эн.;ER%
+stat_short;crit_rate;Крит. шанс;Crit. Rate
+stat_short;crit_dmg;Крит. урон;Crit. DMG
+stat_short;healing;Лечение;Healing
+stat_short;healing_recv;Получ. лечение;Recv. Healing
+stat_short;dmg_anemo;Анемо урон;Anemo DMG
+stat_short;dmg_cryo;Крио урон;Cryo DMG
+stat_short;dmg_electro;Электро урон;Electro DMG
+stat_short;dmg_geo;Гео урон;Geo DMG
+stat_short;dmg_hydro;Гидро урон;Hydro DMG
+stat_short;dmg_pyro;Пиро урон;Pyro DMG
+stat_short;dmg_phys;Физ. урон;Phys. DMG
+stat_short;dmg_dendro;Дендро урон;Dendro DMG
+stat_short;shield;Проч. щита;Shield
+stat_short;none;Нет;No Stat
+
+stat_artifact;hp;нр;hp
+stat_artifact;atk;сила атаки;atk
+stat_artifact;def;защита;def
+stat_artifact;mastery;мастерство стихий;elemental mastery
+stat_artifact;recharge;восст. энергии;energy recharge
+stat_artifact;crit_dmg;крит. урон;crit dmg
+stat_artifact;crit_rate;шанс крит. попадания;crit rate
+stat_artifact;atk_percent;сила атаки;atk
+stat_artifact;def_percent;защита;def
+stat_artifact;hp_percent;нр;hp
+stat_artifact;healing;бонус лечения;healing bonus
+stat_artifact;dmg_phys;бонус физ. урона;physical dmg bonus
+stat_artifact;dmg_electro;бонус электро урона;electro dmg bonus
+stat_artifact;dmg_anemo;бонус анемо урона;anemo dmg bonus
+stat_artifact;dmg_geo;бонус гео урона;geo dmg bonus
+stat_artifact;dmg_pyro;бонус пиро урона;pyro dmg bonus
+stat_artifact;dmg_cryo;бонус крио урона;cryo dmg bonus
+stat_artifact;dmg_hydro;бонус гидро урона;hydro dmg bonus
+stat_artifact;dmg_dendro;бонус дендро урона;dendro dmg bonus
+
+stat_mini;hp;HP;HP
+stat_mini;atk;Атк;Atk
+stat_mini;def;Защ;Def
+stat_mini;mastery;МС;EM
+stat_mini;recharge;ВЭ;ER
+stat_mini;crit_rate;КШ;CR
+stat_mini;crit_dmg;КУ;CD
+
+stat;crit_rate_enemy;Эффект противника;Enemy modifier
+stat;crit_rate_normal;Обычная атака;Normal attack
+stat;crit_rate_charged;Заряженная атака;Charged attack
+stat;crit_rate_plunge;Атака в падении;Plunge attack
+stat;crit_rate_skill;Элементальный навык;Elemental Skill
+stat;crit_rate_burst;Взрыв стихий;Elemental Burst
+stat;crit_rate_ganyu;Стрела-снежинка;Frostflake arrow
+stat;crit_rate_nahida;Очищение трикармы;Tri-Karma Purification
+stat;crit_rate_freminet;Давление дрейфующего льда: Дробящее давление;Pressurized Floe: Shattering Pressure
+stat;crit_dmg_anemo;Анемо урон;Anemo DMG
+stat;crit_dmg_cryo;Крио урон;Cryo DMG
+stat;crit_dmg_electro;Электро урон;Electro DMG
+stat;crit_dmg_geo;Гео урон;Geo DMG
+stat;crit_dmg_hydro;Гидро урон;Hydro DMG
+stat;crit_dmg_pyro;Пиро урон;Pyro DMG
+stat;crit_dmg_phys;Физический урон;Physical DMG
+stat;crit_dmg_normal;Обычная атака;Normal attack
+stat;crit_dmg_charged;Заряженная атака;Charged Attack
+stat;crit_dmg_plunge;Атака в падении;Plunge attack
+stat;crit_dmg_skill;Элементальный навык;Elemental Skill
+stat;crit_dmg_burst;Взрыв стихий;Elemental Burst
+
+stat;crit_rate_normal_arlecchino;Приглашение на казнь;Invitation to a Beheading
+stat;crit_rate_burst_arlecchino;Восхождение роковой луны;Balemoon Rising
+stat;crit_dmg_normal_arlecchino;Приглашение на казнь;Invitation to a Beheading
+stat;crit_dmg_burst_arlecchino;Восхождение роковой луны;Balemoon Rising
+
+stat;dmg_normal_elemental;Элементальный урон;Elemental DMG
+stat;enemy_def_reduce;Снижение защиты противника;Enemy DEF reduce
+stat;enemy_def_ignore;Игнорирование защиты;Enemy DEF ignore
+stat;enemy_def_ignore_burst;Игнор. Взр. стихий;Burst DEF ignore
+stat;bond_of_life;Долг жизни;Bond of Life
+
+stat;dmg_normal_pyro;Обычная Пиро птака;Normal Pyro attack
+stat;dmg_normal_hydro;Обычная Гидро атака;Normal Hydro attack
+stat;dmg_normal_electro;Обычная Электро атака;Normal Electro attack
+stat;dmg_normal_cryo;Обычная Крио атака;Normal Cryo attack
+stat;dmg_normal_anemo;Обычная Анемо атака;Normal Anemo attack
+stat;dmg_normal_geo;Обычная Гео атака;Normal Geo attack
+stat;dmg_normal_dendro;Обычная Дендро атака;Normal Dendro attack
+
+stat;dmg_normal_ayato;Сюнсуйкэн;Shunsuiken
+stat;dmg_skill_nahida;Очищение трикармы;Tri-Karma Purification
+stat;dmg_skill_cyno;Тайный обряд: Переправляющий души;Secret Rite: Chasmic Soulfarer
+stat;dmg_skill_albedo;Цветок мимолётности;Transient Blossom
+stat;dmg_skill_nilou;Сияющая иллюзия;Luminous Illusion
+stat;dmg_skill_sayu_hold;Удара вихря Фуфу (долгое);Fuufuu Whirlwind Kick (Hold)
+stat;dmg_skill_sayu_press;Удара вихря Фуфу (быстрое);Fuufuu Whirlwind Kick (Press)
+stat;dmg_skill_yaemiko;Сакуры сэссё;Sesshou Sakura
+stat;dmg_skill_layla;Ночи почтенного сосредоточения;Nights of Formal Focus
+stat;dmg_skill_traveler_dendro;Травяной клинок;Razorgrass Blade
+stat;dmg_skill_alhaitham;Проекционный удар;Projection Attacks
+stat;dmg_skill_dehya;Совместная атака;Coordinated attack
+stat;dmg_skill_diona;Морозные коготочки;Icy Paws
+stat;dmg_skill_diluc_bonus;Огненный натиск;Searing Onslaught
+stat;dmg_skill_jean;Клинок ветра;Gale Blade
+stat;dmg_skill_kirara;Летящий удар кошки;Meow-teor Kick
+stat;dmg_skill_xiao;Лемниската ветра;Lemniscatic Wind Cycling
+stat;dmg_skill_freminet;Давление дрейфующего льда: Дробящее давление;Pressurized Floe: Shattering Pressure
+stat;dmg_burst_traveler_dendro;Пригибающий траву ветер;Surgent Manifestation
+stat;dmg_charged_tighnari;Крушащая преграды кханда;Khanda Barrier-Buster
+stat;dmg_charged_enemy;Эффект противника;Enemy modifier
+stat;dmg_burst_tighnari;Стрела-лиана жизни;Fashioner's Tanglevine Shaft
+stat;dmg_burst_layla;Сон колыбели звёзд;Dream of the Star-Stream Shaker
+stat;dmg_burst_alhaitham;Особое поле: Взаимосвязь феноменов;Particular Field: Fetters of Phenomena
+stat;dmg_burst_chongyun;Духовное лезвие: Падение с небес;Spirit Blade: Cloud-Parting Star
+stat;dmg_burst_eula;Сумеречный меч;Glacial Illumination
+stat;dmg_burst_kirara;Неожиданное отправление;Secret Art: Surprise Dispatch
+stat;dmg_burst_lynette;Удивительное превращение;Magic Trick: Astonishing Shift
+
+stat_settings;char_skill_attack;Атака;Attack
+stat_settings;char_skill_elemental;Элементальный навык;Elemental skill
+stat_settings;char_skill_burst;Взрыв стихий;Elemental Burst

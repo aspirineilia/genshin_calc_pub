@@ -1,0 +1,18 @@
+category;name;rus;eng
+char_name;xilonen;Шилонен;Xilonen
+
+feature_attack;xilonen_roller_1_dmg;Урон Клинков-роликов 1;Blade Roller 1-Hit DMG
+feature_attack;xilonen_roller_2_dmg;Урон Клинков-роликов 2;Blade Roller 2-Hit DMG
+feature_attack;xilonen_roller_3_dmg;Урон Клинков-роликов 3;Blade Roller 3-Hit DMG
+feature_attack;xilonen_roller_4_dmg;Урон Клинков-роликов 4;Blade Roller 4-Hit DMG
+feature_skill;xilonen_rush_dmg;Урон выпада;Rush DMG
+feature_skill;xilonen_res_decrease;Снижение сопротивления элементам;Elemental RES Decrease
+feature_skill;xilonen_sample_duration;Длительность активации Исходного сэмпла;Source Sample Activation Duration
+feature_skill;xilonen_blessing_duration;Лимит очков Ночного духа;Nightsoul Point Time Limit
+feature_skill;xilonen_nightsoul;Максимум очков Ночного духа;Nightsoul Point Limit
+feature_burst;xilonen_duration;Длительность Бодрого ритма;Ebullient Rhythm Duration
+feature_burst;xilonen_beat_dmg;Урон дополнительного бита;Follow-Up Beat DMG
+feature_other;xilonen_heal_on_hit;Лечение Благословения непреходящей ночи;Imperishable Night's Blessing Heal
+
+talent_name;xilonen_samplers;Исходные сэмплы активны;Source Samples activated
+talent_descr;xilonen_samplers;Когда количество очков name{Ночного духа} достигнет максимума, все её очки исчерпываются и name{Шилонен} активирует три имеющихся name{Исходных сэмпла} на 15 сек.;When her name{Nightsoul points} hit maximum, she will consume all her name{Nightsoul points} and activate the 3 name{Source Samples} name{Xilonen} has on hand for 15s.

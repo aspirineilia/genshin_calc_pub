@@ -1,0 +1,33 @@
+category;name;rus;eng
+buff_group;elemental_resonance;Отряд;Party setup
+buff_group;artifacts;Артефакты членов отряда;Party members' artifacts
+buff_group;weapons;Оружие членов отряда;Party members' weapons
+buff_group;custom;Произвольные бонусы;Custom bonuses
+buffs;party_elements;Персонажи в отряде;Current party characters
+buffs_name;resonance_none;Нити защиты;Protective Canopy
+buffs_descr;resonance_none;Элементальное и физ. сопротивление повышается на %{res_phys}.;All Elemental RES +15%, Physical RES +15%.
+buffs_name;resonance_cryo;Расколотый лёд;Shattering Ice
+buffs_descr;resonance_cryo;Уменьшает длительность Электро эффекта на %{text_percent}.;Affected by Electro for %{text_percent} less time.
+buffs_name;resonance_cryo_status;Крио эффект на враге;Enemy affected by Cryo
+buffs_descr;resonance_cryo_status;Увеличивает шанс крит. попадания по замороженным tab{enemy:врагам} или врагам с Крио эффектом на %{crit_rate_enemy}.;Increases CRIT Rate against tab{enemy:enemies} that are Frozen or affected by Cryo by %{crit_rate_enemy}.
+buffs_name;resonance_electro;Высокое напряжение;High Voltage
+buffs_descr;resonance_electro;Уменьшает длительность Гидро эффекта на %{text_percent_1}. Статусы cryo{Сверхпроводник}, pyro{Перегрузка} и electro{Заряжен}, dendro{Стимуляция}, electro{Обострение} и dendro{Вегетация} имеют %{text_percent_2} шанс оставить элементальную частицу (откат 5 сек).;Affected by Hydro for %{text_percent_1} less time. cryo{Superconduct}, pyro{Overloaded}, electro{Electro-Charged}, dendro{Quicken}, electro{Aggravate}, or dendro{Hyperbloom} have a %{text_percent_2} chance to generate an Electro Elemental Particle (CD: 5s).
+buffs_name;resonance_hydro;Успокаивающая вода;Soothing Water
+buffs_descr;resonance_hydro;Уменьшает длительность Пиро эффекта на %{text_percent}. Увеличивает name{макс. HP} на %{hp_percent}.;Affected by Pyro for %{text_percent} less time. Increases max HP by %{hp_percent}.
+buffs_name;resonance_pyro;Пылающий огонь;Fervent Flames
+buffs_descr;resonance_pyro;Уменьшает длительность Крио эффекта на %{text_percent}. Увеличивает силу атаки на %{atk_percent}.;Affected by Cryo for %{text_percent} less time. Increases ATK by %{atk_percent}.
+buffs_name;resonance_anemo;Проворный ветер;Impetuous Winds
+buffs_descr;resonance_anemo;Уменьшение потребления выносливости на %{stamina_consume}. Увелчиивает name{скорость передвижения} на %{move_speed}. Уменьшает время отката навыков на %{recovery}.;Decreases Stamina Consumption by %{stamina_consume}. Increases name{Movement SPD} by %{move_speed}. Shortens Skill CD by %{recovery}.
+buffs_name;resonance_geo;Несокрушимый камень;Enduring Rock
+buffs_descr;resonance_geo;Прочность щита повышается на %{shield}.;Increases shield strength by %{shield}.
+buffs_name;resonance_geo_shield;Персонаж защищен щитом;Character protected by a shield
+buffs_descr;resonance_geo_shield;Если у персонажа активен щит, то наносимый им урон увеличен на %{dmg_all}.;Characters protected by a shield will have DMG dealt increased by %{dmg_all}.
+buffs_name;resonance_geo_attack;Нанес урон врагу;Deal damage to enemy
+buffs_descr;resonance_geo_attack;При нанесении урона по врагу его гео сопротивление понижается на %{text_percent} на 15 сек.;Dealing DMG to enemies will decrease their Geo RES by %{text_percent} for 15s.
+buffs_name;only_full_party_resonance;Отключить резонанс;Disable resonance
+buffs_descr;only_full_party_resonances;Не применять бонусы Элементального резонанса при неполном отряде.;Does not apply Elemental resonance bonuses while party is not full.
+
+buffs_name;resonance_dendro;Ползучая зелень;Sprawling Greenery
+buffs_descr;resonance_dendro_1;Увеличивает name{мастерство стихий} на %{mastery} ед.;name{Elemental Mastery} increased by %{mastery}.
+buffs_descr;resonance_dendro_2;Статусы pyro{Горение}, dendro{Стимуляция} и dendro{Бутонизация} увеличивают name{мастерство стихий} всех членов отряда поблизости на %{mastery} ед. на 6 сек.<br>Длительность каждого из этих эффектов рассчитывается отдельно.;After triggering pyro{Burning}, dendro{Quicken}, or dendro{Bloom} reactions, all nearby party members gain %{mastery} name{Elemental Mastery} for 6s.<br>The durations of the aforementioned effects will be counted independently.
+buffs_descr;resonance_dendro_3;Статусы electro{Обострение}, dendro{Разрастание}, dendro{Вегетация} и dendro{Цветение} увеличивают name{мастерство стихий} всех членов отряда поблизости на %{mastery} ед. на 6 сек.<br>Длительность каждого из этих эффектов рассчитывается отдельно.;After triggering electro{Aggravate}, dendro{Spread}, dendro{Hyperbloom}, or dendrp{Burgeon} reactions, all nearby party members gain %{mastery} Elemental Mastery for 6s.<br>The durations of the aforementioned effects will be counted independently.

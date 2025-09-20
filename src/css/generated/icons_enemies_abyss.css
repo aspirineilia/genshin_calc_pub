@@ -1,0 +1,94 @@
+.type-abyss.enemy-icon-abyss-electric-01 {background-image: url("../../images/enemies/abyss/abyss_electric_01.png")}
+.type-abyss.enemy-icon-abyss-fire-01 {background-image: url("../../images/enemies/abyss/abyss_fire_01.png")}
+.type-abyss.enemy-icon-abyss-water-01 {background-image: url("../../images/enemies/abyss/abyss_water_01.png")}
+.type-abyss.enemy-icon-darkwraith-strong-wind {background-image: url("../../images/enemies/abyss/darkwraith_strong_wind.png")}
+.type-abyss.enemy-icon-forlornvessel-strong-chargebow-ice {background-image: url("../../images/enemies/abyss/forlornvessel_strong_chargebow_ice.png")}
+.type-abyss.enemy-icon-forlornvessel-strong-lance-water {background-image: url("../../images/enemies/abyss/forlornvessel_strong_lance_water.png")}
+.type-abyss.enemy-icon-forlornvessel-strong-warbanner-fire {background-image: url("../../images/enemies/abyss/forlornvessel_strong_warbanner_fire.png")}
+.type-abyss.enemy-icon-invoker-deacon-electric-01 {background-image: url("../../images/enemies/abyss/invoker_deacon_electric_01.png")}
+.type-abyss.enemy-icon-invoker-deacon-fire {background-image: url("../../images/enemies/abyss/invoker_deacon_fire.png")}
+.type-abyss.enemy-icon-invoker-herald-water-01 {background-image: url("../../images/enemies/abyss/invoker_herald_water_01.png")}
+.type-abyss.enemy-icon-hound-kanis-electric {background-image: url("../../images/enemies/abyss/hound_kanis_electric.png")}
+.type-abyss.enemy-icon-hound-kanis-rock {background-image: url("../../images/enemies/abyss/hound_kanis_rock.png")}
+.type-abyss.enemy-icon-hound-planelurker {background-image: url("../../images/enemies/abyss/hound_planelurker.png")}
+.type-abyss.enemy-icon-hound-riftstalker-electric {background-image: url("../../images/enemies/abyss/hound_riftstalker_electric.png")}
+.type-abyss.enemy-icon-hound-riftstalker-rock {background-image: url("../../images/enemies/abyss/hound_riftstalker_rock.png")}
+.type-abyss.enemy-icon-abyss-ice-01 {background-image: url("../../images/enemies/abyss/abyss_ice_01.png")}
+.type-abyss.enemy-icon-darkwraith-fat-rock {background-image: url("../../images/enemies/abyss/darkwraith_fat_rock.png")}
+.type-abyss.enemy-icon-invoker-herald-ice {background-image: url("../../images/enemies/abyss/invoker_herald_ice.png")}
+.type-abyss.enemy-icon-invoker-archdeacon {background-image: url("../../images/enemies/abyss/invoker_archdeacon.png")}
+.type-abyss.enemy-icon-ovacua-chaos-02 {background-image: url("../../images/enemies/abyss/ovacua_chaos_02.png")}
+.type-abyss.enemy-icon-ovacua-chaos-01 {background-image: url("../../images/enemies/abyss/ovacua_chaos_01.png")}
+.type-abyss.enemy-icon-ovacua-order-02 {background-image: url("../../images/enemies/abyss/ovacua_order_02.png")}
+.type-abyss.enemy-icon-ovacua-order-01 {background-image: url("../../images/enemies/abyss/ovacua_order_01.png")}
+.type-abyss.enemy-icon-theabyss-rhizome {background-image: url("../../images/enemies/abyss/theabyss_rhizome.png")}
+.type-abyss.enemy-icon-theabyss-dendrite {background-image: url("../../images/enemies/abyss/theabyss_dendrite.png")}
+.type-abyss.sprite-enemy.sprite-24 {
+	background-image: url("../../images/sprites/enemy_abyss_ba446053311fddbffc0c2fa5b8385e0d.png");
+	background-size: 120px 120px;
+}
+.type-abyss.sprite-enemy.sprite-60 {
+	background-image: url("../../images/sprites/enemy_abyss_9cc7810853e9f42a1a309170a770166f.png");
+	background-size: 300px 300px;
+}
+.sprite.type-abyss.enemy-icon-abyss-electric-01 {background-position: 0% 0%}
+.sprite.type-abyss.enemy-icon-abyss-fire-01 {background-position: 25% 0%}
+.sprite.type-abyss.enemy-icon-abyss-water-01 {background-position: 50% 0%}
+.sprite.type-abyss.enemy-icon-darkwraith-strong-wind {background-position: 75% 0%}
+.sprite.type-abyss.enemy-icon-forlornvessel-strong-chargebow-ice {background-position: 100% 0%}
+.sprite.type-abyss.enemy-icon-forlornvessel-strong-lance-water {background-position: 0% 25%}
+.sprite.type-abyss.enemy-icon-forlornvessel-strong-warbanner-fire {background-position: 25% 25%}
+.sprite.type-abyss.enemy-icon-invoker-deacon-electric-01 {background-position: 50% 25%}
+.sprite.type-abyss.enemy-icon-invoker-deacon-fire {background-position: 75% 25%}
+.sprite.type-abyss.enemy-icon-invoker-herald-water-01 {background-position: 100% 25%}
+.sprite.type-abyss.enemy-icon-hound-kanis-electric {background-position: 0% 50%}
+.sprite.type-abyss.enemy-icon-hound-kanis-rock {background-position: 25% 50%}
+.sprite.type-abyss.enemy-icon-hound-planelurker {background-position: 50% 50%}
+.sprite.type-abyss.enemy-icon-hound-riftstalker-electric {background-position: 75% 50%}
+.sprite.type-abyss.enemy-icon-hound-riftstalker-rock {background-position: 100% 50%}
+.sprite.type-abyss.enemy-icon-abyss-ice-01 {background-position: 0% 75%}
+.sprite.type-abyss.enemy-icon-darkwraith-fat-rock {background-position: 25% 75%}
+.sprite.type-abyss.enemy-icon-invoker-herald-ice {background-position: 50% 75%}
+.sprite.type-abyss.enemy-icon-invoker-archdeacon {background-position: 75% 75%}
+.sprite.type-abyss.enemy-icon-ovacua-chaos-02 {background-position: 100% 75%}
+.sprite.type-abyss.enemy-icon-ovacua-chaos-01 {background-position: 0% 100%}
+.sprite.type-abyss.enemy-icon-ovacua-order-02 {background-position: 25% 100%}
+.sprite.type-abyss.enemy-icon-ovacua-order-01 {background-position: 50% 100%}
+.sprite.type-abyss.enemy-icon-theabyss-rhizome {background-position: 75% 100%}
+.sprite.type-abyss.enemy-icon-theabyss-dendrite {background-position: 100% 100%}
+
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (   min--moz-device-pixel-ratio: 2),
+only screen and (     -o-min-device-pixel-ratio: 2/1),
+only screen and (        min-device-pixel-ratio: 2),
+only screen and (                min-resolution: 192dpi),
+only screen and (                min-resolution: 2dppx) {
+	.type-abyss.enemy-icon-abyss-electric-01 {background-image: url("../../images/enemies/abyss/abyss_electric_01_2x.png")}
+	.type-abyss.enemy-icon-abyss-fire-01 {background-image: url("../../images/enemies/abyss/abyss_fire_01_2x.png")}
+	.type-abyss.enemy-icon-abyss-water-01 {background-image: url("../../images/enemies/abyss/abyss_water_01_2x.png")}
+	.type-abyss.enemy-icon-darkwraith-strong-wind {background-image: url("../../images/enemies/abyss/darkwraith_strong_wind_2x.png")}
+	.type-abyss.enemy-icon-forlornvessel-strong-chargebow-ice {background-image: url("../../images/enemies/abyss/forlornvessel_strong_chargebow_ice_2x.png")}
+	.type-abyss.enemy-icon-forlornvessel-strong-lance-water {background-image: url("../../images/enemies/abyss/forlornvessel_strong_lance_water_2x.png")}
+	.type-abyss.enemy-icon-forlornvessel-strong-warbanner-fire {background-image: url("../../images/enemies/abyss/forlornvessel_strong_warbanner_fire_2x.png")}
+	.type-abyss.enemy-icon-invoker-deacon-electric-01 {background-image: url("../../images/enemies/abyss/invoker_deacon_electric_01_2x.png")}
+	.type-abyss.enemy-icon-invoker-deacon-fire {background-image: url("../../images/enemies/abyss/invoker_deacon_fire_2x.png")}
+	.type-abyss.enemy-icon-invoker-herald-water-01 {background-image: url("../../images/enemies/abyss/invoker_herald_water_01_2x.png")}
+	.type-abyss.enemy-icon-hound-kanis-electric {background-image: url("../../images/enemies/abyss/hound_kanis_electric_2x.png")}
+	.type-abyss.enemy-icon-hound-kanis-rock {background-image: url("../../images/enemies/abyss/hound_kanis_rock_2x.png")}
+	.type-abyss.enemy-icon-hound-planelurker {background-image: url("../../images/enemies/abyss/hound_planelurker_2x.png")}
+	.type-abyss.enemy-icon-hound-riftstalker-electric {background-image: url("../../images/enemies/abyss/hound_riftstalker_electric_2x.png")}
+	.type-abyss.enemy-icon-hound-riftstalker-rock {background-image: url("../../images/enemies/abyss/hound_riftstalker_rock_2x.png")}
+	.type-abyss.enemy-icon-abyss-ice-01 {background-image: url("../../images/enemies/abyss/abyss_ice_01_2x.png")}
+	.type-abyss.enemy-icon-darkwraith-fat-rock {background-image: url("../../images/enemies/abyss/darkwraith_fat_rock_2x.png")}
+	.type-abyss.enemy-icon-invoker-herald-ice {background-image: url("../../images/enemies/abyss/invoker_herald_ice_2x.png")}
+	.type-abyss.enemy-icon-invoker-archdeacon {background-image: url("../../images/enemies/abyss/invoker_archdeacon_2x.png")}
+	.type-abyss.enemy-icon-ovacua-chaos-02 {background-image: url("../../images/enemies/abyss/ovacua_chaos_02_2x.png")}
+	.type-abyss.enemy-icon-ovacua-chaos-01 {background-image: url("../../images/enemies/abyss/ovacua_chaos_01_2x.png")}
+	.type-abyss.enemy-icon-ovacua-order-02 {background-image: url("../../images/enemies/abyss/ovacua_order_02_2x.png")}
+	.type-abyss.enemy-icon-ovacua-order-01 {background-image: url("../../images/enemies/abyss/ovacua_order_01_2x.png")}
+	.type-abyss.enemy-icon-theabyss-rhizome {background-image: url("../../images/enemies/abyss/theabyss_rhizome_2x.png")}
+	.type-abyss.enemy-icon-theabyss-dendrite {background-image: url("../../images/enemies/abyss/theabyss_dendrite_2x.png")}
+	.type-abyss.sprite-enemy.sprite-24 {background-image: url("../../images/sprites/enemy_abyss_eca099e612fed453e72a4d85330b7855.png")}
+	.type-abyss.sprite-enemy.sprite-60 {background-image: url("../../images/sprites/enemy_abyss_a85637b8ac1002becb5e5cf196e25b7a.png")}
+}

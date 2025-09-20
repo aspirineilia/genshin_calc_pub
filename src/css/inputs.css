@@ -1,0 +1,21 @@
+.gi-text-input-wrapper {
+    width: 100%;
+}
+
+.gi-text-input {
+    height: 26px;
+    background-color: #353D4F;
+    border: solid 2px #626770;
+    border-radius: 13px;
+    padding-left: 13px;
+    padding-right: 10px;
+    color: #FFF7E9;
+    display: block;
+    box-sizing: border-box;
+    text-overflow: ellipsis;
+    flex-grow: 1;
+}
+
+.gi-text-input:focus{
+    outline: none;
+}

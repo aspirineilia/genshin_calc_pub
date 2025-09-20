@@ -1,0 +1,150 @@
+.weapon-icon-bow-unknown {background-image: url("../../images/weapons/bow/unknown.png")}
+.weapon-icon-bow-raven-bow {background-image: url("../../images/weapons/bow/bow_crowfeather.png")}
+.weapon-icon-bow-sharpshooters-oath {background-image: url("../../images/weapons/bow/bow_arjuna.png")}
+.weapon-icon-bow-recurve-bow {background-image: url("../../images/weapons/bow/bow_curve.png")}
+.weapon-icon-bow-slingshot {background-image: url("../../images/weapons/bow/bow_sling.png")}
+.weapon-icon-bow-messenger {background-image: url("../../images/weapons/bow/bow_msg.png")}
+.weapon-icon-bow-favonius-warbow {background-image: url("../../images/weapons/bow/bow_zephyrus.png")}
+.weapon-icon-bow-the-stringless {background-image: url("../../images/weapons/bow/bow_troupe.png")}
+.weapon-icon-bow-sacrificial-bow {background-image: url("../../images/weapons/bow/bow_fossil.png")}
+.weapon-icon-bow-royal-bow {background-image: url("../../images/weapons/bow/bow_theocrat.png")}
+.weapon-icon-bow-rust {background-image: url("../../images/weapons/bow/bow_recluse.png")}
+.weapon-icon-bow-prototype-crescent {background-image: url("../../images/weapons/bow/bow_proto.png")}
+.weapon-icon-bow-compound-bow {background-image: url("../../images/weapons/bow/bow_exotic.png")}
+.weapon-icon-bow-blackcliff-warbow {background-image: url("../../images/weapons/bow/bow_blackrock.png")}
+.weapon-icon-bow-the-viridescent-hunt {background-image: url("../../images/weapons/bow/bow_viridescent.png")}
+.weapon-icon-bow-alley-hunter {background-image: url("../../images/weapons/bow/bow_outlaw.png")}
+.weapon-icon-bow-fading-twilight {background-image: url("../../images/weapons/bow/bow_fallensun.png")}
+.weapon-icon-bow-mitternachts-waltz {background-image: url("../../images/weapons/bow/bow_nachtblind.png")}
+.weapon-icon-bow-windblume-ode {background-image: url("../../images/weapons/bow/bow_fleurfair.png")}
+.weapon-icon-bow-hamayumi {background-image: url("../../images/weapons/bow/bow_bakufu.png")}
+.weapon-icon-bow-predator {background-image: url("../../images/weapons/bow/bow_predator.png")}
+.weapon-icon-bow-mouuns-moon {background-image: url("../../images/weapons/bow/bow_maria.png")}
+.weapon-icon-bow-kings-squire {background-image: url("../../images/weapons/bow/bow_arakalari.png")}
+.weapon-icon-bow-end-of-the-line {background-image: url("../../images/weapons/bow/bow_fin.png")}
+.weapon-icon-bow-ibis-piercer {background-image: url("../../images/weapons/bow/bow_ibis.png")}
+.weapon-icon-bow-scion-of-the-blazing-sun {background-image: url("../../images/weapons/bow/bow_gurabad.png")}
+.weapon-icon-bow-song-of-stillness {background-image: url("../../images/weapons/bow/bow_vorpal.png")}
+.weapon-icon-bow-cloudforged {background-image: url("../../images/weapons/bow/bow_ultimatum.png")}
+.weapon-icon-bow-range-gauge {background-image: url("../../images/weapons/bow/bow_mechanic.png")}
+.weapon-icon-bow-flower-wreathed-feathers {background-image: url("../../images/weapons/bow/bow_umpakati.png")}
+.weapon-icon-bow-chain-breaker {background-image: url("../../images/weapons/bow/bow_isikhulu.png")}
+.weapon-icon-bow-sequence-of-solitude {background-image: url("../../images/weapons/bow/bow_stinger.png")}
+.weapon-icon-bow-skyward-harp {background-image: url("../../images/weapons/bow/bow_dvalin.png")}
+.weapon-icon-bow-amos-bow {background-image: url("../../images/weapons/bow/bow_amos.png")}
+.weapon-icon-bow-elegy-for-the-end {background-image: url("../../images/weapons/bow/bow_widsith.png")}
+.weapon-icon-bow-polar-star {background-image: url("../../images/weapons/bow/bow_worldbane.png")}
+.weapon-icon-bow-aqua-simulacra {background-image: url("../../images/weapons/bow/bow_kirin.png")}
+.weapon-icon-bow-thundering-pulse {background-image: url("../../images/weapons/bow/bow_narukami.png")}
+.weapon-icon-bow-hunters-path {background-image: url("../../images/weapons/bow/bow_ayus.png")}
+.weapon-icon-bow-the-first-great-magic {background-image: url("../../images/weapons/bow/bow_pledge.png")}
+.weapon-icon-bow-silvershower-heartstrings {background-image: url("../../images/weapons/bow/bow_arcdange.png")}
+.weapon-icon-bow-astral-vultures-crimson-plumage {background-image: url("../../images/weapons/bow/bow_qoyllorsnova.png")}
+.sprite-weapon-bow.sprite-24 {
+	background-image: url("../../images/sprites/weapon_bow_a321f9bfbbe83ecc55ab8e9610c68062.png");
+	background-size: 120px 264px;
+}
+.sprite-weapon-bow.sprite-40 {
+	background-image: url("../../images/sprites/weapon_bow_068fd56dd0cb80864b58446cbbb3e1ec.png");
+	background-size: 200px 440px;
+}
+.sprite-weapon-bow.sprite-60 {
+	background-image: url("../../images/sprites/weapon_bow_bdc8ac626aafcc36c607e4c80b8c51ff.png");
+	background-size: 300px 660px;
+}
+.sprite.weapon-icon-bow-unknown {background-position: 0% 0%}
+.sprite.weapon-icon-bow-raven-bow {background-position: 25% 0%}
+.sprite.weapon-icon-bow-sharpshooters-oath {background-position: 50% 0%}
+.sprite.weapon-icon-bow-recurve-bow {background-position: 75% 0%}
+.sprite.weapon-icon-bow-slingshot {background-position: 100% 0%}
+.sprite.weapon-icon-bow-messenger {background-position: 0% 10%}
+.sprite.weapon-icon-bow-favonius-warbow {background-position: 25% 10%}
+.sprite.weapon-icon-bow-the-stringless {background-position: 50% 10%}
+.sprite.weapon-icon-bow-sacrificial-bow {background-position: 75% 10%}
+.sprite.weapon-icon-bow-royal-bow {background-position: 100% 10%}
+.sprite.weapon-icon-bow-rust {background-position: 0% 20%}
+.sprite.weapon-icon-bow-prototype-crescent {background-position: 25% 20%}
+.sprite.weapon-icon-bow-compound-bow {background-position: 50% 20%}
+.sprite.weapon-icon-bow-blackcliff-warbow {background-position: 75% 20%}
+.sprite.weapon-icon-bow-the-viridescent-hunt {background-position: 100% 20%}
+.sprite.weapon-icon-bow-alley-hunter {background-position: 0% 30%}
+.sprite.weapon-icon-bow-fading-twilight {background-position: 25% 30%}
+.sprite.weapon-icon-bow-mitternachts-waltz {background-position: 50% 30%}
+.sprite.weapon-icon-bow-windblume-ode {background-position: 75% 30%}
+.sprite.weapon-icon-bow-hamayumi {background-position: 100% 30%}
+.sprite.weapon-icon-bow-predator {background-position: 0% 40%}
+.sprite.weapon-icon-bow-mouuns-moon {background-position: 25% 40%}
+.sprite.weapon-icon-bow-kings-squire {background-position: 50% 40%}
+.sprite.weapon-icon-bow-end-of-the-line {background-position: 75% 40%}
+.sprite.weapon-icon-bow-ibis-piercer {background-position: 100% 40%}
+.sprite.weapon-icon-bow-scion-of-the-blazing-sun {background-position: 0% 50%}
+.sprite.weapon-icon-bow-song-of-stillness {background-position: 25% 50%}
+.sprite.weapon-icon-bow-cloudforged {background-position: 50% 50%}
+.sprite.weapon-icon-bow-range-gauge {background-position: 75% 50%}
+.sprite.weapon-icon-bow-flower-wreathed-feathers {background-position: 100% 50%}
+.sprite.weapon-icon-bow-chain-breaker {background-position: 0% 60%}
+.sprite.weapon-icon-bow-sequence-of-solitude {background-position: 25% 60%}
+.sprite.weapon-icon-bow-skyward-harp {background-position: 50% 60%}
+.sprite.weapon-icon-bow-amos-bow {background-position: 75% 60%}
+.sprite.weapon-icon-bow-elegy-for-the-end {background-position: 100% 60%}
+.sprite.weapon-icon-bow-polar-star {background-position: 0% 70%}
+.sprite.weapon-icon-bow-aqua-simulacra {background-position: 25% 70%}
+.sprite.weapon-icon-bow-thundering-pulse {background-position: 50% 70%}
+.sprite.weapon-icon-bow-hunters-path {background-position: 75% 70%}
+.sprite.weapon-icon-bow-the-first-great-magic {background-position: 100% 70%}
+.sprite.weapon-icon-bow-silvershower-heartstrings {background-position: 0% 80%}
+.sprite.weapon-icon-bow-astral-vultures-crimson-plumage {background-position: 25% 80%}
+
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (   min--moz-device-pixel-ratio: 2),
+only screen and (     -o-min-device-pixel-ratio: 2/1),
+only screen and (        min-device-pixel-ratio: 2),
+only screen and (                min-resolution: 192dpi),
+only screen and (                min-resolution: 2dppx) {
+	.weapon-icon-bow-unknown {background-image: url("../../images/weapons/bow/unknown_2x.png")}
+	.weapon-icon-bow-raven-bow {background-image: url("../../images/weapons/bow/bow_crowfeather_2x.png")}
+	.weapon-icon-bow-sharpshooters-oath {background-image: url("../../images/weapons/bow/bow_arjuna_2x.png")}
+	.weapon-icon-bow-recurve-bow {background-image: url("../../images/weapons/bow/bow_curve_2x.png")}
+	.weapon-icon-bow-slingshot {background-image: url("../../images/weapons/bow/bow_sling_2x.png")}
+	.weapon-icon-bow-messenger {background-image: url("../../images/weapons/bow/bow_msg_2x.png")}
+	.weapon-icon-bow-favonius-warbow {background-image: url("../../images/weapons/bow/bow_zephyrus_2x.png")}
+	.weapon-icon-bow-the-stringless {background-image: url("../../images/weapons/bow/bow_troupe_2x.png")}
+	.weapon-icon-bow-sacrificial-bow {background-image: url("../../images/weapons/bow/bow_fossil_2x.png")}
+	.weapon-icon-bow-royal-bow {background-image: url("../../images/weapons/bow/bow_theocrat_2x.png")}
+	.weapon-icon-bow-rust {background-image: url("../../images/weapons/bow/bow_recluse_2x.png")}
+	.weapon-icon-bow-prototype-crescent {background-image: url("../../images/weapons/bow/bow_proto_2x.png")}
+	.weapon-icon-bow-compound-bow {background-image: url("../../images/weapons/bow/bow_exotic_2x.png")}
+	.weapon-icon-bow-blackcliff-warbow {background-image: url("../../images/weapons/bow/bow_blackrock_2x.png")}
+	.weapon-icon-bow-the-viridescent-hunt {background-image: url("../../images/weapons/bow/bow_viridescent_2x.png")}
+	.weapon-icon-bow-alley-hunter {background-image: url("../../images/weapons/bow/bow_outlaw_2x.png")}
+	.weapon-icon-bow-fading-twilight {background-image: url("../../images/weapons/bow/bow_fallensun_2x.png")}
+	.weapon-icon-bow-mitternachts-waltz {background-image: url("../../images/weapons/bow/bow_nachtblind_2x.png")}
+	.weapon-icon-bow-windblume-ode {background-image: url("../../images/weapons/bow/bow_fleurfair_2x.png")}
+	.weapon-icon-bow-hamayumi {background-image: url("../../images/weapons/bow/bow_bakufu_2x.png")}
+	.weapon-icon-bow-predator {background-image: url("../../images/weapons/bow/bow_predator_2x.png")}
+	.weapon-icon-bow-mouuns-moon {background-image: url("../../images/weapons/bow/bow_maria_2x.png")}
+	.weapon-icon-bow-kings-squire {background-image: url("../../images/weapons/bow/bow_arakalari_2x.png")}
+	.weapon-icon-bow-end-of-the-line {background-image: url("../../images/weapons/bow/bow_fin_2x.png")}
+	.weapon-icon-bow-ibis-piercer {background-image: url("../../images/weapons/bow/bow_ibis_2x.png")}
+	.weapon-icon-bow-scion-of-the-blazing-sun {background-image: url("../../images/weapons/bow/bow_gurabad_2x.png")}
+	.weapon-icon-bow-song-of-stillness {background-image: url("../../images/weapons/bow/bow_vorpal_2x.png")}
+	.weapon-icon-bow-cloudforged {background-image: url("../../images/weapons/bow/bow_ultimatum_2x.png")}
+	.weapon-icon-bow-range-gauge {background-image: url("../../images/weapons/bow/bow_mechanic_2x.png")}
+	.weapon-icon-bow-flower-wreathed-feathers {background-image: url("../../images/weapons/bow/bow_umpakati_2x.png")}
+	.weapon-icon-bow-chain-breaker {background-image: url("../../images/weapons/bow/bow_isikhulu_2x.png")}
+	.weapon-icon-bow-sequence-of-solitude {background-image: url("../../images/weapons/bow/bow_stinger_2x.png")}
+	.weapon-icon-bow-skyward-harp {background-image: url("../../images/weapons/bow/bow_dvalin_2x.png")}
+	.weapon-icon-bow-amos-bow {background-image: url("../../images/weapons/bow/bow_amos_2x.png")}
+	.weapon-icon-bow-elegy-for-the-end {background-image: url("../../images/weapons/bow/bow_widsith_2x.png")}
+	.weapon-icon-bow-polar-star {background-image: url("../../images/weapons/bow/bow_worldbane_2x.png")}
+	.weapon-icon-bow-aqua-simulacra {background-image: url("../../images/weapons/bow/bow_kirin_2x.png")}
+	.weapon-icon-bow-thundering-pulse {background-image: url("../../images/weapons/bow/bow_narukami_2x.png")}
+	.weapon-icon-bow-hunters-path {background-image: url("../../images/weapons/bow/bow_ayus_2x.png")}
+	.weapon-icon-bow-the-first-great-magic {background-image: url("../../images/weapons/bow/bow_pledge_2x.png")}
+	.weapon-icon-bow-silvershower-heartstrings {background-image: url("../../images/weapons/bow/bow_arcdange_2x.png")}
+	.weapon-icon-bow-astral-vultures-crimson-plumage {background-image: url("../../images/weapons/bow/bow_qoyllorsnova_2x.png")}
+	.sprite-weapon-bow.sprite-24 {background-image: url("../../images/sprites/weapon_bow_5b91b5818050861b773f7f46a793472b.png")}
+	.sprite-weapon-bow.sprite-40 {background-image: url("../../images/sprites/weapon_bow_631dc3b4887657311f771b0dea1b28cd.png")}
+	.sprite-weapon-bow.sprite-60 {background-image: url("../../images/sprites/weapon_bow_f8cff43cdf6c620a3e0b8f62c4d2b018.png")}
+}

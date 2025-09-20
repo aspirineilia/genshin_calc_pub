@@ -1,0 +1,69 @@
+.gi-enemy-resistance-table {
+    width: 100%;
+    font-size: 12px;
+    color: #BEAEA9;
+}
+
+.gi-enemy-resistance-table-row {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.gi-enemy-resistance-table-row > .icon {
+    width: 20px;
+}
+.gi-enemy-resistance-table-row > .text {
+    width: 50px;
+    padding: 2px;
+    display: flex;
+}
+
+.gi-enemy-resistance-table .element-icon {
+    display: block;
+    width: 16px;
+    height: 16px;
+    background-image: url("../../../images/icons/element_32.png");
+    background-size: 64px 32px;
+}
+
+.gi-enemy-resistance-table .element-anemo {
+    background-position: -48px 0px;
+}
+.gi-enemy-resistance-table .element-cryo {
+    background-position: -32px -16px;
+}
+.gi-enemy-resistance-table .element-dendro {
+    background-position: -48px -16px;
+}
+.gi-enemy-resistance-table .element-electro {
+    background-position: -32px 0px;
+}
+.gi-enemy-resistance-table .element-geo {
+    background-position: 0px -16px;
+}
+.gi-enemy-resistance-table .element-hydro {
+    background-position: -16px -16px;
+}
+.gi-enemy-resistance-table .element-pyro {
+    background-position: -16px 0px;
+}
+.gi-enemy-resistance-table .element-phys {
+    background-position: 0px 0px;
+}
+
+.gi-enemy-resistance-table .green {
+    color: #90E800;
+}
+
+.gi-enemy-resistance-table .red {
+    color: #d64848;
+}
+
+.gi-enemy-resistance-table td:nth-child(2n+1) {
+    width: 20px;
+}
+
+.gi-enemy-resistance-table td:nth-child(2n+0) {
+    text-align: left;
+}

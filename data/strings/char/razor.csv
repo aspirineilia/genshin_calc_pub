@@ -1,0 +1,17 @@
+category;name;rus;eng
+feature_skill;razor_recharge_bonus;Перезарядка эмблемой Электро;Energy Recharge Bonus
+feature_skill;razor_enregy_per_sigil;Восстановление энергии эмблемой Электро;Energy Regenerated
+feature_skill;razor_sigil_duration;Длительность эмблемы Электро;Electro Sigil duration
+feature_attack;razor_normal_hit_1;Урон волчьего духа-1;Soul Companion-1
+feature_attack;razor_normal_hit_2;Урон волчьего духа-2;Soul Companion-2
+feature_attack;razor_normal_hit_3;Урон волчьего духа-3;Soul Companion-3
+feature_attack;razor_normal_hit_4;Урон волчьего духа-4;Soul Companion-4
+feature_burst;razor_atk_speed_bonus;Скорость обычной атаки;Normal ATK SPD Bonus
+feature_burst;razor_res_bonus;Электро сопротивление;Electro RES Bonus
+feature_burst;razor_companion_dmg;Урон волчьего духа;Soul Companion DMG
+feature_other;razor_lupus_fulguris;Урон Звезды Сириуса;Lupus Fulguris DMG
+
+talent_descr;razor_claw_and_thunder_talent;name{Удар когтями} громового волка, наносящий electro{Электро урон} врагам впереди. При попадании name{Рэйзор} получает name{символ Электро}, который увеличивает скорость name{восстановления его энергии}. name{Рэйзор} может иметь до 3 name{символов Электро} одновременно. Получение нового name{значка электро} обнуляет их длительность.;Swings the name{Thunder Wolf Claw}, dealing electro{Electro DMG} to opponents in front of name{Razor}. Upon striking an opponent, nmame{Razor} gains an name{Electro Sigil}, which increases his name{Energy Recharge} rate. name{Razor} can have up to 3 name{Electro Sigils} simultaneously, and gaining a new name{Electro Sigil} refreshes their duration.
+
+talent_name;razor_wolf_within;Внутренний волк;The Wolf Within
+talent_descr;razor_wolf_within;• Атакует вместе с name{обычными атаками} name{Рэйзора}, нанося electro{Электро урон}.<br>• Увеличивает name{скорость атаки} и electro{Электро сопротивление} nam{Рэйзора}.<br>• name{Заряженные атаки} name{Рэйзора} становятся недоступны;• Strikes alongside name{Razor}'s name{normal attacks}, dealing electro{Electro DMG}.<br>• Raises Razor's name{ATK SPD} and electro{Electro RES}.<br>• Disables name{Razor}'s name{Charged Attacks}.

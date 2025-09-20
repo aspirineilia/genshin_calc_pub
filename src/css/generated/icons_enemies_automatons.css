@@ -1,0 +1,112 @@
+.type-automatons.enemy-icon-apparatus-enigma-bionicdrone {background-image: url("../../images/enemies/automatons/apparatus_enigma_bionicdrone.png")}
+.type-automatons.enemy-icon-apparatus-enigma-bionicflora {background-image: url("../../images/enemies/automatons/apparatus_enigma_bionicflora.png")}
+.type-automatons.enemy-icon-apparatus-enigma-bionicinsecta {background-image: url("../../images/enemies/automatons/apparatus_enigma_bionicinsecta.png")}
+.type-automatons.enemy-icon-apparatus-enigma-bionicnettler {background-image: url("../../images/enemies/automatons/apparatus_enigma_bionicnettler.png")}
+.type-automatons.enemy-icon-apparatus-perpetual {background-image: url("../../images/enemies/automatons/apparatus_perpetual.png")}
+.type-automatons.enemy-icon-defender-noner-01 {background-image: url("../../images/enemies/automatons/defender_noner_01.png")}
+.type-automatons.enemy-icon-formathr-none {background-image: url("../../images/enemies/automatons/formathr_none.png")}
+.type-automatons.enemy-icon-konungmathr {background-image: url("../../images/enemies/automatons/konungmathr.png")}
+.type-automatons.enemy-icon-nithhoggr-none {background-image: url("../../images/enemies/automatons/nithhoggr_none.png")}
+.type-automatons.enemy-icon-samurai-ningyo {background-image: url("../../images/enemies/automatons/samurai_ningyo.png")}
+.type-automatons.enemy-icon-ruin-drake {background-image: url("../../images/enemies/automatons/ruin_drake.png")}
+.type-automatons.enemy-icon-gargoyle-fafnir {background-image: url("../../images/enemies/automatons/gargoyle_fafnir.png")}
+.type-automatons.enemy-icon-monolith-ordinator {background-image: url("../../images/enemies/automatons/monolith_ordinator.png")}
+.type-automatons.enemy-icon-monolith-starchild {background-image: url("../../images/enemies/automatons/monolith_starchild.png")}
+.type-automatons.enemy-icon-machinaiustitia-nutcracker {background-image: url("../../images/enemies/automatons/machinaiustitia_nutcracker.png")}
+.type-automatons.enemy-icon-machinaiustitia-excavator {background-image: url("../../images/enemies/automatons/machinaiustitia_excavator.png")}
+.type-automatons.enemy-icon-machinaiustitia-lengthshifter {background-image: url("../../images/enemies/automatons/machinaiustitia_lengthshifter.png")}
+.type-automatons.enemy-icon-machinaiustitia-bradamante {background-image: url("../../images/enemies/automatons/machinaiustitia_bradamante.png")}
+.type-automatons.enemy-icon-machinaiustitia-ruggiero-02 {background-image: url("../../images/enemies/automatons/machinaiustitia_ruggiero_02.png")}
+.type-automatons.enemy-icon-machinaiustitia-ruggiero-01 {background-image: url("../../images/enemies/automatons/machinaiustitia_ruggiero_01.png")}
+.type-automatons.enemy-icon-machinaiustitia-assimilator {background-image: url("../../images/enemies/automatons/machinaiustitia_assimilator.png")}
+.type-automatons.enemy-icon-machinaiustitia-nautilus {background-image: url("../../images/enemies/automatons/machinaiustitia_nautilus.png")}
+.type-automatons.enemy-icon-machinaiustitia-recon {background-image: url("../../images/enemies/automatons/machinaiustitia_recon.png")}
+.type-automatons.enemy-icon-machinaiustitia-sentry {background-image: url("../../images/enemies/automatons/machinaiustitia_sentry.png")}
+.type-automatons.enemy-icon-machinaiustitia-probe {background-image: url("../../images/enemies/automatons/machinaiustitia_probe.png")}
+.type-automatons.enemy-icon-machinaiustitia-pylon {background-image: url("../../images/enemies/automatons/machinaiustitia_pylon.png")}
+.type-automatons.enemy-icon-machinaiustitia-gravitas {background-image: url("../../images/enemies/automatons/machinaiustitia_gravitas.png")}
+.type-automatons.enemy-icon-machinaiustitia-frigate {background-image: url("../../images/enemies/automatons/machinaiustitia_frigate.png")}
+.type-automatons.enemy-icon-toothtrap {background-image: url("../../images/enemies/automatons/toothtrap.png")}
+.type-automatons.enemy-icon-dragonclaw {background-image: url("../../images/enemies/automatons/dragonclaw.png")}
+.type-automatons.enemy-icon-dragoncollar {background-image: url("../../images/enemies/automatons/dragoncollar.png")}
+.type-automatons.sprite-enemy.sprite-24 {
+	background-image: url("../../images/sprites/enemy_automatons_7b15abb499b8aa3a60bb257cd799030e.png");
+	background-size: 144px 144px;
+}
+.type-automatons.sprite-enemy.sprite-60 {
+	background-image: url("../../images/sprites/enemy_automatons_4cdc8b3d35950bf8fdceb2c00c1f3393.png");
+	background-size: 360px 360px;
+}
+.sprite.type-automatons.enemy-icon-apparatus-enigma-bionicdrone {background-position: 0% 0%}
+.sprite.type-automatons.enemy-icon-apparatus-enigma-bionicflora {background-position: 20% 0%}
+.sprite.type-automatons.enemy-icon-apparatus-enigma-bionicinsecta {background-position: 40% 0%}
+.sprite.type-automatons.enemy-icon-apparatus-enigma-bionicnettler {background-position: 60% 0%}
+.sprite.type-automatons.enemy-icon-apparatus-perpetual {background-position: 80% 0%}
+.sprite.type-automatons.enemy-icon-defender-noner-01 {background-position: 100% 0%}
+.sprite.type-automatons.enemy-icon-formathr-none {background-position: 0% 20%}
+.sprite.type-automatons.enemy-icon-konungmathr {background-position: 20% 20%}
+.sprite.type-automatons.enemy-icon-nithhoggr-none {background-position: 40% 20%}
+.sprite.type-automatons.enemy-icon-samurai-ningyo {background-position: 60% 20%}
+.sprite.type-automatons.enemy-icon-ruin-drake {background-position: 80% 20%}
+.sprite.type-automatons.enemy-icon-gargoyle-fafnir {background-position: 100% 20%}
+.sprite.type-automatons.enemy-icon-monolith-ordinator {background-position: 0% 40%}
+.sprite.type-automatons.enemy-icon-monolith-starchild {background-position: 20% 40%}
+.sprite.type-automatons.enemy-icon-machinaiustitia-nutcracker {background-position: 40% 40%}
+.sprite.type-automatons.enemy-icon-machinaiustitia-excavator {background-position: 60% 40%}
+.sprite.type-automatons.enemy-icon-machinaiustitia-lengthshifter {background-position: 80% 40%}
+.sprite.type-automatons.enemy-icon-machinaiustitia-bradamante {background-position: 100% 40%}
+.sprite.type-automatons.enemy-icon-machinaiustitia-ruggiero-02 {background-position: 0% 60%}
+.sprite.type-automatons.enemy-icon-machinaiustitia-ruggiero-01 {background-position: 20% 60%}
+.sprite.type-automatons.enemy-icon-machinaiustitia-assimilator {background-position: 40% 60%}
+.sprite.type-automatons.enemy-icon-machinaiustitia-nautilus {background-position: 60% 60%}
+.sprite.type-automatons.enemy-icon-machinaiustitia-recon {background-position: 80% 60%}
+.sprite.type-automatons.enemy-icon-machinaiustitia-sentry {background-position: 100% 60%}
+.sprite.type-automatons.enemy-icon-machinaiustitia-probe {background-position: 0% 80%}
+.sprite.type-automatons.enemy-icon-machinaiustitia-pylon {background-position: 20% 80%}
+.sprite.type-automatons.enemy-icon-machinaiustitia-gravitas {background-position: 40% 80%}
+.sprite.type-automatons.enemy-icon-machinaiustitia-frigate {background-position: 60% 80%}
+.sprite.type-automatons.enemy-icon-toothtrap {background-position: 80% 80%}
+.sprite.type-automatons.enemy-icon-dragonclaw {background-position: 100% 80%}
+.sprite.type-automatons.enemy-icon-dragoncollar {background-position: 0% 100%}
+
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (   min--moz-device-pixel-ratio: 2),
+only screen and (     -o-min-device-pixel-ratio: 2/1),
+only screen and (        min-device-pixel-ratio: 2),
+only screen and (                min-resolution: 192dpi),
+only screen and (                min-resolution: 2dppx) {
+	.type-automatons.enemy-icon-apparatus-enigma-bionicdrone {background-image: url("../../images/enemies/automatons/apparatus_enigma_bionicdrone_2x.png")}
+	.type-automatons.enemy-icon-apparatus-enigma-bionicflora {background-image: url("../../images/enemies/automatons/apparatus_enigma_bionicflora_2x.png")}
+	.type-automatons.enemy-icon-apparatus-enigma-bionicinsecta {background-image: url("../../images/enemies/automatons/apparatus_enigma_bionicinsecta_2x.png")}
+	.type-automatons.enemy-icon-apparatus-enigma-bionicnettler {background-image: url("../../images/enemies/automatons/apparatus_enigma_bionicnettler_2x.png")}
+	.type-automatons.enemy-icon-apparatus-perpetual {background-image: url("../../images/enemies/automatons/apparatus_perpetual_2x.png")}
+	.type-automatons.enemy-icon-defender-noner-01 {background-image: url("../../images/enemies/automatons/defender_noner_01_2x.png")}
+	.type-automatons.enemy-icon-formathr-none {background-image: url("../../images/enemies/automatons/formathr_none_2x.png")}
+	.type-automatons.enemy-icon-konungmathr {background-image: url("../../images/enemies/automatons/konungmathr_2x.png")}
+	.type-automatons.enemy-icon-nithhoggr-none {background-image: url("../../images/enemies/automatons/nithhoggr_none_2x.png")}
+	.type-automatons.enemy-icon-samurai-ningyo {background-image: url("../../images/enemies/automatons/samurai_ningyo_2x.png")}
+	.type-automatons.enemy-icon-ruin-drake {background-image: url("../../images/enemies/automatons/ruin_drake_2x.png")}
+	.type-automatons.enemy-icon-gargoyle-fafnir {background-image: url("../../images/enemies/automatons/gargoyle_fafnir_2x.png")}
+	.type-automatons.enemy-icon-monolith-ordinator {background-image: url("../../images/enemies/automatons/monolith_ordinator_2x.png")}
+	.type-automatons.enemy-icon-monolith-starchild {background-image: url("../../images/enemies/automatons/monolith_starchild_2x.png")}
+	.type-automatons.enemy-icon-machinaiustitia-nutcracker {background-image: url("../../images/enemies/automatons/machinaiustitia_nutcracker_2x.png")}
+	.type-automatons.enemy-icon-machinaiustitia-excavator {background-image: url("../../images/enemies/automatons/machinaiustitia_excavator_2x.png")}
+	.type-automatons.enemy-icon-machinaiustitia-lengthshifter {background-image: url("../../images/enemies/automatons/machinaiustitia_lengthshifter_2x.png")}
+	.type-automatons.enemy-icon-machinaiustitia-bradamante {background-image: url("../../images/enemies/automatons/machinaiustitia_bradamante_2x.png")}
+	.type-automatons.enemy-icon-machinaiustitia-ruggiero-02 {background-image: url("../../images/enemies/automatons/machinaiustitia_ruggiero_02_2x.png")}
+	.type-automatons.enemy-icon-machinaiustitia-ruggiero-01 {background-image: url("../../images/enemies/automatons/machinaiustitia_ruggiero_01_2x.png")}
+	.type-automatons.enemy-icon-machinaiustitia-assimilator {background-image: url("../../images/enemies/automatons/machinaiustitia_assimilator_2x.png")}
+	.type-automatons.enemy-icon-machinaiustitia-nautilus {background-image: url("../../images/enemies/automatons/machinaiustitia_nautilus_2x.png")}
+	.type-automatons.enemy-icon-machinaiustitia-recon {background-image: url("../../images/enemies/automatons/machinaiustitia_recon_2x.png")}
+	.type-automatons.enemy-icon-machinaiustitia-sentry {background-image: url("../../images/enemies/automatons/machinaiustitia_sentry_2x.png")}
+	.type-automatons.enemy-icon-machinaiustitia-probe {background-image: url("../../images/enemies/automatons/machinaiustitia_probe_2x.png")}
+	.type-automatons.enemy-icon-machinaiustitia-pylon {background-image: url("../../images/enemies/automatons/machinaiustitia_pylon_2x.png")}
+	.type-automatons.enemy-icon-machinaiustitia-gravitas {background-image: url("../../images/enemies/automatons/machinaiustitia_gravitas_2x.png")}
+	.type-automatons.enemy-icon-machinaiustitia-frigate {background-image: url("../../images/enemies/automatons/machinaiustitia_frigate_2x.png")}
+	.type-automatons.enemy-icon-toothtrap {background-image: url("../../images/enemies/automatons/toothtrap_2x.png")}
+	.type-automatons.enemy-icon-dragonclaw {background-image: url("../../images/enemies/automatons/dragonclaw_2x.png")}
+	.type-automatons.enemy-icon-dragoncollar {background-image: url("../../images/enemies/automatons/dragoncollar_2x.png")}
+	.type-automatons.sprite-enemy.sprite-24 {background-image: url("../../images/sprites/enemy_automatons_339710fab88ccc291c315569678249da.png")}
+	.type-automatons.sprite-enemy.sprite-60 {background-image: url("../../images/sprites/enemy_automatons_9b07488c1130c718b5388844ae0a4006.png")}
+}

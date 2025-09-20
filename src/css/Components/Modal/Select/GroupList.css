@@ -1,0 +1,23 @@
+.art-group-list-items .item {
+    display: flex;
+    align-items: center;
+    color: #fff7e9;
+    font-size: 14px;
+}
+
+.art-group-list-items .count {
+    padding-left: 5px;
+    color: #BEAEA9;
+}
+
+.art-group-list-items .button {
+    border: solid 1px #ECE5D8;
+    width: 20px;
+    height: 20px;
+    border-radius: 5px;
+    background-color: rgba(40, 28, 15, 0.7);
+    cursor: pointer;
+    margin: 2px 4px;
+    background-image: url("../../../../images/icons/editart.png");
+    background-repeat: no-repeat;
+}

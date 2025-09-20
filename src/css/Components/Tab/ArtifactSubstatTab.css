@@ -1,0 +1,32 @@
+.gi-suggestsubstat-tab .gi-tab-item-inner {
+    background-image: url("../../../images/icons/tab_chart_light.png");
+}
+.gi-suggestsubstat-tab.active .gi-tab-item-inner {
+    background-color: #ECE5D8;
+    background-image: url("../../../images/icons/tab_chart_dark.png");
+}
+
+.suggest-substat .line {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 2px;
+    padding-right: 11px;
+    box-sizing: border-box;
+    min-height: 26px;
+    justify-content: center;
+}
+
+.suggest-substat .line.odd {
+    background-color: rgba(23, 17, 16, 0.5);
+}
+
+.suggest-substat .line .name {
+    flex-grow: 1;
+}
+
+.suggest-substat .line .value {
+    width: 55px;
+    text-align: right;
+    flex-shrink: 0;
+}

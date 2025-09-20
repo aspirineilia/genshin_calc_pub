@@ -1,0 +1,17 @@
+category;name;rus;eng
+feature_attack;yanfei_blazing_eye;Урон Пламенный взгляд;Blazing Eye DMG
+feature_attack;yanfei_charged_1;Заряженная (1 печать);Charged (1 seal)
+feature_attack;yanfei_charged_2;Заряженная (2 печати);Charged (2 seals)
+feature_attack;yanfei_charged_3;Заряженная (3 печати);Charged (3 seals)
+feature_attack;yanfei_charged_4;Заряженная (4 печати);Charged (4 seals)
+feature_attack;yanfei_seal_stamina_decreasse;Снижение потребления выносливости багровой печатью;Scarlet Seal Stamina Consumption Decrease
+feature_attack;yanfei_seal_duration;Длительность Багровой печати;Scarlet Seal Duration
+feature_other;yanfei_shield;Щит Охранная грамота;Supreme Amnesty Shield
+feature_burst;yanfei_seal_interval;Интервал получения Багровой печати;Scarlet Seal Grant Interval
+feature_burst;yanfei_charged_bonus;Увеличение урона заряженной атаки;Charged Attack DMG Bonus
+
+talent_name;yanfei_scarlet_seal;Багровые печати;Scarlet Seals
+talent_descr;yanfei_scarlet_seal;Каждая name{Багровая печать} снижает потребление выносливости name{Янь Фэй} на %{stamina_consume}. name{Печати} исчезают при смене персонажа.;Each name{Scarlet Seal} will decrease name{Yanfei}'s Stamina consumption by %{stamina_consume} and will disappear when she leaves the field.
+
+talent_name;yanfei_brilliance;Блеск;Brilliance
+talent_descr;yanfei_brilliance;Имеет следующие эффекты:<br>• Периодически даёт name{Янь Фэй} одну name{Багровую печать}.<br>• Увеличивает урон name{заряженной атаки}.;Has the following effects:<br>• Grants name{Yanfei} a name{Scarlet Seal} at fixed intervals.<br>• Increases the DMG dealt by her name{Charged Attacks}.

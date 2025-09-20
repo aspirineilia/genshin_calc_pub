@@ -1,0 +1,123 @@
+.gi-window-select {
+    width: 900px;
+    max-height: 80%;
+}
+
+.narrow .gi-window-select {
+    min-height: 580px;
+}
+
+.gi-window-select.gi-window-confirm {
+    width: 450px;
+}
+
+.gi-window-select-filter {
+    width: 100%;
+    display: flex;
+}
+
+.gi-window-select-filter-separator {
+    width: 50px;
+}
+
+.narrow .gi-window-select-filter-separator {
+    width: 0px;
+}
+
+.gi-window-select-filter-block {
+    display: flex;
+}
+
+.gi-window-select-filter-item {
+    display: block;
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+    background-size: cover;
+    cursor: pointer;
+    opacity: 0.3;
+}
+
+.gi-window-select-filter-item.active {
+    opacity: 1;
+}
+
+.gi-window-select-content {
+    overflow: auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+}
+
+.gi-window-select-item {
+    height: 80px;
+    border: 2px solid #626770;
+    border-radius: 10px;
+    margin: 10px;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+
+.gi-window-select-item-unknown {
+    line-height: 60px;
+    text-align: center;
+    font-size: 40px;
+}
+
+.gi-window-select-item:hover {
+    background-color: #626770;
+}
+
+.gi-window-select-item-name {
+    float: left;
+    margin-top: 5px;
+    width: calc(100% - 80px);
+    height: 30px;
+    line-height: 30px;
+    font-size: 20px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.gi-window-select-item-name.shrink, .gi-window-select-enemy .gi-window-select-item-name {
+    font-size: 15px;
+}
+
+.gi-window-select-char-element, .gi-window-select-char-weapon {
+    float: left;
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+    background-size: cover;
+}
+
+.gi-window-select-item-icon {
+    width: 60px;
+    height: 60px;
+    margin: 10px;
+    border-radius: 50%;
+    border: solid 3px transparent;
+    cursor: pointer;
+    float: left;
+    box-sizing: border-box;
+}
+
+.gi-window-select-item-icon .sprite {
+    width: 60px;
+    height: 60px;
+    position: relative;
+    top: -3px;
+    left: -3px;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    box-sizing: border-box;
+    border: 0px none;
+}
+
+.gi-window-select-stat-table {
+    font-size: 12px;
+}
+
+.gi-window-select-stat-table td:first-child {
+    color: #BEAEA9;
+}

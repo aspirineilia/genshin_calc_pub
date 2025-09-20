@@ -1,0 +1,17 @@
+category;name;rus;eng
+feature_attack;wanderer_normal_hit_1;Доп. Обычная-1;Add. Normal hit-1
+feature_attack;wanderer_normal_hit_2;Доп. Обычная-2;Add. Normal hit-2
+feature_attack;wanderer_normal_hit_3;Доп. Обычная-3;Add. Normal hit-3
+feature_attack;wanderer_normal_hit_3_1;Доп. Обычная-3-1;Add. Normal hit-3-1
+
+feature_skill;wanderer_fushoudan;Урон Куго: Фусёдан;Kuugo: Fushoudan DMG
+feature_skill;wanderer_toufukai;Урон Куго: Тофукай;Kuugo: Toufukai DMG
+feature_skill;wanderer_kuugoryoku_points;Исходная куго-рёку;Initial Kuugoryoku Points
+
+feature_skill;wanderer_wind_arrow_dmg;Урон стрелы ветра;Wind arrow DMG
+
+stat;dmg_burst_wanderer;Кёгэн: Пять церемониальных актов;Kyougen: Five Ceremonial Plays
+
+talent_name;wanderer_windfavored;Избранник ветра;Windfavored
+talent_descr;wanderer_windfavored;В этом состоянии name{Странник} не может совершать name{атаки в падении}. name{Обычные} и name{заряженные атаки} превращаются в name{Куго: Фусёдан} и name{Куго: Тофукай}, их урон и зона поражения увеличиваются. Их урон считается уроном обычной и заряженной атаки соответственно.;The name{Wanderer} cannot perform name{Plunging Attacks} in this state. When he uses name{Normal} and name{Charged Attacks}, they will be converted into name{Kuugo: Fushoudan} and name{Kuugo: Toufukai respectively}; the DMG they deal and their AoE will be increased, and their DMG will be considered Normal and Charged Attack DMG respectively.
+

@@ -1,0 +1,7 @@
+category;name;rus;eng
+
+weapon_name;cranes_echoing_call;Звонкий клич журавля;Crane's Echoing Call
+
+talent_name;weapon_cranes_echoing_call;Секрет облачных канонов;Cloudfall Axiom
+talent_descr;weapon_cranes_echoing_call_1;После того как name{атаки в падении} экипированного персонажа поражают врага, урон name{атаки в падении} членов отряда поблизости повышается на %{dmg_plunge|20} на 20 сек.;After the equipping character hits an opponent with a name{Plunging Attack}, all nearby party members' name{Plunging Attacks} deal %{dmg_plunge|20} increased DMG for 20s.
+talent_descr;weapon_cranes_echoing_call_2;Попадания name{атак в падении} членов отряда поблизости восстанавливают %{text_decimal|0|2} ед. энергии экипированного персонажа. Восстанавливать энергию таким образом можно 1 раз в 0,7 сек.;When nearby party members hit opponents with name{Plunging Attacks}, they will restore %{text_decimal|0|2} Energy to the equipping character. Energy can be restored this way every 0.7s.

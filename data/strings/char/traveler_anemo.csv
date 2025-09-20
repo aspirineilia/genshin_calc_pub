@@ -1,0 +1,49 @@
+category;name;rus;eng
+feature_attack;traveler_slitting_wind;Урон Кромсающий ветер;Slitting Wind DMG
+feature_burst;traveler_tornado_dmg;Урон от Торнадо;Tornado DMG
+feature_skill;traveler_initial_cutting_dmg;Начальный режущий урон;Initial Cutting DMG
+feature_skill;traveler_initial_storm_dmg;Начальный урон вихря;Initial Storm DMG
+feature_skill;traveler_max_cutting_dmg;Макс. режущий урон;Max Cutting DMG
+feature_skill;traveler_max_storm_dmg;Макс. урон вихря;Max Storm DMG
+
+feature_skill;traveler_initial_cutting_pyro_dmg;Пиро начальный режущий урон;Pyro initial Cutting DMG
+feature_skill;traveler_max_cutting_pyro_dmg;Пиро макс. режущий урон;Pyro max Cutting DMG
+feature_skill;traveler_initial_storm_pyro_dmg;Пиро начальный урон вихря;Pyro initial Storm DMG
+feature_skill;traveler_max_storm_pyro_dmg;Пиро макс. урон вихря;Pyro max Storm DMG
+feature_skill;traveler_initial_cutting_hydro_dmg;Гидро начальный режущий урон;Hydro initial Cutting DMG
+feature_skill;traveler_max_cutting_hydro_dmg;Гидро макс. режущий урон;Hydro max Cutting DMG
+feature_skill;traveler_initial_storm_hydro_dmg;Гидро начальный урон вихря;Hydro initial Storm DMG
+feature_skill;traveler_max_storm_hydro_dmg;Гидро макс. урон вихря;Hydro max Storm DMG
+feature_skill;traveler_initial_cutting_cryo_dmg;Крио начальный режущий урон;Cryo initial Cutting DMG
+feature_skill;traveler_max_cutting_cryo_dmg;Крио макс. режущий урон;Cryo max Cutting DMG
+feature_skill;traveler_initial_storm_cryo_dmg;Крио начальный урон вихря;Cryo initial Storm DMG
+feature_skill;traveler_max_storm_cryo_dmg;Крио макс. урон вихря;Cryo max Storm DMG
+feature_skill;traveler_initial_cutting_electro_dmg;Электро начальный режущий урон;Electro initial Cutting DMG
+feature_skill;traveler_max_cutting_electro_dmg;Электро макс. режущий урон;Electro max Cutting DMG
+feature_skill;traveler_initial_storm_electro_dmg;Электро начальный урон вихря;Electro initial Storm DMG
+feature_skill;traveler_max_storm_electro_dmg;Электро макс. урон вихря;Electro max Storm DMG
+
+talent_name;traveler_swordfighting_techniques;Техника фехтования на мечах VIII;Swordfighting Techniques VIII
+talent_descr;traveler_swordfighting_techniques;name{Базовая сила атаки} увеличивается на %{atk_base}.;name{Base ATK} increased by %{atk_base}.
+talent_name;traveler_special_training;Особая тренировка Скирк;Skirk's Special Training
+talent_descr;traveler_special_training;name{Базовая сила атаки} увеличивается на %{atk_base}, name{мастрество стихий} на %{mastery} и базовое name{HP} на %{hp_base}.;name{Base ATK} increased by %{atk_base}, name{elemental mastery} by %{mastery} and name{base HP} by %{hp_base}.
+
+talent_name;traveler_slitting_wind;Кромсающий ветер;Slitting Wind
+talent_descr;traveler_slitting_wind;Последний удар name{серии обычных атак} призывает меч Анемо, который наносит %{text_percent_dmg} anemo{Анемо урона} всем врагам на своём пути.;The last hit of a name{Normal Attack combo} unleashes a wind blade, dealing %{text_percent_dmg} of name{ATK} as anemo{Anemo DMG} to all opponents in its path.
+
+talent_name;traveler_second_wind;Второе дыхание;Second Wind
+talent_descr;traveler_second_wind;Враги, побеждённые навыком skill{skill:Ладонь вихря}, восстанавливают %{text_percent_hp} name{HP} персонажа в течение 5 сек. Может возникнуть раз в 5 сек.;skill{skill:Palm Vortex} kills regenerate %{text_percent_hp} name{HP} for 5s. This effect can only occur once every 5s.
+
+talent_name;traveler_raging_vortex;Бушующий ураган;Raging Vortex
+talent_descr;traveler_raging_vortex;skill{skill:Ладонь вихря} затягивает врагов и предметы в радиусе 5 метров.;skill{skill:Palm Vortex} pulls in opponents and objects within a 5m radius.
+
+talent_name;traveler_uprising_whirlwind;Вздымающийся вихрь;Uprising Whirlwind
+talent_descr;traveler_uprising_whirlwind;Увеличивает name{восстановление энергии} на %{recharge}.;Increases name{Energy Recharge} by %{recharge}.
+
+talent_name;traveler_cherishing_breezes;Хранящий бриз;Cherishing Breezes
+talent_descr;traveler_cherishing_breezes;Уменьшает получаемый во время действия навыка skill{skill:Ладонь вихря} урон на %{text_percent_reduce}.;Reduces DMG taken while casting skill{skill:Palm Vortex} by %{text_percent_reduce}.
+
+talent_name;traveler_intertwined_winds;Плетение ветров;Intertwined Winds
+talent_descr;traveler_intertwined_winds;Понижает anemo{Анемо сопротивление} противников, получивших урон от навыка skill{burst:Взрывное торнадо}, на %{enemy_res_anemo}.;Targets who take DMG from skill{burst:Gust Surge} have their nameo{Anemo RES} decreased by %{enemy_res_anemo}.
+
+talent_descr;traveler_intertwined_winds_element;Если произошло name{Поглощение стихии}, то также понижает name{сопротивление} к поглощённому элементу на value{20%}.;If an name{Elemental Absorption} occurred, then their name{RES} towards the corresponding Element is also decreased by value{20%}.

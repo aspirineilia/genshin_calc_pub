@@ -1,0 +1,27 @@
+.artifact-progress-modal.dialog {
+    z-index: 1501;
+}
+
+.artifact-progress-modal.dialog-back {
+    z-index: 1500;
+}
+
+.artifact-progress-modal .thread {
+    height: 16px;
+    margin: 4px 0;
+}
+
+.artifact-progress-modal .loading {
+    font-size: 12px;
+    height: 16px;
+    line-height: 16px;
+    margin: 4px 0;
+}
+
+.artifact-progress-modal .info-line {
+    margin-top: 5px;
+}
+
+.artifact-progress-modal .rem {
+    color: #BEAEA9;
+}

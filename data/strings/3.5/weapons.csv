@@ -1,0 +1,7 @@
+category;name;rus;eng
+talent_name;beacon_of_the_reed_sea;Пустынный дозор;Desert Watch
+talent_descr;beacon_of_the_reed_sea_1;После попадания name{элементальным навыком} по противнику name{сила атаки} увеличится на %{atk_percent} на 8 сек. При получении урона name{сила атаки} увеличится на %{atk_percent} на 8 сек. Эти эффекты срабатывают, даже если персонаж не на поле боя.;After the character's name{Elemental Skill} hits an opponent, their name{ATK} will be increased by %{atk_percent} for 8s. After the character takes DMG, their name{ATK} will be increased by %{atk_percent} for 8s. The 2 aforementioned effects can be triggered even when the character is not on the field.
+talent_descr;beacon_of_the_reed_sea_2;Eсли экипированный персонаж не защищён щитом, его name{макс. HP} увеличится на %{hp_percent}.;When not protected by a shield, your character's name{Max HP} will be increased by %{hp_percent}.
+
+talent_name;weapon_mailed_flower;Тайный язык ветра и цветов;Whispers of Wind and Flower
+talent_descr;weapon_mailed_flower;После попадания name{элементальным навыком} по противнику или активации name{элементальной реакции}, на 8 сек. name{сила атаки} повышается на %{atk_percent}, а name{мастерство стихий} - на %{mastery} ед.;Within 8s after the character's name{Elemental Skill} hits an opponent or character triggers an name{Elemental Reaction}, their name{ATK} and name{Elemental Mastery} will be increased by %{atk_percent} and %{mastery} respectively.

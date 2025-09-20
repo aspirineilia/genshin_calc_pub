@@ -1,0 +1,32 @@
+category;name;rus;eng
+
+stat;dmg_charged_elem_chasca;Пуля сияющей охоты;Shining Shadowhunt Shell
+stat;crit_dmg_chasca;Огонь по множеству целей;Multitarget Fire
+
+feature_skill;chasca_activation_dmg;Урон резонирования;Resonance DMG
+feature_skill;chasca_multi_aim_press_dmg;Урон Огня по множеству целей;Multitarget Fire Tap DMG
+feature_skill;chasca_shadowhunt_shell_dmg;Урон Пули охотника на тени;Shadowhunt Shell DMG
+feature_skill;chasca_shining_shadowhunt_shell_dmg;Урон Сияющей пули охотника на тени;Shining Shadowhunt Shell DMG
+feature_skill;chasca_shining_shadowhunt_shell_pyro_dmg;Пиро урон Сияющей пули охотника на тени;Shining Shadowhunt Shell Pyro DMG
+feature_skill;chasca_shining_shadowhunt_shell_hydro_dmg;Гидро урон Сияющей пули охотника на тени;Shining Shadowhunt Shell Hydro DMG
+feature_skill;chasca_shining_shadowhunt_shell_electro_dmg;Электро урон Сияющей пули охотника на тени;Shining Shadowhunt Shell Electro DMG
+feature_skill;chasca_shining_shadowhunt_shell_cryo_dmg;Крио урон Сияющей пули охотника на тени;Shining Shadowhunt Shell Cryo DMG
+
+feature_skill;chasca_burning_shadowhunt_shot_dmg;Урон Горящей пулей охотника на тени;Burning Shadowhunt Shot DMG
+feature_skill;chasca_burning_shadowhunt_shot_pyro_dmg;Пиро урон Горящей пулей охотника на тени;Burning Shadowhunt Shot Pyro DMG
+feature_skill;chasca_burning_shadowhunt_shot_hydro_dmg;Гидро урон Горящей пулей охотника на тени;Burning Shadowhunt Shot Hydro DMG
+feature_skill;chasca_burning_shadowhunt_shot_electro_dmg;Электро урон Горящей пулей охотника на тени;Burning Shadowhunt Shot Electro DMG
+feature_skill;chasca_burning_shadowhunt_shot_cryo_dmg;Крио урон Горящей пулей охотника на тени;Burning Shadowhunt Shot Cryo DMG
+
+feature_burst;chasca_galesplitting_soulreaper_shell_dmg;Урон Вихребойной пули ловца душ;Galesplitting Soulseeker Shell DMG
+feature_burst;chasca_soulreaping_shell_dmg;Урон Пуль ловца душ;Soulseeker Shell DMG
+feature_burst;chasca_radiant_soulreaping_shell_dmg;Урон Сверкающей пули ловца душ;Radiant Soulseeker Shell DMG
+feature_burst;chasca_radiant_soulreaping_shell_pyro_dmg;Пиро урон Сверкающей пули ловца душ;Radiant Soulseeker Shell Pyro DMG
+feature_burst;chasca_radiant_soulreaping_shell_hydro_dmg;Гидро урон Сверкающей пули ловца душ;Radiant Soulseeker Shell Hydro DMG
+feature_burst;chasca_radiant_soulreaping_shell_electro_dmg;Электро урон Сверкающей пули ловца душ;Radiant Soulseeker Shell Electro DMG
+feature_burst;chasca_radiant_soulreaping_shell_cryo_dmg;Крио урон Сверкающей пули ловца душ;Radiant Soulseeker Shell Cryo DMG
+
+feature_other;chasca_c2_pyro_dmg;Доп. пиро урон Сияющей пули охотника на тени;Additional Shining Shadowhunt Shell Pyro DMG
+feature_other;chasca_c2_hydro_dmg;Доп. гидро урон Сияющей пули охотника на тени;Additional Shining Shadowhunt Shell Hydro DMG
+feature_other;chasca_c2_electro_dmg;Доп. электро урон Сияющей пули охотника на тени;Additional Shining Shadowhunt Shell Electro DMG
+feature_other;chasca_c2_cryo_dmg;Доп. крио урон Сияющей пули охотника на тени;Additional Shining Shadowhunt Shell Cryo DMG

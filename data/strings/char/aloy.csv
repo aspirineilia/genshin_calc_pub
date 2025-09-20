@@ -1,0 +1,11 @@
+category;name;rus;eng
+feature_skill;aloy_rushing_ice_duration;Длительность Стремительного льда;Rushing Ice Duration
+feature_skill;aloy_coil_bonus;Бонус обычной атаки от Спирали;Coil Normal Attack DMG Bonus
+feature_skill;aloy_rushing_ice_bonus;Бонус обычной атаки от Стремительного льда;Rushing Ice Normal Attack DMG Bonus
+feature_skill;aloy_freeze_bomb_dmg;Урон Студёной бомбы;Freeze Bomb DMG
+feature_skill;aloy_chillwater_bomblets;Урон Ледяной бомбочки;Chillwater Bomblets
+feature_skill;aloy_atk_decrease;Понижение силы атаки;ATK Decrease
+feature_skill;aloy_atk_decrease_duration;Длительность понижения силы атаки;ATK Decrease Duration
+
+talent_name;aloy_coils;Ледяная пустошь;Frozen Wilds
+talent_descr;aloy_coils;Когда skill{skill:Студёная бомба} или skill{skill:Ледяная бомбочка} поражают противника, его name{сила атаки} понижается и name{Элой} получает один уровень skill{skill:Спирали}. name{Элой} может получить до 1 уровня name{Спирали} каждые 0.1 сек.<br>• Каждый уровень name{Спирали} повышает урон name{обычной атаки} name{Элой}.<br>• 4 уровня name{Спирали} наделяют name{Элой} эффектом name{Поспешный лёд}, который конвертирует урон её name{обычной атаки} в cryo{Крио урон}.<br>Находясь под эффектом name{Поспешного льда}, name{Элой} не может накапливать уровни name{Спирали}.<br>Эффекты name{Спирали} сбросятся через 30 сек. после того, как name{Элой} покинет бой.;When a skill{skill:Freeze Bomb} or skill{skill:Chillwater Bomblet} hits an opponent, the opponent's name{ATK} is reduced and name{Aloy} receives 1 skill{skill:Coil} stack. name{Aloy} can gain up to 1 Coil stack every 0.1s.<br>• Each stack increases name{Aloy}'s name{Normal Attack} DMG.<br>• When name{Aloy} has 4 name{Coil} stacks, she gains name{Rushing Ice}, which converts her name{Normal Attack} DMG to cryo{Cryo DMG}.<br>While under the effect of name{Rushing Ice}, name{Aloy} cannot receive new name{Coil} stacks.<br>name{Coil} effects will be cleared 30s after name{Aloy} leaves the field.

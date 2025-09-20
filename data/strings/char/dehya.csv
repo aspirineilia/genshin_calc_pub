@@ -1,0 +1,13 @@
+category;name;rus;eng
+feature_skill;dehya_indomitable_flame_dmg;Урон Непреклонного пламени;Indomitable Flame DMG
+feature_skill;dehya_ranging_flame_dmg;Урон Сферы пламени;Ranging Flame DMG
+feature_skill;dehya_field_dmg;Урон области;Field DMG
+feature_skill;dehya_mitigation;Отвод урона;Mitigation
+feature_skill;dehya_redmanes_blood_maximum;Максимум Крови алой гривы;Redmane's Blood Maximum
+feature_skill;dehya_field_duration;Длительность области;Field Duration
+feature_burst;dehya_flame_manes_fist_dmg;Урон Кулаков Пламенной Гривы;Flame-Mane's Fist DMG
+feature_burst;dehya_incineration_drive_dmg;Урон Сжигающего удара;Incineration Drive DMG
+feature_burst;dehya_an_oath_abiding_heal;Лечение Непреложной клятвы;An Oath Abiding Heal
+
+feature_other;dehya_stalwart_and_true_heal;Лечение Непоколебимой искренности;Stalwart and True Heal
+feature_other;dehya_stalwart_and_true_dot_heal;Периодическое лечение Непоколебимой искренности;Stalwart and True periodic Heal

@@ -1,0 +1,39 @@
+.collapse-menu {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.collapse-menu > .controls-bar {
+    flex-grow: 1;
+    overflow: hidden;
+}
+
+.collapse-menu .dots {
+    flex: 0 0 auto;
+    margin: 0;
+    user-select: none;
+}
+
+.collapse-menu .dots-menu {
+    position: absolute;
+    top: 43px;
+    right: 0px;
+    z-index: 100;
+    display: flex;
+    flex-direction: column;
+    background-color: #353D4F;
+    border: solid 1px #626770;
+    padding: 5px;
+    border-radius: 13px;
+}
+
+.collapse-menu .dots-menu .item {
+    margin: 3px 0;
+    display: flex;
+}
+
+.collapse-menu .dots-menu .item > * {
+    flex-grow: 1;
+}

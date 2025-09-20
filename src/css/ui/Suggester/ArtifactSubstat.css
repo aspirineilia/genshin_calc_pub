@@ -1,0 +1,7 @@
+.gi-suggest-artifact-substat-tab .gi-tab-item-inner {
+    background-image: url("../../../images/icons/tab_chart_light.png");
+}
+.gi-suggest-artifact-substat-tab.active .gi-tab-item-inner {
+    background-color: #ECE5D8;
+    background-image: url("../../../images/icons/tab_chart_dark.png");
+}

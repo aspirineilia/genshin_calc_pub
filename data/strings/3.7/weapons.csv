@@ -1,0 +1,4 @@
+category;name;rus;eng
+weapon_name;ibis_piercer;Клюв ибиса;Ibis Piercer
+talent_name;weapon_ibis_piercer;Благоволение тайной мудрости;Secret Wisdom's Favor
+talent_descr;weapon_ibis_piercer;Попадание name{заряженной атакой} по противнику увеличивает мастерство стихий на %{mastery} ед. на 6 сек. Эффект складывается до 2 раз и может возникнуть раз в 0,5 сек.;The character's name{Elemental Mastery} will increase by %{mastery} within 6s after name{Charged Attacks} hit opponents. Max 2 stacks. This effect can be triggered once every 0.5s.

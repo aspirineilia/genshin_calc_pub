@@ -1,0 +1,23 @@
+.rotation-block-modal .item {
+    border: 2px solid #626770;
+    border-radius: 10px;
+    box-sizing: border-box;
+    cursor: pointer;
+    min-height: 80px;
+    padding: 15px;
+    margin: 5px;
+}
+
+.rotation-block-modal .item:hover {
+    background-color: #626770;
+}
+
+.rotation-block-modal .title {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.rotation-block-modal .description {
+    font-size: 14px;
+    color: #BEAEA9;
+}

@@ -1,0 +1,11 @@
+category;name;rus;eng
+object_view;level;Уровень;Level
+object_view;skill_attack;Атака;Attack
+object_view;skill_elemental;Элементальный навык;Elemental skill
+object_view;skill_burst;Взрыв стихий;Elemental Burst
+object_view;constellation;Созвездия;Constellation
+object_view;weapon_refine;Ранг пробуждения;Refinement Rank
+object_view;total_resistance;Итоговые сопротивления и множитель урона;Total resistances and damage multiplier
+object_view;beta_1;Контент находится в разработке.;Content is currently in development.
+object_view;beta_2;Характеристики и таланты могут измениться!;Stats and talents are subject to change!
+object_view;reset_confirm;Вы действительно хотите сбросить все настройки текущей сборки персонажа?;Are you sure you want to reset all settings for curernt build?

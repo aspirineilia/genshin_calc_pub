@@ -1,0 +1,64 @@
+category;name;rus;eng
+tab_header;artifact_pool;Хранилище артефактов;Artifacts storage
+tab_header;artifact_pool_result;Результат подбора;Suggest results
+tooltip;pool_load;Загрузить сохранённые артефакты;Load artifacts
+tooltip;pool_best;Подобрать лучшие артефакты для выбранного показателя;Suggest best artifacts for selected feature
+tooltip;pool_save;Сохранить артефакты;Save artifacts
+tooltip;pool_add;Новый артефакт;New artifact
+tooltip;pool_lock;Настройки блокировки артефактов;Artifacts locking
+tooltip;pool_sort;Сортировать по показателю;Sort by feature
+tooltip;pool_settings;Настройки;Settings
+tooltip;pool_groups;Группы артефактов;Artifact groups
+tooltip;scan_artifact;Сканирование скриншота;Screenshot scan
+tooltip;remove_roll;Удалить лишнее значение;Remove excess value
+pool_view;all_sets;Все наборы;All sets
+pool_view;upgrade_level;Уровень;Level
+pool_stat;atk;Сила атаки;ATK
+pool_stat;atk_percent;Процент от силы атаки;ATK Percentage
+pool_stat;def;Защита;DEF
+pool_stat;def_percent;Процент от защиты;DEF Percentage
+pool_stat;hp;HP;HP
+pool_stat;hp_percent;Процент от HP;HP Percentage
+pool_stat;crit_rate;Шанс крит. попадания;Crit. Rate
+pool_stat;crit_dmg;Крит. урон;Crit. DMG
+pool_stat;mastery;Мастерство стихий;Elemental Mastery
+pool_stat;recharge;Восст. энергии;Energy Recharge
+pool_stat;healing;Бонус лечения;Healing Bonus
+pool_stat;dmg_anemo;Бонус Анемо урона;Anemo DMG Bonus
+pool_stat;dmg_cryo;Бонус Крио урона;Cryo DMG Bonus
+pool_stat;dmg_electro;Бонус Электро урона;Electro DMG Bonus
+pool_stat;dmg_geo;Бонус Гео урона;Geo DMG Bonus
+pool_stat;dmg_hydro;Бонус Гидро урона;Hydro DMG Bonus
+pool_stat;dmg_phys;Бонус Физ. урона;Physical DMG Bonus
+pool_stat;dmg_pyro;Бонус Пиро урона;Pyro DMG Bonus
+pool_stat;dmg_dendro;Бонус Дендро урона;Dendro DMG Bonus
+tooltip;artifact_flower;Показать Цветки жизни;Show Flowers of Life
+tooltip;artifact_plume;Показать Перья смерти;Show Plumes of Death
+tooltip;artifact_sands;Показать Пески времени;Show Sands of Eon
+tooltip;artifact_goblet;Показать Кубки пространства;Show Goblet of Eonothem
+tooltip;artifact_circlet;Показать Короны разума;Show Circlet of Logos
+tooltip;artifact_all;Показать Все;Show All
+
+modal_window;lock_artifact;Блокировка артефактов;Artifacts locking
+pool_view;lock_info;Заблокированные артефакты не будут использоваться при подборе артефактов;Locked artifacts will not be used in artifact optimizer
+tooltip;pool_lock_char;Заблокировать надетые на персонажах артефакты;Lock equipped artifacts
+tooltip;pool_unlock_char;Разблокировать надетые на персонажах артефакты;Unlock equipped artifacts
+pool_view;show_artifacts;Показать;Show artifacts
+pool_view;hide_artifacts;Скрыть;Hide artifacts
+
+pool_view;lockmode_current;Текущая сборка;Current build
+pool_view;lockmode_all;Все артефакты;All artifacts
+pool_view;lockmode_all_save;Все сохранения;All saves
+pool_view;lockmode_filtered;Отфильтрованные сохранения;Filtered saves
+pool_view;unlock_artifacts;Разрешить;Unlock
+pool_view;lock_artifacts;Заблокировать;Lock
+
+
+tab_header;artifact_pool_suggest;Подбор артефактов;Artifact suggest
+pool_view;type_normal;Обычный;Normal
+pool_view;type_crit;Критический;Critical
+pool_view;type_average;Среднее;Average
+
+pool_view;disable_sets;Запретить все;Disable all
+pool_view;enable_sets;Разрешить все;Enable all
+pool_view;loading;Идёт сортировка артефактов...;Artifacts sorting...

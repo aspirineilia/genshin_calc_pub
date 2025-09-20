@@ -1,0 +1,9 @@
+category;name;rus;eng
+feature_skill;chongyun_infusion_duration;Длительность инфузии;Infusion Duration
+feature_skill;chongyun_field_duration;Длительность сферы;Field Duration
+feature_attack;chongyun_ice_unleashed;Урон ледяного клинка;Ice Blade DMG
+
+talent_name;chongyun_frost_field;Находится в области Холода Чунхуа;Within Chonghua Frost Field
+talent_descr;chongyun_frost_field;Области навыка skill{skill:Духовное лезвие: Холод Чунхуа};name{Chonghua Frost Field} created by skill{skill:Spirit Blade: Chonghua's Layered Frost}
+talent_name;chongyun_layered_frost;Духовное лезвие: Холод Чунхуа;Spirit Blade: Chonghua's Layered Frost
+talent_descr;chongyun_layered_frost;Оружие находящихся в этой области персонажей, экипированных name{одноручным мечом}, name{двуручным мечом} или name{древковым оружием}, наделяется инфузией cryo{Крио}.;Within area of name{Chonghua Frost Field} all name{Sword}, name{Claymore} and name{Polearm}-wielding characters' weapons infused with cryo{Cryo}.

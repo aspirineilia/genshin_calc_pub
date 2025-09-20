@@ -1,0 +1,58 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Genshin Impact Calculator</title>
+    <meta name="description" content="Genshin Impact Calculator, artifacts and weapons.">
+    <meta property="og:title" content="Genshin Impact Calculator" />
+    <meta property="og:description" content="Genshin Impact Calculator, artifacts and weapons. Калькулятор Genshin Impact, подбор артефактов и оружия." />
+    <meta property="og:image" content="http://genshin.aspirine.su/images/share.jpg" />
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="images/favicon.png">
+    <link href="css/ui.css?<%= version %>" rel="stylesheet">
+    <script>
+        let lang = localStorage.lang;
+        if (lang != 'eng' && lang != 'rus') {
+            let user_lang = navigator.language || navigator.userLanguage;
+
+            if (user_lang == 'ru-RU') {
+                lang = 'rus';
+            } else {
+                lang = 'eng';
+            }
+        }
+
+        document.write('<'+ 'script' +' src="/js/lang/'+ lang +'.js?<%= version %>"></' + 'script>');
+    </script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CMGX4MB2H4"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-CMGX4MB2H4');
+    </script>
+</head>
+<body>
+    <div class="gi-main-container">
+        <div class="gi-layout-left-tabs"><div class="tabs-narrow"></div><div class="tabs-all"></div></div>
+        <div class="gi-layout-left-container">
+            <div class="gi-layout-left-content"></div>
+        </div>
+        <div class="gi-layout-right-container">
+            <div class="gi-layout-right-content"></div>
+        </div>
+        <div class="gi-layout-right-tabs"></div>
+        <div class="gi-main-copyright">
+            <a class="gi-lang-switch lang-rus" href="#"><div class="flag flag-rus"></div><u>Русский</u></a>
+            <a class="gi-lang-switch lang-eng" href="#"><div class="flag flag-eng"></div><u>English</u></a>
+            <span class="gi-spacer"></span>
+            <span class="gi-copyright-text"></span>
+            <span class="gi-sync-status"></span>
+        </div>
+    </div>
+    <div class="tooltip-wrapper"></div>
+    <script src="js/app.js?<%= version %>"></script>
+    <script src="js/db.js?<%= version %>"></script>
+    <script src="js/ui.js?<%= version %>"></script>
+</body>
+</html>

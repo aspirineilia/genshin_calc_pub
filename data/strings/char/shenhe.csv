@@ -1,0 +1,21 @@
+category;name;rus;eng
+
+stat;dmg_skill_shenhe;Призыв духа;Spring Spirit Summoning
+
+feature_skill;shenhe_dmg_bonus;Повышение урона;DMG Bonus
+feature_skill;shenhe_duration;Длительность быстрого/долгого нажатия;Press/Hold Duration
+feature_skill;shenhe_stacks;Количество уровней эффекта при быстром/долгом нажатии;Press/Hold Stacks
+feature_burst;shenhe_res_decrease;Понижение сопротивления;RES Decrease
+
+talent_name;shenhe_icy_quill;Ледяное перо;Icy Quill
+talent_descr;shenhe_icy_quill;Когда name{обычные атаки}, name{заряженные атаки}, name{атаки в падении}, name{элементальные навыки} или name{взрывы стихии} наносят противникам cryo{Крио урон}, урон, нанесённый другими персонажами, увеличивается в зависимости от текущей name{силы атаки} name{Шэнь Хэ}.;When name{Normal}, name{Charged}, and name{Plunging Attacks}, name{Elemental Skills}, and name{Elemental Bursts} deal cryo{Cryo DMG} to opponents, the DMG dealt is increased based on name{Shenhe}'s current name{ATK}.
+
+talent_name;shenhe_spirit_field;Находится в области Духа талисмана;Within The Talisman Spirit's Field
+
+talent_name;shenhe_spirit_seal_press;Печать духовного единения (Быстрое нажатие);Spirit Communion Seal (Press)
+talent_name;shenhe_spirit_seal_hold;Печать духовного единения (Долгое нажатие);Spirit Communion Seal (Hold)
+talent_name;shenhe_talisman_spirit;Дух талисмана;The Talisman Spirit
+talent_descr;shenhe_talisman_spirit;skill{burst:Дух талисмана} создаёт поле, внутри которого снижается cryo{Крио сопротивление} и name{физ. сопротивление} противников.;skill{burst:The Talisman Spirit} creates a field that decreases the cryo{Cryo RES} and name{Physical RES} of opponents within it.
+
+talent_name;shenhe_centered_spirit;Духовная концентрация;Centered Spirit
+talent_descr;shenhe_centered_spirit;Длительность эффекта навыка skill{burst:Таинство освобождения} увеличивается на 6 сек. Активные члены отряда, находящиеся в области навыка, наносят на %{crit_dmg_cryo} больше cryo{крит. Крио урона}.;skill{burst:Divine Maiden's Deliverance} lasts for 6 seconds longer. Active characters within the skill's field deals %{crit_dmg_cryo} increased cryo{Cryo CRIT DMG}.

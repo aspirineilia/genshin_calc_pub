@@ -1,0 +1,12 @@
+category;name;rus;eng
+feature_attack;kinich_midair_dmg;Урон обычной атаки в воздухе;Mid-Air Normal Attack DMG
+feature_skill;kinich_loop_shot_dmg;Урон кольцевой атаки;Loop Shot DMG
+feature_skill;kinich_scalespiker_cannon_dmg;Урон Пробивающей чешую пушки;Scalespiker Cannon DMG
+feature_skill;kinich_scalespiker_cannon_bounce_dmg;Урон рикошета Пробивающей чешую пушки;Scalespiker Cannon Bounce DMG
+feature_burst;kinich_laser_dmg;Урон лазера;Laser DMG
+feature_skill;nightsoul_points_limit;Максимум очков Ночного духа;Nightsoul Point Limit
+feature_burst;kinich_duration;Длительность дракона;Dragon Duration
+
+stat;crit_dmg_skill_kinich;Пробивающая чешуя пушки;Scalespiker Cannon
+stat;dmg_skill_kinich;Пробивающая чешуя пушки;Scalespiker Cannon
+stat;dmg_burst_kinich;Слава драконьему величеству;Hail to the Almighty Dragonlord

@@ -1,0 +1,49 @@
+.gi-window-select-enemy .gi-window-select-content {
+    display: block;
+}
+
+.gi-window-select-content-group-items {
+    display: grid;
+    width: 100%;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+}
+
+.gi-window-select-content-group {
+    width: 100%;
+    color: #D3BC8E;
+    padding-left: 25px;
+    font-size: 22px;
+    float: left;
+    box-sizing: border-box;
+}
+
+.gi-window-select.gi-window-select-enemy {
+    width: 1050px;
+}
+
+.gi-window-select-enemy .gi-window-select-item-icon {
+    background-color: #3E4556;
+    border-color: #3E4556;
+    border-radius: 10px;
+    border-width: 1px;
+    margin: 10px 5px;
+}
+
+.gi-window-select-enemy .gi-window-select-item {
+    height: 80px;
+}
+
+.gi-window-select-enemy .gi-window-select-item-name {
+    width: calc(100% - 80px);
+}
+
+.gi-window-select-item-resistances {
+    width: calc(100% - 80px);
+    float: left;
+}
+
+.gi-select-enemy-filter {
+    width: 100%;
+    display: flex;
+    margin-bottom: 10px;
+}

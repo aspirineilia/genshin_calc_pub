@@ -1,0 +1,6 @@
+category;name;rus;eng
+char_name;dahlia;Далия;Dahlia
+
+feature_burst;dahlia_base_shield_dmg_absorption;Поглощение урона Щита покровительства;Shield of Protection DMG Absorption
+feature_burst;dahlia_duration;Длительность Божественного покровительства;Divine Protection Duration
+feature_burst;dahlia_atk_speed_bonus;Бонус скорости атаки;Attack SPD Bonus

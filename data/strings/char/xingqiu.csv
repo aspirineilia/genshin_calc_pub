@@ -1,0 +1,5 @@
+category;name;rus;eng
+feature_burst;xingqiu_rain_sword;Урон Меча дождя;Sword Rain DMG
+feature_skill;xingqiu_hydropathic;Лечение за Меч дождя;Heal per Rain Sword
+feature_skill;xingqiu_skill_1_dmg;Урон первого удара;First strike DMG
+feature_skill;xingqiu_skill_2_dmg;Урон второго удара;Second strike DMG

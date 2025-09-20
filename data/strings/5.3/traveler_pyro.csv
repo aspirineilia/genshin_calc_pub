@@ -1,0 +1,5 @@
+category;name;rus;eng
+
+char_name;traveler_pyro;Путешественник;Traveler
+feature_skill;traveler_blazing_threshold_dmg;Урон Пылающего порога;Blazing Threshold DMG
+feature_skill;traveler_scorching_threshold_dmg;Урон Испепеляющего порога;Scorching Threshold DMG

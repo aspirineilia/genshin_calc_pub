@@ -1,0 +1,25 @@
+.gi-window-progress {
+    width: 450px;
+}
+
+.gi-modal-progress {
+    width: 100%;
+    text-align: center;
+    height: 24px;
+    line-height: 24px;
+    position: relative;
+}
+
+.gi-modal-progress-bar {
+    width: 50px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 24px;
+    background-color: #2B2D33;
+    border-radius: 5px;
+}
+
+.gi-window-progress .gi-modal-buttons {
+    display: none;
+}

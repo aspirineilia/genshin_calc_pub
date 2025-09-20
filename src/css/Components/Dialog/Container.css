@@ -1,0 +1,131 @@
+.dialog {
+    background-color: #3E4556;
+    margin: auto;
+    border-radius: 24px;
+    position: absolute;
+    padding: 20px;
+    min-width: 150px;
+    z-index: 901;
+}
+
+.dialog-wrapper {
+    display: flex;
+    flex-direction: column;
+    max-height: 100%;
+}
+
+.dialog.max-height {
+    top: 25px;
+    bottom: 25px;
+}
+
+.narrow .dialog {
+    position: fixed;
+    top: 15px;
+    left: 15px;
+    right: 15px;
+    bottom: 15px;
+    width: auto;
+    max-height: none;
+    min-width: 550px;
+}
+
+/* .narrow .dialog.max-height {
+    top: unset;
+    bottom: unset;
+} */
+
+.dialog-back {
+    position: fixed;
+    background: rgba(100, 100, 100, 0.5);
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    z-index: 900;
+}
+
+.dialog-border {
+    position: absolute;
+    top: 3px;
+    left: 3px;
+    right: 3px;
+    bottom: 3px;
+    border-radius: 21px;
+    border: 1px solid #2B2D33;
+    z-index: -1;
+}
+
+.dialog-content {
+    position: relative;
+    z-index: 2;
+    /* overflow: hidden; */
+    box-sizing: border-box;
+}
+
+.dialog.max-height .dialog-content {
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+.dialog.max-height .dialog-content .full-height {
+    max-height: 100%;
+}
+
+.dialog-corner {
+    position: absolute;
+    background: url("../../../images/icons/modal2.png");
+    width: 40px;
+    height: 40px;
+    background-size: 80px 80px;
+}
+
+.dialog-corner.top-left {
+    position: absolute;
+    top: -20px;
+    left: -20px;
+}
+
+.dialog-corner.top-right {
+    position: absolute;
+    top: -20px;
+    right: -20px;
+    background-position: -100% 0px;
+}
+
+.dialog-corner.bottom-right{
+    position: absolute;
+    bottom: -20px;
+    left: -20px;
+    background-position: 0px -100%;
+}
+
+.dialog-corner.bottom-left{
+    position: absolute;
+    bottom: -20px;
+    right: -20px;
+    background-position: -100% -100%;
+}
+
+.dialog-caption {
+    width: 100%;
+    text-align: center;
+    line-height: 26px;
+    font-size: 20px;
+    color: #D3BC8E;
+    margin-bottom: 20px;
+    z-index: 2;
+    position: relative;
+}
+
+.dialog-close {
+    position: absolute;
+    width: 26px;
+    min-height: 26px;
+    cursor: pointer;
+    background-image: url("../../../images/icons/close.png");
+    background-size: contain;
+    top: 0px;
+    right: 0px;
+}

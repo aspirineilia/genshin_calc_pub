@@ -1,0 +1,176 @@
+.gi-object-view {
+    width: 100%;
+    display: flex;
+}
+
+.gi-view-info {
+    width: 100%;
+}
+
+.gi-view-icon {
+    width: 80px;
+    height: 80px;
+    flex-shrink: 0;
+    border-radius: 50%;
+    border: solid 4px transparent;
+    background-position: center;
+    cursor: pointer;
+    margin: 10px;
+    box-sizing: border-box;
+    background-size: 80px 80px;
+}
+
+.gi-view-name {
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+    font-size: 30px;
+    margin-top: 10px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-family: GenshinN;
+}
+
+.gi-view-name.shrink {
+    font-size: 20px;
+    font-family: Genshin;
+}
+
+.gi-view-ascension {
+    width: 100%;
+    height: 15px;
+    margin: 5px 0px;
+    display: flex;
+}
+
+.gi-view-ascension-star {
+    width: 15px;
+    height: 15px;
+    margin: 0px 2px;
+    background-size: cover;
+    background-image: url("../../../images/icons/ascension_star_gray.png");
+}
+
+.gi-view-ascension-star.active {
+    background-image: url("../../../images/icons/ascension_star.png");
+}
+
+.gi-view-level-line {
+    height: 30px;
+    line-height: 30px;
+    font-size: 20px;
+    display: flex;
+}
+
+.gi-view-level-title {
+    width: 60px;
+    flex-shrink: 0;
+}
+
+.gi-view-level-row {
+    width: 90px;
+    text-align: right;
+    padding-right: 4px;
+    box-sizing: border-box;
+}
+
+.gi-view-level-value {
+    display: inline-block;
+    width: 40px;
+    font-size: 20px;
+}
+
+.gi-view-max-level {
+    color: #BEAEA9;
+}
+
+.gi-view-level-wrapper {
+    width: 250px;
+    padding-top: 2px;
+    display: inline-block;
+}
+
+.gi-view-beta {
+    font-size: 13px;
+    color: #BEAEA9;
+    padding: 0px 15px;
+    box-sizing: border-box;
+}
+
+.gi-view-beta-warning {
+    color: #ff5d4e;
+}
+
+.gi-view-levels-line {
+    height: 26px;
+    display: flex;
+    width: 100%;
+    padding-top: 3px;
+}
+
+.narrow .gi-view-levels-line {
+    padding-top: 10px;
+}
+
+.gi-view-levels-line > div {
+    box-sizing: border-box;
+    line-height: 26px;
+}
+
+.gi-view-levels-info {
+    width: 35px;
+    text-align: right;
+    padding-right: 5px;
+}
+
+.gi-view-levels-title {
+    padding-left: 5px;
+    width: 165px;
+}
+
+.gi-view-levels-value {
+    width: 20px;
+    text-align: right;
+}
+
+.gi-view-levels-value.invalid {
+    color: #ff5d4e;
+}
+
+.gi-view-levels-bonus {
+    text-align: center;
+    width: 30px;
+}
+
+.gi-view-levels-big-value {
+    text-align: center;
+    width: 50px;
+}
+
+.gi-view-levels-slider {
+    padding-top: 2px;
+    width: 250px;
+}
+
+.rus .gi-view-level-title {
+    width: 90px;
+}
+.rus .gi-view-levels-title {
+    width: 195px;
+}
+.rus .gi-view-level-wrapper, .rus .gi-view-levels-slider {
+    width: 220px;
+}
+
+.gi-view-levels-info .gi-skill-info {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    line-height: 20px;
+    color: #373c47;
+    text-align: center;
+    background-color: #FFF7E9;
+    display: inline-block;
+    cursor: pointer;
+}

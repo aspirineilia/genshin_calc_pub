@@ -1,0 +1,77 @@
+.gi-talent-wrapper {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    /* margin-bottom: 10px; */
+}
+
+.gi-talent-title {
+    flex-grow: 1;
+    height: 40px;
+    line-height: 40px;
+    font-size: 22px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    text-align: center;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    border: solid 2px #626770;
+    box-sizing: border-box;
+    margin: 5px 10px;
+    cursor: pointer;
+    padding: 0 10px;
+}
+
+.gi-talent-title.small {
+    height: 25px;
+    line-height: 22px;
+    font-size: 15px;
+}
+
+.gi-talent-title.active {
+    background-color:  #3e5842;
+}
+
+.gi-talent-description {
+    width: 100%;
+    padding: 10px 15px;
+    line-height: 22px;
+    color: #E6DCD2;
+}
+
+.gi-talent-icon {
+    width: 60px;
+    height: 60px;
+    background-color: blue;
+    border-radius: 50%;
+    float: left;
+}
+
+.gi-window-talent .gi-talent-table {
+    margin-top: 10px;
+}
+
+.gi-talent-description h2 {
+    font-size: 15px;
+    color: #D3BC8E;
+    margin: 0;
+    margin-top: 10px;
+}
+
+.gi-talent-description .text-name {
+    color: #D3BC8E;
+}
+
+.gi-talent-description p {
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+.gi-talent-description .simplebar-track.simplebar-vertical {
+    margin: 15px 0px;
+}
+
+.simplebar-content .gi-talent-table-line:last-child {
+    padding-bottom: 10px;
+}

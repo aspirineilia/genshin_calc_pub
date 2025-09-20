@@ -1,0 +1,6 @@
+category;name;rus;eng
+feature_burst;xiao_burst_bonus;Увеличение урона атак обычной/заряженной/в падении;Normal/Charged/Plunging Attack DMG Bonus
+feature_burst;xiao_life_drain;Потеря HP;Life Drain
+
+talent_name;xiao_yaksha_mask;Маска Якса;Yaksha's Mask
+talent_descr;xiao_yaksha_mask;Значительно усиливает прыжки name{Сяо}<br>• Увеличивает радиус и name{урон} его атак<br>• Конвертирует урон от атак в anemo{Анемо урон}, этот эффект не может быть отменён какой-либо элементальное инфузией.;• Greatly increases name{Xiao}'s jumping ability.<br>• Increases his attack AoE and name{attack DMG}.<br>• Converts attack DMG into anemo{Anemo DMG}, which cannot be overridden by any other elemental infusion.

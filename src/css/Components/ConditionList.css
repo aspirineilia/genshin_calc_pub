@@ -1,0 +1,137 @@
+.narrow .condition-list.last {
+    min-height: 500px;
+}
+
+.condition-list-item {
+    width: 100%;
+}
+
+.group-box > .condition-list-item {
+    margin: 3px;
+}
+
+.condition-list-item .top-line {
+    display: flex;
+    align-items: center;
+    min-height: 32px;
+}
+
+.condition-list-item .control {
+    flex-shrink: 0;
+    min-width: 50px;
+}
+
+
+
+.condition-list-item .title {
+    flex-grow: 1;
+    padding-left: 10px;
+    overflow: hidden;
+}
+
+.condition-list-item .info {
+    flex-shrink: 0;
+    font-size: 12px;
+    width: 28px;
+    height: 28px;
+    line-height: 26px;
+    text-align: center;
+    border-radius: 50%;
+    background-color: #353D4F;
+    border: solid 2px #626770;
+    box-sizing: border-box;
+    position: relative;
+    top: -5px;
+    right: 2px;
+}
+
+.condition-list-item .description {
+    font-size: 14px;
+    line-height: 18px;
+    color: #BEAEA9;
+}
+
+.condition-list-item .description.with-icon {
+    min-height: 45px;
+}
+
+.condition-list-item .description .item-icon {
+    float: left;
+    margin: 5px;
+}
+
+.condition-list-item .control .dropdown-wrapper {
+    width: 60px;
+}
+
+.condition-list-item .control .number-default {
+    width: 60px;
+    margin: 0;
+}
+
+.condition-list-item .control .gi-inputs-5digit {
+    width: 70px;
+}
+
+.condition-list-item .control .inputs-6digit {
+    width: 75px;
+    margin: 0;
+}
+
+.condition-list-item .control .inputs-2digit {
+    width: 45px;
+    margin: 0;
+}
+
+.condition-list-item .control .inputs-3digit {
+    width: 50px;
+    margin: 0;
+}
+
+.condition-list-item .control .static {
+    margin: auto;
+    width: 19px;
+    height: 19px;
+    background-image: url("../../images/icons/condition_static.png");
+    background-size: 38px 19px;
+    background-position-x: 19px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.condition-list-item .control .static.active {
+    background-position-x: 0px;
+}
+
+.condition-list-item.party-weapon .control:nth-child(n+2) {
+    margin-left: 5px;
+}
+
+.condition-list-item.party-weapon .info {
+    cursor: pointer;
+    margin-left: 5px;
+}
+
+.condition-list-item .party-load {
+    flex-shrink: 0;
+    font-size: 12px;
+    width: 28px;
+    height: 28px;
+    line-height: 26px;
+    text-align: center;
+    border-radius: 50%;
+    background-color: #353D4F;
+    border: solid 2px #626770;
+    box-sizing: border-box;
+    background-image: url("../../images/icons/team.png");
+    background-size: 24px 24px;
+    background-position: center;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    right: 2px;
+    position: relative;
+}
+
+.condition-list-item .party-load.weapon {
+    top: -5px;
+}

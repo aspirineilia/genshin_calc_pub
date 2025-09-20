@@ -1,0 +1,248 @@
+.inputs-button {
+    height: 30px;
+    border-radius: 15px;
+    background-color: #ECE5D8;
+    color: #3B4255;
+    line-height: 30px;
+    padding: 0px 10px 0px 5px;
+    box-sizing: border-box;
+    text-align: left;
+    position: relative;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.inputs-button.disabled {
+    background-color: #9d9d9d;
+    color: #494d57;
+}
+
+
+.inputs-button-icon {
+    width: 20px;
+    height: 20px;
+    background-color: #313131;
+    border-radius: 10px;
+    display: block;
+    float: left;
+    margin: 5px 5px 0px 0px;
+    background-size: 80px 40px;
+    background-image: url("../../../images/icons/buttons.png");
+}
+
+.inputs-button-icon.button-icon-unlock {
+    background-image: url("../../../images/icons/editart.png");
+    background-size: 60px 40px;
+    background-position: 40px 20px;
+}
+
+.inputs-button-icon.button-icon-lock {
+    background-image: url("../../../images/icons/editart.png");
+    background-size: 60px 40px;
+    background-position: 0px 20px;
+}
+
+.inputs-button.disabled .inputs-button-icon {
+    opacity: 0.5;
+}
+
+
+.inputs-button-icon.icon-ok {
+    background-position: -20px 0px;
+}
+
+.inputs-button-icon.icon-cancel {
+    background-position: 0px 0px;
+}
+
+.inputs-button-icon.icon-delete {
+    background-position: 0px -20px;
+}
+
+.inputs-button-icon.icon-replace {
+    background-position: -20px -20px;
+}
+
+.inputs-button-icon.icon-scan {
+    background-position: -40px 0px;
+}
+
+.inputs-button-icon.icon-add {
+    background-position: -60px 0px;
+}
+
+.inputs-button-icon.icon-check {
+    background-position: -60px -20px;
+}
+
+.inputs-button-icon.icon-question {
+    background-position: -40px -20px;
+}
+
+.inputs-button-icon.icon-copy {
+    background-image: url("../../../images/icons/copy.png");
+    background-size: 18px 18px;
+    background-position: unset;
+}
+
+.inputs-button-icon.icon-lock {
+    background-image: url("../../../images/icons/editart.png");
+    background-size: 60px 40px;
+    background-position: 40px 20px;
+}
+
+.result-table-button {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-size: 100%;
+    background-position: center;
+    background-color: #ECE5D8;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+
+.result-table-button.icon-delete {
+    background-image: url("../../../images/icons/delete2.png");
+}
+
+.result-table-button.icon-save {
+    background-image: url("../../../images/icons/arrow_down.png");
+}
+
+.result-table-button.icon-load {
+    background-image: url("../../../images/icons/arrow_up.png");
+}
+
+.result-table-button.icon-compare {
+    background-image: url("../../../images/icons/compare.png");
+    background-size: 25px 25px;
+}
+
+.round-button {
+    width: 32px;
+    height: 32px;
+    background-color: #ECE5D8;
+    background-position: center;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    margin: 1px;
+    cursor: pointer;
+    line-height: 34px;
+    font-size: 18px;
+}
+
+.round-button.small-number {
+    width: 26px;
+    height: 26px;
+    line-height: 28px;
+    font-size: 18px;
+}
+
+.round-button.dots {
+    text-align: center;
+    color: #3e4155;
+}
+
+.round-button.icon-settings {
+    background-image: url("../../../images/icons/settings_dark.png");
+    background-size: 30px 30px;
+}
+
+.round-button.icon-filter {
+    background-image: url("../../../images/icons/filter_dark.png");
+    background-size: 30px 30px;
+}
+
+.round-button.icon-sort {
+    background-image: url("../../../images/icons/sort.png");
+    background-size: 30px 30px;
+}
+.round-button.icon-flower {
+    background-image: url("../../../images/icons/slots2.png");
+    background-size: 192px 32px;
+    background-position: 0px 0px;
+}
+.round-button.icon-plume {
+    background-image: url("../../../images/icons/slots2.png");
+    background-size: 192px 32px;
+    background-position: -32px 0px;
+}
+.round-button.icon-sands {
+    background-image: url("../../../images/icons/slots2.png");
+    background-size: 192px 32px;
+    background-position: -64px 0px;
+}
+.round-button.icon-goblet {
+    background-image: url("../../../images/icons/slots2.png");
+    background-size: 192px 32px;
+    background-position: -96px 0px;
+}
+.round-button.icon-circlet {
+    background-image: url("../../../images/icons/slots2.png");
+    background-size: 192px 32px;
+    background-position: -128px 0px;
+}
+.round-button.icon-all-slots {
+    background-image: url("../../../images/icons/slots2.png");
+    background-size: 192px 32px;
+    background-position: -160px 0px;
+}
+.round-button.icon-add {
+    background-image: url("../../../images/icons/plus.png");
+    background-size: 26px 26px;
+}
+.round-button.icon-lock {
+    background-image: url("../../../images/icons/lock.png");
+}
+.round-button.icon-scan {
+    background-image: url("../../../images/icons/search.png");
+    background-size: 20px 20px;
+}
+.round-button.icon-groups {
+    background-image: url("../../../images/icons/folder.png");
+    background-size: 28px 28px;
+}
+
+.round-button.toggled {
+    background-color: rgba(236, 229, 216, 0.3);
+    color: #FFF7E9;
+}
+
+.round-button.toggled.active {
+    background-color: #ECE5D8;
+    color: #373C47;
+}
+
+.round-button.object-ratiry {
+    text-align: center;
+    line-height: 30px;
+    font-size: 18px;
+    border: 2px solid;
+    box-sizing: border-box;
+}
+
+.mini-button {
+    border: solid 1px #ECE5D8;
+    width: 20px;
+    height: 20px;
+    border-radius: 5px;
+    background-color: rgba(40, 28, 15, 0.7);
+    cursor: pointer;
+    margin: 2px 4px;
+    background-image: url("../../../images/icons/editart.png");
+    background-repeat: no-repeat;
+}
+
+.mini-button.edit {
+    background-position: 0px 0px;
+}
+.mini-button.delete {
+    background-position: -20px 0px;
+}
+.mini-button.locked {
+    background-position: 0px -20px;
+}
+.mini-button.unlocked {
+    background-position: -20px -20px;
+}

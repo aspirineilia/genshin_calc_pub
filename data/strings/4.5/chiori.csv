@@ -1,0 +1,10 @@
+category;name;rus;eng
+
+feature_skill;chiori_sode_dmg;Урон Тамото;Tamoto DMG
+feature_skill;chiori_sode_duration;Длительность Тамото;Tamoto Duration
+feature_skill;chiori_sode_attack_interval;Интервал атак Тамото;Tamoto Attack Interval
+feature_skill;chiori_upward_sweep_dmg;Урон восходящего удара;Upward Sweep Attack DMG
+feature_skill;chiori_kinu_dmg;Урон Кину;Kinu DMG
+
+talent_name;chiori_tailor_made_2;Узорная ткань;Tapestry
+talent_name;chiori_tailor_made_3;Покрой;Tailoring

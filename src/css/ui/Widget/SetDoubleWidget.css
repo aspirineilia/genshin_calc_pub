@@ -1,0 +1,40 @@
+.gi-set-double-wrapper {
+    width: 100%;
+    display: flex;
+    height: 60px;
+}
+
+.gi-set-double-caption {
+    width: 100%;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+}
+
+.gi-set-double-icon {
+    width: 60px;
+    height: 60px;
+    flex-shrink: 0;
+    cursor: pointer;
+}
+
+.gi-set-double-icon > div {
+    width: 60px;
+    height: 60px;
+}
+
+.gi-set-double-names {
+    height: 60px;
+    flex-grow: 1;
+}
+
+.gi-set-double-name {
+    width: 100%;
+    margin: 5px 0;
+    height: 20px;
+}
+
+.gi-set-double-pieces {
+    font-size: 12px;
+    color: #BEAEA9;
+}

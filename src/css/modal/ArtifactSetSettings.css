@@ -1,0 +1,7 @@
+.artifact-settings-modal.dialog {
+    z-index: 1511;
+}
+
+.artifact-settings-modal.dialog-back {
+    z-index: 1510;
+}

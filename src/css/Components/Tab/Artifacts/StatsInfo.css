@@ -1,0 +1,36 @@
+.arifacts-stat-info-line {
+    width: 100%;
+    height: 26px;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+}
+
+.arifacts-stat-info-line .si-name {
+    width: 200px;
+    font-size: 14px;
+    box-sizing: border-box;
+    text-align: right;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.arifacts-stat-info-line .si-value {
+    padding-left: 10px;
+}
+
+.arifacts-stat-info-line .si-remark {
+    padding-left: 5px;
+    color: #BEAEA9;
+}
+
+.arifacts-stat-info-line .si-plus {
+    padding: 0 3px;
+}
+
+.feature-roll-remark {
+    font-size: 14px;
+    color: #BEAEA9;
+    text-align: right;
+}

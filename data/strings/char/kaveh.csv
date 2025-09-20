@@ -1,0 +1,9 @@
+category;name;rus;eng
+char_name;kaveh;Кавех;Kaveh
+
+feature_burst;kaveh_bloom_dmg_bonus;Бонус урона взрыва Дендро ядер;Dendro Core Burst DMG Bonus
+feature_attack;kaveh_pairidaezas_light_dmg;Урон Света Пайридаэзы;Pairidaeza's Light DMG
+feature_other;kaveh_bloom_heal;Ответственность строителя;An Architect's Undertaking
+
+talent_descr;kaveh_painted_dome_talent;Даёт name{Кавеху} следующие боевые усиления:<br>· Увеличивает область поражения name{обычной атаки}, name{заряженной атаки} и name{атаки в падении} name{Кавеха}, а также конвертирует урон атак в dendro{Дендро урон}, который не может быть отменён другими инфузиями.<br>· Повышает урон взрыва dendro{Дендро ядер}, создаваемых персонажами вашего отряда с помощью реакции dendro{Бутонизация}.<br>· Увеличивает сопротивление прерыванию name{Кавеха}.;Granting name{Kaveh} the following enhanced combat abilities for a specific duration:<br>·Increases name{Kaveh}'s name{Normal}, name{Charged}, and name{Plunging Attack} AoE, and converts his attack DMG to dendro{Dendro DMG} that cannot be overridden.<br>·All dendro{Dendro Cores} created by all your own party members through dendro{Bloom} reactions will deal additional DMG when they burst.<br>·Increases name{Kaveh}'s resistance to interruption.
+talent_descr;kaveh_painted_dome_talent_2;Повышает урон взрыва dendro{Дендро ядер}, создаваемых персонажами вашего отряда с помощью реакции dendro{Бутонизация}.;All dendro{Dendro Cores} created by all your own party members through dendro{Bloom} reactions will deal additional DMG when they burst.

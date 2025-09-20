@@ -1,0 +1,26 @@
+category;name;rus;eng
+
+artifacts_ui;pick_reset;Сбросить;Reset
+artifacts_ui;set_not_selected;Комплект не выбран;Set do not selected
+artifacts_ui;set_or;Доступные бонусы комплектов;Allowed set bonuses
+artifacts_ui;no_artifacts;В tab{artifacts-pool:хранилище} отсутствуют артефакты.;There are no artifacts in the tab{artifacts-pool:Storage}.
+artifacts_ui;total_arts;Артефактов в Хранилище;Artifacts in Storage
+artifacts_ui;total_locked;Заблокировано;Locked
+artifacts_ui;total_filtered;Отфильтровано;Filtered
+artifacts_ui;total_used;Будет использовано;Will be used
+artifacts_ui;total_combinations;Комбинаций;Combinations
+artifacts_ui;start;Начать;Start
+artifacts_ui;show_results;Результаты;Previous results
+artifacts_ui;lock_window;Блокировка;Locking
+artifacts_ui;nothing_found;По заданным критериям ничего не найдено;No combination matches the criteria
+artifacts_ui;ctrl_click_info;Ctrl+клик: отметить только выбранный пункт;Ctrl+click to check this item only
+artifacts_ui;max_threads;Потоков;Workers
+artifacts_ui;suggest_filter_artifacts;Быстрый подбор;Fast suggest
+artifacts_ui;settings;Настройки;Settings
+
+artifacts_ui;accordion_stats;Ограничение характеристик;Attributes limits
+artifacts_ui;accordion_groups;Группы артефактов;Artifact groups
+artifacts_ui;accordion_slots;Типы предметов;Artifact slots
+artifacts_ui;accordion_required_sets;Требуемая комбинация комплектов;Required artifact sets combination
+artifacts_ui;accordion_sets;Бонусы комплектов;Artifact sets
+artifacts_ui;accordion_filter;Фильтр по уровню и характеристике;Level and main stat filter

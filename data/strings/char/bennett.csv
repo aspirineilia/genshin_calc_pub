@@ -1,0 +1,4 @@
+category;name;rus;eng
+feature_skill;bennet_unexpected_odyssey_dmg;Несгораемая решительность;Unexpected Odyssey
+
+talent_descr;bennett_fantastic_voyage_talent;• Восстанавливает персонажам в области, name{HP} которых равно или ниже value{70%}, определённое количество name{HP}, которое зависит от name{макс. HP} name{Беннета}.<br>• Если name{HP} персонажа в области выше value{70%}, то он получает name{бонус атаки}, который зависит от name{базовой атаки} name{Беннета}.<br>• Накладывает на персонажей в области эффект pyro{Пиро}.;• If the health of a character within the AoE is equal to or falls below value{70%}, their health will continuously regenerate. The amount of name{HP} restored scales off name{Bennett}'s name{Max HP}.<br>• If the health of a character within the AoE is higher than value{70%}, they gain an name{ATK Bonus} that is based on name{Bennett}'s name{Base ATK}.<br>• Imbues characters within the AoE with pyro{Pyro}.

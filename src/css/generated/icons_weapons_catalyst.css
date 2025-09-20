@@ -1,0 +1,153 @@
+.weapon-icon-catalyst-unknown {background-image: url("../../images/weapons/catalyst/unknown.png")}
+.weapon-icon-catalyst-magic-guide {background-image: url("../../images/weapons/catalyst/catalyst_intro.png")}
+.weapon-icon-catalyst-thrilling-tales-of-dragon-slayers {background-image: url("../../images/weapons/catalyst/catalyst_pulpfic.png")}
+.weapon-icon-catalyst-otherworldly-story {background-image: url("../../images/weapons/catalyst/catalyst_lightnov.png")}
+.weapon-icon-catalyst-emerald-orb {background-image: url("../../images/weapons/catalyst/catalyst_jade.png")}
+.weapon-icon-catalyst-twin-nephrite {background-image: url("../../images/weapons/catalyst/catalyst_phoney.png")}
+.weapon-icon-catalyst-favonius-codex {background-image: url("../../images/weapons/catalyst/catalyst_zephyrus.png")}
+.weapon-icon-catalyst-the-widsith {background-image: url("../../images/weapons/catalyst/catalyst_troupe.png")}
+.weapon-icon-catalyst-sacrificial-fragments {background-image: url("../../images/weapons/catalyst/catalyst_fossil.png")}
+.weapon-icon-catalyst-royal-grimoire {background-image: url("../../images/weapons/catalyst/catalyst_theocrat.png")}
+.weapon-icon-catalyst-solar-pearl {background-image: url("../../images/weapons/catalyst/catalyst_resurrection.png")}
+.weapon-icon-catalyst-prototype-amber {background-image: url("../../images/weapons/catalyst/catalyst_proto.png")}
+.weapon-icon-catalyst-mappa-mare {background-image: url("../../images/weapons/catalyst/catalyst_exotic.png")}
+.weapon-icon-catalyst-blackcliff-agate {background-image: url("../../images/weapons/catalyst/catalyst_blackrock.png")}
+.weapon-icon-catalyst-eye-of-perception {background-image: url("../../images/weapons/catalyst/catalyst_truelens.png")}
+.weapon-icon-catalyst-wine-and-song {background-image: url("../../images/weapons/catalyst/catalyst_outlaw.png")}
+.weapon-icon-catalyst-frostbearer {background-image: url("../../images/weapons/catalyst/catalyst_everfrost.png")}
+.weapon-icon-catalyst-dodoco-tales {background-image: url("../../images/weapons/catalyst/catalyst_ludiharpastum.png")}
+.weapon-icon-catalyst-hakushin-ring {background-image: url("../../images/weapons/catalyst/catalyst_bakufu.png")}
+.weapon-icon-catalyst-oathsworn-eye {background-image: url("../../images/weapons/catalyst/catalyst_jyanome.png")}
+.weapon-icon-catalyst-wandering-evenstar {background-image: url("../../images/weapons/catalyst/catalyst_pleroma.png")}
+.weapon-icon-catalyst-fruit-of-fulfillment {background-image: url("../../images/weapons/catalyst/catalyst_arakalari.png")}
+.weapon-icon-catalyst-sacrificial-jade {background-image: url("../../images/weapons/catalyst/catalyst_yue.png")}
+.weapon-icon-catalyst-flowing-purity {background-image: url("../../images/weapons/catalyst/catalyst_vorpal.png")}
+.weapon-icon-catalyst-ballad-of-the-boundless-blue {background-image: url("../../images/weapons/catalyst/catalyst_dandelionpoem.png")}
+.weapon-icon-catalyst-ash-graven-drinking-horn {background-image: url("../../images/weapons/catalyst/catalyst_conchsprayer.png")}
+.weapon-icon-catalyst-waveriding-whirl {background-image: url("../../images/weapons/catalyst/catalyst_umpakati.png")}
+.weapon-icon-catalyst-ring-of-yaxche {background-image: url("../../images/weapons/catalyst/catalyst_isikhulu.png")}
+.weapon-icon-catalyst-skyward-atlas {background-image: url("../../images/weapons/catalyst/catalyst_dvalin.png")}
+.weapon-icon-catalyst-lost-prayer-to-the-sacred-winds {background-image: url("../../images/weapons/catalyst/catalyst_fourwinds.png")}
+.weapon-icon-catalyst-memory-of-dust {background-image: url("../../images/weapons/catalyst/catalyst_kunwu.png")}
+.weapon-icon-catalyst-jadefalls-splendor {background-image: url("../../images/weapons/catalyst/catalyst_morax.png")}
+.weapon-icon-catalyst-everlasting-moonglow {background-image: url("../../images/weapons/catalyst/catalyst_kaleido.png")}
+.weapon-icon-catalyst-kaguras-verity {background-image: url("../../images/weapons/catalyst/catalyst_narukami.png")}
+.weapon-icon-catalyst-a-thousand-floating-dreams {background-image: url("../../images/weapons/catalyst/catalyst_ayus.png")}
+.weapon-icon-catalyst-tulaytullahs-remembrance {background-image: url("../../images/weapons/catalyst/catalyst_alaya.png")}
+.weapon-icon-catalyst-cashflow-supervision {background-image: url("../../images/weapons/catalyst/catalyst_wheatley.png")}
+.weapon-icon-catalyst-tome-of-the-eternal-flow {background-image: url("../../images/weapons/catalyst/catalyst_iudex.png")}
+.weapon-icon-catalyst-cranes-echoing-call {background-image: url("../../images/weapons/catalyst/catalyst_mountaingale.png")}
+.weapon-icon-catalyst-surfs-up {background-image: url("../../images/weapons/catalyst/catalyst_mechapufferfish.png")}
+.weapon-icon-catalyst-starcallers-watch {background-image: url("../../images/weapons/catalyst/catalyst_figurines.png")}
+.weapon-icon-catalyst-sunny-morning-sleep-in {background-image: url("../../images/weapons/catalyst/catalyst_sakurafan.png")}
+.weapon-icon-catalyst-vivid-notions {background-image: url("../../images/weapons/catalyst/catalyst_varesatransformer.png")}
+.sprite-weapon-catalyst.sprite-24 {
+	background-image: url("../../images/sprites/weapon_catalyst_d733260a0e6766581a19ee66b911b0e0.png");
+	background-size: 120px 264px;
+}
+.sprite-weapon-catalyst.sprite-40 {
+	background-image: url("../../images/sprites/weapon_catalyst_fe35769cfbe712aebe49017fbab242bf.png");
+	background-size: 200px 440px;
+}
+.sprite-weapon-catalyst.sprite-60 {
+	background-image: url("../../images/sprites/weapon_catalyst_836f82321b104ab2485f5c9ed1c79f62.png");
+	background-size: 300px 660px;
+}
+.sprite.weapon-icon-catalyst-unknown {background-position: 0% 0%}
+.sprite.weapon-icon-catalyst-magic-guide {background-position: 25% 0%}
+.sprite.weapon-icon-catalyst-thrilling-tales-of-dragon-slayers {background-position: 50% 0%}
+.sprite.weapon-icon-catalyst-otherworldly-story {background-position: 75% 0%}
+.sprite.weapon-icon-catalyst-emerald-orb {background-position: 100% 0%}
+.sprite.weapon-icon-catalyst-twin-nephrite {background-position: 0% 10%}
+.sprite.weapon-icon-catalyst-favonius-codex {background-position: 25% 10%}
+.sprite.weapon-icon-catalyst-the-widsith {background-position: 50% 10%}
+.sprite.weapon-icon-catalyst-sacrificial-fragments {background-position: 75% 10%}
+.sprite.weapon-icon-catalyst-royal-grimoire {background-position: 100% 10%}
+.sprite.weapon-icon-catalyst-solar-pearl {background-position: 0% 20%}
+.sprite.weapon-icon-catalyst-prototype-amber {background-position: 25% 20%}
+.sprite.weapon-icon-catalyst-mappa-mare {background-position: 50% 20%}
+.sprite.weapon-icon-catalyst-blackcliff-agate {background-position: 75% 20%}
+.sprite.weapon-icon-catalyst-eye-of-perception {background-position: 100% 20%}
+.sprite.weapon-icon-catalyst-wine-and-song {background-position: 0% 30%}
+.sprite.weapon-icon-catalyst-frostbearer {background-position: 25% 30%}
+.sprite.weapon-icon-catalyst-dodoco-tales {background-position: 50% 30%}
+.sprite.weapon-icon-catalyst-hakushin-ring {background-position: 75% 30%}
+.sprite.weapon-icon-catalyst-oathsworn-eye {background-position: 100% 30%}
+.sprite.weapon-icon-catalyst-wandering-evenstar {background-position: 0% 40%}
+.sprite.weapon-icon-catalyst-fruit-of-fulfillment {background-position: 25% 40%}
+.sprite.weapon-icon-catalyst-sacrificial-jade {background-position: 50% 40%}
+.sprite.weapon-icon-catalyst-flowing-purity {background-position: 75% 40%}
+.sprite.weapon-icon-catalyst-ballad-of-the-boundless-blue {background-position: 100% 40%}
+.sprite.weapon-icon-catalyst-ash-graven-drinking-horn {background-position: 0% 50%}
+.sprite.weapon-icon-catalyst-waveriding-whirl {background-position: 25% 50%}
+.sprite.weapon-icon-catalyst-ring-of-yaxche {background-position: 50% 50%}
+.sprite.weapon-icon-catalyst-skyward-atlas {background-position: 75% 50%}
+.sprite.weapon-icon-catalyst-lost-prayer-to-the-sacred-winds {background-position: 100% 50%}
+.sprite.weapon-icon-catalyst-memory-of-dust {background-position: 0% 60%}
+.sprite.weapon-icon-catalyst-jadefalls-splendor {background-position: 25% 60%}
+.sprite.weapon-icon-catalyst-everlasting-moonglow {background-position: 50% 60%}
+.sprite.weapon-icon-catalyst-kaguras-verity {background-position: 75% 60%}
+.sprite.weapon-icon-catalyst-a-thousand-floating-dreams {background-position: 100% 60%}
+.sprite.weapon-icon-catalyst-tulaytullahs-remembrance {background-position: 0% 70%}
+.sprite.weapon-icon-catalyst-cashflow-supervision {background-position: 25% 70%}
+.sprite.weapon-icon-catalyst-tome-of-the-eternal-flow {background-position: 50% 70%}
+.sprite.weapon-icon-catalyst-cranes-echoing-call {background-position: 75% 70%}
+.sprite.weapon-icon-catalyst-surfs-up {background-position: 100% 70%}
+.sprite.weapon-icon-catalyst-starcallers-watch {background-position: 0% 80%}
+.sprite.weapon-icon-catalyst-sunny-morning-sleep-in {background-position: 25% 80%}
+.sprite.weapon-icon-catalyst-vivid-notions {background-position: 50% 80%}
+
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (   min--moz-device-pixel-ratio: 2),
+only screen and (     -o-min-device-pixel-ratio: 2/1),
+only screen and (        min-device-pixel-ratio: 2),
+only screen and (                min-resolution: 192dpi),
+only screen and (                min-resolution: 2dppx) {
+	.weapon-icon-catalyst-unknown {background-image: url("../../images/weapons/catalyst/unknown_2x.png")}
+	.weapon-icon-catalyst-magic-guide {background-image: url("../../images/weapons/catalyst/catalyst_intro_2x.png")}
+	.weapon-icon-catalyst-thrilling-tales-of-dragon-slayers {background-image: url("../../images/weapons/catalyst/catalyst_pulpfic_2x.png")}
+	.weapon-icon-catalyst-otherworldly-story {background-image: url("../../images/weapons/catalyst/catalyst_lightnov_2x.png")}
+	.weapon-icon-catalyst-emerald-orb {background-image: url("../../images/weapons/catalyst/catalyst_jade_2x.png")}
+	.weapon-icon-catalyst-twin-nephrite {background-image: url("../../images/weapons/catalyst/catalyst_phoney_2x.png")}
+	.weapon-icon-catalyst-favonius-codex {background-image: url("../../images/weapons/catalyst/catalyst_zephyrus_2x.png")}
+	.weapon-icon-catalyst-the-widsith {background-image: url("../../images/weapons/catalyst/catalyst_troupe_2x.png")}
+	.weapon-icon-catalyst-sacrificial-fragments {background-image: url("../../images/weapons/catalyst/catalyst_fossil_2x.png")}
+	.weapon-icon-catalyst-royal-grimoire {background-image: url("../../images/weapons/catalyst/catalyst_theocrat_2x.png")}
+	.weapon-icon-catalyst-solar-pearl {background-image: url("../../images/weapons/catalyst/catalyst_resurrection_2x.png")}
+	.weapon-icon-catalyst-prototype-amber {background-image: url("../../images/weapons/catalyst/catalyst_proto_2x.png")}
+	.weapon-icon-catalyst-mappa-mare {background-image: url("../../images/weapons/catalyst/catalyst_exotic_2x.png")}
+	.weapon-icon-catalyst-blackcliff-agate {background-image: url("../../images/weapons/catalyst/catalyst_blackrock_2x.png")}
+	.weapon-icon-catalyst-eye-of-perception {background-image: url("../../images/weapons/catalyst/catalyst_truelens_2x.png")}
+	.weapon-icon-catalyst-wine-and-song {background-image: url("../../images/weapons/catalyst/catalyst_outlaw_2x.png")}
+	.weapon-icon-catalyst-frostbearer {background-image: url("../../images/weapons/catalyst/catalyst_everfrost_2x.png")}
+	.weapon-icon-catalyst-dodoco-tales {background-image: url("../../images/weapons/catalyst/catalyst_ludiharpastum_2x.png")}
+	.weapon-icon-catalyst-hakushin-ring {background-image: url("../../images/weapons/catalyst/catalyst_bakufu_2x.png")}
+	.weapon-icon-catalyst-oathsworn-eye {background-image: url("../../images/weapons/catalyst/catalyst_jyanome_2x.png")}
+	.weapon-icon-catalyst-wandering-evenstar {background-image: url("../../images/weapons/catalyst/catalyst_pleroma_2x.png")}
+	.weapon-icon-catalyst-fruit-of-fulfillment {background-image: url("../../images/weapons/catalyst/catalyst_arakalari_2x.png")}
+	.weapon-icon-catalyst-sacrificial-jade {background-image: url("../../images/weapons/catalyst/catalyst_yue_2x.png")}
+	.weapon-icon-catalyst-flowing-purity {background-image: url("../../images/weapons/catalyst/catalyst_vorpal_2x.png")}
+	.weapon-icon-catalyst-ballad-of-the-boundless-blue {background-image: url("../../images/weapons/catalyst/catalyst_dandelionpoem_2x.png")}
+	.weapon-icon-catalyst-ash-graven-drinking-horn {background-image: url("../../images/weapons/catalyst/catalyst_conchsprayer_2x.png")}
+	.weapon-icon-catalyst-waveriding-whirl {background-image: url("../../images/weapons/catalyst/catalyst_umpakati_2x.png")}
+	.weapon-icon-catalyst-ring-of-yaxche {background-image: url("../../images/weapons/catalyst/catalyst_isikhulu_2x.png")}
+	.weapon-icon-catalyst-skyward-atlas {background-image: url("../../images/weapons/catalyst/catalyst_dvalin_2x.png")}
+	.weapon-icon-catalyst-lost-prayer-to-the-sacred-winds {background-image: url("../../images/weapons/catalyst/catalyst_fourwinds_2x.png")}
+	.weapon-icon-catalyst-memory-of-dust {background-image: url("../../images/weapons/catalyst/catalyst_kunwu_2x.png")}
+	.weapon-icon-catalyst-jadefalls-splendor {background-image: url("../../images/weapons/catalyst/catalyst_morax_2x.png")}
+	.weapon-icon-catalyst-everlasting-moonglow {background-image: url("../../images/weapons/catalyst/catalyst_kaleido_2x.png")}
+	.weapon-icon-catalyst-kaguras-verity {background-image: url("../../images/weapons/catalyst/catalyst_narukami_2x.png")}
+	.weapon-icon-catalyst-a-thousand-floating-dreams {background-image: url("../../images/weapons/catalyst/catalyst_ayus_2x.png")}
+	.weapon-icon-catalyst-tulaytullahs-remembrance {background-image: url("../../images/weapons/catalyst/catalyst_alaya_2x.png")}
+	.weapon-icon-catalyst-cashflow-supervision {background-image: url("../../images/weapons/catalyst/catalyst_wheatley_2x.png")}
+	.weapon-icon-catalyst-tome-of-the-eternal-flow {background-image: url("../../images/weapons/catalyst/catalyst_iudex_2x.png")}
+	.weapon-icon-catalyst-cranes-echoing-call {background-image: url("../../images/weapons/catalyst/catalyst_mountaingale_2x.png")}
+	.weapon-icon-catalyst-surfs-up {background-image: url("../../images/weapons/catalyst/catalyst_mechapufferfish_2x.png")}
+	.weapon-icon-catalyst-starcallers-watch {background-image: url("../../images/weapons/catalyst/catalyst_figurines_2x.png")}
+	.weapon-icon-catalyst-sunny-morning-sleep-in {background-image: url("../../images/weapons/catalyst/catalyst_sakurafan_2x.png")}
+	.weapon-icon-catalyst-vivid-notions {background-image: url("../../images/weapons/catalyst/catalyst_varesatransformer_2x.png")}
+	.sprite-weapon-catalyst.sprite-24 {background-image: url("../../images/sprites/weapon_catalyst_13603f7ebc974463c8532a62b841f84e.png")}
+	.sprite-weapon-catalyst.sprite-40 {background-image: url("../../images/sprites/weapon_catalyst_436bf269176722e0ed602bb90b14f8a2.png")}
+	.sprite-weapon-catalyst.sprite-60 {background-image: url("../../images/sprites/weapon_catalyst_4850cd863b99d2cc6f47f73c564b7ca9.png")}
+}

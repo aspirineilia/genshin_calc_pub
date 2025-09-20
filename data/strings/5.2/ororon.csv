@@ -1,0 +1,10 @@
+category;name;rus;eng
+
+feature_skill;ororon_spirit_orb_dmg;Урон Сферы душ;Spirit Orb DMG
+feature_burst;ororon_activation_dmg;Урон ритуала;Ritual DMG
+feature_burst;ororon_soundwave_collision_dmg;Урон звуковой волны;Soundwave Collision DMG
+feature_other;ororon_hypersense_dmg;Урон Сверхчувствительности;Hypersense DMG
+feature_other;ororon_hypersense_c6_dmg;Урон Оды глубоким ручьям;Ode to Deep Springs DMG
+
+talent_name;ororon_spiritual_supersensee;Духовная сверхчувствительность;Spiritual Supersense
+stat;dmg_skill_ororon;Сверхчувствительность;Hypersense

@@ -1,0 +1,49 @@
+.dialog.artifactset-select-modal {
+    z-index: 5001;
+}
+
+.dialog-back.artifactset-select-modal {
+    z-index: 5000;
+}
+
+.dialog.artifactset-info-modal {
+    z-index: 5101;
+}
+
+.dialog-back.artifactset-info-modal {
+    z-index: 5100;
+}
+
+.object-select.artifactset-select .item {
+    display: block;
+    height: 85px;
+}
+
+.artifactset-select .bonus {
+    width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-size: 12px;
+}
+
+.artifactset-select .set-info {
+    flex-grow: 1;
+    overflow: hidden;
+}
+
+.artifactset-select .set-button {
+    flex-shrink: 0;
+    font-size: 12px;
+    width: 28px;
+    height: 28px;
+    line-height: 26px;
+    text-align: center;
+    border-radius: 50%;
+    background-color: #353D4F;
+    border: solid 2px #626770;
+    box-sizing: border-box;
+    position: relative;
+    top: -5px;
+    right: 2px;
+}

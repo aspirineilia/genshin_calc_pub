@@ -1,0 +1,23 @@
+category;name;rus;eng
+talent_tooltip;sayu_egress_prep_none;Нет;None
+talent_tooltip;sayu_egress_prep;%{text_decimal|0} сек.;%{text_decimal|0} sec
+
+feature_skill;sayu_windwheel_elemental_dmg;Доп. элементальный урон Ветряного колеса Фуфу;Fuufuu Windwheel Elemental DMG
+feature_skill;sayu_windwheel_kick_elemental_dmg;Доп. элементальный урон долгого нажатия Удара вихря Фуфу;Fuufuu Whirlwind Kick Elemental DMG
+feature_burst;sayu_burst_dmg;Урон активации навыка;Skill Activation DMG
+feature_burst;sayu_heal;Лечение активации навыка;Skill Activation Healing
+feature_burst;sayu_mujimuji_add_heal;Не хочу работать!;No Work Today!
+feature_burst;sayu_mujimuji_dmg;Урон Мудзи-Мудзи Дарумы;Muji-Muji Daruma DMG
+feature_burst;sayu_mujimuji_heal;Лечение Мудзи-Мудзи Дарумы;Muji-Muji Daruma Healing
+feature_other;sayu_mujimuji_swirl_heal;Кое-кто более подходящий;Someone More Capable
+feature_skill;sayu_windwheel_dmg;Урон ветряного колеса Фуфу;Fuufuu Windwheel DMG
+feature_skill;sayu_windwheel_elemental_cryo_dmg;Крио урон ветряного колеса Фуфу;Fuufuu Windwheel Cryo DMG
+feature_skill;sayu_windwheel_elemental_electro_dmg;Электро урон ветряного колеса Фуфу;Fuufuu Windwheel Electro DMG
+feature_skill;sayu_windwheel_elemental_hydro_dmg;Гидро урон ветряного колеса Фуфу;Fuufuu Windwheel Hydro DMG
+feature_skill;sayu_windwheel_elemental_pyro_dmg;Пиро урон ветряного колеса Фуфу;Fuufuu Windwheel Pyro DMG
+feature_skill;sayu_windwheel_kick_dmg;Урон быстрого нажатия удара вихря Фуфу;Fuufuu Whirlwind Kick DMG
+feature_skill;sayu_windwheel_kick_elemental_cryo_dmg;Крио урон долгого нажатия Удара вихря Фуфу;Fuufuu Windwheel Kick Cryo DMG
+feature_skill;sayu_windwheel_kick_elemental_electro_dmg;Электро урон долгого нажатия Удара вихря Фуфу;Fuufuu Windwheel Kick Electro DMG
+feature_skill;sayu_windwheel_kick_elemental_hydro_dmg;Гидро урон долгого нажатия Удара вихря Фуфу;Fuufuu Windwheel Kick Hydro DMG
+feature_skill;sayu_windwheel_kick_elemental_pyro_dmg;Пиро урон долгого нажатия Удара вихря Фуфу;Fuufuu Windwheel Kick Pyro DMG
+feature_skill;sayu_windwheel_kick_hold_dmg;Урон долгого нажатия Удара вихря Фуфу;Hold Fuufuu Whirlwind Kick DMG

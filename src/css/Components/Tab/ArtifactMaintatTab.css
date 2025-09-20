@@ -1,0 +1,60 @@
+.gi-suggestmainstat-tab .gi-tab-item-inner {
+    background-image: url("../../../images/icons/tab_artifact2_light.png");
+}
+.gi-suggestmainstat-tab.active .gi-tab-item-inner {
+    background-color: #ECE5D8;
+    background-image: url("../../../images/icons/tab_artifact2_dark.png");
+}
+
+.suggest-mainstat .line {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 4px 2px;
+    padding-right: 11px;
+    box-sizing: border-box;
+    min-height: 26px;
+    justify-content: center;
+}
+
+.suggest-mainstat .stat-line {
+    width: 100%;
+    display: flex;
+    padding: 1px;
+    align-items: center;
+}
+
+.suggest-mainstat .line.odd {
+    background-color: rgba(23, 17, 16, 0.5);
+}
+
+.suggest-mainstat .line .name {
+    flex-grow: 1;
+}
+
+.suggest-mainstat .icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+    background-size: 100px 20px;
+    background-color: #ECE5D8;
+    border-radius: 50%;
+    background-image: url("../../../images/icons/slots1.png");
+}
+
+.suggest-mainstat .icon.sands {
+    background-position: -40px 0px;
+}
+
+.suggest-mainstat .icon.goblet {
+    background-position: -60px 0px;
+}
+
+.suggest-mainstat .icon.circlet {
+    background-position: -80px 0px;
+}
+
+.gi-suggestmainstat-container .remark {
+    color: #beaea9;
+    font-size: 12px;
+}

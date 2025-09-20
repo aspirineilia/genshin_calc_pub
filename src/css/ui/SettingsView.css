@@ -1,0 +1,20 @@
+.gi-settings-tab .gi-tab-item-inner {
+    background-image: url("../../images/icons/tab_settings_light.png");
+}
+.gi-settings-tab.active .gi-tab-item-inner {
+    background-color: #ECE5D8;
+    background-image: url("../../images/icons/tab_settings_dark.png");
+}
+
+#backup_file {
+    margin: 5px 0;
+    width: 100%;
+}
+
+.gi-settings-sync-wrapper p {
+    margin: 5px 0;
+}
+
+.gi-settings-sync-wrapper .gi-inputs-button {
+    margin-right: 10px;
+}

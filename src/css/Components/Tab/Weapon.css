@@ -1,0 +1,6 @@
+.gi-weapon-tab .gi-tab-item-inner {
+    background-image: url("../../../images/icons/tab_weapon_light.png");
+}
+.gi-weapon-tab.active .gi-tab-item-inner {
+    background-image: url("../../../images/icons/tab_weapon_dark.png");
+}

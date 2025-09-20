@@ -1,0 +1,119 @@
+.gi-result-table {
+    width: 100%;
+}
+
+.gi-result-table-header {
+    width: 100%;
+    display: flex;
+    padding-right: 12px;
+    box-sizing: border-box;
+}
+
+.gi-result-table-default {
+    flex-grow: 1;
+    padding: 3px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.gi-result-table-fullline {
+    flex-basis: 100%;
+}
+
+.gi-result-table-content-column {
+    line-height: 22px;
+}
+
+.gi-result-table-group-row.optional {
+    font-size: 13px;
+    color: #BEAEA9;
+}
+
+.gi-result-table-icon {
+    flex-shrink: 0;
+    width: 20px;
+    padding: 3px;
+}
+
+.gi-result-table-button {
+    flex-shrink: 0;
+    width: 30px;
+}
+
+.gi-result-table-green {
+    color: #32af00;
+}
+
+.gi-result-table-stat {
+    flex-shrink: 0;
+    width: 67px;
+    padding: 3px;
+    text-align: right;
+    white-space: nowrap;
+}
+
+.gi-result-table-feature {
+    flex-shrink: 0;
+    width: 70px;
+    padding: 3px;
+    text-align: right;
+}
+
+.gi-result-table-group-caption {
+    width: 100%;
+    text-align: left;
+    padding: 5px;
+    color: #D3BC8E;
+    box-sizing: border-box;
+}
+
+.gi-result-table-group-caption.sticky {
+    position: absolute;
+    top: 0px;
+    background-color: rgba(23, 17, 16, 0.9);
+}
+
+.gi-result-table-group {
+    width: 100%;
+    overflow: hidden;
+}
+
+.gi-result-table-group-row {
+    min-height: 26px;
+    display: flex;
+    padding-right: 12px;
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+}
+
+.gi-result-table-group-row.odd {
+    background-color: rgba(23, 17, 16, 0.5);
+}
+
+.gi-result-suggester .gi-result-table-group-row {
+    min-height: 46px;
+}
+
+.gi-result-suggester .gi-result-table-content-column {
+    line-height: normal;
+}
+
+.gi-result-suggester .gi-result-table-group-row.gi-result-table-group-row-small {
+    min-height: 26px;
+}
+
+.gi-result-suggester .gi-result-table-group-row-small .gi-result-table-default {
+    text-align: right;
+    color: #BEAEA9;
+    font-size: 12px;
+}
+
+.gi-result-table-subtext {
+    display: flex;
+    width: 100%;
+}
+
+.gi-result-table-subtext > div:first-child {
+    flex-grow: 1;
+}

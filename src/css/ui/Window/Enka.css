@@ -1,0 +1,9 @@
+.gi-window-select.gi-window-enka {
+    width: 600px;
+    min-width: 580px;
+}
+
+
+.gi-window-enka.controls-bar {
+    flex-wrap: wrap;
+}

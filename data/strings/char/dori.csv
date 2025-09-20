@@ -1,0 +1,8 @@
+category;name;rus;eng
+feature_skill;dori_troubleshooter_shot_dmg;Урон Устраняющего проблемы заряда;Troubleshooter Shot DMG
+feature_skill;dori_aftersales_service_round_dmg;Урон Снаряда гарантийного обслуживания;After-Sales Service Round DMG
+feature_burst;dori_connector_dmg;Урон связи;Connector DMG
+feature_burst;dori_energy_regeneration;Восстановление энергии;Energy Regeneration
+feature_skill;dori_special_franchise;Урон Особой франшизы;Special Franchise DMG
+feature_skill;dori_compound_interest;Сложные проценты;Compound Interest
+feature_skill;dori_sprinkling_weight;Расточая богатство;Sprinkling Weight

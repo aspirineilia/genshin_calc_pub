@@ -1,0 +1,13 @@
+category;name;rus;eng
+feature_skill;mizuki_continuous_attack_dmg;Урон периодической атаки;Continuous Attack DMG
+feature_skill;mizuki_duration;Длительность Парящей по сновидениям;Dreamdrifter Duration
+feature_skill;mizuki_em_buff;Увеличение урона Рассеивания согласно мастерству стихий;Elemental Mastery-Based Swirl DMG Increase
+feature_burst;mizuki_munen_shockwave_dmg;Урон ударной волны Мунэн;Munen Shockwave DMG
+feature_burst;mizuki_snack_heal;Восстановление HP закусками;Snack Pick-Up HP Regeneration
+feature_burst;mizuki_snack_other_heal;Восстановление HP закусками (отряд);Snack Pick-Up HP Regeneration (Party)
+feature_burst;mizuki_snack_self_heal;Восстановление HP закусками (себя);Snack Pick-Up HP Regeneration (Self)
+feature_skill;mizuki_swirl_bonus;Бонус урона Рассеивания;Swirl DMG Bonus
+feature_other;mizuki_elemental_bonus;Бонус элем. урона;Elemental DMG Bonus
+
+talent_name;yumemizuki_mizuki_dreamdrifter;Парящая по сновидениям;Dreamdrifter
+talent_descr;yumemizuki_mizuki_dreamdrifter;Урон реакции anemo{Рассеивание}, активируемой членами отряда поблизости, повышается согласно name{мастерству стихий} name{Юмэмидзуки Мидзуки}.;Increases the anemo{Swirl} DMG that nearby party members deal based on name{Yumemizuki Mizuki}'s name{Elemental Mastery}.

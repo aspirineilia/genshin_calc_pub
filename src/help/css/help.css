@@ -1,0 +1,47 @@
+@font-face {
+    font-family: Genshin;
+    src: url("../../fonts/genshin.ttf");
+}
+
+body {
+    background-color: #3E4556;
+    font-family: Genshin;
+    color: #FFF7E9;
+    font-size: 15px;
+    overflow: hidden;
+}
+
+.help-content {
+    width: 100%;
+    margin: auto;
+}
+
+.help-version {
+    font-weight: normal;
+    font-size: 20px;
+    color: #D3BC8E;
+}
+
+.help-changes {
+    font-size: 15px;
+    margin-bottom: 15px;
+}
+
+a:link, a:visited {
+    color: #BEAEA9;
+}
+
+.beta-warning {
+    border: solid 2px #ff5d4e;
+    width: 100%;
+    padding: 5px;
+    margin: 5px 0px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    background: rgba(30, 30, 30, 0.5);
+
+    font-size: 14px;
+    line-height: 18px;
+    color: #BEAEA9;
+    text-align: center;
+}

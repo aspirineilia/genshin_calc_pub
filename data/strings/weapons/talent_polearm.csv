@@ -1,0 +1,35 @@
+category;name;rus;eng
+talent_name;weapon_staff_of_homa;Безрассудная бабочка;Reckless Cinnabar
+talent_descr;weapon_staff_of_homa_passive;Увеличивает name{HP} на %{hp_percent}. Также даёт бонус name{атаки}, равный %{text_percent} от namee{макс. HP} экипированного этим оружием персонажа.;name{HP} increased by %{hp_percent}. Additionally, provides an name{ATK} Bonus based on %{text_percent} of the wielder's name{Max HP}.
+talent_descr;weapon_staff_of_homa;Когда name{HP} экипированного этим оружием персонажа опускается ниже value{50%}, его name{сила атаки} дополнительно увеличивается на %{text_percent} от его name{макс. HP}.;When the wielder's name{HP} is less than value{50%}, this name{ATK} bonus is increased by an additional %{text_percent} of name{Max HP}.
+talent_name;primordial_jade_winged_spear;Птица справедливости;Eagle Spear of Justice
+talent_descr;primordial_jade_winged_spear_1;При попадании увеличивает name{силу атаки} на %{atk_percent} в течение 6 сек. Эффект может складываться до 7 раз и возникает не чаще, чем раз в 0.3 сек.;On hit, increases name{ATK} by %{atk_percent} for 6s. Max 7 stacks. This effect can only occur once every 0.3s.
+talent_descr;primordial_jade_winged_spear_2;На 7 уровне увеличивает урон на %{dmg_all}.;While in possession of the maximum possible stacks, DMG dealt is increased by %{dmg_all}.
+
+talent_name;weapon_crescent_pike;Заряженная игла;Infusion Needle
+talent_descr;weapon_crescent_pike;В течение 5 сек. после поднятия name{элементальной сферы или частицы} name{обычные} и name{заряженные атаки} наносят дополнительный урон, равный %{text_percent} от силы атаки.;After picking up an Elemental Orb/Particle, name{Normal} and name{Charged Attacks} deal an additional %{text_percent} name{ATK} as DMG for 5s.
+talent_name;prototype_starglitter;Пожиратель магии;Magic Affinity
+talent_descr;prototype_starglitter;Использование name{элементального навыка} увеличивает name{урон} name{обычной} и name{заряженной атаки} на %{dmg_normal} в течение 12 сек. Эффект может складываться до 2 раз.;After using an name{Elemental Skill}, increases name{Normal} and name{Charged Attack DMG} by %{dmg_normal} for 12s. Max 2 stacks.
+talent_name;weapon_deathmatch_1;Гладиатор (рядом 2 врага и более);Gladiator (at least 2 opponents nearby)
+talent_name;weapon_deathmatch_2;Гладиатор (рядом менее 2 врагов);Gladiator (less than 2 opponents nearby)
+talent_descr;weapon_deathmatch_1;Если рядом 2 врага и более, name{сила атаки} и name{защита} увеличиваются на %{atk_percent}.;If there are at least 2 opponents nearby, name{ATK} is increased by %{atk_percent} and DEF is increased by %{def_percent}.
+talent_descr;weapon_deathmatch_2;Если рядом менее 2 врагов, name{сила атаки} увеличивается на %{atk_percent}.;If there are less than 2 opponents nearby, name{ATK} is increased by %{atk_percent}.
+talent_name;weapon_skyward_spine;Клык, пронзивший тьму;Black Wing
+talent_descr;weapon_skyward_spine;Увеличивает name{шанс крит. попадания} на %{crit_rate} и name{скорость обычной атаки} на %{atk_speed_normal}.;Increases name{CRIT Rate} by %{crit_rate} and increases name{Normal ATK SPD} by %{atk_speed_normal}.
+talent_descr;weapon_skyward_spine_2;При попадании name{обычной} или name{заряженной атакой} есть value{50%} шанс активировать неосязаемое лезвие, которое наносит %{text_percent} урона от name{силы атаки} в небольшом радиусе. Может возникнуть раз в 2 сек.;name{Normal} and name{Charged Attacks} hits on opponents have a value{50%} chance to trigger a vacuum blade that deals %{text_percent} of name{ATK} as DMG in a small AoE. This effect can occur no more than once every 2s.
+talent_name;weapon_white_tassel;Зоркий;Sharp
+talent_descr;weapon_white_tassel;Увеличивает name{урон обычной атаки} на %{dmg_normal}.;Increases name{Normal Attack DMG} by %{dmg_normal}.
+talent_name;weapon_halberd;Тяжёлый;Heavy
+talent_descr;weapon_halberd;name{Обычные атаки} наносят дополнительные %{text_percent_dmg} урона. Может возникнуть раз в 10 сек.;name{Normal Attacks} deal an additional %{text_percent_dmg} name{ATK} as DMG. Can only occur once every 10s.
+talent_name;weapon_black_tassel;Бич мягкотелых;Bane of the Soft
+talent_descr;weapon_black_tassel;Увеличивает name{урон} по name{слаймам} на %{dmg_all}.;Increases name{DMG} against name{slimes} by %{dmg_all}.
+talent_name;weapon_grasscutters_light;Сон вне времени: Печь вечности;Timeless Dream: Eternal Stove
+talent_descr;weapon_grasscutters_light_1;Увеличивает name{силу атаки} на %{text_percent} от показателя name{восстановления энергии} свыше value{100%}. Вы можете получить бонус name{силы атаки} до %{text_percent_max}.;name{ATK} increased by %{text_percent} of name{Energy Recharge} over the base value{100%}. You can gain a maximum bonus of %{text_percent_max} name{ATK}.
+talent_descr;weapon_grasscutters_light_2;Даёт %{recharge} name{восстановления энергии} на 12 сек. после активации name{взрыва стихии}.;Gain %{recharge} name{Energy Recharge} for 12s after using an name{Elemental Burst}.
+talent_name;weapon_catch;Песня матроса;Shanty
+talent_descr;weapon_catch;Повышает name{урон взрыва стихии} на %{dmg_burst} и его name{шанс крит. попадания} на %{crit_rate_burst}.;Increases name{Elemental Burst DMG} by %{dmg_burst} and name{Elemental Burst} name{CRIT Rate} by %{crit_rate_burst}.
+
+talent_name;weapon_calamity_queller;Завет погибели;Extinguishing Precept
+talent_descr;weapon_calamity_queller;Даёт %{dmg_pyro} бонус name{урона всех элементов}.;Gain %{dmg_pyro} All name{Elemental DMG} Bonus.
+talent_descr;weapon_calamity_queller_2;Запуск name{элементального навыка} накладывает name{Совершенствование} на 20 сек., в результате чего name{сила атаки} увеличивается на %{atk_percent} в секунду. Может складываться до 6 раз.;Obtain name{Consummation} for 20s after using an name{Elemental Skill}, causing name{ATK} to increase by %{atk_percent} per second. This ATK increase has a maximum of 6 stacks.
+talent_descr;weapon_calamity_queller_3;Когда персонаж, экипированный этим оружием, не на поле боя, бонус name{атаки} от name{Совершенствования} удваивается.;When the character equipped with this weapon is not on the field, name{Consummation}'s name{ATK} increase is doubled.

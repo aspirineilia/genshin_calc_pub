@@ -1,0 +1,18 @@
+category;name;rus;eng
+sync_tooltip;status;Cинхронизации c Google Drive;Sync with Google Drive
+sync_status;disabled;Выкл.;Disabled
+sync_status;init;Инициализация;Initialization
+sync_status;check;Проверка;Checking
+sync_status;sync;В процессе;In progress
+sync_status;auth;Вход;Logging in
+sync_status;error;Ошибка;Error
+sync_status;pending;Ожидание;Pending
+sync_status;ok;Завершено;Completed
+sync;settings_title;Синхронизация через Google Drive;Google Drive syncronization
+sync;settings_text;<p>Сохранённые данные будут автоматически синхронизироваться между локальной копией и резервной в Google Drive.</p><p>Этот сайт использует особую папку для приложения AppData и не имеет доступа к пользовательским файлам.</p>;<p>Saved data will be automatically synchronized between local data and Google Drive backup.</p><p>This website uses a special AppData folder and doesn't have access to any user file in Google Drive.</p>
+
+sync;settings_enable;Включть;Enable
+sync;settings_disable;Выключить;Disable
+sync;settings_disable_delete;Выключить и удалить файлы;Disable and delete files
+sync;delete_confirm;Выключить синхронизацию и удалить все файлы на Google Drive?;Disable syncronization and delete files in Google Drive?
+sync;api_fail;Ошибка загрузки API Google!<br>Проверьте настройки подключения и антивируса.;Failed to load Google API!<br>Check your Internet connection or antivirus settings.

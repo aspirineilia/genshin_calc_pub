@@ -1,0 +1,7 @@
+.gi-share-tab .gi-tab-item-inner {
+    background-image: url("../../../images/icons/tab_share_2_light.png");
+}
+.gi-share-tab.active .gi-tab-item-inner {
+    background-color: #ECE5D8;
+    background-image: url("../../../images/icons/tab_share_2_dark.png");
+}

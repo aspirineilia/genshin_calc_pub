@@ -1,0 +1,17 @@
+category;name;rus;eng
+weapon_name;sword_of_descension;Меч нисхождения;Sword of Descension
+weapon_name;predator;Хищник;Predator
+
+feature_weapon;sword_of_descension_dmg;Урон Меча нисхождения;Sword of Descension DMG
+
+talent_name;ps_network;Эксклюзив PS;PS Exclusive
+talent_descr;ps_network;Действует только для игроков "PlayStation Network".;Effective for players on "PlayStation Network" only.
+
+
+talent_name;sword_of_descension;Пришествие;Descension
+talent_descr;sword_of_descension_1;Eсли name{Путешественник} экипирован name{Мечом нисхождения}, его name{сила атаки} увеличивается на %{atk} единиц.;If the name{Traveler} equips the name{Sword of Descension}, their name{ATK} is increased by %{atk}.
+talent_descr;sword_of_descension_2;Атакуя противников name{обычными} и name{заряженными атаками}, вы получаете %{text_percent_chance} шанс нанести урон, равный %{text_percent_dmg} name{силы атаки} в небольшом радиусе. Эффект может возникнуть 1 раз в 10 сек.;Hitting opponents with name{Normal} and name{Charged Attacks} grants a %{text_percent_chance} chance to deal %{text_percent_dmg} name{ATK} as DMG in a small AoE. This effect can only occur once every 10s.
+
+talent_name;weapon_predator;Сильный удар;Strong Strike
+talent_descr;weapon_predator_1;Когда name{Хищником} экипирована name{Элой}, её name{сила атаки} повышается на %{atk} ед.;When name{Aloy} equips name{Predator}, name{ATK} is increased by %{atk}.
+talent_descr;weapon_predator_2;Нанесённый противникам cryo{Крио урон} повышает урон name{обычной} и name{заряженной атаки} персонажа на %{dmg_normal} в течение 6 сек. Эффект может складываться до 2 раз.;Dealing cryo{Cryo DMG} to opponents increases this character's name{Normal} and name{Charged Attack} name{DMG} by %{dmg_normal} for 6s. This effect can have a maximum of 2 stacks.

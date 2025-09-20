@@ -1,0 +1,58 @@
+
+import { ConditionBoolean } from "../../../classes/Condition/Boolean";
+import { ConditionBooleanRefine } from "../../../classes/Condition/Boolean/Refine";
+import { DbObjectWeapon } from "../../../classes/DbObject/Weapon";
+import { FeaturePostEffectValue } from "../../../classes/Feature2/PostEffectValue";
+import { PostEffectStatsMastery } from "../../../classes/PostEffect/Stats/Mastery";
+import { StatTable } from "../../../classes/StatTable";
+import { weaponStatTables } from "../../generated/WeaponStatTables";
+
+const weaponPost = new PostEffectStatsMastery({
+    levelSetting: 'weapon_refine',
+    percent: new StatTable('atk', [0.24, 0.30, 0.36, 0.42, 0.48]),
+    conditions: [
+        new ConditionBoolean({name: 'weapon_desert_pavilion'}),
+    ],
+});
+
+export const MakhairaAquamarine = new DbObjectWeapon({
+    name: 'makhaira_aquamarine',
+    serializeId: 136,
+    gameId: 12415,
+    iconClass: "weapon-icon-claymore-makhaira-aquamarine",
+    rarity: 4,
+    weapon: 'claymore',
+    statTable: weaponStatTables.MakhairaAquamarine,
+    conditions: [
+        new ConditionBooleanRefine({
+            name: 'weapon_desert_pavilion',
+            serializeId: 1,
+            title: 'talent_name.desert_pavilion',
+            description: 'talent_descr.desert_pavilion',
+            stats: [
+                new StatTable('text_percent', [24, 30, 36, 42, 48]),
+            ],
+        }),
+    ],
+    postEffects: [
+        weaponPost
+    ],
+    features: [
+        new FeaturePostEffectValue({
+            category: 'weapon',
+            name: 'atk_bonus',
+            postEffect: weaponPost,
+            digits: 1,
+        }),
+        new FeaturePostEffectValue({
+            category: 'weapon',
+            name: 'atk_bonus_bonus',
+            postEffect: new PostEffectStatsMastery({
+                levelSetting: 'weapon_refine',
+                percent: new StatTable('atk', [0.24 * 0.3, 0.30 * 0.3, 0.36 * 0.3, 0.42 * 0.3, 0.48 * 0.3]),
+            }),
+            digits: 1,
+        }),
+    ],
+});
+

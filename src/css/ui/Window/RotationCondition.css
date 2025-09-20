@@ -1,0 +1,11 @@
+.gi-window-rotation-condition {
+    width: 500px;
+}
+
+.gi-window-rotation-condition .gi-modal-content{
+    overflow: visible;
+}
+
+.gi-window-rotation-condition .gi-dropdown-options {
+    max-height: 250px;
+}

@@ -1,0 +1,15 @@
+category;name;rus;eng
+feature_attack;tartaglia_tide_burst;Отлив-всплеск;Riptide Burst
+feature_attack;tartaglia_tide_flash;Отлив-вспышка;Riptide Flash
+feature_attack;tartaglia_tide_duration;Длительность Отлива;Riptide Duration
+feature_skill;tartaglia_slash_dmg;Отлив-удар;Riptide Slash
+feature_burst;tartaglia_riptide_blast_dmg;Урон Отлив-взрыв;Riptide Blast DMG
+feature_skill;tartaglia_cd;Время отката;Preemptive CD
+feature_burst;tartaglia_energy_return;Возврат энергии (дальняя стойка);Energy Return (Ranged)
+feature_burst;tartaglia_burst_dmg_melee;Урон навыка: ближняя стойка;Skill DMG: Melee
+feature_burst;tartaglia_burst_dmg_ranged;Урон навыка: дальняя стойка;Skill DMG: Ranged
+
+talent_name;tartaglia_master_of_weaponry;Мастерское владение оружием;Master of Weaponry
+talent_descr;tartaglia_master_of_weaponry;Увеличивает уровень name{обычной атаки} персонажей вашего отряда на value{1}.;Increases your own party members' name{Normal Attack} Level by value{1}.
+
+talent_descr;tartaglia_raging_tide_talent;name{Тарталья} обнажает клинки из чистой воды, которые наносят hydro{Гидро урон} окружающим врагам и активируют ближнюю стойку.<br>В этой стойке атаки name{Тартальи} наносят hydro{Гидро урон}, который не может быть отменён какой-либо элементальной инфузией.;Unleashes a set of weaponry made of pure water, dealing hydro{Hydro DMG} to surrounding opponents and entering Melee Stance.<br>In this Stance, name{Tartaglia}'s name{Normal} and name{Charged Attacks} are converted to hydro{Hydro DMG} that cannot be overridden by any other elemental infusion.

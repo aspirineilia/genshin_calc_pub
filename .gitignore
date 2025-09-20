@@ -1,0 +1,17 @@
+**/node_modules/*
+/dimrepo/
+/dist/*
+/data/images/*
+/v8-compile-cache*
+/npm-debug.log
+/src/js/lang/*.js
+/draft/client/js/lang/*.js
+/bin/out/
+/bin/*.txt
+/changelog
+/django/root/
+*.rpm
+__pycache__/
+*.py[cod]
+.env
+node_modules

@@ -1,0 +1,23 @@
+category;name;rus;eng
+feature_attack;traveler_frenzied_rockslide;Урон Безумный оползень;Frenzied Rockslide DMG
+feature_skill;traveler_meteor_duration;Время существования Кометы;Meteorite Duration
+feature_burst;traveler_shockwave_duration;Время существования каменной стены;Stonewall Duration
+
+talent_name;traveler_shattered_darkrock;Разрушенный утёс;Shattered Darkrock
+talent_descr;traveler_shattered_darkrock;Уменьшает name{время отката} навыка skill{skill:Меч звездопада} на 2 сек.;Reduces skill{skill:Starfell Sword}'s name{CD} by 2s.
+
+talent_name;traveler_frenzied_rockslide;Безумный оползень;Frenzied Rockslide
+talent_descr;traveler_frenzied_rockslide;Последний удар name{серии обычных атак} призывает оползень, который наносит %{text_percent_dmg} geo{Гео урона} всем окружающим врагам.;The final hit of a name{Normal Attack combo} triggers a collapse, dealing %{text_percent_dmg} of name{ATK} as AoE geo{Geo DMG}.
+
+talent_name;traveler_invincible_stonewall;Неприступная стена;Invincible Stonewall
+talent_descr;traveler_invincible_stonewall;Увеличивает name{шанс крит. попадания} союзников в пределах name{Каменной стены}, созданной навыком skill{burst:Движение земли}, на %{crit_rate}, также повышает устойчивость к прерыванию атак.;Party members within the radius of skill{burst:Wake of Earth} have their name{CRIT Rate} increased by %{crit_rate} and have increased resistance against interruption.
+
+talent_name;traveler_rockcore_meltdown;Плавление каменного ядра;Rockcore Meltdown
+talent_descr;traveler_rockcore_meltdown;После уничтожения, name{Комета}, созданная навыком skill{skill:Меч звездопада}, взрывается ещё раз, нанося дополнительный geo{Гео урон} по площади, равный урону, нанесённому этим навыком.;When the meteorite created by skill{skill:Starfell Sword} is destroyed, it will also explode, dealing additional AoE geo{Geo DMG} equal to the amount of damage dealt by name{Starfell Sword}.
+
+talent_name;traveler_reaction_force;Сила реакции;Reaction Force
+talent_descr;traveler_reaction_force;name{Ударная волна} навыка skill{burst:Движение земли} восстанавливает 5 ед. name{энергии} за каждого получившего урон противника.<br>Не более 25 ед. name{энергии} за раз.;The shockwave triggered by skill{burst:Wake of Earth} regenerates 5 name{Energy} for every opponent hit.<br>A maximum of 25 name{Energy} can be regenerated in this manner at any one time.
+
+talent_name;traveler_everlasting_boulder;Нетленный камень;Everlasting Boulder
+talent_descr;traveler_everlasting_boulder;Увеличивает время существование name{каменной стены}, созданной навыком skill{burst:Движение земли}, на 5 сек.<br>Увеличивает время существования name{Кометы}, созданной навыком skill{skill:Меч звездопада}, на 10 сек.;name{The barrier} created by skill{burst:Wake of Earth} lasts 5s longer.<br>name{The meteorite} created by skill{skill:Starfell Sword} lasts 10s longer.
+

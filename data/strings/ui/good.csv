@@ -1,0 +1,24 @@
+category;name;rus;eng
+modal_window;good_import;Импорт из формата GOOD;Import from GOOD format
+good_import;title;Формат GOOD;GOOD format
+good_import;paste_text;Или вставьте текст сюда;Or paste text here
+good_import;import_status;Результат;Status
+good_import;import_count;Артефакты;Artifacts
+good_import;import_errors;Ошибки;Errors
+good_import;append_result;Добавить;Add
+good_import;replace_result;Заменить;Replace
+good_import;open_window;Импортировать;Import
+good_import;export;Экспортировать;Export
+good_import;replace_alert;Это действие удалит все существующите артефакты в хранилище. Вы уверены?;All existed artifacts in storage will be removed. Are you sure?
+good_import;disclaimer;<p>Вы можете импортировать артефакты из сторонних програм-сканнеров артефактов, которые могут сохранять результат в формате GOOD.</p><p>Используйте подобные програмы на свой страх и риск.</p>;You can import artifacts from third-party artifacts scanners that support GOOD format.</p><p>Use such programs at your own risk.</p>
+good_import;status_error_0;Успешно;Success
+good_import;status_error_1;Ошибка;Error
+good_import;status_error_2;Ошибка;Error
+
+good_import;import_added;Новые;New
+good_import;import_updated;Обновлённые;Updated
+good_import;import_missing;Нет в Хранилище;Not in Storage
+
+good_import;action_added;Добавить в Хранилише;Add to Storage
+good_import;action_updated;Обновить в Хранилише;Update existed
+good_import;action_missing;Удалить из Хранилища;Delete from Storage

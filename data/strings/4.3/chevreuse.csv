@@ -1,0 +1,7 @@
+category;name;rus;eng
+feature_skill;chevreuse_overcharge_dmg;Урон Перегруженного заряда;Overcharged Ball DMG
+feature_skill;chevreuse_heal_interval;Длительность лечения;HP Regeneration Over Time
+feature_skill;chevreuse_chain_explosion_dmg;Урон Цепного взрыва;Chain Explosion DMG
+feature_skill;chevreuse_heal_dot;В погоне за искоренением зла;In Pursuit of Ending Evil
+feature_burst;chevreuse_explosive_grenade_dmg;Урон заряда с картечью;Explosive Grenade DMG
+feature_burst;chevreuse_secondary_explosive_dmg;Урон мелкого разрывного заряда;Secondary Explosive Shell DMG

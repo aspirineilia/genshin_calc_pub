@@ -1,0 +1,11 @@
+category;name;rus;eng
+char_name;sethos;Сетос;Sethos
+
+stat;crit_rate_sethos;Пронзающий тени выстрел;Shadowpiercing Shot
+feature_attack;sethos_shadowpiercing_shot_dmg;Урон Пронзающего тени выстрела;Shadowpiercing Shot DMG
+feature_skill;sethos_recharge;Восстановление энергии;Energy Regeneration
+feature_burst;sethos_dusk_bolt_dmg_increase;Увеличение урона Болта сумрака;Dusk Bolt DMG Increase
+feature_burst;sethos_twilight_meditation_duration;Длительность Сумрачной медитации;Twilight Meditation Duration
+
+talent_name;sethos_twilight_meditation;Сумрачная медитация;Twilight Meditation
+talent_descr;sethos_twilight_meditation;В этом состоянии name{обычные атаки} name{Сетоса} превращаются в пронзающие врагов name{Болты сумрака}: они наносят electro{Электро урон} врагам на пути, а их урон увеличивается пропорционально name{мастерству стихий} name{Сетоса}.<br>name{Урон Болтов} сумрака считается уроном name{заряженной атаки}.;During this state name{Sethos}'s name{Normal Attacks} will be converted into enemy-piercing name{Dusk Bolts}: Deal electro{Electro DMG} to opponents in its path, with DMG increased based on name{Sethos}'s name{Elemental Mastery}.<br>DMG dealt by name{Dusk Bolts} is considered name{Charged Attack} DMG.

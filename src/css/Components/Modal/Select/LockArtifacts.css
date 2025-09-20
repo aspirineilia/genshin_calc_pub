@@ -1,0 +1,47 @@
+.lockartifacts-select-modal .text-info {
+    color: #beaea9;
+    font-size: 12px;
+    height: 25px;
+    line-height: 25px;
+}
+
+.lockartifacts-select-modal .lock-mode {
+    width: 200px;
+}
+
+.rus .lockartifacts-select-modal .lock-mode {
+    width: 300px;
+}
+
+.lockartifacts-select-modal .dialog-content {
+    min-height: 300px;
+}
+
+.object-select.lockartifacts-select .list {
+    display: block;
+}
+
+.lockartifacts-select .title {
+    display: flex;
+    align-items: center;
+    font-size: 22px;
+}
+
+.lockartifacts-select .lock-item {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.lockartifacts-select .list-item {
+    margin: 5px 0;
+}
+
+.lockartifacts-select .icon-unlock {
+    background-image: url("../../../../images/icons/btn_unlock.png");
+    background-size: 100%;
+}
+
+.lockartifacts-select .icon-lock {
+    background-image: url("../../../../images/icons/btn_lock.png");
+    background-size: 100%;
+}

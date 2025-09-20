@@ -1,0 +1,118 @@
+.dropdown-number {
+    width: 100px;
+}
+
+.chars-line {
+    display: flex;
+    flex-wrap: wrap;
+    min-height: 100px;
+}
+
+.chars-line > * {
+    flex-grow: 0;
+    flex-shrink: 0;
+    margin: 5px;
+}
+
+.char-icon {
+    width: 80px;
+    height: 80px;
+    flex-shrink: 0;
+    border-radius: 50%;
+    border: solid 4px transparent;
+    background-position: center;
+    margin: 10px;
+    box-sizing: border-box;
+    background-size: 80px 80px;
+}
+
+.char-icon.icon-big > div {
+    width: 80px;
+    height: 80px;
+    position: relative;
+    top: -4px;
+    left: -4px;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    background-size: cover;
+}
+
+.char-roll-item {
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+}
+
+.items-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 150px);
+}
+
+.option-list {
+    display: flex;
+    align-items: center;
+}
+
+.option-list > div {
+    width: 60px;
+    height: 60px;
+    margin: 10px;
+    border-radius: 50%;
+    border: solid 3px transparent;
+    box-sizing: border-box;
+    margin-bottom: 2px;
+}
+
+.option-list > div > div {
+    width: 60px;
+    height: 60px;
+    position: relative;
+    top: -3px;
+    left: -3px;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    background-size: cover;
+}
+
+.enemy-icon {
+    width: 80px;
+    height: 80px;
+    flex-shrink: 0;
+    border: solid 1px #3E4556;
+    background-position: center;
+    margin: 10px;
+    box-sizing: border-box;
+    background-size: 80px 80px;
+    background-color: #3E4556;
+    border-radius: 10px;
+}
+
+.option-list > div.enemy-icon {
+    background-size: cover;
+}
+
+.domain-icon {
+    width: 80px;
+    height: 80px;
+    flex-shrink: 0;
+    background-position: center;
+    margin: 10px;
+    box-sizing: border-box;
+    background-size: cover;
+}
+
+.option-list > div.domain-icon {
+    border: 0px none;
+}
+
+.unit-name {
+    padding: 0 5px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-size: 12px;
+}
+
+.background-element-none {
+    background-color: #3E4556;
+}

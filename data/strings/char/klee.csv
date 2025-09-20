@@ -1,0 +1,6 @@
+category;name;rus;eng
+feature_skill;klee_jumpy_dumpty;Прыг-скок бомба;Jumpy Dumpty DMG
+feature_skill;klee_mine;Урон мины;Mine DMG
+feature_skill;klee_mine_duration;Длительность мины;Mine Duration
+feature_burst;klee_chained_reactions;Урон цепной реакции;Chained Reactions DMG
+feature_burst;klee_sparkly_explosion;Урон Взрывоопасно;Sparkly Explosion DMG

@@ -1,0 +1,9 @@
+category;name;rus;eng
+weapon_type;name;Тип оружия;Weapon Type
+weapon_type;sword;Меч;Sword
+weapon_type;claymore;Двуручный меч;Claymore
+weapon_type;catalyst;Катализатор;Catalyst
+weapon_type;bow;Лук;Bow
+weapon_type;polerarm;Копье;Polearm
+
+talent_name;weapon_talent_unknown;???;???

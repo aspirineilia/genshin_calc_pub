@@ -1,0 +1,47 @@
+.gi-bestart-tab .gi-tab-item-inner {
+    background-image: url("../../../images/icons/tab_suggest_light.png");
+}
+
+.gi-bestart-tab.active .gi-tab-item-inner {
+    background-image: url("../../../images/icons/tab_suggest_dark.png");
+}
+
+.gi-bestart-container .content-scrollable.accordion {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.group-box.artifact-stats  {
+    padding: 5px 15px;
+}
+
+.artifact-stats .line {
+    padding: 2px 5px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.artifact-stats .value {
+    width: 100px;
+    text-align: right;
+}
+
+.artifact-stats .value.right {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.artifact-stats .title {
+    padding-left: 10px;
+}
+
+.artifact-stats > .inputs-button {
+    margin-top: 3px;
+    margin-right: 10px;
+}
+
+.gi-bestart-container .remark {
+    color: #BEAEA9;
+    font-size: 12px;
+}

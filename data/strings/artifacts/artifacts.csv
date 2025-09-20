@@ -1,0 +1,23 @@
+category;name;rus;eng
+artifact_set;pieces_1;1 предмет;1-Piece bonus
+artifact_set;pieces_2;2 предмета;2-Piece bonus
+artifact_set;pieces_3;3 предмета;3-Piece bonus
+artifact_set;pieces_4;4 предмета;4-Piece bonus
+artifact_set;pieces_5;5 предметов;5-Piece bonus
+artifact_pool;confirm_delete_artifact;Вы действительно хотите снять выбранный артефакт?;Are you sure you want to unequip selected artifact?
+artifact_set;flower;Цветок жизни;Flower of Life
+artifact_set;plume;Перо смерти;Plume of Death
+artifact_set;sands;Пески времени;Sands of Eon
+artifact_set;goblet;Кубок пространства;Goblet of Eonothem
+artifact_set;circlet;Корона разума;Circlet of Logos
+tooltip;artifact_storage;Добавить в хранилище;Add to storage
+artifact_pool;confirm_add_storage;Добавить текущий артефакт в хранилище?;Add this artifact to storage?
+artifact_group;empty_group;Группа по умолчанию;Default group
+artifact_group;add;Добавить;Add new
+artifact_group;add_new_title;Добавить новую группу;Add new group
+artifact_group;accordion_title;Группы артефактов;Artifact groups
+artifact_group;select_list_modal;Отображаемые группы артефактов;Artifact groups
+artifact_group;edit_group_name;Редактировать название группы;Edit group name
+artifact_group;confirm_delete;Вы действительно хотите удалить группу?;Are you sure you want to delete group?
+artifact_group;add_group_remark;Добавить новую группу можно в окне редактирования артефакта.;New group can be created in artifact edit window.
+tooltip;pool_groups;Группы артефактов;Artifact groups

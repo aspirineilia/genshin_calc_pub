@@ -1,0 +1,9 @@
+category;name;rus;eng
+feature_attack;fischl_stellar_predator;Ворон, клюющий звёзды;Stellar Predator DMG
+feature_skill;fischl_evernight_raven;Урон Оза на поле боя;Oz present DMG
+feature_attack;fischl_gaze_of_the_deep;Совместная атака Оза;Oz coordinated attack
+feature_skill;fischl_oz_dmg;Урон атаки Оза;Oz's ATK DMG
+feature_skill;fischl_oz_duration;Присутствие Оза;Oz's Duration
+feature_skill;fischl_undone;Божественная молния;Thundering Retribution
+feature_burst;fischl_her_pilgrimage_of_bleak_heal;Лечение после взрыва стихий;Burst duration ends Heal
+feature_burst;fischl_her_pilgrimage_of_bleak;Урон активации взрыва стихий;Burst activation DMG

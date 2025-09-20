@@ -1,0 +1,35 @@
+category;name;rus;eng
+feature_weapon;aquila_favonia_aoe;Урон Неповиновение Сокола;Falcon's Defiance DMG
+feature_weapon;aquila_favonia_heal;Исцеление Неповиновение Сокола;Falcon's Defiance Heal
+feature_weapon;bell_shield;Щит Бунтарский защитник;Rebellious Guardian Shield
+feature_weapon;black_sword_heal;Лечение при крит. ударе;Heal on Crit
+feature_weapon;debate_club_aoe;Урон Говори как есть;Blunt Conclusion DMG
+feature_weapon;everfrost;Урон ледяного кристалла;Everfrost Icicle DMG
+feature_weapon;eye_of_perception_bolt;Урон Ока сознания;Bolt of Perception DMG
+feature_weapon;flute_aoe;Урон Силы Музыки;Power of Music DMG
+feature_weapon;halberd_dmg;Доп. урон при попадании;DMG on hit
+feature_weapon;messenger_aimed_hit;Урон Шальная почта;Archer's Message DMG
+feature_weapon;prototype_archaic_aoe;Урон Громила;Crush DMG
+feature_weapon;skyward_atlas_cloud;Благословение облаков;Favor of the clouds
+feature_weapon;skyward_blade_dmg;Урон Клыка, пронзившего небеса;Sky-Piercing Fang DMG
+feature_weapon;skyward_harp_aoe;;Skyward Harp AoE
+feature_weapon;skyward_harp_aoe;Урон Эха небесной поэзии;Echoing Ballad DMG
+feature_weapon;skyward_pride_vacuum_blade;Урон лезвия;Vacuum blade DMG
+feature_weapon;viridescent_hunt_whirl;Урон Циклона;Cyclone DMG
+feature_weapon;weapon_additional_dmg;Доп. урон при попадании;Additional DMG on hit
+feature_weapon;titanic_tuna_dmg;Урон Титанический тунец;Titanic tuna DMG
+feature_weapon;prototype_amber_heal;Позолота;Gilding
+feature_weapon;kagotsurube_isshin_dmg;Ясность искусства Иссин;Isshin Art Clarity
+feature_weapon;trawler_dmg;Разрывающий сети;Net Snapper DMG
+feature_weapon;desert_pavilion;Чертоги в пустыне;Desert Pavilion
+feature_weapon;desert_pavilion_party;Чертоги в пустыне (Отряд);Desert Pavilion (Party)
+feature_weapon;wildling_nightstar;Звезда диких лесов;Wildling Nightstar
+feature_weapon;wildling_nightstar_party;Звезда диких лесов (Отряд);Wildling Nightstar (Party)
+feature_weapon;atk_bonus;Бонус силы атаки;ATK bonus
+feature_weapon;atk_bonus_bonus;Бонус силы атаки (отряд);ATK bonus (party)
+feature_weapon;normal_dmg_bonus;Урон обычной атаки;Normal attack DMG
+feature_weapon;burst_dmg_bonus;Урон взрыва стихий;Burst DMG
+feature_weapon;elem_dmg_bonus;Бонус элем. урона;Elemental DMG Bonus
+feature_weapon;dmg_bonus;Бонус урона;DMG Bonus
+feature_weapon;recharge_bonus;Бонус восст. энергии;Recharge Bonus
+feature_weapon;recharge_party_bonus;Бонус восст. энергии (отряд);Recharge Bonus (party)

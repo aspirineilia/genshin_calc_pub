@@ -1,0 +1,10 @@
+category;name;rus;eng
+feature_skill;xianyun_driftcloud_wave_dmg;Урон Волны плывущих облаков;Driftcloud Wave DMG
+feature_skill;xianyun_driftcloud_wave_1_dmg;Урон Волны плывущих облаков-1;Driftcloud Wave DMG-1
+feature_skill;xianyun_driftcloud_wave_2_dmg;Урон Волны плывущих облаков-2;Driftcloud Wave DMG-2
+feature_skill;xianyun_driftcloud_wave_3_dmg;Урон Волны плывущих облаков-3;Driftcloud Wave DMG-3
+feature_burst;xianyun_starwicker_dmg;Урон Сплетения звёзд;Starwicker DMG
+feature_other;xianyun_mystery_1_heal;Таинственное жемчужное просо-1;Mystery Millet Gourmet Heal-1
+feature_other;xianyun_mystery_2_heal;Таинственное жемчужное просо-2;Mystery Millet Gourmet Heal-2
+feature_other;xianyun_mystery_3_heal;Таинственное жемчужное просо-3;Mystery Millet Gourmet Heal-3
+stat;crit_dmg_xianyun;Волна плывущих облаков;Driftcloud Wave

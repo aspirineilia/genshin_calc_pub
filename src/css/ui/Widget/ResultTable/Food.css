@@ -1,0 +1,113 @@
+.gi-result-suggester-food .gi-result-table-group-row  {
+    /* height: 100px; */
+    border: solid 2px #626770;
+    border-radius: 15px;
+    margin: 5px;
+    box-sizing: border-box;
+    background: rgba(30, 30, 30, 0.5);
+    cursor: pointer;
+    margin-right: 12px;
+    padding-right: 0px;
+    flex-wrap: wrap;
+}
+
+.gi-result-suggester-food .gi-result-table-content-column {
+    overflow: hidden;
+}
+
+.gi-result-suggester-food .gi-result-table-group-row.active {
+    background-color: #3e5842AA;
+}
+
+.gi-food-type {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+}
+
+.gi-food-type-item {
+    min-height: 100px;
+    cursor: pointer;
+    border: solid 2px #626770;
+    position: relative;
+    border-radius: 15px;
+    margin: 5px ;
+    box-sizing: border-box;
+    background: rgba(30, 30, 30, 0.5);
+}
+
+.gi-food-levels {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+}
+
+.gi-food-level-item {
+    cursor: pointer;
+    border: solid 2px #626770;
+    position: relative;
+    border-radius: 15px;
+    margin: 5px;
+    box-sizing: border-box;
+    background: rgba(30, 30, 30, 0.5);
+    height:30px;
+    line-height: 30px;
+    text-align: center;
+}
+
+.gi-food-type-item.active, .gi-food-level-item.active {
+    background-color: #3e5842AA;
+}
+
+.gi-food-type-item-name {
+    margin-top: 3px;
+    margin-bottom: 10px;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    color: #D3BC8E;
+}
+
+.gi-food-title {
+    width: 100%;
+    padding: 0 10px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin-top: 5px;
+}
+
+.gi-food-icon-line {
+    width: 100%;
+    display: flex;
+}
+
+.gi-food-icon {
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+    flex-shrink: 0;
+}
+
+.gi-food-icon-char {
+    width: 40px;
+    height: 40px;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    margin: 5px;
+    background-size: cover;
+    flex-shrink: 0;
+}
+
+.gi-food-icon-line-stat {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.gi-food-icon-quality {
+    color: #BEAEA9;
+    font-size: 12px;
+    margin-right: 5px;
+}

@@ -1,0 +1,47 @@
+.weapon-suggester-list-item {
+    width: 100%;
+    display: flex;
+    margin-bottom: 15px;
+}
+
+.weapon-suggester-list-item .title {
+    font-size: 18px;
+    padding-left: 15px;
+}
+
+.weapon-suggester-list-item .icon {
+    flex-shrink: 0;
+}
+
+.weapon-suggester-list-item .items {
+    flex-grow: 1;
+    font-size: 12px;
+}
+
+.weapon-suggester-list-item .setting {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    color: #BEAEA9;
+    height: 30px;
+}
+
+.weapon-suggester-list-item .setting .name {
+    flex-grow: 1;
+    text-align: right;
+    padding-right: 10px;
+}
+
+.weapon-suggester-list-item .setting .refine {
+    width: 40px;
+    flex-shrink: 0;
+    text-align: center;
+}
+
+.weapon-suggester-list-item .checkbox-wrapper {
+    height: auto;
+}
+
+.weapon-suggester-list-item .checkbox-switcher {
+    margin-top: 0px;
+}

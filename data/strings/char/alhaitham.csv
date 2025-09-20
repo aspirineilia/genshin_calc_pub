@@ -1,0 +1,19 @@
+category;name;rus;eng
+
+feature_skill;alhaitham_rush_dmg;Урон рывка;Rush Attack DMG
+feature_skill;alhaitham_attack_interval;Интервал Проекционного удара;Projection Attack Interval
+feature_skill;alhaitham_mirror_1_dmg;Урон Проекционного удара 1 Зеркала;1-Mirror Projection Attack DMG
+feature_skill;alhaitham_mirror_2_total_dmg;Урон Проекционного удара 2 Зеркал (всего);2-Mirror Projection Attack DMG (total)
+feature_skill;alhaitham_mirror_2_dmg;Урон Проекционного удара 2 Зеркал;2-Mirror Projection Attack DMG
+feature_skill;alhaitham_mirror_3_total_dmg;Урон Проекционного удара 3 Зеркал (всего);3-Mirror Projection Attack DMG (total)
+feature_skill;alhaitham_mirror_3_dmg;Урон Проекционного удара 3 Зеркал;3-Mirror Projection Attack DMG
+feature_skill;alhaitham_mirror_interval;Интервал исчезновения Зеркал света;Chisel-Light Mirror Removal Interval
+
+feature_burst;alhaitham_single_instance_dmg;Однократный урон;Single-Instance DMG
+feature_burst;alhaitham_instance_0;Базовое количество атак;Basic Attack Instances
+feature_burst;alhaitham_instance_1;Количество атак 1 Зеркала света;1-Mirror Attack Instances
+feature_burst;alhaitham_instance_2;Количество атак 2 Зеркал света;2-Mirror Attack Instances
+feature_burst;alhaitham_instance_3;Количество атак 3 Зеркал света;3-Mirror Attack Instances
+
+talent_name;alhaitham_mirror;Зеркало света;Chisel-Light Mirror
+talent_descr;alhaitham_mirror;Когда существуют name{Зеркала света}, name{обычные атаки}, name{заряженные атаки} и name{атаки в падении} name{аль-Хайтама} конвертируются в dendro{Дендро урон}, который не может быть отменён другими инфузиями.;When he possesses name{Chisel-Light Mirrors}, name{Alhaitham}'s name{Normal}, name{Charged}, and name{Plunging Attacks} will be converted to dendro{Dendro DMG}. This cannot be overridden.

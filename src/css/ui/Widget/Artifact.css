@@ -1,0 +1,105 @@
+.artifact-list-box-main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.artifact-list-box-mainstat {
+    width: 100%;
+    height: 17px;
+    font-size: 12px;
+    line-height: 17px;
+}
+
+.artifact-list-box-mainstat .stat {
+    color: #BEAEA9;
+}
+
+.artifact-list-box-mainstat .value.selected {
+    color: #34AF00;
+}
+
+.artifact-list-box-substat {
+    width: 50%;
+    overflow: hidden;
+    font-size: 12px;
+    float: left;
+    padding: 1px 4px;
+    box-sizing: border-box;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.artifact-list-box-substat .stat {
+    color: #BEAEA9;
+}
+
+.artifact-list-box-substat .value.selected {
+    color: #34AF00;
+}
+
+.artifact-list-box-substat .value {
+    color: #FFF7E9;
+}
+
+.artifact-list-box-image {
+    width: 60px;
+    height: 60px;
+    background-size: cover;
+    border-radius: 18px 0px 20px 0;
+    position: relative;
+}
+
+.artifact-list-box-image-number {
+    position: absolute;
+    right: 5px;
+    bottom: 5px;
+    width: 20px;
+    height: 20px;
+    text-align: right;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+.artifact-list-box-line, .artifact-list-box-buttons {
+    display: flex;
+    width: 100%;
+}
+
+.artifact-list-box.equipped .artifact-list-box-equipped {
+    display: block;
+}
+
+.artifact-list-box:hover .artifact-list-box-button {
+    display: block;
+}
+
+.artifact-list-box-invalid {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    bottom: 0px;
+    left: 2px;
+    background-image: url("../../../images/icons/warning.png");
+    background-repeat: no-repeat;
+    z-index: 10;
+}
+
+.artifact-list-box .artifact-list-box-invalid {
+    top: 2px;
+}
+
+.artifact-list-box-button {
+    border: solid 1px #ECE5D8;
+    width: 20px;
+    height: 20px;
+    border-radius: 5px;
+    background-color: rgba(40, 28, 15, 0.7);
+    cursor: pointer;
+    margin: 2px 4px;
+}
+
+.artifact-list-box-edit {
+    background-image: url("../../../images/icons/editart.png");
+    background-position: 0px 0px;
+    background-repeat: no-repeat;
+}

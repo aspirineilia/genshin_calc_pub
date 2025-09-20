@@ -1,0 +1,55 @@
+.type-fatui.enemy-icon-fatuus-fire-01 {background-image: url("../../images/enemies/fatui/fatuus_fire_01.png")}
+.type-fatui.enemy-icon-fatuus-mage-ice-01 {background-image: url("../../images/enemies/fatui/fatuus_mage_ice_01.png")}
+.type-fatui.enemy-icon-fatuus-maiden-water {background-image: url("../../images/enemies/fatui/fatuus_maiden_water.png")}
+.type-fatui.enemy-icon-fatuus-summoner-01 {background-image: url("../../images/enemies/fatui/fatuus_summoner_01.png")}
+.type-fatui.enemy-icon-skirmisher-male-fat-spraygun-ice-01 {background-image: url("../../images/enemies/fatui/skirmisher_male_fat_spraygun_ice_01.png")}
+.type-fatui.enemy-icon-skirmisher-male-fat-spraygun-water-01 {background-image: url("../../images/enemies/fatui/skirmisher_male_fat_spraygun_water_01.png")}
+.type-fatui.enemy-icon-skirmisher-male-standard-rifle-fire-01 {background-image: url("../../images/enemies/fatui/skirmisher_male_standard_rifle_fire_01.png")}
+.type-fatui.enemy-icon-skirmisher-male-standard-staff-rock-01 {background-image: url("../../images/enemies/fatui/skirmisher_male_standard_staff_rock_01.png")}
+.type-fatui.enemy-icon-skirmisher-male-strong-greathammer-electric-01 {background-image: url("../../images/enemies/fatui/skirmisher_male_strong_greathammer_electric_01.png")}
+.type-fatui.enemy-icon-skirmisher-male-strong-gloves-wind-01 {background-image: url("../../images/enemies/fatui/skirmisher_male_strong_gloves_wind_01.png")}
+.type-fatui.enemy-icon-fatuus-escadron-ice {background-image: url("../../images/enemies/fatui/fatuus_escadron_ice.png")}
+.type-fatui.enemy-icon-fatuus-escadron-wind {background-image: url("../../images/enemies/fatui/fatuus_escadron_wind.png")}
+.type-fatui.sprite-enemy.sprite-24 {
+	background-image: url("../../images/sprites/enemy_fatui_ba6c2d4136379f1ef3d152fb5a001608.png");
+	background-size: 120px 120px;
+}
+.type-fatui.sprite-enemy.sprite-60 {
+	background-image: url("../../images/sprites/enemy_fatui_684cc073a85ad532d544c5ec78acec6e.png");
+	background-size: 300px 300px;
+}
+.sprite.type-fatui.enemy-icon-fatuus-fire-01 {background-position: 0% 0%}
+.sprite.type-fatui.enemy-icon-fatuus-mage-ice-01 {background-position: 25% 0%}
+.sprite.type-fatui.enemy-icon-fatuus-maiden-water {background-position: 50% 0%}
+.sprite.type-fatui.enemy-icon-fatuus-summoner-01 {background-position: 75% 0%}
+.sprite.type-fatui.enemy-icon-skirmisher-male-fat-spraygun-ice-01 {background-position: 100% 0%}
+.sprite.type-fatui.enemy-icon-skirmisher-male-fat-spraygun-water-01 {background-position: 0% 25%}
+.sprite.type-fatui.enemy-icon-skirmisher-male-standard-rifle-fire-01 {background-position: 25% 25%}
+.sprite.type-fatui.enemy-icon-skirmisher-male-standard-staff-rock-01 {background-position: 50% 25%}
+.sprite.type-fatui.enemy-icon-skirmisher-male-strong-greathammer-electric-01 {background-position: 75% 25%}
+.sprite.type-fatui.enemy-icon-skirmisher-male-strong-gloves-wind-01 {background-position: 100% 25%}
+.sprite.type-fatui.enemy-icon-fatuus-escadron-ice {background-position: 0% 50%}
+.sprite.type-fatui.enemy-icon-fatuus-escadron-wind {background-position: 25% 50%}
+
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (   min--moz-device-pixel-ratio: 2),
+only screen and (     -o-min-device-pixel-ratio: 2/1),
+only screen and (        min-device-pixel-ratio: 2),
+only screen and (                min-resolution: 192dpi),
+only screen and (                min-resolution: 2dppx) {
+	.type-fatui.enemy-icon-fatuus-fire-01 {background-image: url("../../images/enemies/fatui/fatuus_fire_01_2x.png")}
+	.type-fatui.enemy-icon-fatuus-mage-ice-01 {background-image: url("../../images/enemies/fatui/fatuus_mage_ice_01_2x.png")}
+	.type-fatui.enemy-icon-fatuus-maiden-water {background-image: url("../../images/enemies/fatui/fatuus_maiden_water_2x.png")}
+	.type-fatui.enemy-icon-fatuus-summoner-01 {background-image: url("../../images/enemies/fatui/fatuus_summoner_01_2x.png")}
+	.type-fatui.enemy-icon-skirmisher-male-fat-spraygun-ice-01 {background-image: url("../../images/enemies/fatui/skirmisher_male_fat_spraygun_ice_01_2x.png")}
+	.type-fatui.enemy-icon-skirmisher-male-fat-spraygun-water-01 {background-image: url("../../images/enemies/fatui/skirmisher_male_fat_spraygun_water_01_2x.png")}
+	.type-fatui.enemy-icon-skirmisher-male-standard-rifle-fire-01 {background-image: url("../../images/enemies/fatui/skirmisher_male_standard_rifle_fire_01_2x.png")}
+	.type-fatui.enemy-icon-skirmisher-male-standard-staff-rock-01 {background-image: url("../../images/enemies/fatui/skirmisher_male_standard_staff_rock_01_2x.png")}
+	.type-fatui.enemy-icon-skirmisher-male-strong-greathammer-electric-01 {background-image: url("../../images/enemies/fatui/skirmisher_male_strong_greathammer_electric_01_2x.png")}
+	.type-fatui.enemy-icon-skirmisher-male-strong-gloves-wind-01 {background-image: url("../../images/enemies/fatui/skirmisher_male_strong_gloves_wind_01_2x.png")}
+	.type-fatui.enemy-icon-fatuus-escadron-ice {background-image: url("../../images/enemies/fatui/fatuus_escadron_ice_2x.png")}
+	.type-fatui.enemy-icon-fatuus-escadron-wind {background-image: url("../../images/enemies/fatui/fatuus_escadron_wind_2x.png")}
+	.type-fatui.sprite-enemy.sprite-24 {background-image: url("../../images/sprites/enemy_fatui_3a5c5a10eb2e8cb40d13672d9554a1d7.png")}
+	.type-fatui.sprite-enemy.sprite-60 {background-image: url("../../images/sprites/enemy_fatui_3d9eb12c99196d56045d41b253d5cf24.png")}
+}

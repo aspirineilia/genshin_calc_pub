@@ -1,0 +1,34 @@
+.gi-window-rotation-feature {
+    width: 500px;
+}
+
+.gi-window-rotation-feature .gi-modal-content{
+    overflow: visible;
+}
+
+.gi-select-reaction {
+    width: 100%;
+    margin-top: 3px;
+    padding: 0 5px;
+}
+
+.gi-select-reaction .gi-radio-wrapper:nth-child(1) {
+    width: 150px;
+    white-space: nowrap;
+}
+
+.gi-select-reaction .gi-radio-wrapper:nth-child(2) {
+    width: 100px;
+}
+
+.gi-select-reaction .gi-radio-wrapper:nth-child(3) {
+    width: 100px;
+}
+
+.gi-select-number {
+    margin-top: 3px;
+    width: 100%;
+    display: flex;
+    padding: 0 5px;
+    line-height: 28px;
+}

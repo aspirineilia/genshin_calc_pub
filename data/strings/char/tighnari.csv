@@ -1,0 +1,10 @@
+category;name;rus;eng
+feature_attack;tighnari_charged_dmg;Ур. заряда 1;Level 1 Aimed Shot
+feature_attack;tighnari_wreath_arrow_dmg;Урон стрелы-венца;Wreath Arrow DMG
+feature_attack;tighnari_clusterbloom_arrow_dmg;Урон стрелы соцветия;Clusterbloom Arrow DMG
+feature_attack;tighnari_clusterbloom_arrow_c6_dmg;Урон дополниельной стрелы соцветия;Additional Clusterbloom Arrow DMG
+feature_skill;tighnari_field_duration;Длительность Поля виджняны-кханды;Vijnana-Khanda Field Duration
+feature_skill;tighnari_penetrator_duration;Длительность Прорыва виджняны;Vijnana Penetrator Duration
+feature_burst;tighnari_primary_dmg;Урон стрелы-лианы;Tanglevine Shaft DMG
+feature_burst;tighnari_secondary_dmg;Урон дополнительной стрелы-лианы;Secondary Tanglevine Shaft DMG
+feature_other;tighnari_charged_bonus;Бонус Учёный клинок;Scholarly Blade Bonus

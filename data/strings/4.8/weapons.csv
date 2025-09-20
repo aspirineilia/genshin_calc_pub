@@ -1,0 +1,6 @@
+category;name;rus;eng
+
+weapon_name;lumidouce_elegy;Элегия Люмидус;Lumidouce Elegy
+talent_name;weapon_lumidouce_elegy;Увертюра яркого рассвета;Bright Dawn Overture
+talent_descr;weapon_lumidouce_elegy_1;Увеличивает силу атаки на %{atk_percent}.;ATK increased by %{atk_percent}.
+talent_descr;weapon_lumidouce_elegy_2;Когда экипированный персонаж активирует на враге pyro{Горение} или наносит противникам со статусом pyro{Горение} dendro{Дендро урон}, наносимый урон увеличивается на %{dmg_all}. Этот эффект длится 8 сек. и складывается до 2 раз. После получения 2 уровней или обновления длительности 2 уровня восстанавливает %{text_value_energy} ед. энергии. Восстанавливать энергию таким образом можно 1 раз в 12 сек. Эти 2 эффекта срабатывают, даже когда персонаж не на поле боя.;When the equipping character triggers pyro{Burning} on an opponent or deals dendro{Dendro DMG} to pyro{Burning} opponents, the DMG dealt is increased by %{dmg_all}. This effect lasts for 8s, max 2 stacks. When 2 stacks are reached or when the duration is refreshed at 2 stacks, restore %{text_value_energy} Energy. Energy can be restored this way once every 12s. The 2 aforementioned effects can be triggered even when the character is off-field.

@@ -1,0 +1,22 @@
+category;name;rus;eng
+char_name;skirk;Скирк;Skirk
+
+stat;dmg_normal_skirk;Режим Семифазной вспышки;Seven-Phase Flash mode
+
+feature_skill;skirk_duration;Длительность Семифазной вспышки;Seven-Phase Flash Mode Duration
+feature_skill;skirk_limit;Максимум Змеиного коварства;Max Serpent's Subtlety
+feature_burst;skirk_slash_dmg;Урон рубящего удара;Slash DMG
+feature_burst;skirk_final_dmg;Урон последнего рубящего удара;Skill Final Attack DMG
+feature_burst;skirk_burst_bonus;Бонус Змеиного коварства;Serpent's Subtlety Bonus
+feature_burst;skirk_absorption_0_bonus;Увеличение урона за поглощение 0 Разрывов пустоты;0 Void Rift Absorption DMG Bonus
+feature_burst;skirk_absorption_1_bonus;Увеличение урона за поглощение 1 Разрыва пустоты;1 Void Rift Absorption DMG Bonus
+feature_burst;skirk_absorption_2_bonus;Увеличение урона за поглощение 2 Разрывов пустоты;2 Void Rifts Absorption DMG Bonus
+feature_burst;skirk_absorption_3_bonus;Увеличение урона за поглощение 3 Разрывов пустоты;3 Void Rifts Absorption DMG Bonus
+feature_other;skirk_crystal_blade_dmg;Урон Кристального клинка;Crystal Blade DMG
+feature_other;skirk_burst_coordinated_attack_dmg;Совместная атака взрыва стихий;Burst Coordinated Attack DMG
+feature_other;skirk_normal_coordinated_attack_dmg;Совместная атака обычной атаки;Normal Attack Coordinated Attack DMG
+feature_other;skirk_charged_coordinated_attack_dmg;Совместная атака при ударе;On hit Coordinated Attack DMG
+
+talent_name;skirk_seven_phase_flash;Режим Семифазной вспышки;Seven-Phase Flash mode
+talent_name;skirk_serpents_subtlety;Бонус Змеиного коварства;Serpent's Subtlety Bonus
+talent_name;skirk_havoc_extinction;Хаос: Опустошение;Havoc: Extinction

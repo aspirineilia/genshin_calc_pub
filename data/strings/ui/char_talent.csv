@@ -1,0 +1,29 @@
+category;name;rus;eng
+char_talent;caption;Подробности талантов;Talents details
+char_talent;level;Ур.;Lvl
+char_talent;unit_sec; сек;s
+char_talent;unit_per_sec; ед/сек;/s
+char_talent;unit_unit; ед;‏
+char_talent;unit_hp;% от макс. HP;% Max HP
+char_talent;unit_hp_per_stack;% макс. HP/уровень;% Max HP/Stack
+char_talent;unit_atk;% атаки;% ATK
+char_talent;unit_def;% защиты;% DEF
+char_talent;unit_per_paw; сек/коготь;s per paw
+char_talent;unit_per_seal;%;% Per Seal
+char_talent;unit_per_stack;/уровень;/Stack
+char_talent;unit_percent_per_stack;%/ур.;% per stack
+char_talent;unit_current_hp;% текущего HP;% Current HP
+char_talent;unit_per_energy;% за энергию;% Per Energy
+char_talent;unit_per_stack;% за каждый уровень;% per stack
+char_talent;unit_normal_atk;% от урона обычной атаки;% Normal Attack DMG
+char_talent;unit_per_amulet;/амулет; per amulet
+char_talent;unit_cur_hp_per_second;%/сек;% Current HP Per Second
+char_talent;unit_mastery;% МС;% EM
+char_talent;unit_cryo;% Крио;% Cryo
+char_talent;unit_phys;% Физ.;% Physical
+char_talent;unit_normal_attack;% от урона обыч. атаки;% Normal Attack DMG
+char_talent;unit_charged_attack;% от урона заряж. атаки;% Charged Attack DMG
+char_talent;unit_hp_per_droplet;% макс. HP/капля;% Max HP/Droplet
+char_talent;unit_bond;% Долга дизни;% Bond of Life
+char_talent;unit_atk_nightsoul;% силы атаки за оч. Ночного духа;% ATK / Nightsoul Point
+char_talent;unit_atk_per_point;% силы атаки/очко;% ATK Per Point

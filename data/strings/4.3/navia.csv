@@ -1,0 +1,18 @@
+category;name;rus;eng
+char_name;navia;Навия;Navia
+
+stat;crit_rate_navia;Церемониальный залп кристалла;Ceremonial Crystalshot
+stat;crit_dmg_navia;Церемониальный залп кристалла;Ceremonial Crystalshot
+stat;dmg_skill_navia;Церемониальный залп кристалла;Ceremonial Crystalshot
+
+feature_skill;navia_rosula_shardshot_dmg;Урон Кристальных пуль Росулы;Rosula Shardshot DMG
+feature_skill;navia_rosula_shardshot_base_dmg;Базовый урон Кристальных пуль Росулы;Rosula Shardshot Base DMG
+feature_skill;navia_crystal_shrapnel_duration;Длительность Кристальной шрапнели;Crystal Shrapnel Duration
+feature_burst;navia_cannon_fire_support_dmg;Урон Огневой поддержки;Cannon Fire Support DMG
+feature_burst;navia_cannon_fire_support_duration;Длительность Огневой поддержки;Cannon Fire Support Duration
+
+talent_name;navia_shrapnel_charge;Заряды Кристальной шрапнели;Crystal Shrapnel charge
+talent_descr;navia_shrapnel_charge;При расходе 0/1/2/3 зарядов name{Кристальной шрапнели} и более выстреливается 5/7/9/11 name{Кристальных пуль Росулы} соответственно. Кроме того, если расходуется более 3 зарядов name{Кристальной шрапнели}, каждый заряд после третьего дополнительно увеличивает урон данного выстрела на %{text_percent_dmg}.;When 0/1/2/3 or more charges of name{Crystal Shrapnel} are consumed, 5/7/9/11 name{Rosula Shardshots} will be fired respectively. In addition, when more than 3 charges of name{Crystal Shrapnel} are consumed, every charge consumed beyond those 3 will increase the damage dealt by this name{Gunbrella shot} by an additional %{text_percent_dmg}.
+
+talent_name;navia_bullets;Попавших пуль;Bullets striked
+talent_descr;navia_bullets;Чем больше name{Кристальных пуль Росулы} попадут в одного и того же врага, тем больше урона будет нанесено. Если попадут все 11 пуль, они нанесут value{200%} от изначального урона.;The more name{Rosula Shardshots} that strike a single opponent, the greater the DMG dealt to them. When all 11 name{Rosula Shardshots} strike, value{200%} of the original amount of DMG is dealt.

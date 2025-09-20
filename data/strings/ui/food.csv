@@ -1,0 +1,112 @@
+category;name;rus;eng
+tab_header;food;Еда;Food
+food_view;type_attack;Атака;Attack
+food_view;type_defence;Защита;Defence
+food_view;type_potion;Зелье;Potion
+food_view;disclaimer;* Показаны только блюда которые дают разные бонусы.;* Only dishes that give different bonuses are listed.
+
+food_view;quality_n_1;Странное;Suspicious
+food_view;quality_n_2;Обычное;Normal
+food_view;quality_n_3;Вкусное;Delicious
+food_view;quality_n_4;Особое;Special
+food_view;quality_m_1;Странный;Suspicious
+food_view;quality_m_2;Обычный;Normal
+food_view;quality_m_3;Вкусный;Delicious
+food_view;quality_m_4;Особый;Special
+food_view;quality_f_1;Странная;Suspicious
+food_view;quality_f_2;Обычная;Normal
+food_view;quality_f_3;Вкусная;Delicious
+food_view;quality_f_4;Особая;Special
+food_view;quality_z_1;Странные;Suspicious
+food_view;quality_z_2;Обычные;Normal
+food_view;quality_z_3;Вкусные;Delicious
+food_view;quality_z_4;Особые;Special
+
+food_name;not_selected;Не выбрано;Not selected
+
+food_name;adeptus_temptation;«Искушение Адепта»;Adeptus' Temptation
+food_name;chicken_tofu_pudding;Куриный тофу;Chicken Tofu Pudding
+food_name;golden_fried_chicken;Курочка «Пальчики оближешь!»;Golden Fried Chicken
+food_name;jade_parcels;«Нефритовые мешочки»;Jade Parcels
+food_name;tianshu_meat;Мясо «Тяньшу»;Tianshu Meat
+food_name;adventurers_breakfast_sandwich;Яичная крепость;Adventurer's Breakfast Sandwich
+food_name;cold_cut_platter;Мясное ассорти;Cold Cut Platter
+food_name;fragrant_mashed_potatoes;Ароматное пюре;Fragrant Mashed Potatoes
+food_name;jueyun_guoba;Заоблачный гоба;Jueyun Guoba
+food_name;qingce_stir_fry;«Сельская услада»;Qingce Stir Fry
+food_name;sauteed_matsutake;Обжаренные мацутакэ;Sautéed Matsutake
+food_name;pile_em_up;«Расти гора»;"Pile 'Em Up"
+food_name;come_and_get_it;Налетайка;Come and Get It
+food_name;cured_pork_dry_hotpot;Ветчина на сковороде;Cured Pork Dry Hotpot
+food_name;baklava;Пахлава;Baklava
+
+food_name;almond_tofu;Миндальный тофу;Almond Tofu
+food_name;satisfying_salad;Питательный салат;Satisfying Salad
+food_name;braised_meat;;Braised Meat
+food_name;crab_roe_kourayaki;;Crab Roe Kourayaki
+food_name;fried_radish_balls;;Fried Radish Balls
+food_name;imported_poultry;;Imported Poultry
+food_name;jueyun_chili_chicken;;Jueyun Chili Chicken
+food_name;mint_salad;;Mint Salad
+food_name;more_and_more;;More-and-More
+food_name;radish_and_fish_stew;;Radish and Fish Stew
+food_name;sashimi_platter;;Sashimi Platter
+food_name;stone_harbor_delicacies;;Stone Harbor Delicacies
+food_name;tri_flavored_skewer;;Tri-Flavored Skewer
+
+food_name;die_heilige_sinfonie;Благословенная симфония;Die Heilige Sinfonie
+food_name;once_upon_a_time_in_mondstadt;«Однажды в Мондштадте»;"Once Upon a Time in Mondstadt"
+food_name;no_tomorrow;Блюдо без будущего;No Tomorrow
+food_name;der_weisheit_letzter_schluss;Высшая мудрость (Жизнь);Der Weisheit Letzter Schluss (Life)
+food_name;rockin_riffin_chicken;Рокерская курятина!;Rockin' Riffin' Chicken!
+food_name;sweet_dream;«Сладкий сон»;"Sweet Dream"
+
+food_name;flaming_essential_oil;Пламенное масло;Flaming Essential Oil
+food_name;frosting_essential_oil;Морозное масло;Frosting Essential Oil
+food_name;gushing_essential_oil;Штормовое масло;Gushing Essential Oil
+food_name;shocking_essential_oil;Громовое масло;Shocking Essential Oil
+food_name;streaming_essential_oil;Водоворотное масло;Streaming Essential Oil
+food_name;unmoving_essential_oil;Монолитное масло;Unmoving Essential Oil
+
+food_name;butter_crab;Краб в масле;Butter Crab
+food_name;golden_crab;Золотистый краб;Golden Crab
+food_name;calla_lily_seafood_soup;Суп с морепродуктами;Calla Lily Seafood Soup
+food_name;lotus_flower_crisp;Печенье лотоса;Lotus Flower Crisp
+food_name;rice_cake_soup;Суп одзони;Rice Cake Soup
+food_name;moon_pie;Лунный пирог;Moon Pie
+food_name;chili_mince_cornbread_buns;Острые хлебцы;Chili-Mince Cornbread Buns
+food_name;fishermans_toast;Рыбацкий бутерброд;Fisherman's Toast
+food_name;jewelry_soup;Суп из украшений;Jewelry Soup
+food_name;wakatakeni;Вакатакэни;Wakatakeni
+food_name;sunshine_sprat;Солнечная рыба;Sunshine Sprat
+food_name;sakura_tempura;Тэмпура с сакурой;Sakura Tempura
+food_name;stir_fried_shrimp;Обжаренные креветки;Stir-Fried Shrimp
+food_name;triple_layered_consomme;Суп «Три вкуса»;Triple-Layered Consommé
+food_name;unagi_chazuke;Унаги тядзукэ;Unagi Chazuke
+food_name;sakura_shrimp_crackers;Креветочные печенья сакуры;Sakura Shrimp Crackers
+food_name;prize_catch;Экстремальная рыбалка;A Prize Catch
+food_name;fish_flavored_toast;Рыбный бутерброд;Fish-Flavored Toast
+food_name;stormcrest_pie;Пирог прибоя;Stormcrest Pie
+food_name;woodland_dream;«Лесной сон»;Woodland Dream
+food_name;quiet_elegance;Изящная безмятежность;Quiet Elegance
+food_name;heartstring_noodles;Сердечная лапша;Heartstring Noodles
+food_name;only_truth;Единственная истина;The Only Truth
+food_name;forest_watchers_choice;Выбор лесного стража;Forest Watcher's Choice
+food_name;show_me_the_mora;Где моя мора?;Show Me the Mora
+food_name;forest_essential_oil;Лесное масло;Forest Essential Oil
+food_name;shimi_chazuke;Cими тядзукэ;Shimi Chazuke
+food_name;qingce_household_dish;Обычное блюдо Цинцэ;Qingce Household Dish
+food_name;surveyors_breakfast_sandwich;Яичный бутерброд геодезиста;Surveyor's Breakfast Sandwich
+food_name;goldflame_tajine;Таджин золотого пламени;Goldflame Tajine
+food_name;cubic_tricks;Фокус-покус;Cubic Tricks
+food_name;a_leisurely_sip;Послеполуденный чай;A Leisurely Sip
+food_name;consomme_purete;Пелена дождя;"Consomme Purete"
+food_name;cheesy_crab_hotpot;Запечённый краб в сырном соусе;Cheesy Crab Hotpot
+food_name;hymn_of_gathered_flame;Ода пламени;Hymn of Gathered Flame
+food_name;mt_mushroom;«Грибная гора» (порция на одного);Mt. Mushroom (For One)
+
+
+food_name;gateau_debord_magnifique;Торт «Дебор»: Великолепие;Gateau Debord: Magnifique
+food_name;gilded_hall;«Позолоченный зал»;Gilded Hall
+food_name;verdant_gift;«Зелёный дар»;Verdant Gift
+food_name;emotional_support;«Эмоциональная поддержка»;Emotional Support

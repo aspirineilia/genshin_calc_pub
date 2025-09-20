@@ -1,0 +1,87 @@
+.gi-features-tab .gi-tab-item-inner {
+    background-image: url("../../../images/icons/tab_features_light.png");
+}
+.gi-features-tab.active .gi-tab-item-inner {
+    background-color: #ECE5D8;
+    background-image: url("../../../images/icons/tab_features_dark.png");
+}
+
+
+.features-table-block .line.odd {
+    background-color: rgba(23, 17, 16, 0.5);
+}
+
+.features-table-block .line {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 2px;
+    padding-right: 11px;
+    box-sizing: border-box;
+    min-height: 26px;
+    justify-content: center;
+}
+
+.features-table-block .line.optional {
+    font-size: 13px;
+    color: #BEAEA9;
+}
+
+.features-table-block .title {
+    flex-grow: 1;
+    line-height: 22px;
+    display: flex;
+}
+
+.features-table-block .icon {
+    flex-shrink: 0;
+    width: 20px;
+    padding: 3px;
+}
+
+.features-table-block .icon > div {
+    width: 20px;
+    height: 20px;
+    background-size: 120px 40px;
+    background-image: url("../../../images/icons/element_40_v2.png");
+}
+
+.features-table-block .stat-anemo {
+    background-position: -60px 0px;
+}
+.features-table-block .stat-cryo {
+    background-position: -40px -20px;
+}
+.features-table-block .stat-dendro {
+    background-position: -60px -20px;
+}
+.features-table-block .stat-electro {
+    background-position: -40px 0px;
+}
+.features-table-block .stat-geo {
+    background-position: 0px -20px;
+}
+.features-table-block .stat-hydro {
+    background-position: -20px -20px;
+}
+.features-table-block .stat-pyro {
+    background-position: -20px 0px;
+}
+.features-table-block .stat-phys {
+    background-position: 0px 0px;
+}
+.features-table-block .stat-heal {
+    background-position: -80px 0px;
+}
+.features-table-block .stat-multi {
+    background-position: -100px 0px;
+}
+.features-table-block .stat-buff {
+    background-position: -100px -20px;
+}
+.features-table-block .stat-hp {
+    background-position: -80px 0px;
+}
+.stat-shield {
+    background-position: -80px -20px;
+}

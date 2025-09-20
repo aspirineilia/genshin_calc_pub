@@ -1,0 +1,29 @@
+.gi-food-tab .gi-tab-item-inner {
+    background-image: url("../../../images/icons/tab_food_light.png");
+}
+.gi-food-tab.active .gi-tab-item-inner {
+    background-color: #ECE5D8;
+    background-image: url("../../../images/icons/tab_food_dark.png");
+}
+
+.food-tab-quality {
+    width: 100%;
+    display: flex;
+}
+
+.food-tab-quality .item {
+    width: 25%;
+    cursor: pointer;
+    border: solid 2px #626770;
+    border-radius: 15px;
+    margin: 5px;
+    box-sizing: border-box;
+    background: rgba(30, 30, 30, 0.5);
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+}
+
+.food-tab-quality .item.active {
+    background-color: #3e5842AA;
+}

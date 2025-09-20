@@ -1,0 +1,25 @@
+.gi-window-select.gi-window-select-featurelist {
+    width: 500px;
+}
+
+.gi-window-select-featurelist .gi-window-select-content {
+    grid-template-columns: none;
+}
+
+.gi-window-select-featurelist .gi-modal-buttons {
+    display: flex;
+}
+
+.gi-featurelist-caption {
+    width: 100%;
+    color: #D3BC8E;
+}
+
+.gi-featurelist-items {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.gi-featurelist-items .gi-checkbox-label {
+    color: #FFF7E9;
+}

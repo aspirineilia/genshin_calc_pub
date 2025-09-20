@@ -1,0 +1,7 @@
+.gi-artifacts-pool-tab .gi-tab-item-inner {
+    background-image: url("../../../images/icons/tab_inventory2_light.png");
+}
+
+.gi-artifacts-pool-tab.active .gi-tab-item-inner {
+    background-image: url("../../../images/icons/tab_inventory2_dark.png");
+}

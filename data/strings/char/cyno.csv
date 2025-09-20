@@ -1,0 +1,10 @@
+category;name;rus;eng
+feature_skill;cyno_mortuary_rite_dmg;Урон Ритуала погребения;Mortuary Rite DMG
+feature_skill;cyno_duration_bonus;Длительность Поклявшегося прокладывать путь;Pactsworn Pathclearer Duration Bonus
+feature_skill;cyno_cd;Время отката Ритуала погребения;Mortuary Rite CD
+feature_skill;cyno_duststalker_bolt_dmg;Урон Молний бедствия;Duststalker Bolt DMG
+feature_burst;cyno_mastery_bonus;Повышение мастерства стихий;Elemental Mastery Bonus
+feature_burst;cyno_duration;Базовая длительность;Basic Duration
+
+talent_name;cyno_pactsworn_pathclearer;Поклявшийся прокладывать путь;Pactsworn Pathclearer
+talent_descr;cyno_pactsworn_pathclearer;Конвертирует урон от name{обычных атак}, name{заряженных атак} и name{атак в падении} в electro{Электро урон}, который не может быть отменён другими инфузиями.<br>· name{Мастерство стихий} и сопротивление прерыванию name{Сайно} увеличиваются, и он получает иммунитет к урону от реакции electro{Заряжен}.<br>Эффект длится максимум 18 сек. и исчезает, если name{Сайно} покидает поле боя.;name{Cyno}'s name{Normal}, name{Charged}, and name{Plunging Attacks} will be converted to electro{Electro DMG} that cannot be overridden.<br>·name{Cyno}'s name{Elemental Mastery} and resistance to interruption will increase, and he gains immunity to name{Electro-Charged} DMG.<br>This effect will be canceled when name{Cyno} leaves the field and lasts a maximum of 18s.

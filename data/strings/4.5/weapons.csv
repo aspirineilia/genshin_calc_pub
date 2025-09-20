@@ -1,0 +1,13 @@
+category;name;rus;eng
+
+weapon_name;uraku_misugiri;Ураку мисугири;Uraku Misugiri
+
+talent_name;weapon_uraku_misugiri;Парчовый цветок и меч святилища;Brocade Bloom, Shrine Sword
+talent_descr;weapon_uraku_misugiri_1;Урон name{обычной атаки} увеличивается на %{dmg_normal}, name{элементального навыка} - на %{dmg_skill}.;name{Normal Attack} DMG is increased by %{dmg_normal} and name{Elemental Skill} DMG is increased by %{dmg_skill}.
+talent_descr;weapon_uraku_misugiri_2;После того как активный персонаж поблизости наносит geo{Гео урон}, эти эффекты дополнительно увеличиваются на 100% на 15 сек.;After a nearby active character deals geo{Geo DMG}, the aforementioned effects increase by 100% for 15s.
+talent_descr;weapon_uraku_misugiri_3;Кроме того, name{защита} экипированного персонажа повышается на %{def_percent}.;Additionally, the wielder's name{DEF} is increased by %{def_percent}.
+
+weapon_name;weapon_dialogues_of_the_desert_sages;Диалог пустынных мудрецов;Dialogues of the Desert Sages
+
+talent_name;weapon_dialogues_of_the_desert_sages;Принцип равновесия;Principle of Equilibrium
+talent_descr;weapon_dialogues_of_the_desert_sages;Экипированный персонаж, исцеляя персонажей отряда, восстанавливает %{text_number} ед. энергии. Эффект может возникнуть один раз в 10 сек. и срабатывает, даже когда персонаж не на поле боя.;When the wielder performs healing, restore %{text_number} Energy. This effect can be triggered once every 10s and can occur even when the character is not on the field.

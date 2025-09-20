@@ -1,0 +1,7 @@
+.gi-artifacts_gen-tab .gi-tab-item-inner {
+    background-image: url("../../../images/icons/tab_artifact4_light.png");
+}
+
+.gi-artifacts_gen-tab.active .gi-tab-item-inner {
+    background-image: url("../../../images/icons/tab_artifact4_dark.png");
+}

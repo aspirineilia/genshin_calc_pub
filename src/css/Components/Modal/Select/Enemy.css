@@ -1,0 +1,8 @@
+.enemy-select .group {
+    box-sizing: border-box;
+    color: #d3bc8e;
+    font-size: 22px;
+    width: 100%;
+    padding: 5px;
+    padding-left: 25px;
+}

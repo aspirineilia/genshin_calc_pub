@@ -1,0 +1,154 @@
+.char-info {
+    width: 100%;
+}
+
+.char-info .line {
+    width: 100%;
+    display: flex;
+}
+
+.char-info .line .item-icon {
+    margin: 0;
+}
+
+.char-info:nth-child(n+2) {
+    margin-top: 10px;
+}
+
+.char-info .data {
+    flex-grow: 1;
+    overflow: hidden;
+}
+
+.char-info .name {
+    width: 100%;
+    height: 35px;
+    line-height: 35px;
+    font-size: 22px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    padding: 0 5px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+}
+
+.char-info .name-title {
+    overflow: hidden;
+    flex-grow: 1;
+    display: flex;
+    align-items: baseline;
+}
+
+.char-info .items {
+    display: flex;
+    align-items: center;
+}
+
+.char-info-item-icon {
+    width: 40px;
+    height: 40px;
+    margin-right: 2px;
+}
+
+.char-info .show-arts {
+    padding-left: 5px;
+    cursor: pointer;
+    color: #BEAEA9;
+    font-size: 12px;
+    text-decoration: underline;
+}
+
+.char-info .title {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.char-info .level {
+    margin-left: 10px;
+    font-size: 16px;
+    color: #BEAEA9;
+}
+
+.char-info .stat.line {
+    padding: 4px 0;
+    align-items: center;
+}
+
+.char-info .level-name {
+    padding-left: 10px;
+    min-width: 100px;
+    text-align: right;
+    font-size: 14px;
+    color: #BEAEA9;
+}
+
+.char-info .level-name.first {
+    min-width: 200px;
+}
+
+.char-info .level-value {
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 14px;
+}
+
+.char-info .line-button {
+    width: 36px;
+    height: 36px;
+    margin-left: 2px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    float: right;
+    box-sizing: border-box;
+    border-radius: 50%;
+    background-color: #ECE5D8;
+    cursor: pointer;
+}
+
+.char-info .line-button.icon-delete {
+    background-image: url("../../../images/icons/delete2.png");
+}
+
+.char-info .line-button.icon-save {
+    background-image: url("../../../images/icons/arrow_down.png");
+}
+
+.char-info .line-button.icon-load {
+    background-image: url("../../../images/icons/arrow_up.png");
+}
+
+.char-info .line-button.icon-compare {
+    background-image: url("../../../images/icons/compare.png");
+    background-size: 25px 25px;
+}
+
+.char-info .line-button.icon-unlock {
+    background-image: url("../../../images/icons/btn_unlock.png");
+    background-size: 100%;
+}
+
+.char-info .line-button.icon-lock {
+    background-image: url("../../../images/icons/btn_lock.png");
+    background-size: 100%;
+}
+
+
+.char-info .stat-items {
+    padding-right: 10px;
+}
+
+.char-info .stat-items .line {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 14px;
+    padding: 2px;
+}
+
+.char-info .stat-items .line-name {
+    color: #BEAEA9;
+    padding-right: 5px;
+}

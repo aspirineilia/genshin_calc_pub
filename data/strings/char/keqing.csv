@@ -1,0 +1,11 @@
+category;name;rus;eng
+
+feature_skill;keqing_skill_clap_total_dmg;Урон Громовое комбо (всего);Total Thunderclap Slash DMG
+feature_skill;keqing_skill_clap_dmg;Урон Громовое комбо;Thunderclap Slash DMG
+feature_skill;keqing_skill_slash;Рубящий урон;Slashing
+feature_skill;keqing_skill_stiletto;Стилет;Stiletto
+feature_skill;keqing_thundering_might;Громовая мощь;Thundering Might
+feature_burst;keqing_burst_initial;Урон навыка;Skill Dmg
+feature_burst;keqing_burst_last;Последний удар;Last Attack
+feature_burst;keqing_burst_slash_total;Комбо атака x8;Consecutive Slash (all)
+feature_burst;keqing_burst_slash;Комбо атака;Consecutive Slash

@@ -1,0 +1,7 @@
+category;name;rus;eng
+feature_skill;kuki_shinobu_ring_healing;Лечение Травяного кольца освящения;Grass Ring of Sanctification Healing
+feature_skill;kuki_shinobu_ring_dmg;Урон Травяного кольца освящения;Grass Ring of Sanctification DMG
+feature_skill;kuki_shinobu_activation_cost;Цена активации;Activation Cost
+feature_burst;kuki_shinobu_burst_dmg;Однократный урон;Single Instance DMG
+feature_burst;kuki_shinobu_burst_total_dmg;Общий урон;Total DMG
+feature_other;kuki_shinobu_to_sever_sealing_dmg;Метка громовой травы;Thundergrass Mark

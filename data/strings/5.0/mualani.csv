@@ -1,0 +1,16 @@
+category;name;rus;eng
+feature_skill;mualani_shark_base_dmg;Базовый урон Укуса акулки;Sharky's Bite Basic DMG
+feature_skill;mualani_wave_monentum_dmg;Увеличение урона Заряда волн;Wave Momentum DMG Bonus
+feature_skill;mualani_shark_add_dmg;Дополнительное увеличение урона Разрывающего укуса акулки;Sharky's Surging Bite Additional DMG Bonus
+feature_skill;mualani_shark_cd;Время отката Укуса акулки;Sharky's Bite CD
+feature_skill;mualani_shark_bite_dmg;Урон Укуса акулки;Sharky's Bite DMG
+feature_skill;mualani_shark_missile_dmg;Урон Акульей ракеты;Sharky's Missile DMG
+
+stat;crit_rate_normal_mualani;Урон Укуса акулки;Sharky's Bite DMG
+stat;crit_dmg_normal_mualani;Урон Укуса акулки;Sharky's Bite DMG
+stat;dmg_burst_mualani;Штормовой заряд;Stormburst Shot
+
+talent_name;mualani_wave_momentum;Импульс волн;Wave Momentum
+talent_descr;mualani_wave_momentum;Когда name{Муалани} использует name{Укусы акулки}, наносимый ею урон увеличивается согласно количеству уровней name{Импульса волн}. Когда в наличии 3 уровня, name{Укус акулки} превращается в name{Разрывающий укус акулки}, ещё больше повышая урон и при попадании по врагу снимая все уровни.;When name{Mualani} uses name{Sharky's Bite}, her DMG dealt increases based on name{Wave Momentum} stacks. When she has 3 stacks, a name{Normal Attack} will use name{Sharky's Surging Bite} instead, further increasing her DMG and removing all her stacks when hitting an opponent.
+talent_name;mualani_byte_targets;Метки добычи;Marked as Prey
+talent_descr;mualani_byte_targets;Когда name{Укусы акулки} попадают по противнику с name{Меткой добычи}, name{Метка} снимается, и выпускаются name{Акулкины ракеты} в максимум 5 противников с name{Метками добычи} поблизости. Они наносят урон, равный урону данного name{Укуса акулки}, и снимают name{Метки}. Если целей name{Укуса акулки} и name{Акулкиных ракет} более 1, наносимый урон снижается. Урон снижается до name{72%} от исходного урона, если целей не менее 3.;When name{Sharky's Bites} hit opponents name{Marked as Prey}, that mark will be removed, and she will fire name{Shark Missiles} at up to 5 nearby opponents name{Marked as Prey}, dealing DMG to them equal to this name{Sharky's Bite} instance and clearing their name{Marks}. If more than 1 opponent is the target of name{Sharky's Bite} and name{Shark Missiles}, the DMG dealt will decrease, decreasing to name{72%} of the original DMG when at least 3 opponents are targeted.

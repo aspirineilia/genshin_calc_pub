@@ -1,0 +1,90 @@
+.slider-wrapper {
+    width: 100%;
+    display: flex;
+    touch-action: none;
+}
+
+.slider-wrapper:hover .slider-handler {
+    background-position: 100% 0px;
+}
+
+.slider {
+    height: 20px;
+    line-height: 20px;
+    padding: 0px 5px;
+    width: 20px;
+    box-sizing: border-box;
+    background-color: #FFF7E9;
+    background-image: url("../../../images/icons/plusminus.png");
+    background-size: 40px 40px;
+    border-radius: 10px;
+    cursor: pointer;
+    flex-shrink: 0;
+    flex-grow: 0;
+}
+
+.slider.disabled {
+    cursor: auto;
+    background-color: #adaca9;
+    opacity: 0.5;
+}
+
+.slider-minus {
+    background-position: 0px 0px;
+}
+
+.slider-plus {
+    background-position: -20px 0px;
+}
+
+.slider-min {
+    background-position: 0px -20px;
+}
+
+.slider-max {
+    background-position: -20px -20px;
+}
+
+.slider-container {
+    height: 20px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    margin: 0 13px;
+    flex-grow: 1;
+    position: relative;
+}
+
+.slider-progress {
+    background: #FFF7E9;
+    width: 100%;
+    height: 8px;
+    z-index: 10;
+    border-radius: 3px;
+    box-sizing: border-box;
+}
+
+.slider-progress.gray {
+    background: #443F40;
+    border: solid 1px #626770
+}
+
+.slider-progress.left {
+    left: 0px;
+}
+
+.slider-progress.right {
+    right: 0px;
+}
+
+.slider-handler {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    cursor: ew-resize;
+    border: 0px none;
+    background-color: transparent;
+    background-image: url("../../../images/icons/slider.png");
+    background-size: cover;
+    z-index: 20;
+}

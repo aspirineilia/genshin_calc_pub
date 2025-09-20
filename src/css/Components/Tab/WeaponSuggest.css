@@ -1,0 +1,18 @@
+.gi-suggest-weapon-tab .gi-tab-item-inner {
+    background-image: url("../../../images/icons/tab_weapon2_light.png");
+}
+
+.gi-suggest-weapon-tab.active .gi-tab-item-inner {
+    background-color: #ECE5D8;
+    background-image: url("../../../images/icons/tab_weapon2_dark.png");
+}
+
+.radio-remark {
+    padding-left: 23px;
+    color: #BEAEA9;
+    font-size: 12px;
+}
+
+.weapon-suggest-radio {
+    padding-bottom: 5px;
+}

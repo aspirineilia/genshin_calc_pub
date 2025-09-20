@@ -1,0 +1,24 @@
+category;name;rus;eng
+feature_attack;ayato_shunsuiken_1;Урон Сюнсуйкэн 1;Shunsuiken 1-Hit DMG
+feature_attack;ayato_shunsuiken_2;Урон Сюнсуйкэн 2;Shunsuiken 2-Hit DMG
+feature_attack;ayato_shunsuiken_3;Урон Сюнсуйкэн 3;Shunsuiken 3-Hit DMG
+feature_attack;ayato_boundless_origin_dmg;Урон Бескрайнего истока;Boundless Origin DMG
+
+feature_skill;ayato_water_illusion_dmg;Урон водной иллюзии;Water Illusion DMG
+feature_skill;ayato_shunsuiken_1;Урон Сюнсуйкэн 1;Shunsuiken 1-Hit DMG
+feature_skill;ayato_shunsuiken_2;Урон Сюнсуйкэн 2;Shunsuiken 2-Hit DMG
+feature_skill;ayato_shunsuiken_3;Урон Сюнсуйкэн 3;Shunsuiken 3-Hit DMG
+feature_skill;ayato_namisen_bonus;Повышение урона Намисэн;Namisen DMG Bonus
+feature_skill;ayato_duration;Длительность Такимэгури канка;Takimeguri Kanka Duration
+feature_skill;ayato_duration_2;Длительность водной иллюзии;Water Illusion Duration
+feature_burst;ayato_bloomwater_blade_dmg;Урон Клинков водных цветов;Bloomwater Blade DMG
+feature_burst;ayato_normal_attack_bonus;Бонус урона обычной атаки;Normal Attack DMG Bonus
+
+talent_name;ayato_takimeguri_kanka;Такимэгури канка;Takimeguri Kanka
+talent_descr;ayato_takimeguri_kanka;В этом состоянии name{Камисато Аято} совершает молниеносные атаки, используя свой name{Сюнсуйкэн}. Урон от name{обычных атак} конвертируется в hydro{Гидро урон по площади}. Этот эффект не может быть отменён другими инфузиями.<br>Также он обладает следующими свойствами:<br>· Попадания name{Сюнсуйкэн} по врагу наделяют name{Аято} эффектом name{Намисэн}, который увеличивает наносимый Сюнсуйкэн урон пропорционально текущему name{макс. HP} name{Аято}. Изначально name{Намисэн} может складываться до 4 раз. Один уровень эффекта можно получить с помощью name{Сюнсуйкэн} раз в 0,1 сек. С завершением name{Такимэгури канка} этот эффект исчезнет.<br>· Увеличивает сопротивление прерыванию name{Аято}.<br>· name{Заряженные атаки} и name{атаки в падении становятся} недоступны.<br>name{Такимэгури канка} снимается, когда name{Аято} покидает поле боя.;In this state, name{Kamisato Ayato} uses his name{Shunsuiken} to engage in blindingly fast attacks, causing DMG from his name{Normal Attacks} to be converted into hydro{AoE Hydro DMG}. This cannot be overridden.<br>It also has the following properties:<br>·After a name{Shunsuiken} attack hits an opponent, it will grant name{Ayato} the name{Namisen} effect, increasing the name{DMG dealt} by name{Shunsuiken} based on name{Ayato}'s current name{Max HP}. The initial maximum number of name{Namisen} stacks is 4, and 1 stack can be gained through name{Shunsuiken} every 0.1s. This effect will be dispelled when name{Takimeguri Kanka} ends.<br>·name{Kamisato Ayato}'s resistance to interruption is increased.<br>·Unable to use name{Charged} or name{Plunging Attacks}.<br>name{Takimeguri Kanka} will be cleared when name{Ayato} leaves the field.
+
+talent_name;ayato_namisen;Уровни Намисэн;Namisen stacks
+talent_descr;ayato_namisen;Увеличивает наносимый name{Сюнсуйкэн} урон пропорционально текущему name{макс. HP} name{Аято};Increase the DMG dealt by name{Shunsuiken} based on name{Ayato}'s current name{Max HP}
+
+talent_name;ayato_bloomwater_blades;Клинки водных цветов;Bloomwater Blades
+talent_descr;ayato_bloomwater_blades;Создаёт безмятежный сад, в котором гаснет суета и шум.<br>Пока сад существует, в его области на врагов непрерывно обрушиваются name{Клинки водных цветов}, нанося им hydro{Гидро урон}, а name{урон обычной атаки} персонажей внутри него увеличивается.;Unveils a garden of purity that silences the cacophony within.<br>While this space exists, name{Bloomwater Blades} will constantly rain down and attack opponents within its AoE, dealing hydro{Hydro DMG} and increasing the name{Normal Attack DMG} of characters within.

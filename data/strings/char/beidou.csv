@@ -1,0 +1,7 @@
+category;name;rus;eng
+feature_attack;beidou_stunning_revenge;Оглушающая месть;Stunning Revenge
+feature_skill;beidou_skill_dmg_bonus;Увеличение урона;DMG Bonus on Hit Taken
+feature_skill;beidou_damage_1_hit;Урон после 1 удара;1 hit taken DMG
+feature_skill;beidou_damage_2_hit;Урон после 2 ударов;2 hits taken DMG
+feature_burst;beidou_lightning_dmg;Урон цепной молнии;Lightning discharge DMG
+feature_burst;beidou_stormbreaker_shield;Щит Крушитель бури;Stormbreaker Shield

@@ -1,0 +1,13 @@
+category;name;rus;eng
+feature_skill;mika_flowfrost_arrow_dmg;Урон стрелы потока инея;Flowfrost Arrow DMG
+feature_skill;mika_rimestar_flare_dmg;Урон Сингала ледяной звезды;Rimestar Flare DMG
+feature_skill;mika_rimestar_shard_dmg;Урон Осколка ледяной звезды;Rimestar Shard DMG
+feature_skill;mika_atk_spd_bonus;Бонус скорости атаки;ATK SPD Bonus
+feature_skill;mika_soulwind_duration;Длительность Ветра духа;Soulwind Duration
+
+feature_burst;mika_heal_dot;Лечение Орлиного пера;Eagleplume Healing
+feature_burst;mika_eagleplume_regen_interval;Интервал лечения Орлиного пера;Eagleplume Healing Interval
+feature_burst;mika_duration;Длительность Орлиного пера;Eagleplume Duration
+
+talent_name;mika_soulwind;Ветер духа;Soulwind
+talent_descr;mika_soulwind;Повышает name{скорость атаки} активного персонажа.;When characters in the name{Soulwind} state are on the field, their name{ATK SPD} will be increased.

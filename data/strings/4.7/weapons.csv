@@ -1,0 +1,15 @@
+category;name;rus;eng
+weapon_name;absolution;Отпущение грехов;Absolution
+weapon_name;cloudforged;Выкованный из облаков;Cloudforged
+weapon_name;silvershower_heartstrings;Сердечные струны дождя;Silvershower Heartstrings
+
+talent_name;weapon_absolution;Пакт смерти;Deathly Pact
+talent_descr;weapon_absolution_1;Крит. урон увеличивается на %{crit_dmg}.;name{CRIT DMG} increased by %{crit_dmg}.
+talent_descr;weapon_absolution_2;Когда name{Долг жизни} возрастает, наносимый экипированным персонажем урон увеличивается на %{dmg_all} на 6 сек. Этот эффект может складываться до 3 раз.;Increasing the value of a name{Bond of Life} increases the name{DMG} the equipping character deals by %{dmg_all} for 6s. Max 3 stacks.
+
+talent_name;weapon_cloudforged;Скальная кузница;Crag-Chiseled Forge
+talent_descr;weapon_cloudforged;После понижения энергии name{мастерство стихий} экипированного персонажа увеличивается на %{mastery} ед. Эффект длится 18 сек. и складывается до 2 раз.;After name{Elemental Energy} is decreased, the equipping character's name{Elemental Mastery} will increase by %{mastery} for 18s. Max 2 stacks.
+
+talent_name;weapon_silvershower_heartstrings;Ночная песнь Дриаса;Dryas's Nocturne
+talent_descr;weapon_silvershower_heartstrings_1;Экипированный персонаж может получить эффект name{Снадобья}. С 1/2/3 уровнями name{Снадобья} его name{макс. HP} увеличивается на %{hp_percent}. 1 уровень name{Снадобья} можно получить в следующих ситуациях: на 25 сек. после активации name{элементального навыка}, на 25 сек. после прироста name{Долга жизни}, на 20 сек. после исцеления персонажей. Этот эффект активируется, даже если экипированный персонаж не на поле боя. Длительность каждого уровня эффекта рассчитывается отдельно.;The equipping character can gain the name{Remedy effect}. When they possess 1/2/3 name{Remedy} stacks, name{Max HP} will increase by %{hp_percent}. 1 stack may be gained when the following conditions are met: 1 stack for 25s when using an name{Elemental Skill}, 1 stack for 25s when the value of a name{Bond of Life} value increases, 1 stack for 20s for performing healing. Stacks can still be triggered when the equipping character is not on the field. Each stack's duration is counted independently.
+talent_descr;weapon_silvershower_heartstrings_2;Кроме того, когда действует 3 уровня, name{шанс крит. попадания} name{взрыва стихии} увеличивается на %{crit_rate_burst}. Данный эффект отменяется через 4 сек. после того, как уровней name{Снадобья} становится меньше 3.;In addition, when 3 stacks are active, name{Elemental Burst} name{CRIT Rate} will be increased by %{crit_rate_burst}. This effect will be canceled 4s after falling under 3 stacks.

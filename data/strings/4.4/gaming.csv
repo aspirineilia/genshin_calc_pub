@@ -1,0 +1,10 @@
+category;name;rus;eng
+feature_skill;gaming_charmed_cloudstrider_dmg;Атака в падении: Ступающий по облакам;Plunging Attack: Charmed Cloudstrider DMG
+feature_burst;gaming_duration;Длительность стойки Ушоу;Wushou Stance Duration
+feature_burst;gaming_suanni_man_dmg;Урон удара суаньни Ман Чая;Suanni Man Chai Smash DMG
+feature_skill;gaming_dance_of_amity_heal;Лечение Танец мира;Dance of Amity Heal
+feature_burst;gaming_bringer_of_blessing_heal;Лечение Несущего благословение;Bringer of Blessing Heal
+
+stat;dmg_skill_gaming;Атака в падении: Ступающий по облакам;Plunging Attack: Charmed Cloudstrider
+stat;crit_rate_gaming;Атака в падении: Ступающий по облакам;Plunging Attack: Charmed Cloudstrider
+stat;crit_dmg_gaming;Атака в падении: Ступающий по облакам;Plunging Attack: Charmed Cloudstrider

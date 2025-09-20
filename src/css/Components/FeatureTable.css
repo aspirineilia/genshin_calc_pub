@@ -1,0 +1,44 @@
+.feature-table-header {
+    width: 100%;
+    display: flex;
+}
+
+.feature-table-header .item {
+    flex-grow: 0;
+    flex-shrink: 0;
+    width: 70px;
+    padding: 3px;
+    text-align: right;
+}
+
+.feature-table-header .item:first-child {
+    flex-grow: 1;
+}
+
+.feature-table-header .item:last-child {
+    padding-right: 16px;
+}
+
+.feature-table-value {
+    flex-grow: 0;
+    flex-shrink: 0;
+    width: 70px;
+    padding: 3px;
+    text-align: right;
+}
+
+.feature-table-value.big {
+    font-size: 12px;
+}
+
+.feature-table-value .remark {
+    color: #BEAEA9;
+    font-size: 12px;
+}
+
+.feature-table-value .remark.positive {
+    color: #32af00;
+}
+.feature-table-value .remark.negative {
+    color: #e54d4e;
+}

@@ -1,0 +1,12 @@
+category;name;rus;eng
+feature_attack;itto_kesagiri_combo_slash_dmg;Урон Аратаки кэсагири;Arataki Kesagiri Combo Slash DMG
+feature_attack;itto_kesagiri_final_slash_dmg;Финальный урон Аратаки кэсагири;Arataki Kesagiri Final Slash DMG
+feature_attack;itto_saichimonji_slash_dmg;Урон Сайтимондзи;Saichimonji Slash DMG
+feature_skill;itto_hurls_ushi_hp;HP быка;Hurls Ushi Max HP
+feature_burst;itto_atk_bonus;Повышение атаки;ATK Bonus
+feature_burst;itto_atk_speed_bonus;Ускорение атаки;ATK SPD Bonus
+feature_attack;itto_stamina_cost;Потребление выносливости на Сайтимондзи;Saichimonji Slash Stamina Cost
+feature_attack;itto_duration_strength;Длительность Невероятной силы;Superlative Superstrength Duration
+
+talent_name;itto_royal_descent;Яростный король óни;The Raging Oni King
+talent_descr;itto_royal_descent;Этот статус характеризуется следующими свойствами:<br>• name{Обычные} и name{заряженные атаки}, а также name{атаки в падении} наносят geo{Гео урон}. Этот эффект не может быть отменён другими инфузиями.<br>• Увеличивается скорость name{обычных атак} name{Аратаки Итто}, name{сила атаки} обычных атак возрастает пропорционально его name{защите}.<br>• У name{Аратаки Итто} прибавляется по одному уровню name{Невероятной силы} за попадание по врагу первым или третьим ударом комбо-атаки.<br>• Все виды name{элементального сопротивления} и name{физ. сопротивление} name{Аратаки Итто} снижаются на %{res_phys}.<br>Статус name{Яростного короля óни} снимается, если name{Аратаки Итто} покидает поле боя.;This state has the following special properties:<br>• name{Normal}, name{Charged}, and name{Plunging Attacks} will be converted to geo{Geo DMG}. This cannot be overridden.<br>• namew{Itto}'s name{Normal Attack SPD} will be increased by %{atk_speed_normal}. His name{ATK} will be increased based on his name{DEF}.<br>• The first and third combos of his attacks will grant name{Arataki Itto} himself 1 stack of name{Superlative Superstrength} when they hit opponents.<br>• bane{Itto}'s name{Elemental} and name{Physical RES} are decreased by %{res_phys}.<br>name{The Raging Oni King} state will be cleared when name{Itto} leaves the field.

@@ -1,0 +1,4 @@
+category;name;rus;eng
+feature_skill;diona_base_shield_dmg_absorption;Базовое поглощение щита;Base Shield DMG Absorption
+feature_skill;diona_claw_dmg;Урон за коготок;DMG per claw
+feature_skill;diona_claw5_dmg;Урон за 5 коготков;DMG with 5 claws

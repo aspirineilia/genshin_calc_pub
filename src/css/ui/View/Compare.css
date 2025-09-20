@@ -1,0 +1,129 @@
+.gi-compare-tab .gi-tab-item-inner {
+    background-image: url("../../../images/icons/tab_compare_light.png");
+}
+.gi-compare-tab.active .gi-tab-item-inner {
+    background-color: #ECE5D8;
+    background-image: url("../../../images/icons/tab_compare_dark.png");
+}
+
+.gi-compare-text-wrapper {
+    width: 100%;
+    display: inline-flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    margin-bottom: 15px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.gi-compare-text {
+    height: 26px;
+    background-color: #353D4F;
+    border: solid 2px #626770;
+    border-right: 0px none;
+    border-radius: 13px 0 0 13px;
+    padding-left: 13px;
+    padding-right: 10px;
+    color: #FFF7E9;
+    display: block;
+    box-sizing: border-box;
+    text-overflow: ellipsis;
+    flex-grow: 1;
+}
+
+.gi-compare-text:focus {
+    outline: none;
+}
+
+.gi-compare-button {
+    height: 26px;
+    line-height: 22px;
+    background-color: #353D4F;
+    border: solid 2px #626770;
+    color: #FFF7E9;
+    border-left: 0px none;
+    border-radius: 0 13px 13px 0;
+    display: block;
+    box-sizing: border-box;
+    cursor: pointer;
+    padding-right: 13px;
+    padding-left: 5px;
+    position: relative;
+}
+
+.gi-compare-button::before {
+    content: "";
+    width: 2px;
+    height: 14px;
+    background-color: #737C8B;
+    position: absolute;
+    left: -3px;
+    top: 4px;
+}
+
+.gi-suggester-table-button {
+    cursor: pointer;
+    color: #BEAEA9;
+    font-size: 12px;
+    text-decoration: underline;
+}
+
+
+.gi-buttons-menu {
+    width: 100%;
+    display: flex;
+}
+
+.gi-buttons-menu .gi-inputs-button {
+    margin: 0 5px;
+}
+
+.gi-button-menu-toggle {
+    width: 32px;
+    height: 32px;
+    background-color: rgba(236, 229, 216, 0.3);
+    background-position: center;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    margin: 3px;
+    cursor: pointer;
+}
+
+.gi-button-menu-toggle.active {
+    background-color: #ECE5D8;
+}
+
+.gi-compare-menu-char {
+    background-image: url("../../../images/icons/button_char.png");
+    background-size: cover;
+}
+
+.gi-compare-menu-weapon {
+    background-image: url("../../../images/icons/button_weapon.png");
+    background-size: cover;
+}
+
+.gi-compare-menu-artifact {
+    background-image: url("../../../images/icons/artifact_all_small.png");
+}
+
+.gi-compare-menu-sort {
+    background-image: url("../../../images/icons/sort.png");
+    background-size: 100%;
+    background-position: center;
+}
+
+.gi-compare-show-list {
+    width: 26px;
+    height: 26px;
+    max-height: 26px;
+    flex-shrink: 0;
+    background-color: #ECE5D8;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    margin: 3px;
+    cursor: pointer;
+    background-image: url("../../../images/icons/plus.png");
+    background-size: 18px 18px;
+    background-position: center;
+}

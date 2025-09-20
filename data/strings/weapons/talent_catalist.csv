@@ -1,0 +1,45 @@
+category;name;rus;eng
+talent_name;weapon_solar_pearl;Божественный свет;Solar Shine
+talent_descr;weapon_solar_pearl_1;Попадания name{обычной атакой} увеличивает урон name{элементальных навыков} и name{взрыва стихии} на %{dmg_burst} в течение 6 сек.;name{Normal Attack} hits increase name{Elemental Skill} and name{Elemental Burst DMG} by %{dmg_burst} for 6s.
+talent_descr;weapon_solar_pearl_2;Попадания name{элементальными навыками} и name{взрывом стихии} увеличивают name{урон} name{обычной атаки} на %{dmg_normal} в течение 6 сек.;name{Elemental Skill} or name{Elemental Burst} hits increase name{Normal Attack DMG} by %{dmg_normal} for 6s.
+talent_name;weapon_lost_prayer;Опека ветров;Boundless Blessing
+talent_descr;weapon_lost_prayer;Во время битвы даёт %{dmg_pyro} бонус name{элементального урона} каждые 4 сек. Может складываться до 4 раз.<br>Эффект оканчивается, если персонаж погибает или покидает зону битвы.;When in battle, gain an %{dmg_pyro} name{Elemental DMG Bonus} every 4s. Max 4 stacks.<br>Lasts until the character falls or leaves combat.
+talent_name;weapon_wine_and_song;Тысяча форм;Ever-Changing
+talent_descr;weapon_wine_and_song;Попадания name{обычной атакой} уменьшают потребление выносливости спринта и навыков, заменяющих спринт, на %{text_percent} в течение 5 сек. Кроме того, использование спринта или навыка, заменяющего спринт, увеличивает name{силу атаки} на %{atk_percent} в течение 5 сек.;Hitting an opponent with a name{Normal Attack} decreases the Stamina consumption of Sprint or Alternate Sprint by %{text_percent} for 5s. Additionally, using a Sprint or Alternate Sprint ability increases name{ATK} by %{atk_percent} for 5s.
+talent_name;weapon_emerald_orb;Воронка;Rapids
+talent_descr;weapon_emerald_orb;Увеличивает name{силу атаки} на %{atk_percent} в течение 12 сек при активации реакций name{Пар}, electro{Заряжен}, cryo{Заморозка}, dendro{Бутонизация} или hydro{Гидро рассеивание}.;Upon causing a name{Vaporize}, electro{Electro-Charged}, cryo{Frozen}, dendro{Bloom}, or a electro{Hydro-infused Swirl} reaction, increases name{ATK} by %{atk_percent} for 12s.
+talent_name;weapon_mappa_mare;Заряженный свиток;Infusion Scroll
+talent_descr;weapon_mappa_mare;В течение 10 сек. после вызова name{Элементальной реакции} даёт %{dmg_pyro} бонус элементального урона. Может складываться до 2 раз.;Triggering an name{Elemental reaction} grants a %{dmg_pyro} name{Elemental DMG Bonus} for 10s. Max 2 stacks.
+talent_name;weapon_twin_nephrite;Стремительный набег;Guerilla Tactic
+talent_descr;weapon_twin_nephrite;Победа над противником увеличивает name{скорость передвижения} и name{силу атаки} на %{atk_percent} в течении 15 сек.;Defeating an opponent increases name{Movement SPD} and name{ATK} by %{atk_percent} for 15s.
+talent_name;weapon_widsith;Дебют;Debut
+talent_descr;weapon_widsith;При переключении на персонажа в течение 10 сек. играет случайная музыкальная тема. Может возникнуть раз в 30 сек.;When the character takes the field, they will gain a random theme song for 10s. This can only occur once every 30s.
+talent_name;weapon_widsith_1;Речитатив;Recitative
+talent_descr;weapon_widsith_1;Увеличивает name{силу атаки} на %{atk_percent}.;name{ATK} is increased by %{atk_percent}.
+talent_name;weapon_widsith_2;Ария;Aria
+talent_descr;weapon_widsith_2;Увеличивает name{элементальный урон} на %{dmg_pyro}.;Increases all name{Elemental DMG} by %{dmg_pyro}.
+talent_name;weapon_widsith_3;Интерлюдия;Interlude
+talent_descr;weapon_widsith_3;Увеличивает name{мастерство стихий} на %{mastery}.;name{Elemental Mastery} is increased by %{mastery}.
+talent_name;weapon_widsith_avg;Грубое среднее;Rough average
+talent_descr;weapon_widsith_avg;Применяются бонусы всех видов музыкальных тем уменьшенные в 9 раз.;All song themes bonuses divided by 9 are applied.
+talent_name;weapon_prototype_amber;Позолота;Gilding
+talent_descr;weapon_prototype_amber;В течение 6 сек. после использования name{взрыва стихий} восстанавливается %{text_decimal} ед. name{энергии} каждые 2 сек., а все члены отряда восстанавливают по %{text_percent} name{HP} каждые 2 сек.;Using an name{Elemental Burst} regenerates %{text_decimal} name{Energy} every 2s for 6s. All party members will regenerate %{text_percent} name{HP} every 2s for this duration.
+talent_name;weapon_skyward_atlas;Благословение облаков;Wandering Clouds
+talent_descr;weapon_skyward_atlas;Увеличивает бонус name{элементального урона} на %{dmg_pyro}.;Increases name{Elemental DMG} Bonus by %{dmg_pyro}.
+talent_name;weapon_thrilling_tales;Наследие;Heritage
+talent_descr;weapon_thrilling_tales;При переключении персонажа увеличивает name{силу атаки} вошедшего на поле боя персонажа на %{text_percent|24} в течение 10 сек. Может возникнуть раз в 20 сек.;When switching characters, the new character taking the field has their name{ATK} increased by %{text_percent|24} for 10s. This effect can only occur once every 20s.
+talent_name;weapon_eye_of_perception;Эхо;Echo
+talent_descr;weapon_eye_of_perception;При попадании name{обычной} или name{заряженной атакой} появляется %{text_percent_chance} шанс запустить name{Око сознания}, которое наносит %{text_percent_dmg} урона name{силы атаки}. Оно способно отразиться от противника к противнику до 4 раз. Может возникнуть раз в %{text_cd} сек.;name{Normal} and name{Charged Attacks} have a %{text_percent_chance} chance to fire a name{Bolt of Perception}, dealing %{text_percent_dmg} name{ATK} as DMG. This bolt can bounce between opponents a maximum of 4 times. This effect can occur once every %{text_cd}s.
+talent_name;weapon_dodoco_tales;Истории Додоко;Dodoco Tales
+talent_descr;weapon_dodoco_tales_1;Попадания name{обычной атакой} увеличивают name{урон заряженной атаки} на %{dmg_charged} в течении 6 сек.;name{Normal Attack} hits on opponents increase name{Charged Attack} DMG by %{dmg_charged} for 6s.
+talent_descr;weapon_dodoco_tales_2;Попадания name{заряженной атакой} увеличивают name{силу атаки} на %{atk_percent} в течении 6 сек.;name{Charged Attack} hits on opponents increase name{ATK} by %{atk_percent} for 6s.
+talent_name;weapon_white_dragon_ring;Дворец сакуры;Sakura Saiguu
+talent_descr;weapon_white_dragon_ring;Когда персонаж, экипированный этим оружием, вызывает реакцию, связанную с элементом electro{Электро}, все находящиеся рядом члены отряда, чей элемент соответствует этой реакции, получают %{dmg_own|10} бонус name{урона} к своему элементу на 6 сек. Элементальные бонусы урона, полученные таким образом, не суммируются.;After the character equipped with this weapon triggers an electro{Electro elemental reaction}, nearby party members of an name{Elemental Type} involved in the elemental reaction receive a %{dmg_own|10} name{Elemental DMG} Bonus for their element, lasting 6s.<br>Elemental Bonuses gained in this way cannot be stacked.
+talent_name;weapon_everlasting_moonglow;Бякуя когэцу;Byakuya Kougetsu
+talent_descr;weapon_everlasting_moonglow_1;Увеличивает name{бонус лечения} на %{healing}, а также повышает name{урон обычной атаки} на %{normal_base_hp_percent} от name{макс. HP} экипированного этим оружием персонажа.;name{Healing Bonus} increased by %{healing}, name{Normal Attack DMG} is increased by %{normal_base_hp_percent} of the name{Max HP} of the character equipping this weapon.
+talent_descr;weapon_everlasting_moonglow_2;В течение 12 сек. после использования name{взрыва стихии} попадания name{обычной атакой} по противнику восстанавливают value{0.6} ед. name{энергии}.<br>Энергию можно восстановить не чаще, чем раз в 0.1 сек.;For 12s after using an name{Elemental Burst}, name{Normal Attacks} that hit opponents will restore value{0.6} name{Energy}.<br>Energy can be restored this way once every 0.1s.
+talent_name;weapon_kaguras_verity;Кагура Священной сакуры;Kagura Dance of the Sacred Sakura
+talent_descr;weapon_kaguras_verity_1;Использование name{элементального навыка} наделяет экипированного этим оружием персонажа эффектом «name{Танец кагура}», который увеличивает урон его name{элементального навыка} на %{dmg_skill}. Этот эффект длится 16 сек. и может складываться до 3 раз.;Gains the name{Kagura Dance} effect when using an name{Elemental Skill}, causing the name{Elemental Skill DMG} of the character wielding this weapon to increase by %{dmg_skill} for 12s. Max 3 stacks.
+talent_descr;weapon_kaguras_verity_2;На 3 уровне эффекта персонаж получает %{dmg_pyro} бонус урона всеми элементами.;This character will gain %{dmg_pyro} All name{Elemental DMG} Bonus when they possess 3 stacks.
+talent_name;weapon_oathsworn_eye;Народ мерцающих глубин;People of the Faltering Light
+talent_descr;weapon_oathsworn_eye;Использование name{элементального навыка} увеличивает name{восстановление энергии} на %{recharge} в течение 10 сек.;Increases name{Energy Recharge} by %{recharge} for 10s after using an name{Elemental Skill}.

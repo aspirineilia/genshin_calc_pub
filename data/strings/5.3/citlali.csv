@@ -1,0 +1,10 @@
+category;name;rus;eng
+feature_skill;citlali_obsidian_tzitzimitl_dmg;Урон Обсидианового цицимитля;Obsidian Tzitzimitl DMG
+feature_skill;citlali_duration;Длительность Ицпапы;Itzpapa Duration
+feature_skill;citlali_cost;Ицпапа: расход очков Ночного духа Белым пламенем;Itzpapa: Opal Fire Nightsoul Point Consumption
+feature_skill;citlali_frostfall_storm_dmg;Урон Морозного урагана;Frostfall Storm DMG
+feature_burst;citlali_ice_storm_dmg;Урон ледяного шторма;Ice Storm DMG
+feature_burst;citlali_point_gain;Очки Ночного духа от ледяного шторма;Ice Storm Nightsoul Point Gain
+feature_burst;citlali_spiritvessel_skull_dmg;Урон Духовного сосуда-черепа;Spiritvessel Skull DMG
+feature_burst;citlali_skull_point_gain;Очки Ночного духа от Духовного сосуда-черепа;Spiritvessel Skull Nightsoul Point Gain
+feature_other;citlali_obsidian_spiritvessel_skull_dmg;Урон Духовный сосуд-череп: Обсидиановая звезда;Obsidian Spiritvessel Skull DMG

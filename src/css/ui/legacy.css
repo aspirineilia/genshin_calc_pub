@@ -1,0 +1,49 @@
+.gi-view-feature {
+    border: solid 2px #626770;
+    width: 100%;
+    padding: 5px;
+    margin: 5px 0px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    background: rgba(30, 30, 30, 0.5);
+}
+
+.gi-view-feature-info {
+    text-align: right;
+}
+
+.gi-view-feature-info > span {
+    display: inline-block;
+    font-size: 12px;
+    width: 28px;
+    height: 28px;
+    line-height: 26px;
+    text-align: center;
+    border-radius: 50%;
+    background-color: #353D4F;
+    border: solid 2px #626770;
+    box-sizing: border-box;
+}
+
+.gi-view-feature-control {
+    width: 50px;
+    text-align: center;
+}
+
+.gi-view-feature-dropdowns {
+    display: flex;
+}
+
+.gi-view-feature-dropdowns > .gi-char-info-icon {
+    margin-right: 10px;
+}
+
+.gi-view-feature-dropdowns .select-element {
+    margin: 0px 10px;
+}
+
+.gi-view-feature-description {
+    font-size: 14px;
+    line-height: 18px;
+    color: #BEAEA9;
+}

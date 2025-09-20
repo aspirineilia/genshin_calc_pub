@@ -1,0 +1,48 @@
+.weapon-suggest-result {
+    width: 100%;
+}
+
+.weapon-suggest-result .item {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 2px;
+    padding-right: 11px;
+    box-sizing: border-box;
+}
+
+.weapon-suggest-result .art-item {
+    width: 100%;
+    padding-left: 2px;
+    padding-right: 11px;
+    box-sizing: border-box;
+}
+
+.weapon-suggest-result .show-arts {
+    cursor: pointer;
+    color: #BEAEA9;
+    font-size: 12px;
+    text-decoration: underline;
+    padding-bottom: 3px;
+}
+
+.weapon-suggest-result .item.odd {
+    background-color: rgba(23, 17, 16, 0.5);
+}
+
+.weapon-suggest-result .name {
+    flex-grow: 1;
+}
+
+.weapon-suggest-result .button {
+    flex-shrink: 0;
+}
+
+.weapon-suggest-result .remark {
+    color: #BEAEA9;
+    font-size: 12px;
+}
+
+.weapon-suggest-result .value {
+    font-size: 12px;
+}

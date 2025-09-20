@@ -1,0 +1,27 @@
+.element-anemo {
+    background-image: url("../../images/icons/element_anemo.webp");
+}
+.element-cryo {
+    background-image: url("../../images/icons/element_cryo.webp");
+}
+.element-dendro {
+    background-image: url("../../images/icons/element_dendro.webp");
+}
+.element-electro {
+    background-image: url("../../images/icons/element_electro.webp");
+}
+.element-geo {
+    background-image: url("../../images/icons/element_geo.webp");
+}
+.element-hydro {
+    background-image: url("../../images/icons/element_hydro.webp");
+}
+.element-pyro {
+    background-image: url("../../images/icons/element_pyro.webp");
+}
+.element-phys {
+    background-image: url("../../images/icons/stat_attack.png");
+}
+.icon-cover {
+    background-size: cover;
+}

@@ -1,0 +1,19 @@
+category;name;rus;eng
+layout;copyright;<span class="copyright-item">Разработано ASPirine.</span> <span class="copyright-item">Все игровые материалы принадлежат miHoYo.</span> <span class="copyright-item">Версия <span class="gi-version"></span>.</span>;<span class="copyright-item">Developed by ASPirine.</span> <span class="copyright-item">All game resources are property of miHoYo.</span> <span class="copyright-item">Version <span class="gi-version"></span>.</span>
+tab_header;stat_view;Характеристики;Attributes
+tab_header;features;Показатели;Features
+tab_header;suggest-artifact-set;Подбор комплекта;Artifact set optimizer
+tab_header;suggest-artifact-substat;Бонусы доп. характеристики;Substat bonuses
+tab_header;share_view;Мои персонажи;My characters
+tab_header;char;Персонаж;Character
+tab_header;weapon;Оружие;Weapon
+tab_header;artifacts;Артефакты;Artifacts
+tab_header;enemy;Противник;Enemy
+tab_header;settings_view;Настройки;Settings
+tab_header;rotation;Ротация;Rotation
+tab_content;not_avaliable;Недоступно в текущей версии;Not available in this version
+tab_content;under_development;Находится в разработке. Возможны ошибки и недоработки.;Under development. Things can work wrong or bugged.
+
+
+layout;announce;Объявление;Announce
+layout;not_supported;<div class="beta-warning">Калькулятор перестаёт поддерживаться!</div><p>Начиная с версии игры 5.8 калькулятор перестаёт получать обновления. Я больше не интересуюсь игрой и не буду его поддерживать.</p><p>Используйте экспорт артефактов в формат GOOD (в настройках) если хотите перенести свои артефакты в другое приложение.</p><p>Удачи в дальнейших приключениях, путешественники.</p>;<div class="beta-warning">Calculator will no longer supported!</div><p>Since game version 5.8 the Calculator will not receive any updates. I am no longer interested in the game and will not support this website.</p><p>You can use export to GOOD format (in Settings tab) to migrate your artifacts to another application.</p><p>Good luck, Travelers.</p>

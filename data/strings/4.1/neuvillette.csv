@@ -1,0 +1,8 @@
+category;name;rus;eng
+feature_attack;neuvillette_equitable_judgment_dmg;Урон заряженной атаки: Взвешенный вердикт;Charged Attack: Equitable Judgment
+feature_attack;neuvillette_equitable_judgment_current_dmg;Взвешенный вердикт: дополнительное течение;Equitable Judgment: Additional current
+feature_attack;neuvillette_hp_restored;Восстановление HP;HP Restored
+feature_attack;neuvillette_hp_loss;Потеря HP;HP Loss
+feature_burst;neuvillette_waterfall_dmg;Урон ливня;Waterfall DMG
+
+stat;crit_dmg_neuvillette;Заряженная атака: Взвешенный вердикт;Charged Attack: Equitable Judgment

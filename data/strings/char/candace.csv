@@ -1,0 +1,10 @@
+category;name;rus;eng
+feature_skill;candace_press_dmg;Базовый урон;Basic DMG
+feature_skill;candace_hold_dmg;Урон полного заряда;Charged Up DMG
+feature_burst;candace_dmg_bonus;Бонус урона;DMG Bonus
+feature_burst;candace_wave_dmg;Урон водяного вала;Wave Impact DMG
+feature_burst;candace_wave_count;Активации водяного вала;Wave Instances
+feature_burst;candace_the_overflow_dmg;Урон Затопляющего прилива;The Overflow DMG
+
+talent_name;candace_prayer_of_the_crimson_crown;Молитва алой короны;Prayer of the Crimson Crown
+talent_descr;candace_prayer_of_the_crimson_crown;Обладает следующими свойствами:<br>· При нанесении name{элементального урона} name{обычной атакой} персонажи наносят повышенный урон.<br>· Персонаж, становясь активным, выпускает водяной вал, который наносит hydro{Гидро урон} врагам поблизости. Количество волн, которые можно вызвать во время действия навыка, ограничено.<br>· Персонаж, владеющий одноручным, двуручным или древковым оружием, во время действия этого эффекта получает hydro{инфузию Гидро}.;This effect has the following properties:<br>·Characters deal increased name{Elemental DMG} with their name{Normal Attacks}.<br>·Whenever a character takes the field, they will unleash a rippling wave of water that deals hydro{Hydro DMG} to nearby opponents. There is a limited number of waves that can be triggered in the duration of this skill.<br>·Sword, Claymore, and Polearm-wielding characters under this effect will obtain a hydro{Hydro Infusion}.

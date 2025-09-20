@@ -1,0 +1,5 @@
+category;name;rus;eng
+feature_burst;collei_explosion_dmg;Урон от взрыва;Explosion DMG
+feature_burst;collei_leap_dmg;Урон прыжка;Leap DMG
+feature_other;collei_floral_sidewinder_dmg;Возвращение цветов;Floral Sidewinder
+feature_other;collei_forest_of_falling_arrows_dmg;Лес падающих стрел;Forest of Falling Arrows

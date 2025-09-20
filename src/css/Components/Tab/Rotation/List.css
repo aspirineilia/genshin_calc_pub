@@ -1,0 +1,230 @@
+.rotation-items-list {
+    width: 100%;
+}
+
+.rotation-items-list.inner {
+    min-height: 35px;
+}
+/*
+.rotation-items-list.inner > .item:first-child > .rotation-items-list.inner {
+    margin-top: 0px;
+} */
+
+.rotation-items-list .item {
+    display: flex;
+    margin-top: 3px;
+}
+
+.rotation-items-list .item.disabled {
+    opacity: 0.5;
+}
+
+.rotation-items-list .item:first-child {
+    margin-top: 0px;
+}
+
+.rotation-items-list .rotation-block {
+    min-height: 30px;
+    border-radius: 15px;
+    background-color: #353D4F;
+    border: solid 2px #626770;
+    box-sizing: border-box;
+    padding: 0 5px;
+    line-height: 28px;
+    overflow: hidden;
+    flex-grow: 1;
+    min-width: 0;
+}
+
+.rotation-items-list .rotation-block.compose {
+    padding-right: 0;
+}
+
+.rotation-items-list .handler {
+    cursor: move;
+}
+
+.rotation-items-list .group-box {
+    border: none;
+}
+
+.rotation-items-list .rotation-block .rotation-block {
+    border-color: #2d5eaf;
+}
+
+.rotation-items-list .rotation-block .rotation-block .rotation-block {
+    border-color: #a88850;
+}
+
+.rotation-items-list .rotation-block .rotation-block .rotation-block .rotation-block {
+    border-color: #517f3a;
+}
+
+.rotation-items-list .inner-title {
+    flex-grow: 1;
+    padding-left: 10px;
+}
+
+.rotation-items-list .rotation-block .group-box {
+    margin-top: 0px;
+    padding: 3px;
+}
+
+.narrow .rotation-items-list .item {
+    margin: 15px 0;
+}
+
+.rotation-items-list .condition {
+    display: flex;
+    align-items: center;
+    /* margin-left: 10px; */
+}
+
+.rotation-items-list .feature.invalid, .rotation-items-list .condition.invalid {
+    border-color: #b10b0e;
+}
+
+.rotation-items-list .line {
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
+
+.rotation-items-list .sub-line {
+    width: 100%;
+    text-align: right;
+    color: #BEAEA9;
+    font-size: 12px;
+    line-height: 18px;
+    margin-top: 2px;
+}
+
+.rotation-items-list .sub-line .text-value {
+    color: #FFF7E9;
+    font-size: 14px;
+}
+
+.rotation-items-list .count {
+    margin-right: 5px;
+}
+
+.rotation-items-list .feature .icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+    flex-shrink: 0;
+}
+
+.rotation-items-list .reaction {
+    margin-right: 5px;
+}
+
+.rotation-items-list .reaction.invalid {
+    text-decoration: line-through;
+}
+
+.rotation-items-list .feature-line {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.rotation-items-list .feature-category {
+    color: #BEAEA9;
+    padding-left: 10px;
+}
+
+.rotation-items-list .name {
+    padding-left: 5px;
+    color: #BEAEA9;
+    font-size: 12px;
+    line-height: 16px;
+}
+
+.rotation-items-list .value {
+    padding-left: 5px;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.rotation-items-list .condition .icon {
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+}
+
+.rotation-items-list .condition .icon.icon-team {
+    background-size: cover;
+}
+
+.rotation-items-list .condition .icon.gi-stat-element-icon {
+    width: 20px;
+    height: 20px;
+    margin: 2px;
+    background-size: 120px 40px;
+}
+
+.rotation-items-list .condition-flag {
+    width: 19px;
+    height: 19px;
+    background-image: url("../../../../images/icons/condition_static.png");
+    background-size: 38px 19px;
+    background-position-x: 19px;
+    vertical-align: top;
+    display: inline-block;
+    flex-shrink: 0;
+}
+
+.rotation-items-list .condition-flag.enabled {
+    background-position-x: 0px;
+}
+
+.rotation-items-list .condition-value {
+    margin-left: 5px;
+}
+
+.rotation-items-list .condition-text {
+    margin-left: 5px;
+}
+
+.rotation-items-list .control {
+    width: 28px;
+    height: 28px;
+    margin: 4px 2px;
+    flex-shrink: 0;
+    border-radius: 50%;
+    background-color: #ECE5D8;
+    cursor: pointer;
+    background-image: url("../../../../images/icons/rotation_icons_2.png");
+    background-repeat: no-repeat;
+    background-size: 112px 56px;
+}
+
+.rotation-items-list .control.item-edit {
+    background-position-x: 0px;
+    background-position-y: 0px;
+}
+
+.rotation-items-list .control.item-delete {
+    background-position-x: -28px;
+    background-position-y: 0px;
+}
+
+.rotation-items-list .control.item-copy {
+    background-position-x: -56px;
+    background-position-y: 0px;
+}
+
+.rotation-items-list .control.item-enable {
+    background-position-x: -84px;
+    background-position-y: 0px;
+}
+
+.rotation-items-list .control.item-eye {
+    background-position-x: 0px;
+    background-position-y: -28px;
+}
+
+.narrow .item-edit, .narrow .item-delete {
+    margin-left: 10px;
+}

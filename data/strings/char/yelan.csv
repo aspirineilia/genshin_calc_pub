@@ -1,0 +1,9 @@
+category;name;rus;eng
+char_name;yelan;Е Лань;Yelan
+feature_attack;yelan_breakthrough_barb_dmg;Урон прорывной стрелы;Breakthrough Barb DMG
+feature_attack;yelan_breakthrough_barb_c6_dmg;Урон усиленной прорывной стрелы;Special Breakthrough Barb DMG
+feature_burst;yelan_exquisite_throw_dmg;Урон Изысканного броска;Exquisite Throw DMG
+feature_burst;yelan_taking_all_comers_dmg;Принимаем всех желающих;Taking All Comers
+feature_skill;yelan_duration;Макс. длительность долгого нажатия;Max Duration (Hold)
+
+talent_tooltip;yelan_dmg_bonus;%{text_percent|0};%{text_percent};

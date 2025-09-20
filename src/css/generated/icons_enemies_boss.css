@@ -1,0 +1,55 @@
+.type-boss.enemy-icon-dahaka {background-image: url("../../images/enemies/boss/dahaka.png")}
+.type-boss.enemy-icon-dvalin {background-image: url("../../images/enemies/boss/dvalin.png")}
+.type-boss.enemy-icon-lasignora {background-image: url("../../images/enemies/boss/lasignora.png")}
+.type-boss.enemy-icon-lupiboreas {background-image: url("../../images/enemies/boss/lupiboreas.png")}
+.type-boss.enemy-icon-shougun-mitakenarukami {background-image: url("../../images/enemies/boss/shougun_mitakenarukami.png")}
+.type-boss.enemy-icon-tartaglia {background-image: url("../../images/enemies/boss/tartaglia.png")}
+.type-boss.enemy-icon-nada {background-image: url("../../images/enemies/boss/nada.png")}
+.type-boss.enemy-icon-apep {background-image: url("../../images/enemies/boss/apep.png")}
+.type-boss.enemy-icon-ptahur-devourer {background-image: url("../../images/enemies/boss/ptahur_devourer.png")}
+.type-boss.enemy-icon-nihil {background-image: url("../../images/enemies/boss/nihil.png")}
+.type-boss.enemy-icon-theabyssxiuhcoatl {background-image: url("../../images/enemies/boss/theabyssxiuhcoatl.png")}
+.type-boss.enemy-icon-giantchess {background-image: url("../../images/enemies/boss/giantchess.png")}
+.type-boss.sprite-enemy.sprite-24 {
+	background-image: url("../../images/sprites/enemy_boss_cb4c1b140effd8ee12d1003ffa016140.png");
+	background-size: 120px 120px;
+}
+.type-boss.sprite-enemy.sprite-60 {
+	background-image: url("../../images/sprites/enemy_boss_3c1ef219c665aafcbb0d18127aa46f7f.png");
+	background-size: 300px 300px;
+}
+.sprite.type-boss.enemy-icon-dahaka {background-position: 0% 0%}
+.sprite.type-boss.enemy-icon-dvalin {background-position: 25% 0%}
+.sprite.type-boss.enemy-icon-lasignora {background-position: 50% 0%}
+.sprite.type-boss.enemy-icon-lupiboreas {background-position: 75% 0%}
+.sprite.type-boss.enemy-icon-shougun-mitakenarukami {background-position: 100% 0%}
+.sprite.type-boss.enemy-icon-tartaglia {background-position: 0% 25%}
+.sprite.type-boss.enemy-icon-nada {background-position: 25% 25%}
+.sprite.type-boss.enemy-icon-apep {background-position: 50% 25%}
+.sprite.type-boss.enemy-icon-ptahur-devourer {background-position: 75% 25%}
+.sprite.type-boss.enemy-icon-nihil {background-position: 100% 25%}
+.sprite.type-boss.enemy-icon-theabyssxiuhcoatl {background-position: 0% 50%}
+.sprite.type-boss.enemy-icon-giantchess {background-position: 25% 50%}
+
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (   min--moz-device-pixel-ratio: 2),
+only screen and (     -o-min-device-pixel-ratio: 2/1),
+only screen and (        min-device-pixel-ratio: 2),
+only screen and (                min-resolution: 192dpi),
+only screen and (                min-resolution: 2dppx) {
+	.type-boss.enemy-icon-dahaka {background-image: url("../../images/enemies/boss/dahaka_2x.png")}
+	.type-boss.enemy-icon-dvalin {background-image: url("../../images/enemies/boss/dvalin_2x.png")}
+	.type-boss.enemy-icon-lasignora {background-image: url("../../images/enemies/boss/lasignora_2x.png")}
+	.type-boss.enemy-icon-lupiboreas {background-image: url("../../images/enemies/boss/lupiboreas_2x.png")}
+	.type-boss.enemy-icon-shougun-mitakenarukami {background-image: url("../../images/enemies/boss/shougun_mitakenarukami_2x.png")}
+	.type-boss.enemy-icon-tartaglia {background-image: url("../../images/enemies/boss/tartaglia_2x.png")}
+	.type-boss.enemy-icon-nada {background-image: url("../../images/enemies/boss/nada_2x.png")}
+	.type-boss.enemy-icon-apep {background-image: url("../../images/enemies/boss/apep_2x.png")}
+	.type-boss.enemy-icon-ptahur-devourer {background-image: url("../../images/enemies/boss/ptahur_devourer_2x.png")}
+	.type-boss.enemy-icon-nihil {background-image: url("../../images/enemies/boss/nihil_2x.png")}
+	.type-boss.enemy-icon-theabyssxiuhcoatl {background-image: url("../../images/enemies/boss/theabyssxiuhcoatl_2x.png")}
+	.type-boss.enemy-icon-giantchess {background-image: url("../../images/enemies/boss/giantchess_2x.png")}
+	.type-boss.sprite-enemy.sprite-24 {background-image: url("../../images/sprites/enemy_boss_2d7cab55b076aab996111aab6737c8ae.png")}
+	.type-boss.sprite-enemy.sprite-60 {background-image: url("../../images/sprites/enemy_boss_aa0dd03d5b4d03e7d02826f97d4c8eb8.png")}
+}

@@ -1,0 +1,21 @@
+category;name;rus;eng
+talent_name;party_max_mastery;Макс. МС членов отряда;Party members Max EM
+
+feature_skill;nahida_trikarma_purification_dmg;Урон Очищения трикармы;Tri-Karma Purification DMG
+feature_skill;nahida_trikarma_purification_mastery;Урон Очищения трикармы;Tri-Karma Purification DMG
+feature_skill;nahida_trikarma_purification_interval;Интервал активации Очищения трикармы;Tri-Karma Purification Trigger Interval
+feature_skill;nahida_seed_duration;Длительность Семени скандхи;Seed of Skandha Duration
+
+feature_burst;nahida_heart_pyro_1;Пиро: Бонус урона (1 персонаж);Pyro: DMG Bonus (1 Character)
+feature_burst;nahida_heart_pyro_2;Пиро: Бонус урона (2 персонажа);Pyro: DMG Bonus (2 Characters)
+feature_burst;nahida_heart_electro_1;Электро: Уменьшение отката активации (1 персонаж);Electro: CD Decrease (1 Character)
+feature_burst;nahida_heart_electro_2;Электро: Уменьшение отката активации (2 персонажа);Electro: CD Decrease (2 Characters)
+feature_burst;nahida_heart_hydro_1;Гидро: Продление Святилища (1 персонаж);Hydro: Duration Extension (1 Character)
+feature_burst;nahida_heart_hydro_2;Гидро: Продление Святилища (2 персонажа);Hydro: Duration Extension (2 Characters)
+feature_burst;nahida_base_duration;Базовая длительность;Base Duration
+feature_skill;nahida_trikarma_purification_karmic_dmg;Урон Очищения трикармы: Кармическое небытие;Tri-Karma Purification: Karmic Oblivion DMG
+feature_other;nahida_mastery_bonus;Бонус мастерства стихий;Mastery Bonus
+feature_other;nahida_crit_bonus;Бонус шанса крит. попадания Очищения трикармы;Tri-Karma Purification Crit Rate Bonus
+feature_other;nahida_skill_bonus;Бонус урона Очищения трикармы;Tri-Karma Purification DMG Bonus
+
+talent_descr;nahida_illusory_heart_talent;В зависимости от представленных в отряде элементов персонажей, отдельно друг от друга активируются соответствующие эффекты:<br>·pyro{Пиро}: Пока name{Нахида} пребывает в name{Святилище Майи}, урон name{Очищения трикармы} её элементального навыка skill{skill:Пелена знаний} увеличивается.<br>·electro{Электро}: Пока name{Нахида} пребывает в name{Святилище Майи}, интервал активации name{Очищения трикармы} её элементального навыка сокращается<br>·hydro{Гидро}: Продлевает действие name{Святилища Майи}.<br>Если во время активации name{Святилища Майи} в отряде 2 или больше персонажей соответствующего элемента, эффекты усилятся.;"When the name{Shrine of Maya} field is unleashed, the following effects will be separately unleashed based on the Elemental Types present within the party.<br>·pyro{Pyro}: While name{Nahida} remains within the name{Shrine of Maya}, the DMG dealt by name{Tri-Karma Purification} from skill{skill:All Schemes to Know} is increased.<br>·electro{Electro}: While name{Nahida} remains within the name{Shrine of Maya}, the interval between each name{Tri-Karma Purification} from ""name{All Schemes to Know}"" is decreased.<br>·hydro{Hydro}: The name{Shrine of Maya}'s duration is increased<br>If there are at least 2 party members of the aforementioned Elemental Types present when the field is deployed, the aforementioned effects will be increased further."

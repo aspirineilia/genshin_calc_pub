@@ -1,0 +1,7 @@
+.gi-enemy-tab .gi-tab-item-inner {
+    background-image: url("../../../images/icons/tab_monster_light.png");
+}
+.gi-enemy-tab.active .gi-tab-item-inner {
+    background-color: #ECE5D8;
+    background-image: url("../../../images/icons/tab_monster_dark.png");
+}

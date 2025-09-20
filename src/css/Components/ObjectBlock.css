@@ -1,0 +1,201 @@
+.calc-object-block {
+    width: 100%;
+    display: flex;
+}
+
+.calc-object-block > .item-icon {
+    cursor: pointer;
+}
+
+.calc-object-block .info {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.calc-object-block .name {
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+    font-size: 30px;
+    margin-top: 5px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-family: GenshinN;
+}
+
+.calc-object-block .info.overflow {
+    overflow: hidden;
+}
+
+.calc-object-block .shrink .name {
+    font-size: 20px;
+    font-family: Genshin;
+}
+
+.calc-object-block .shrink2 .name {
+    font-size: 16px;
+    font-family: Genshin;
+}
+
+.calc-object-block .shrink3 .name {
+    font-size: 14px;
+    font-family: Genshin;
+    white-space: unset;
+    line-height: unset;
+}
+
+.calc-object-block .stars {
+    width: 100%;
+    height: 15px;
+    margin: 5px 0px;
+    display: flex;
+}
+
+.calc-object-block .star {
+    width: 15px;
+    height: 15px;
+    margin: 0px 2px;
+    display: inline-block;
+    background-size: cover;
+    background-image: url("../../images/icons/ascension_star_gray.png");
+}
+
+.calc-object-block .star.active {
+    background-image: url("../../images/icons/ascension_star.png");
+}
+
+.calc-object-block .level {
+    display: flex;
+    align-items: center;
+}
+
+.rus .calc-object-block .level-name {
+    width: 95px;
+}
+
+.calc-object-block .level-name {
+    width: 65px;
+    font-size: 20px;
+}
+
+.calc-object-block .level-manual {
+    width: 90px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.rus .calc-object-block .level-slider {
+    width: 195px;
+}
+
+.calc-object-block .level-slider {
+    width: 250px;
+}
+
+.rus .gi-enemy2-container .calc-object-block .level-slider {
+    width: 220px;
+}
+
+.gi-enemy2-container .calc-object-block .level-slider {
+    width: 245px;
+}
+
+.gi-enemy2-container .calc-object-block .level-manual {
+    width: 65px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.calc-object-block .level-max {
+    color: #BEAEA9
+}
+
+.calc-object-block .level-input {
+    width: 40px;
+    font-size: 20px;
+}
+
+.calc-object-block .level-input-3 {
+    width: 55px;
+    font-size: 20px;
+}
+
+.levels-line {
+    height: 26px;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding-top: 3px;
+}
+
+.narrow .levels-line {
+    margin: 10px 0;
+}
+
+.levels-line .info {
+    width: 35px;
+    padding-left: 10px;
+    box-sizing: border-box;
+}
+
+.levels-line .info .skill {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    line-height: 20px;
+    color: #373c47;
+    text-align: center;
+    background-color: #FFF7E9;
+    cursor: pointer;
+}
+
+.rus .levels-line .title {
+    width: 195px;
+}
+
+.levels-line .title {
+    padding-left: 5px;
+    width: 165px;
+}
+
+.levels-line .value {
+    width: 20px;
+    text-align: right;
+}
+
+.levels-line .value-bonus {
+    width: 50px;
+    text-align: center;
+}
+
+.levels-line .value .invalid {
+    color: #ff5d4e;
+}
+
+.levels-line .bonus {
+    text-align: center;
+    width: 30px;
+}
+
+.rus .levels-line .line-slider {
+    width: 195px;
+}
+
+.levels-line .line-slider {
+    padding-top: 2px;
+    width: 250px;
+}
+
+.weapon-stats {
+    font-size: 18px;
+}
+
+.weapon-stats .name {
+    text-align: right;
+    color: #BEAEA9;
+    padding: 3px;
+}

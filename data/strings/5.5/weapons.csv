@@ -1,0 +1,9 @@
+category;name;rus;eng
+
+weapon_name;vivid_notions;Переливающиеся стремления сердца;Vivid Notions
+talent_name;weapon_vivid_notions;Желание падающей радуги ;Falling Rainbow's Wish
+talent_descr;weapon_vivid_notions_1;Сила атаки повышается на %{atk_percent}.;ATK is increased by %{atk_percent}.
+talent_descr;weapon_vivid_notions_2;Когда персонаж использует name{атаку в падении}, он получает эффект name{Первых цветов зари}: name{крит. урон} name{атаки в падении} повышается на %{text_percent_1}. Когда персонаж активирует name{элементальный навык} или name{взрыв стихии}, то он получает эффект name{Сияния сумерек}: name{крит. урон} name{атаки в падении} повышается на %{text_percent_2}. Каждый из этих эффектов длится 15 сек. и исчезает через 0,1 сек. после того, как ударная волна от приземления поражает цель.;When you use a name{Plunging Attack}, you will gain the "name{Dawn's First Hue}" effect: name{Plunging Attack} name{CRIT DMG} is increased by %{text_percent_1}. When you use an name{Elemental Skill} or name{Burst}, you will gain the "name{Twilight's Splendor}" effect: name{Plunging Attack} name{CRIT DMG} is increased by %{text_percent_2}. The two effects above each last for 15s, and will be canceled 0.1s after the ground impact hits a target.
+talent_name;weapon_vivid_notions_3_1;Первые цветы зари;Dawn's First Hue
+talent_name;weapon_vivid_notions_3_2;Сияние сумерек;Twilight's Splendor
+talent_descr;weapon_vivid_notions_3;Повышает name{крит. урон} name{атаки в падении} на %{crit_dmg_plunge}.;Increase name{Plunging Attack} name{CRIT DMG} by %{crit_dmg_plunge}.

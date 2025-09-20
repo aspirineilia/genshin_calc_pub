@@ -1,0 +1,46 @@
+.gi-rotation-tab .gi-tab-item-inner {
+    background-image: url("../../../images/icons/tab_rotation_light.png");
+}
+
+.gi-rotation-tab.active .gi-tab-item-inner {
+    background-color: #ECE5D8;
+    background-image: url("../../../images/icons/tab_rotation_dark.png");
+}
+
+.gi-stat-element-icon, .dropdown-icon.gi-stat-element-icon {
+    width: 20px;
+    height: 20px;
+    background-size: 120px 40px;
+    background-image: url("../../../images/icons/element_40_v2.png");
+}
+
+.stat-anemo {
+    background-position: -60px 0px;
+}
+.stat-cryo {
+    background-position: -40px -20px;
+}
+.stat-dendro {
+    background-position: -60px -20px;
+}
+.stat-electro {
+    background-position: -40px 0px;
+}
+.stat-geo {
+    background-position: 0px -20px;
+}
+.stat-hydro {
+    background-position: -20px -20px;
+}
+.stat-pyro {
+    background-position: -20px 0px;
+}
+.stat-phys {
+    background-position: 0px 0px;
+}
+.stat-heal {
+    background-position: -80px 0px;
+}
+.stat-shield {
+    background-position: -80px -20px;
+}

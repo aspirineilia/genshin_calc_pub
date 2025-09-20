@@ -1,0 +1,12 @@
+category;name;rus;eng
+char_name;ineffa;Инеффа;Ineffa
+
+feature_skill;ineffa_base_shield_dmg_absorption;Поглощение щита;Shield DMG Absorption
+feature_skill;ineffa_shield_duration;Длительность щита;Shield Duration
+feature_skill;ineffa_birgitta_dmg;Урон разряда Биргитты;Birgitta Discharge DMG
+feature_skill;ineffa_birgitta_duration;Длительность Биргитты;Birgitta Duration
+feature_other;ineffa_lunar_bonus;Базовый урон Лунного заряда;Lunar-Charged Base Bonus
+feature_other;ineffa_lunar_bonus_2;Бонус урона Лунного заряда;Lunar-Charged DMG Bonus
+feature_skill;ineffa_birgitta_coordinated_dmg;Урон дополнительной атаки Биргитты;Birgitta Additional Attack DMG
+feature_burst;ineffa_punishment_edict_dmg;Урон Указа о взыскани;Punishment Edict DMG
+feature_other;ineffa_carrier_flow_composite_dmg;Урон Токонесущего композита;Carrier Flow Composite DMG

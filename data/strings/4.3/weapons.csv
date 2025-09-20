@@ -1,0 +1,9 @@
+category;name;rus;eng
+
+talent_name;weapon_ultimate_overlords_mega_magic_sword;Мы верим в тебя!;We Believe in You!
+talent_descr;weapon_ultimate_overlords_mega_magic_sword_1;Повышает name{силу атаки} на %{atk_percent}.;name{ATK} increased by %{atk_percent}.
+talent_descr;weapon_ultimate_overlords_mega_magic_sword_2;Но это ещё не всё! Поддержка мелюзин деревни Меруси, которым вы помогли, наполняет вас мощью! В зависимости от их количества, name{сила атаки} дополнительно увеличивается на %{text_percent}.;That's not all! The support from all Melusines you've helped in Merusea Village fills you with strength! Based on the number of them you've helped, your name{ATK} is increased by up to an additional %{text_percent}.
+
+talent_name;weapon_verdict;Клятвы рассветов и сумерек;Many Oaths of Dawn and Dusk
+talent_descr;weapon_verdict_1;Повышает name{силу атаки} на %{atk_percent}.;Increases name{ATK} by %{atk_percent}.
+talent_descr;weapon_verdict_2;Когда члены отряда подбирают элементальные осколки, созданные реакцией geo{Кристалл}, экипированный персонаж получает 1 name{Печать}, которая увеличивает урон name{элементального навыка} на %{dmg_skill}. Печать длится 15 сек. Одновременно можно иметь 2 печати. Все печати экипированного персонажа пропадут через 0,2 сек. после нанесения урона его name{элементальным навыком}.;When characters in your party obtain Elemental Shards from geo{Crystallize} reactions, the equipping character will gain 1 name{Seal}, increasing name{Elemental Skill DMG} by %{dmg_skill}. The name{Seal} lasts for 15s, and the equipper may have up to 2 name{Seals} at once. All of the equipper's Seals will disappear 0.2s after their name{Elemental Skill} deals DMG.

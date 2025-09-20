@@ -1,0 +1,61 @@
+.gi-suggestset-tab .gi-tab-item-inner {
+    background-image: url("../../../images/icons/tab_artifact3_light.png");
+}
+.gi-suggestset-tab.active .gi-tab-item-inner {
+    background-color: #ECE5D8;
+    background-image: url("../../../images/icons/tab_artifact3_dark.png");
+}
+
+.suggest-set .line {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 2px;
+    padding-right: 11px;
+    box-sizing: border-box;
+    min-height: 26px;
+    justify-content: center;
+}
+
+.suggest-set .line.odd {
+    background-color: rgba(23, 17, 16, 0.5);
+}
+
+.suggest-set .line .info {
+    flex-grow: 1;
+    position: relative;
+    min-height: 40px;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+}
+
+.suggest-set .line .titles {
+    overflow: hidden;
+    z-index: 2;
+}
+
+.suggest-set .line .title {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-size: 13px;
+    padding: 2px 0;
+}
+
+.suggest-set .line .icon {
+    position: absolute;
+    opacity: 0.5;
+    top: 0;
+    z-index: 1;
+}
+
+.suggest-set .line .icon-1 {
+    right: 0px;
+}
+
+.suggest-set .line .icon-2 {
+    right: 45px;
+}
+
+

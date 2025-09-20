@@ -1,0 +1,20 @@
+category;name;rus;eng
+stat;dmg_burst_varesa;Ослепительное сошествие!;Glory Vent!
+
+feature_attack;varesa_normal_hit_1;Урон атаки Пылающего воодушевления 1;Fiery Passion 1-Hit DMG
+feature_attack;varesa_normal_hit_2;Урон атаки Пылающего воодушевления 2;Fiery Passion 2-Hit DMG
+feature_attack;varesa_normal_hit_3;Урон атаки Пылающего воодушевления 3;Fiery Passion 3-Hit DMG
+feature_attack;varesa_charged_hit;Урон заряженной атаки Пылающего воодушевления;Fiery Passion Charged Attack DMG
+feature_attack;varesa_stamina_cost;Потребление выносливости заряженной атакой Пылающего воодушевления;Fiery Passion Charged Attack Stamina Cost
+feature_attack;varesa_plunge;Урон Пылающего воодушевления в падении;Fiery Passion Plunge DMG
+feature_attack;varesa_plunge_low;Урон низкого удара Пылающего воодушевления;Fiery Passion Low Plunge DMG
+feature_attack;varesa_plunge_high;Урон высокого удара Пылающего воодушевления;Fiery Passion High Plunge DMG
+feature_skill;varesa_rush_dmg;Урон выпада;Rush DMG
+feature_skill;varesa_fiery_passion_rush_dmg;Урон выпада Пылающего воодушевления;Fiery Passion Rush DMG
+feature_skill;varesa_duration;Длительность Последующего удара;Follow-Up Strike Duration
+feature_burst;varesa_flying_kick_dmg;Урон удара в полёте;Flying Kick DMG
+feature_burst;varesa_fiery_passion_flying_kick_dmg;Урон удара в полёте Пылающего воодушевления;Fiery Passion Flying Kick DMG
+feature_burst;varesa_energy_cost;Потребление энергии Обрушения вулкана;Volcanic Kablam Energy Cost
+feature_burst;varesa_volcanic_collapse_dmg;Урон Обрушения вулкана;Volcanic Kablam DMG
+
+talent_name;varesa_fiery_passion;Пылающее воодушевление;Fiery Passion

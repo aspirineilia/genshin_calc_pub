@@ -1,0 +1,36 @@
+.gi-window-select-artifact-set  .gi-window-select-content {
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+}
+
+.gi-window-select.gi-window-select-artifact-set {
+    width: 1050px;
+}
+
+.gi-window-select-artifact-set .gi-window-select-item {
+    height: 95px;
+    overflow: hidden;
+}
+
+.gi-window-select-artifact-set .gi-window-select-item-icon {
+    width: 40px;
+    height: 40px;
+    margin: 0px;
+    border: 0px;
+}
+
+.gi-window-select-artifact-set .gi-window-select-item-name {
+    font-size: 18px;
+    width: calc(100% - 55px);
+    height: 35px;
+    line-height: 30px;
+}
+
+.gi-window-artifact-set-bonus {
+    width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    padding: 0px 10px;
+    box-sizing: border-box;
+}
+

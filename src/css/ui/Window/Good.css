@@ -1,0 +1,34 @@
+.gi-window-good {
+    width: 700px;
+}
+
+.gi-window-good #good_text {
+    width: 100%;
+}
+
+.gi-good-inputs > div {
+    margin-bottom: 10px;
+}
+
+.gi-good-result {
+    width: 100%;
+}
+
+.gi-good-result-line {
+    width: 100%;
+    display: flex;
+}
+
+.gi-good-result-line > div {
+    height: 30px;
+    line-height: 30px;
+}
+
+.gi-good-result-line > div:first-child {
+    width: 150px;
+    flex-grow: 0;
+}
+
+.gi-good-result-line > div:nth-child(n+2) {
+    flex-grow: 1;
+}

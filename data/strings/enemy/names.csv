@@ -1,0 +1,316 @@
+category;name;rus;eng
+enemy_group;hilichurl;Хиличурлы;Hilichurls
+enemy_name;dendro_slime;Дендро слайм;Dendro Slime
+enemy_name;anemo_slime;Анемо слайм;Anemo Slime
+enemy_name;electro_slime;Электро слайм;Electro Slime
+enemy_name;cryo_slime;Крио слайм;Cryo Slime
+enemy_name;hydro_slime;Гидро слайм;Hydro Slime
+enemy_name;geo_slime;Гео слайм;Geo Slime
+enemy_name;pyro_slime;Пиро слайм;Pyro Slime
+enemy_name;hilichurl;Хиличурл;Hilichurl
+enemy_name;hilichurl_fighter;Хиличурл боец;Hilichurl Fighter
+enemy_name;hilichurl_berserker;Хиличурл берсерк;Hilichurl Berserker
+enemy_name;hilichurl_guard_wooden_shield;Хиличурл с деревянным щитом;Hilichurl Wooden shield
+enemy_name;hilichurl_guard_rock_shield;Хиличурл с каменным щитом;Hilichurl Rock shield
+enemy_name;hilichurl_guard_ice_shield;Хиличурл с ледяным щитом;Hilichurl Ice shield
+enemy_name;hilichurl_grenadier_pyro;Хиличурл гренадер;Hilichurl Grenadier
+enemy_name;hilichurl_grenadier_cryo;Крио хиличурл гренадер;Hilichurl Cryo Grenadier
+enemy_name;hilichurl_grenadier_electro;Электро хиличурл гренадер;Hilichurl Electro Grenadier
+enemy_name;hilichurl_shooter;Хиличурл стрелок;Hilichurl Shooter
+enemy_name;hilichurl_shooter_electro;Электро хиличурл стрелок;Hilichurl Electro Shooter
+enemy_name;hilichurl_shooter_cryo;Хиличурл с крио стрелами;Hilichurl Cryo Shooter
+enemy_name;hilichurl_shooter_pyro;Пиро хиличурл стрелок;Hilichurl Pyro Shooter
+enemy_name;unusual_hilichurl;Странный хиличурл;Unusual Hilichurl
+enemy_name;samachurl_anemo;Анемо шамачурл;Anemo Samachurl
+enemy_name;samachurl_geo;Гео шамачурл;Geo Samachurl
+enemy_name;samachurl_dendro;Дендро шамачурл;Dendro Samachurl
+enemy_name;samachurl_hydro;Гидро шамачурл;Hydro Samachurl
+enemy_name;samachurl_cryo;Крио шамачурл;Cryo Samachurl
+enemy_name;samachurl_electro;Электро шамачурл;Electro Samachurl
+enemy_name;mitachurl_wooden_shieldwall;Митачурл с деревянным щитом;Wooden Shieldwall Mitachurl
+enemy_name;mitachurl_rock_shieldwall;Митачурл с каменным щитом;Rock Shieldwall Mitachurl
+enemy_name;mitachurl_ice_shieldwall;Митачурл с ледяным щитом;Ice Shieldwall Mitachurl
+enemy_name;mitachurl_blazing_axe;Митачурл с огненным топором;Blazing Axe Mitachurl
+enemy_name;mitachurl_crackling_axe;Митачурл с электрическим топором;Crackling Axe Mitachurl
+enemy_name;lawachurl_stonehide;Лавачурл с каменным панцирем;Stonehide Lawachurl
+enemy_name;lawachurl_frostarm;Лавачурл с инеевым панцирем;Frostarm Lawachurl
+enemy_name;lawachurl_thunderhelm;Лавачурл с громовым шлемом;Thunderhelm Lawachurl
+enemy_name;hydro_hilichurl_rogue;Гидро хиличурл-изгой;Hydro Hilichurl Rogue
+enemy_name;anemo_hilichurl_rogue;Анемо хиличурл-изгой;Anemo Hilichurl Rogue
+
+enemy_group;elemental;Элементальные существа;Elemental Lifeforms
+enemy_name;eye_of_the_storm;Глаз бури;Eye of the Storm
+enemy_name;electro_hypostasis;Электро гипостазис;Electro Hypostasis
+enemy_name;anemo_hypostasis;Анемо гипостазис;Anemo Hypostasis
+enemy_name;geo_hypostasis;Гео гипостазис;Geo Hypostasis
+enemy_name;cryo_hypostasis;Крио гипостазис;Cryo Hypostasis
+enemy_name;pyro_hypostasis;Пиро гипостазис;Pyro Hypostasis
+enemy_name;hydro_hypostasis;Гидро гипостазис;Hydro Hypostasis
+enemy_name;dendro_hypostasis;Дендро гипостазис;Dendro Hypostasis
+enemy_name;oceanid;Океанид;Oceanid
+enemy_name;thunder_manifestation;Манифестация грома;Thunder Manifestation
+enemy_name;hydro_specter;Гидро призрак;Hydro Specter
+enemy_name;geo_specter;Гео призрак;Geo Specter
+enemy_name;anemo_specter;Анемо призрак;Anemo Specter
+enemy_name;cryo_specter;Крио призрак;Cryo Specter
+enemy_name;electro_specter;Электро призрак;Electro Specter
+enemy_name;pyro_specter;Пиро призрак;Pyro Specter
+enemy_name;dendro_specter;Дендро призрак;Dendro Specter
+enemy_name;tainted_water_splitting_phantasm;Дробящий воду фантазм;Tainted Water-Splitting Phantasm
+enemy_name;tainted_water_spouting_phantasm;Извергающий воду фантазм;Tainted Water-Spouting Phantasm
+enemy_name;hydro_tulpa;Гидротульпа;Hydro Tulpa
+
+enemy_group;abyss;Орден бездны;Abyss Order
+enemy_name;pyro_abyss_mage;Пиро маг Бездны;Pyro Abyss Mage
+enemy_name;cryo_abyss_mage;Крио маг Бездны;Cryo Abyss Mage
+enemy_name;hydro_abyss_mage;Гидро маг Бездны;Hydro Abyss Mage
+enemy_name;electro_abyss_mage;Электро маг Бездны;Electro Abyss Mage
+enemy_name;abyss_herald;Вестник Бездны: Злые течения;Abyss Herald: Wicked Torrents
+enemy_name;abyss_lector;Чтец Бездны: Пурпурная молния;Abyss Lector: Violet Lightning
+enemy_name;abyss_lector_pyro;Чтец Бездны: Пламя бездны;Abyss Lector: Fathomless Flames
+enemy_name;rockfond_rifthound_whelp;Щенок Разрыва: Камнегрыз;Rockfond Rifthound Whelp
+enemy_name;rockfond_rifthound;Гончая Разрыва: Камнегрыз;Rockfond Rifthound
+enemy_name;thundercraven_rifthound_whelp;Щенок Разрыва: Громоед;Thundercraven Rifthound Whelp
+enemy_name;thundercraven_rifthound;Гончая Разрыва: Громоед;Thundercraven Rifthound
+enemy_name;golden_wolflord;Золотой волчий вожак;Golden Wolflord
+enemy_name;shadowy_husk_standard_bearer;Чёрный доспех: Знаменосец;Shadowy Husk: Standard Bearer
+enemy_name;shadowy_husk_line_breaker;Чёрный доспех: Штурмовик;Shadowy Husk: Line Breaker
+enemy_name;shadowy_husk_defender;Чёрный доспех: Гвардеец;Shadowy Husk: Defender
+enemy_name;black_serpent_knight_windcutter;Рыцарь Чёрного Змея: Разрезающий ветер;Black Serpent Knight: Windcutter
+enemy_name;black_serpent_knight_rockbreaker_ax;Рыцарь Чёрного Змея: Крушащая камни секира;Black Serpent Knight: Rockbreaker Ax
+enemy_name;abyss_herald_frost_fall;Вестник Бездны: Наступление хлада;Abyss Herald: Frost Fall
+enemy_name;iniquitous_baptist;Чудовищный креститель;Iniquitous Baptist
+enemy_name;large_shatterstone_breacher_primus;Большой камнедробящий протоген расщелин;Large Shatterstone Breacher Primus
+enemy_name;shatterstone_breacher_primus;Камнедробящий протоген расщелин;Shatterstone Breacher Primus
+enemy_name;large_overgrown_breacher_primus;Большой прорастающий протоген расщелин;Large Overgrown Breacher Primus
+enemy_name;overgrown_breacher_primus;Прорастающий протоген расщелин;Overgrown Breacher Primus
+enemy_name;tenebrous_mimiflora;Сумрачная мимифлора;Tenebrous Mimiflora
+enemy_name;tenebrous_papilla_type_1;Сумрачная папилла: Тип I;Tenebrous Papilla: Type I
+
+enemy_group;magical;Мистические существа;Magical Beasts
+enemy_name;cryo_whopperflower;Крио попрыгунья;Cryo Whopperflower
+enemy_name;pyro_whopperflower;Пиро попрыгунья;Pyro Whopperflower
+enemy_name;electro_whopperflower;Электро попрыгунья;Electro Whopperflower
+enemy_name;geovishap;Геовишап;Geovishap
+enemy_name;geovishap_hatchling;Детёныш геовишапа;Geovishap Hatchling
+enemy_name;primo_geovishap;Древний геовишап;Primo Geovishap
+enemy_name;bathysmal_vishap_electro;Вишап глубин: Громоглот;Bolteater Bathysmal Vishap
+enemy_name;bathysmal_vishap_hydro;Вишап глубин: Исток;Primordial Bathysmal Vishap
+enemy_name;bathysmal_vishap_cryo;Вишап глубин: Ледогрыз;Rimebiter Bathysmal Vishap
+enemy_name;electro_cicin;Электро цицин;Electro Cicin
+enemy_name;hydro_cicin;Гидро цицин;Hydro Cicin
+enemy_name;cryo_cicin;Крио цицин;Cryo Cicin
+enemy_name;pyro_regisvine;Пиро орхидея;Pyro Regisvine
+enemy_name;cryo_regisvine;Крио папоротник;Cryo Regisvine
+enemy_name;great_snowboar_king;Король снежных кабанов;The Great Snowboar King
+enemy_name;floating_fungus;Плавучий плесенник;Floating Fungus
+enemy_name;electro_regisvine;Электро папоротник ;Electro Regisvine
+enemy_name;floating_dendro_fungus;Парящий Дендро плесенник;Floating Dendro Fungus
+enemy_name;whirling_cryo_fungus;Кружащий Крио плесенник;Whirling Cryo Fungus
+enemy_name;whirling_electro_fungus;Кружащий Электро плесенник;Whirling Electro Fungus
+enemy_name;stretchy_pyro_fungus;Растягивающийся Пиро плесенник;Stretchy Pyro Fungus
+enemy_name;stretchy_anemo_fungus;Растягивающийся Анемо плесенник;Stretchy Anemo Fungus
+enemy_name;stretchy_geo_fungus;Растягивающийся Гео плесенник;Stretchy Geo Fungus
+enemy_name;grounded_hydroshroom;Земляной Гидро моровик;Grounded Hydroshroom
+enemy_name;winged_dendroshroom;Крылатый Дендро моровик;Winged Dendroshroom
+enemy_name;winged_cryoshroom;Крылатый Крио моровик;Winged Cryoshroom
+enemy_name;jadeplume_terrorshroom;Пернатый плесенник;Jadeplume Terrorshroom
+enemy_name;floating_anemo_fungus;Парящий Анемо плесенник;Floating Anemo Fungus
+enemy_name;whirling_pyro_fungus;Кружащий Пиро плесенник;Whirling Pyro Fungus
+enemy_name;stretchy_electro_fungus;Растягивающийся Электро плесенник;Stretchy Electro Fungus
+enemy_name;grounded_geoshroom;Земляной Гео моровик;Grounded Geoshroom
+enemy_name;blessbone_red_vulture;Священный красный стервятник;Blessbone Red Vulture
+enemy_name;blessbone_scorpion;Священный скорпион;Blessbone Scorpion
+enemy_name;blessbone_flying_serpent;Священный летучий змей;Blessbone Flying Serpent
+enemy_name;setekh_wenut;Унут Сетеха;Setekh Wenut
+enemy_name;consecrated_horned_crocodile;Священный рогатый крокодил;Consecrated Horned Crocodile
+enemy_name;consecrated_fanged_beast;Священный клыкастый зверь;Consecrated Fanged Beast\
+enemy_name;hunters_ray;Остроскат;Hunter's Ray
+enemy_name;armored_crab;Бронекраб;Armored Crab
+enemy_name;blubberbeast;Пухлень;Blubberbeast
+enemy_name;hat_jellyfish;Шляповидная медуза;Hat Jellyfish
+enemy_name;bubbly_seahorse;Конёк-пузырёк;Bubbly Seahorse
+enemy_name;ball_octopus;Шаровидный осьминог;Ball Octopus
+enemy_name;angelic_sea_hare;Милый морской заяц;Angelic Sea Hare
+enemy_name;sternshield_crab;Бронекраб-щитовик;Sternshield Crab
+enemy_name;cherubic_sea_hare;Премилый морской заяц;Cherubic Sea Hare
+enemy_name;bubbler_seahorse;Сильный конёк-пузырёк;Bubbler Seahorse
+enemy_name;emperor_of_fire_and_iron;Император огня и железа;Emperor of Fire and Iron
+enemy_name;millennial_pearl_seahorse;Морской конёк тысячелетней жемчужины;Millennial Pearl Seahorse
+enemy_name;xuanwen_beast;Зверь Сюаньвэнь;Xuanwen Beast
+enemy_name;solitary_suanni;Суаньни-отшельник;Solitary Suanni
+enemy_name;praetorian_golem;Преторианец;Praetorian Golem
+enemy_name;legatus_golem;Легат големов;Legatus Golem
+enemy_name;tepetlisaur_whelp;Детёныш тепетлизавра;Tepetlisaur Whelp
+enemy_name;tepetlisaurus;Тепетлизавр;Tepetlisaur
+enemy_name;koholasaur_whelp;Детёныш кохолазавра;Koholasaur Whelp
+enemy_name;koholasaurus;Кохолазавр;Koholasaur
+enemy_name;yumkasaur_whelp;Детёныш юмказавра;Yumkasaur Whelp
+enemy_name;yumkasaurus;Юмказавр;Yumkasaur
+enemy_name;gluttonous_yumkasaur_mountain_king;Прожорливый Горный король-юмказавр;Gluttonous Yumkasaur Mountain King
+enemy_name;gold_flame_qucusaur_tyrant;Кукузавр-тиран золотого пламени;Goldflame Qucusaur Tyrant
+enemy_name;rock_cavernous_wayob_manifestation;Воплощение Вайоб пещер и скал;Rock-Cavernous Wayob Manifestation
+enemy_name;flow_inverted_wayob_manifestation;Воплощение Вайоб обращённого течения;Flow-Inverted Wayob Manifestation
+enemy_name;foliar_swift_wayob_manifestation;Воплощение Вайоб стремительности и листвы;Foliar-Swift Wayob Manifestation
+enemy_name;fluid_avatar_of_lava;Текучее воплощение лавы;Fluid Avatar of Lava
+enemy_name;eroding_avatar_of_lava;Разлагающееся воплощение лавы;Eroding Avatar of Lava
+enemy_name;qucusaurus_chick;Детёныш кукузавра;Qucusaurus Chick
+enemy_name;qucusaurus;Кукузавр;Qucusaurus
+enemy_name;iktomisaurus_chick;Детёныш иктомизавра;Iktomisaurus Chick
+enemy_name;iktomisaurus;Иктомизавр;Iktomisaurus
+enemy_name;biting_cold_wayob_manifestation;Воплощение Вайоб пронизывающего хлада;Biting-Cold Wayob Manifestation
+enemy_name;burning_aflame_wayob_manifestation;Воплощение Вайоб губительного пламени;Burning-Aflame Wayob Manifestation
+
+enemy_group;fatui;Фатуи;Fatui
+enemy_name;fatui_cryogunner_legionnaire;Крио бомбардир;Cryogunner Legionnaire
+enemy_name;fatui_hydrogunner_legionnaire;Гидро бомбардир;Hydrogunner Legionnaire
+enemy_name;fatui_electrohammer_vanguard;Электро молотобоец;Electrohammer Vanguard
+enemy_name;fatui_geochanter_bracer;Гео заклинатель;Geochanter Bracer
+enemy_name;fatui_anemoboxer_vanguard;Анемо борец;Anemoboxer Vanguard
+enemy_name;fatui_pyroslinger_bracer;Пиро мушкетёр;Pyroslinger Bracer
+enemy_name;fatui_pyro_agent;Фатуи - Пиро агент;Fatui Pyro Agent
+enemy_name;fatui_electro_cicin_mage;Маг Электро цицинов Фатуи;Fatui Electro Cicin Mage
+enemy_name;fatui_cryo_cicin_mage;Маг Крио цицинов Фатуи;Fatui Cryo Cicin Mage
+enemy_name;fatui_mirror_maiden;Зеркальная дева Фатуи;Fatui Mirror Maiden
+enemy_name;frost_operative;Оперативник мороза;Frost Operative
+enemy_name;wind_operative;Оперативник ветра;Wind Operative
+
+enemy_group;automaton;Автоматоны;Automaton
+enemy_name;ruin_guard;Страж руин;Ruin Guard
+enemy_name;ruin_hunter;Руинный охотник;Ruin Hunter
+enemy_name;ruin_grader;Руинный молотильщик;Ruin Grader
+enemy_name;ruin_cruiser;Руинный патрульный;Ruin Cruiser
+enemy_name;ruin_destroyer;Руинный крушитель;Ruin Destroyer
+enemy_name;ruin_defender;Руинный защитник;Ruin Defender
+enemy_name;ruin_scout;Руинный шпион;Ruin Scout
+enemy_name;maguu_kenki;Магу кэнки;Maguu Kenki
+enemy_name;perpetual_mechanical_array;Бесконечный механический массив;Perpetual Mechanical Array
+enemy_name;ruin_serpent;Змей руин;Ruin Serpent
+enemy_name;ruin_drake_earthguard;Дракон руин: Страж земли;Ruin Drake: Earthguard
+enemy_name;ruin_drake_skywatch;Дракон руин: Страж небес;Ruin Drake: Skywatch
+enemy_name;aeonblight_drake;Дракон вечных бедствий;Aeonblight Drake
+enemy_name;primal_construct_repulsor;Первозданная конструкция: Репульсор;Primal Construct: Repulsor
+enemy_name;primal_construct_prospector;Первозданная конструкция: Разведчик;Primal Construct: Prospector
+enemy_name;primal_construct_reshaper;Первозданная конструкция: Формирователь;Primal Construct: Reshaper
+enemy_name;algorithm_matrix;Алгоритм полуизвечной матрицы оператора наблюдения;Algorithm of Semi-Intransient Matrix of Overseer Network
+enemy_name;geological_survey_mek;Мек: Геологоразведка;Geological Survey Mek
+enemy_name;recon_log_mek;Мек: Протокол разведки;Recon Log Mek
+enemy_name;arithmetic_enhancer_mek;Мек: Улучшение вычислений;Arithmetic Enhancer Mek
+enemy_name;underwater_survey_mek;Мек: Подводное исследование;Underwater Survey Mek
+enemy_name;underwater_patrol_mek;Мек: Подводное патрулирование;Underwater Patrol Mek
+enemy_name;nimble_harvester_mek;Мек: Быстрый сбор;Nimble Harvester Mek
+enemy_name;assault_specialist_mek;Спецмек: Штурм;Assault Specialist Mek
+enemy_name;suppression_specialist_mek;Спецмек: Подавление;Suppression Specialist Mek
+enemy_name;annihilation_specialist_mek;Спецмек: Ликвидация;Annihilation Specialist Mek
+enemy_name;area_alert_mek;Мек: Сигнализация области;Area Alert Mek
+enemy_name;construction_specialist_mek;Спецмек: Строительство;Construction Specialist Mek
+enemy_name;icewind_suite;Сюита ледяного ветра;Icewind Suite
+enemy_name;deepwater_assault_mek;Глубоководный штурмовой мек;Deepwater Assault Mek
+enemy_name;experimental_field_generator;Экспериментальный генератор поля;Experimental Field Generator
+enemy_name;secret_source_automaton_hunter_seeker;Автоматон таинственного источника: Охотник-ищейка;Secret Source Automaton: Hunter-Seeker
+enemy_name;secret_source_automaton_configuration_device;Автоматон таинственного источника: Конфигуратор;Secret Source Automaton: Configuration Device
+enemy_name;secret_source_automaton_overseer_device;Автоматон таинственного источника: Надсмотрщик;Secret Source Automaton: Overseer Device
+
+enemy_group;treasure_hoarders;Другие человеческие фракции;Other Human Factions
+enemy_name;treasure_hoarder_electro_potioneer;Электро химик;Electro Potioneer
+enemy_name;treasure_hoarder_cryo_potioneer;Крио химик;Cryo Potioneer
+enemy_name;treasure_hoarder_hydro_potioneer;Гидро химик;Hydro Potioneer
+enemy_name;treasure_hoarder_pyro_potioneer;Пиро химик;Pyro Potioneer
+enemy_name;treasure_hoarder_crusher;Сокрушитель;Crusher
+enemy_name;treasure_hoarder_gravedigger;Могильщик;Gravedigger
+enemy_name;treasure_hoarder_marksman;Стрелок;Marksman
+enemy_name;treasure_hoarder_scout;Разведчик;Scout
+enemy_name;treasure_hoarder_handyman;Разнорабочий;Handyman
+enemy_name;treasure_hoarder_pugilist;Боксёр;Pugilist
+enemy_name;treasure_hoarder_seaman;Морячок;Seaman
+enemy_name;nobushi_jintouban;Нубоси: Дзинтобан;Nobushi: Jintouban
+enemy_name;nobushi_hitsukeban;Нубоси: Хицукэбан;Nobushi: Hitsukeban
+enemy_name;nobushi_kikouban;Нубоси: Кикобан;Nobushi: Kikouban
+enemy_name;kairagi_dancing_thunder;Кайраги: Громовое вознесение;Kairagi: Dancing Thunder
+enemy_name;kairagi_fiery_might;Кайраги: Огненная мощь;Kairagi: Fiery Might
+enemy_name;eremite_axe_vanguard;Топорник Пустынников;Eremite Axe Vanguard
+enemy_name;eremite_crossbow;Арбалетчик Пустынников;Eremite Crossbow
+enemy_name;eremite_ravenbeak_halberdier;Алебардщик Пустынников;Eremite Ravenbeak Halberdier
+enemy_name;eremite_linebreaker;Штурмовик Пустынников;Eremite Linebreaker
+enemy_name;eremite_sword_dancer;Мечник Пустынников;Eremite Sword-Dancer
+enemy_name;eremite_desert_clearwater;Пустынник: Родник в песках;Eremite Desert Clearwater
+enemy_name;eremite_sunfrost;Пустынник: Пылающий лёд;Eremite Sunfrost
+enemy_name;eremite_daythunder;Пустынник: Полуденный гром;Eremite Daythunder
+enemy_name;eremite_galehunter;Пустынник: Охотница ветров;Eremite Galehunter
+enemy_name;eremite_stone_enchanter;Пустынник: Зачарователь камней;Eremite Stone Enchanter
+enemy_name;eremite_scorching_loremaster;Пустынник: Пылающий повествователь;Eremite Scorching Loremaster
+enemy_name;eremite_floral_ring_dancer;Пустынник: Танцовщица лиственного круга;Eremite Floral Ring-Dancer
+enemy_name;flowing_blade_skirmisher;Клинок течений: Налётчица;Flowing Blade Skirmisher
+enemy_name;forged_sand_interrogator;Кованый песок: Допросчица;Forged Sand Interrogator
+enemy_name;swiftstep_seeker;Стремительный воин: Ищущая;Swiftstep Seeker
+enemy_name;swiftstep_storm_scout;Стремительный воин: Разведчик ветра;Swiftstep Storm Scout
+enemy_name;flowing_blade_grease_saw;Клинок течений: Режущий;Flowing Blade Grease-Saw
+enemy_name;swiftstep_armed_courier;Стремительный воин: Вооружённый курьер;Swiftstep Armed Courier
+enemy_name;forged_sand_shieldbreaker;Кованый песок: Крушитель щитов;Forged Sand Shieldbreaker
+enemy_name;forged_sand_javelineer;Кованый песок: Копьеносец;Forged Sand Javelineer
+enemy_name;flowing_blade_harpoon_thrower;Клинок течений: Метатель гарпуна;Flowing Blade Harpoon-Thrower
+enemy_name;tepetlisaurus_warrior_shard_striker;Тепетлизавр-воин: Крушитель осколков;Tepetlisaurus Warrior: Shard Striker
+enemy_name;tepetlisaurus_warrior_rockbreaker_blade;Тепетлизавр-воин: Камнедробитель;Tepetlisaurus Warrior: Rockbreaker Blade
+enemy_name;yumkasaurus_warrior_whirling_leaves;Юмказавр-воин: Кружащая листва;Yumkasaurus Warrior: Whirling Leaves
+enemy_name;yumkasaurus_warrior_flowing_skyfire;Юмказавр-воин: Текущий огонь;Yumkasaurus Warrior: Flowing Skyfire
+enemy_name;koholasaurus_warrior_waveshuttler;Кохолазавр-воин: Пронзающая волны;Koholasaurus Warrior: Waveshuttler
+enemy_name;koholasaurus_warrior_reefsplitter;Кохолазавр-воин: Дробящая рифы;Koholasaurus Warrior: Reefsplitter
+enemy_name;winged_warrior_skysoarer;Крылатый воин: Взмывающий ввысь;inged Warrior: Skysoarer
+enemy_name;winged_warrior_feathershedder;Крылатый воин: Срезающий перья;Winged Warrior: Feathershedder
+enemy_name;spiritspeaker_warrior_determinator;Говорящий с духами воин: Мастер настойчивости;Spiritspeaker Warrior: Determinator
+enemy_name;spiritspeaker_warrior_psychokinetic;Говорящий с духами воин: Управляющий разумом;Spiritspeaker Warrior: Psychokinetic
+enemy_name;spiritspeaker_warrior_contemplator;Говорящий с духами воин: Размышляющий;Spiritspeaker Warrior: Contemplator
+enemy_name;winged_warrior_skymaster;Крылатый воин: Владыка небес;Winged Warrior: Skymaster
+enemy_name;qucusaurus_warrior_weartstar_hammer;Кукузавр-воин: Молот звёзд;Qucusaurus Warrior: Heartstar Hammer
+enemy_name;qucusaurus_warrior_blazing_sky;Кукузавр-воин: Пылающее небо;Qucusaurus Warrior: Blazing Sky
+enemy_name;iktomisaurus_warrior_icy_tidebearer;Иктомизавр-воин: Несущий ледяную волну;Iktomisaurus Warrior: Icy Tidebearer
+enemy_name;iktomisaurus_warrior_cryocrystal_cannon;Иктомизавр-воин: Криокристаллическая пушка;Iktomisaurus Warrior: Cryocrystal Cannon
+enemy_name;wayward_hermetic_spiritspeaker;Говорящая с духами отшельница;Wayward Hermetic Spiritspeaker
+
+enemy_group;bosses;Враги, достойные упоминания;Enemies of Note
+enemy_name;stormterrorr;Ужас Бури;Stormterror
+enemy_name;lupus_boreas;Лупус Бореалис: Волчий лорд;Lupus Boreas, Dominator of Wolves
+enemy_name;childe;Чайлд;Childe
+enemy_name;azhdaha;Аждаха;Azhdaha
+enemy_name;signora;Синьора;Signora
+enemy_name;raiden;Магацу митакэ Наруками но микото;Magatsu Mitake Narukami no Mikoto
+enemy_name;shouki_no_kami;Сёки но Ками ;Shouki no Kami, the Prodigal
+enemy_name;guardian_of_apeps_oasis;Страж оазиса Апепа;Guardian of Apep's Oasis
+enemy_name;all_devouring_narwhal;Всепожирающий нарвал;All-Devouring Narwhal
+enemy_name;the_knave;Слуга;The Knave
+enemy_name;lord_of_eroded_primal_fire;Владыка истлевшего первобытного пламени;Lord of Eroded Primal Fire
+enemy_name;the_game_before_the_gate;Игра пред вратами;The Game Before the Gate
+
+enemy_group;hydro_mimics;Гидро мимики;Hydro Mimics
+enemy_name;hydro_mimic_boar;Кабан;Boar
+enemy_name;hydro_mimic_crane;Журавль;Crane
+enemy_name;hydro_mimic_crab;Краб;Crab
+enemy_name;hydro_mimic_finch;Зяблик;Finch
+enemy_name;hydro_mimic_frog;Лягушка;Frog
+enemy_name;hydro_mimic_mallard;Утка;Mallard
+enemy_name;hydro_mimic_raptor;Хищник;Raptor
+enemy_name;hydro_mimic_ferret;Белка;Squirrel
+
+enemy_group;local_legends;Местные легенды;Local Legends
+enemy_name;ninianne_of_the_lake;Дева озера Нинианна;Ninianne of the Lake
+enemy_name;vivianne_of_the_lake;Дева озера Вивианна;Vivianne of the Lake
+enemy_name;the_cold_hand;«Холодная рука»;"""The Cold Hand"""
+enemy_name;deianeira_of_snezhevna;Деянейра Снежневна;Deianeira of Snezhevna
+enemy_name;automated_supercomputing_field_generator;Автоматический генератор полей сверхвычислений;Automated Supercomputing Field Generator
+enemy_name;liam;Лиям;Liam
+enemy_name;rocky_avildsen;Роки Авилдсен;Rocky Avildsen
+enemy_name;cineas;Киней;Cineas
+enemy_name;ruler_of_the_chizhang_mountains_yiji;Владыка гор Чичжан: Ицзи;Ruler of the Chizhang Mountains: Yij
+enemy_name;ruler_of_the_chizhang_mountains_tianyu;Владыка гор Чичжан: Тяньюй;Ruler of the Chizhang Mountains: Tianyu
+enemy_name;sappho_amidst_the_waves;«Сапфо Среди Волн»;"""Sappho Amidst the Waves"""
+enemy_name;cocijo;«Косихо»;"""Cocijo"""
+enemy_name;polychrome_tri_stars_vasily;Три полихромные звезды: Василий;Polychrome Tri-Stars: Vasily
+enemy_name;polychrome_tri_stars_sidorenko;Три полихромные звезды: Сидоренко;Polychrome Tri-Stars: Sidorenko
+enemy_name;polychrome_tri_stars_nomokonov;Три полихромные звезды: Номонконов;Polychrome Tri-Stars: Nomokonov
+enemy_name;balachko;«Балачко»;"""Balachko"""
+enemy_name;he_never_dies;«Никогда Не Умирающий»;"""He Never Dies"""
+enemy_name;ichcahuipillis_aegis;«Покровительство Ичкауипильи»;"""Ichcahuipilli's Aegis"""
+enemy_name;atlatls_blessing;«Благословение Атлатль»;"""Atlatl's Blessing"""
+enemy_name;cihuacoatl_of_chimeric_bone;«Сиуакоатль Химерной Кости»;Cihuacoatl of Chimeric Bone
+enemy_name;tlatzacuilotl;«Тлатцакуилотль»;"""Tlatzacuilotl"""
+enemy_name;chimallis_shade;«Тень Чимальи»;"""Chimalli's Shade"""

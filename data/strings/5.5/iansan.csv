@@ -1,0 +1,11 @@
+category;name;rus;eng
+feature_attack;iansan_charged_hit;Урон Громового спуска;Swift Stormflight DMG
+feature_burst;iansan_conversion_high;Преобразование высокой атаки;High ATK Conversion Rate
+feature_burst;iansan_conversion_low;Преобразование низкой атаки;Low ATK Conversion Rate
+feature_burst;iansan_bonus_max;Макс. бонус атаки;Max ATK Bonus
+feature_burst;iansan_duration;Длительность вне боя;Non-Combat Duration
+feature_burst;iansan_duration_combat;Длительность;Combat Duration
+feature_other;iansan_heal;Лечение;Heal
+
+talent_name;iansan_kinetic_energy_scale;Измеритель кинетической энергии;Kinetic Energy Scale
+talent_descr;iansan_kinetic_energy_scale;name{Измеритель кинетической энергии} следует за персонажем и, в зависимости от количества очков name{Ночного духа} name{Иансан}, разными способами повышает name{силу атаки} активного персонажа вашего отряда:<br>· Если у name{Иансан} менее 42 очков name{Ночного духа}, получаемый бонус name{силы атаки} пропорционален её очкам name{Ночного духа} и name{силе атаки}.<br>· Если у name{Иансан} не менее 42 очков name{Ночного духа}, name{Измеритель кинетической энергии} переключается в режим «name{Пламенная поддержка}!», в котором даётся более высокий бонус name{силы атаки}, пропорциональный name{силе атаки} name{Иансан}.;The name{Kinetic Energy Scale} will follow the character around, boosting the name{ATK} of your current active party member in different ways based on name{Iansan}'s name{Nightsoul points}.<br>· If name{Iansan} has less than 42 name{Nightsoul points}, the name{ATK} bonus will be based on her name{Nightsoul points} and name{ATK}.<br>· If name{Iansan} has at least 42 name{Nightsoul points}, the name{Kinetic Energy Scale} will switch to the "name{Ardent Support!}" state, in which the name{ATK} bonus will be stronger and based on her name{ATK} alone.

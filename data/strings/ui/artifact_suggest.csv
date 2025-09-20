@@ -1,0 +1,4 @@
+category;name;rus;eng
+artifacts_suggest;thread_loading;Поток запускается...;Thread is starting...
+artifacts_suggest;threads_info;Прогресс по потокам:;Progress by threads:
+artifacts_suggest;elapsed_time;Прошло времени:;Time elapsed:

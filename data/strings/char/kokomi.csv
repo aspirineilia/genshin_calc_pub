@@ -1,0 +1,14 @@
+category;name;rus;eng
+feature_skill;kokomi_ripple_dmg;Урон волны;Ripple DMG
+feature_skill;kokomi_ripple_dmg;Урон волны;Ripple DMG
+feature_burst;kokomi_burst_heal;Лечение/удар;HP Regeneration Per Hit
+feature_other;kokomi_swimming_fish_dmg;Урон плавающей рыбы;Swimming fish DMG
+feature_burst;kokomi_normal_atk_bonus;Повышение урона обычной атаки;Normal Attack DMG Bonus
+feature_burst;kokomi_charged_atk_bonus;Повышение урона заряженной атаки;Charged Attack DMG Bonus
+feature_burst;kokomi_skill_atk_bonus;Бонус урона Бакэ-курагэ;Bake-Kurage DMG Bonus
+
+talent_name;kokomi_flawless_strategy;Безупречная стратегия;Flawless Strategy
+talent_descr;kokomi_flawless_strategy;Увеличивает name{бонус лечения} name{Сангономии Кокоми} на %{healing}, но понижает её name{шанс крит. попадания} на %{crit_rate}.;name{Sangonomiya Kokomi} has a %{healing} name{Healing Bonus}, but a %{crit_rate} decrease in name{CRIT Rate}.
+
+talent_name;kokomi_ceremonial_garment;Церемониальное одеяние;Ceremonial Garment
+talent_descr;kokomi_ceremonial_garment;• Урон name{обычной атаки}, name{заряженной атаки} и name{Бакэ-курагэ} элементального навыка name{Сангономии Кокоми} увеличивается пропорционально её name{макс. HP}.<br>• При попадании name{обычной} или name{заряженной атакой} name{Кокоми} восстанавливает name{HP} всем окружающим членам отряда. Количество восстановленного name{HP} пропорционально name{макс. HP} name{Кокоми}.<br>• Повышает сопротивление прерыванию name{Сангономии Кокоми} и позволяет ей двигаться по водной поверхности.<br>Эффекты пропадают, когда name{Сангономия Кокоми} покидает бой.;• name{Sangonomiya Kokomi}'s name{Normal Attack}, name{Charged Attack} and name{Bake-Kurage} name{DMG} are increased based on her name{Max HP}.<br>• When her name{Normal} and name{Charged Attacks} hit opponents, Kokomi will restore name{HP} for all nearby party members, and the amount restored is based on her name{Max HP}.<br>• Increases name{Sangonomiya Kokomi}'s resistance to interruption and allows her to move on the water's surface.<br>These effects will be cleared once name{Sangonomiya Kokomi} leaves the field.

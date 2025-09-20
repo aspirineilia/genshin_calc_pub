@@ -1,0 +1,146 @@
+.gi-slider-container input[type='range'] {
+    width: 80px;
+    height: 6px;
+    border-radius: 3px;
+    -webkit-appearance: none;
+    background-color:transparent;
+    border: 0px none;
+    outline: none;
+    display: inline-block;
+}
+
+.gi-slider-container input[type='range']::-webkit-slider-runnable-track {
+    height: 10px;
+    -webkit-appearance: none;
+    color: #13bba4;
+    margin-top: -1px;
+}
+
+.gi-slider-container input[type='range']::-webkit-slider-thumb {
+    width: 20px;
+    -webkit-appearance: none;
+    height: 20px;
+    cursor: ew-resize;
+    background-image: url("../../images/icons/slider.png");
+    background-size: cover;
+    margin-top: -5px;
+    z-index: 20;
+}
+
+.gi-slider-container input[type=range]::-moz-range-thumb {
+    width: 20px;
+    height: 20px;
+    cursor: ew-resize;
+    border: 0px none;
+    background-color: transparent;
+    background-image: url("../../images/icons/slider.png");
+    background-size: cover;
+    margin-top: -5px;
+    z-index: 20;
+}
+
+.gi-slider-wrapper {
+    display: flex;
+}
+
+.gi-slider-wrapper:hover input[type='range']::-webkit-slider-thumb {
+    background-position: 100% 0px;
+}
+
+.gi-slider-wrapper:hover input[type=range]::-moz-range-thumb {
+    background-position: 100% 0px;
+}
+
+.gi-slider-container {
+    width: 100%;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.gi-slider-container input[type=range] {
+    width: 100%;
+    z-index: 15;
+    height: 20px;
+    margin: 0px;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.gi-slider-progress {
+    position: absolute;
+    background: #FFF7E9;
+    width: 100%;
+    height: 8px;
+    left: 0px;
+    top: 6px;
+    z-index: 10;
+    border-radius: 3px;
+    box-sizing: border-box;
+}
+
+.gi-slider-progress-gray {
+    position: absolute;
+    background: #443F40;
+    width: 100%;
+    height: 8px;
+    right: 0px;
+    top: 6px;
+    z-index: 10;
+    border-radius: 3px;
+    box-sizing: border-box;
+    border: solid 1px #626770
+}
+
+.gi-slider-minus, .gi-slider-plus, .gi-slider-min-value, .gi-slider-max-value {
+    height: 20px;
+    line-height: 20px;
+    display: block;
+    float: left;
+    padding: 0px 5px;
+    width: auto;
+    box-sizing: border-box;
+}
+
+.gi-slider-min-value, .gi-slider-minus {
+    margin-right: 3px;
+}
+.gi-slider-max-value, .gi-slider-plus {
+    margin-left: 3px;
+}
+
+.gi-slider-container {
+    height: 20px;
+    line-height: 20px;
+    display: block;
+    margin: 0px;
+    flex-grow: 1;
+}
+
+.gi-slider-min-value, .gi-slider-max-value {
+    user-select: none;
+}
+
+.gi-slider-minus, .gi-slider-plus {
+    min-width: 20px;
+    height: 20px;
+    background-color: #FFF7E9;
+    background-image: url("../../images/icons/plusminus.png");
+    background-size: 40px 40px;
+    border-radius: 10px;
+    cursor: pointer;
+    flex-shrink: 0;
+    flex-grow: 0;
+}
+
+.gi-slider-minus {
+    background-position: 0px 0px;
+}
+.gi-slider-plus {
+    background-position: -20px 0px;
+}
+
+.gi-slider-value {
+    height: 16px;
+    line-height: 16px;
+    text-align: center;
+}

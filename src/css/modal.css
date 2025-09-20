@@ -1,0 +1,285 @@
+.gi-modal {
+    background-color: #3E4556;
+    margin: auto;
+    border-radius: 24px;
+    position: absolute;
+    padding: 20px;
+    display: none;
+    min-width: 150px;
+}
+
+.gi-modal-back {
+    position: fixed;
+    background: rgba(100, 100, 100, 0.5);
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    display: none;
+}
+
+.gi-modal-border {
+    position: absolute;
+    top: 3px;
+    left: 3px;
+    right: 3px;
+    bottom: 3px;
+    border-radius: 21px;
+    border: 1px solid #2B2D33;
+    z-index: -1;
+}
+
+.gi-modal-content {
+    position: relative;
+    z-index: 2;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+.gi-modal-corner {
+    position: absolute;
+    background: url("../images/icons/modal2.png");
+    width: 40px;
+    height: 40px;
+    background-size: 80px 80px;
+}
+
+.gi-modal-corner.top-left {
+    position: absolute;
+    top: -20px;
+    left: -20px;
+}
+
+.gi-modal-corner.top-right {
+    position: absolute;
+    top: -20px;
+    right: -20px;
+    background-position: -100% 0px;
+}
+
+.gi-modal-corner.bottom-right{
+    position: absolute;
+    bottom: -20px;
+    left: -20px;
+    background-position: 0px -100%;
+}
+
+.gi-modal-corner.bottom-left{
+    position: absolute;
+    bottom: -20px;
+    right: -20px;
+    background-position: -100% -100%;
+}
+
+.gi-modal-caption {
+    width: 100%;
+    text-align: center;
+    line-height: 26px;
+    font-size: 20px;
+    color: #D3BC8E;
+    margin-bottom: 20px;
+    z-index: 2;
+    position: relative;
+}
+
+.gi-modal-close {
+    position: absolute;
+    width: 26px;
+    min-height: 26px;
+    cursor: pointer;
+    background-image: url("../images/icons/close.png");
+    background-size: contain;
+    top: 0px;
+    right: 0px;
+}
+
+.gi-hr {
+    margin: 10px auto;
+    width: calc(100% - 66px);
+    height: 15px;
+    background-image: url("../images/icons/line_arrow.png");
+    background-repeat: repeat-x;
+    background-size: auto;
+    background-position: 0px -15px;
+    position: relative;
+}
+
+.gi-hr:before {
+    content: "";
+    display: block;
+    width: 33px;
+    height: 15px;
+    position: relative;
+    left: -33px;
+    background-image: url("../images/icons/line_arrow.png");
+}
+
+.gi-hr:after {
+    content: "";
+    display: block;
+    width: 33px;
+    height: 15px;
+    position: absolute;
+    top: 0px;
+    right: -33px;
+    background-image: url("../images/icons/line_arrow.png");
+    background-position: 33px 0px;
+}
+
+.gi-inputs-round-button {
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+}
+
+.gi-inputs-number {
+   position: relative;
+   display: inline-block;
+   height: 26px;
+}
+
+.gi-inputs-number-input {
+    font-family: Genshin;
+    text-align: center;
+    height: 26px;
+    width: calc(100% - 54px);
+    margin: auto;
+    border-radius: 10px;
+    background-color: #ECE5D8;
+    border: 0px none;
+    display: block;
+    float: left;
+    margin: 0px 4px;
+}
+
+.gi-inputs-number-dark {
+    font-family: Genshin;
+    text-align: center;
+    height: 26px;
+    margin: auto;
+    border-radius: 10px;
+    background-color: #353D4F;
+    border: solid 2px #626770;
+    display: block;
+    margin: 0px 4px;
+    color: #FFF7E9;
+    outline: none;
+    box-sizing: border-box;
+}
+
+.gi-view-feature-control .gi-inputs-number-dark.gi-inputs-5digit {
+    width: 70px;
+}
+
+.gi-inputs-number-input-button {
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: #ECE5D8;
+    background-image: url("../images/icons/plusminus.png");
+    cursor: pointer;
+    float: left;
+    margin: 3px 0px;
+}
+
+.gi-inputs-number-input-button.minus {
+    background-position: 0px 0px;
+}
+
+.gi-inputs-number-input-button.plus {
+    background-position: 20px 0px;
+}
+
+.gi-modal-buttons {
+    text-align: right;
+    margin-top: 5px;
+}
+
+.gi-modal-buttons .gi-inputs-button {
+    margin: 0px 5px;
+}
+
+.gi-inputs-button {
+    height: 30px;
+    border-radius: 15px;
+    background-color: #ECE5D8;
+    color: #3B4255;
+    line-height: 30px;
+    padding: 0px 10px 0px 5px;
+    box-sizing: border-box;
+    text-align: left;
+    position: relative;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.gi-inputs-button-icon {
+    width: 20px;
+    height: 20px;
+    background-color: #313131;
+    border-radius: 10px;
+    display: block;
+    float: left;
+    margin: 5px 5px 0px 0px;
+    background-size: 80px 40px;
+    background-image: url("../images/icons/buttons.png");
+}
+
+.button-icon-ok {
+    background-position: -20px 0px;
+}
+
+.button-icon-cancel {
+    background-position: 0px 0px;
+}
+
+.button-icon-delete {
+    background-position: 0px -20px;
+}
+
+.button-icon-replace {
+    background-position: -20px -20px;
+}
+
+.button-icon-scan {
+    background-position: -40px 0px;
+}
+
+.button-icon-add {
+    background-position: -60px 0px;
+}
+
+.button-icon-check {
+    background-position: -60px -20px;
+}
+
+.button-icon-lock {
+    background-image: url("../images/icons/editart.png");
+    background-size: 60px 40px;
+    background-position: 0px 20px;
+}
+
+.button-icon-unlock {
+    background-image: url("../images/icons/editart.png");
+    background-size: 60px 40px;
+    background-position: 40px 20px;
+}
+
+.hidden {
+    display: none !important;
+}
+
+.gi-modal-text-input {
+    width: 100%;
+    padding: 0 10px;
+    box-sizing: border-box;
+    height: 30px;
+    border-radius: 5px;
+    border: solid 1px #5D5D5F;
+    background-color: #353D4F;
+    color: #FFF7E9;
+}
+
+.gi-modal-text-input:focus {
+    outline: none;
+}

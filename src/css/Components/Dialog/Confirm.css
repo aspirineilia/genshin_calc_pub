@@ -1,0 +1,7 @@
+.dialog.gi-window-confirm {
+    z-index: 20001;
+}
+
+.dialog-back.gi-window-confirm {
+    z-index: 20000;
+}

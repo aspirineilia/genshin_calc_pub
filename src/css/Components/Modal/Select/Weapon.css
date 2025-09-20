@@ -1,0 +1,24 @@
+.weapon-select-modal .dialog-content {
+    min-height: 300px;
+}
+
+.weapon-select .stat-line {
+    width: 100%;
+    display: flex;
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.weapon-select .stat {
+    flex-shrink: 0;
+    margin-right: 7px;
+    color: #beaea9;
+}
+
+.weapon-select .value {
+    flex-grow: 1;
+}
+
+.controls-bar .item.weapon-stat-filter {
+    width: 260px;
+}

@@ -1,0 +1,12 @@
+category;name;rus;eng
+
+weapon_name;morning_hibernation;Сон солнечным утром;Sunny Morning Sleep-In
+talent_name;weapon_morning_hibernation;Бани, ястребы и Наруками;Bathhouses, Hawks, and Narukami
+talent_descr;weapon_morning_hibernation_1;На 6 сек. после активации anemo{Рассеивания} повышает name{мастерство стихий} на %{mastery} ед.;name{Elemental Mastery} increases by %{mastery} for 6s after triggering anemo{Swirl}.
+talent_descr;weapon_morning_hibernation_2;На 9 сек. после попадания name{элементального навыка} по противнику повышает name{мастерство стихий} на %{mastery} ед.;name{Elemental Mastery} increases by %{mastery} for 9s after the wielder's name{Elemental Skill} hits an opponent.
+talent_descr;weapon_morning_hibernation_3;На 30 сек. после попадания name{взрыва стихии} по противнику повышает name{мастерство стихий} на %{mastery} ед.;name{Elemental Mastery} increases by %{mastery} for 30s after the wielder's name{Elemental Burst} hits an opponent.
+
+
+weapon_name;brief_pavilion_chatter;Тамаюратэй но оханаси;Tamayuratei no Ohanashi
+talent_name;weapon_brief_pavilion_chatter;Мчащийся фонарь проныры;Busybody's Running Light
+talent_descr;weapon_brief_pavilion_chatter;Активация name{элементального навыка} на 10 сек. увеличивает name{силу атаки} на %{atk_percent} и name{скорость передвижения} на %{move_speed}.;Increase name{ATK} and name{Movement SPD} by %{atk_percent} and %{move_speed} respectively for 10s after using an name{Elemental Skill}.

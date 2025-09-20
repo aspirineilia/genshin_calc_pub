@@ -1,0 +1,45 @@
+.gi-artifact-stats-wrapper {
+    border: solid 2px #626770;
+    width: 100%;
+    padding: 5px;
+    margin: 5px 0px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    background: rgba(30, 30, 30, 0.5);
+}
+
+.gi-artifact-stats-title {
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+}
+
+.gi-artifact-stats-line {
+    width: 100%;
+    font-size: 14px;
+    display: flex;
+}
+
+.gi-artifact-stats-line > div {
+    margin: 2px 5px;
+    height: 22px;
+    line-height: 24px;
+    box-sizing: border-box;
+}
+
+.gi-artifact-stats-line-name {
+    width: 200px;
+    text-align: right;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.gi-artifact-stats-line-value {
+    flex-grow: 1;
+}
+
+.gi-artifact-stats-line-value > .text-remark {
+    margin-left: 10px;
+    font-size: 12px;
+}

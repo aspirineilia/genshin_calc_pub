@@ -1,0 +1,57 @@
+.controls-bar {
+    width: 100%;
+    padding: 5px 0;
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+.controls-bar .item {
+    flex-shrink: 0;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+.controls-bar .item.resizable {
+    flex-shrink: 1;
+    flex-grow: 1;
+    min-width: 0;
+}
+
+.controls-bar .item:first-child {
+    padding-left: 0px;
+}
+
+.controls-bar .item:last-child {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.controls-bar .spacer {
+    flex-shrink: 1;
+    flex-grow: 1;
+}
+
+.controls-bar .item.feature-type {
+    flex-shrink: 0;
+    flex-grow: 0;
+    width: 150px;
+}
+
+.controls-bar .item.preset-name {
+    flex-shrink: 0;
+    flex-grow: 0;
+    width: 250px;
+}
+
+.controls-bar .item.display-mode {
+    flex-shrink: 0;
+    flex-grow: 0;
+    width: 150px;
+}
+
+.controls-bar .item.stat-sort {
+    flex-shrink: 0;
+    flex-grow: 0;
+    width: 215px;
+}

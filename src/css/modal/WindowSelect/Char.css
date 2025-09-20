@@ -1,0 +1,9 @@
+.gi-window-select-filter.select-char {
+    width: 490px;
+    margin: auto;
+}
+
+.narrow .gi-window-select-filter.select-char {
+    width: 440px;
+    margin: auto;
+}

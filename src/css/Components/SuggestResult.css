@@ -1,0 +1,110 @@
+.suggest-result-item {
+    width: 100%;
+    padding: 5px 0;
+    padding-right: 13px;
+    box-sizing: border-box;
+}
+
+.suggest-result-item.even {
+    background-color: rgba(23, 17, 16, 0.5);
+}
+
+.suggest-result-item .line {
+    width: 100%;
+    display: flex;
+}
+
+.suggest-result-item .icons {
+    display: flex;
+    flex-wrap: wrap;
+    width: 120px;
+    height: 80px;
+    flex-shrink: 0;
+}
+
+.suggest-result-item .icon {
+    position: relative;
+}
+
+.suggest-result-item .show-arts {
+    width: 100%;
+    text-align: center;
+    cursor: pointer;
+    color: #BEAEA9;
+    font-size: 12px;
+    text-decoration: underline;
+    padding-bottom: 3px;
+}
+
+.suggest-result-item .number {
+    position: absolute;
+    right: 5px;
+    bottom: 5px;
+    width: 20px;
+    height: 20px;
+    text-align: right;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+.suggest-result-item .main.line .button {
+    width: 35px;
+    margin: 0px 5px;
+    margin-top: 25px;
+    flex-shrink: 0;
+}
+
+.suggest-result-item .values {
+    flex-grow: 1;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.suggest-result-item .value-line {
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    font-size: 13px;
+}
+
+.suggest-result-item .value-line.sub {
+    margin-top: 3px;
+    color: #BEAEA9;
+    font-size: 12px;
+}
+
+.suggest-result-item .value-name {
+    flex-grow: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.suggest-result-item .value {
+    flex-grow: 0;
+    flex-shrink: 0;
+    width: 60px;
+    text-align: right;
+    line-height: 18px;
+    margin: 0 2px;
+    white-space: nowrap;
+}
+
+.suggest-result-item .artifacts {
+    width: 100%;
+}
+
+.suggest-result-item .remark {
+    color: #BEAEA9;
+    font-size: 11px;
+}
+
+.suggest-result-item .remark.positive {
+    color: #32af00;
+}
+
+.suggest-result-item .remark.negative {
+    color: #e54d4e;
+}

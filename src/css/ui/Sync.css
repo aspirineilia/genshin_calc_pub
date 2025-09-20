@@ -1,0 +1,50 @@
+.gi-sync-status {
+    font-size: 11px;
+    display: inline-block;
+    margin-left: 15px;
+    min-width: 80px;
+    max-width: 80px;
+    text-align: left;
+    white-space: nowrap;
+}
+
+.gi-sync-status.disabled {
+    display: none;
+}
+
+.gi-sync-status-name {
+    padding-left: 3px;
+    overflow: hidden;
+}
+
+.gi-sync-status > i {
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    top: 3px;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.sync-icon-disabled {
+    background-color: #7e7d7d;
+    border-color: #565656;
+}
+
+.sync-icon-init, .sync-icon-auth, .sync-icon-check, .sync-icon-sync {
+    background-color: #dfc329;
+    border-color: #91822f;
+}
+
+.sync-icon-error {
+    background-color: #e54d4e;
+    border-color: #a33839;
+}
+
+.sync-icon-pending, .sync-icon-ok {
+    background-color: #32af00;
+    border-color: #2a6c0f;
+}

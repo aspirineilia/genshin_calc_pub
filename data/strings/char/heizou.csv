@@ -1,0 +1,14 @@
+category;name;rus;eng
+feature_skill;heizou_declension_dmg;Бонус урона Отклонения;Declension DMG Bonus
+feature_skill;heizou_conviction_dmg;Бонус урона Верного мнения;Conviction DMG Bonus
+feature_skill;heizou_duration;Длительность Отклонения;Declension Duration
+feature_burst;heizou_vacuum_slugger_dmg;Урон Снаряда пустоты Фудо;Fudou Style Vacuum Slugger DMG
+feature_burst;heizou_windmuster_iris_dmg;Урон Ока урагана;Windmuster Iris DMG
+
+feature_skill;heizo_skill_1_dmg;"Урон элементального навыка (1&nbsp;заряд)";"Elemental Skill Dmg (1&nbsp;stack)"
+feature_skill;heizo_skill_2_dmg;"Урон элементального навыка (2&nbsp;заряда)";"Elemental Skill Dmg (2&nbsp;stacks)"
+feature_skill;heizo_skill_3_dmg;"Урон элементального навыка (3&nbsp;заряда)";"Elemental Skill Dmg (3&nbsp;stacks)"
+feature_skill;heizo_skill_4_dmg;"Урон элементального навыка (4&nbsp;заряда)";"Elemental Skill Dmg (4&nbsp;stacks)"
+
+talent_name;heizou_declension_stacks;Уровни Отклонения;Declension stacks
+talent_descr;heizou_declension_stacks;Увеличивает урон последующего удара skill{skill:Убиения сердца}.;Increases the power of the next skill{skill:Heartstopper Strike}.

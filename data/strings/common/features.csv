@@ -1,0 +1,226 @@
+category;name;rus;eng
+feature_attack;aimed;Прицельная;Aimed
+feature_attack;charged_aimed;Заряженная прицельная;Charged Aimed
+feature_attack;charged_final;Завершающий удар;Charged final
+feature_attack;charged_hit_1;Заряженная-1;Charged hit-1
+feature_attack;charged_hit_2;Заряженная-2;Charged hit-2
+feature_attack;charged_hit_3;Заряженная-3;Charged hit-3
+feature_attack;charged_hit_total;Заряженная (всего);Charged Total
+feature_attack;charged_hit;Заряженная;Charged
+feature_attack;charged_spin;Вращение;Charged Spin
+feature_attack;hits;удара;hits
+feature_attack;max_duration;Макс. длительность;Max Duration
+feature_attack;normal_hit_1_1;Обычная-1-1;Normal hit-1-1
+feature_attack;normal_hit_1_2;Обычная-1-2;Normal hit-1-2
+feature_attack;normal_hit_1;Обычная-1;Normal hit-1
+feature_attack;normal_hit_2_1;Обычная-2-1;Normal hit-2-1
+feature_attack;normal_hit_2_2;Обычная-2-2;Normal hit-2-2
+feature_attack;normal_hit_2;Обычная-2;Normal hit-2
+feature_attack;normal_hit_3_1;Обычная-3-1;Normal hit-3-1
+feature_attack;normal_hit_3_2;Обычная-3-2;Normal hit-3-2
+feature_attack;normal_hit_3;Обычная-3;Normal hit-3
+feature_attack;normal_hit_4_1;Обычная-4-1;Normal hit-4-1
+feature_attack;normal_hit_4_2;Обычная-4-2;Normal hit-4-2
+feature_attack;normal_hit_4_3;Обычная-4-3;Normal hit-4-3
+feature_attack;normal_hit_4;Обычная-4;Normal hit-4
+feature_attack;normal_hit_5_1;Обычная-5-1;Normal hit-5-1
+feature_attack;normal_hit_5_2;Обычная-5-2;Normal hit-5-2
+feature_attack;normal_hit_5;Обычная-5;Normal hit-5
+feature_attack;normal_hit_6_1;Обычная-6-1;Normal hit-6-1
+feature_attack;normal_hit_6_2;Обычная-6-2;Normal hit-6-2
+feature_attack;normal_hit_6;Обычная-6;Normal hit-6
+feature_attack;normal_hit;Обычная;Normal
+feature_attack;party_heal_on_hit;Лечение отряда при ударе;Party Heal on Hit
+feature_attack;plunge_high;Высокая;Plunge High
+feature_attack;plunge_low;Низкая;Plunge Low
+feature_attack;plunge;В падении;Plunge
+feature_attack;second_aimed;Доп. прицельная;Additional aimed
+feature_attack;second_charged_aimed;Доп. заряженная прицельная;Add. charged aimed
+feature_attack;stamina_cost;Потребление выносливости;Charged Attack Stamina Cost
+feature_burst;additional_dmg;Дополнительный урон;Additional DMG
+feature_burst;anemoskill_cryo_dmg;Доп. урон Крио;Additional Cryo DMG
+feature_burst;anemoskill_dmg;Доп. элементальный урон;Additional Elemental DMG
+feature_burst;anemoskill_electro_dmg;Доп. урон Электро;Additional Electro DMG
+feature_burst;anemoskill_elemental_dmg;Доп. элементальный урон;Additional Elemental DMG
+feature_burst;anemoskill_hydro_dmg;Доп. урон Гидро;Additional Hydro DMG
+feature_burst;anemoskill_pyro_dmg;Доп. урон Пиро;Additional Pyro DMG
+feature_burst;atk_bonus;Бонус cилы атаки;ATK Bonus
+feature_burst;atk_ratio;Отношение бонуса атаки;ATK Bonus Ratio
+feature_burst;burst_dmg;Урон взрыва стихий;Elemental Burst Dmg
+feature_burst;cd;Время отката;CD
+feature_burst;charged_hit;Заряженная;Charged
+feature_burst;charged_hit_total;Заряженная (всего);Charged Total
+feature_burst;dmg_reduction;Снижение входящего урона;Damage taken reduction
+feature_burst;dot_dmg;Периодический урон;DMG over time
+feature_burst;duration;Длительность;Duration
+feature_burst;energy_cost;Потребление энергии;Energy Cost
+feature_burst;field_dmg;Урон поля;Field Dmg
+feature_burst;heal_dot;Периодическое лечение;Regeneration
+feature_burst;heal;Лечение;Heal
+feature_burst;normal_hit_1;Обычная-1;Normal hit-1
+feature_burst;normal_hit_2;Обычная-2;Normal hit-2
+feature_burst;normal_hit_3;Обычная-3;Normal hit-3
+feature_burst;normal_hit_4;Обычная-4;Normal hit-4
+feature_burst;normal_hit_5;Обычная-5;Normal hit-5
+feature_burst;plunge_high;Высокая;Plunge High
+feature_burst;plunge_low;Низкая;Plunge Low
+feature_burst;plunge;В падении;Plunge
+feature_burst;shield;Щит;Shield
+feature_burst;stamina_cost;Потребление выносливости;Charged Attack Stamina Cost
+feature_burst;total_dmg;Урон (всего);Total DMG
+feature_burst;wave_dmg;Урон волны;Wave DMG
+feature_heal;healing_recv;Бонус получаемого лечения;With Incoming Healing Bonus
+feature_other;hydro_dmg_bonus;Бонус Гидро урона;Hydro DMG Bonus
+feature_other;sea_dyed_foam_dmg;Урон Пены морских красок;Sea-Dyed Foam DMG
+feature_other;shield;Щит;Shield
+feature_other;sprint_activation_cost;Стоимость выносливости;Activation Stamina Consumption
+feature_other;sprint_stamina_drain;Потребление выносливости;Stamina Drain
+feature_other;atk_bonus;Бонус cилы атаки;ATK Bonus
+feature_other;burst_dmg_bonus;Бонус урона взрыва стихий;Burst DMG Bonus
+feature_other;electro_dmg_bonus;Бонус электро урона;Electro DMG Bonus
+feature_other;mastery_bonus;Бонус мастерства стихий;Elemental Mastery Bonus
+feature_reaction;amplifying;Мультипликативные реакции;Amplifying Reactions
+feature_reaction;transformative;Трансформативные реакции;Transformative Reactions
+feature_reaction;additive;Аддитивные реакции;Additive Reactions
+feature_reaction;crystalize;Кристаллизация;Crystallize
+feature_reaction;burning;Горение;Burning
+feature_reaction;electrocharged;Заряжен;Electro-Charged
+feature_reaction;lunar;Лунные реакции;Lunar Reactions
+feature_reaction;lunarcharged_contrubution;Вклад в Лунный заряд;Lunar-Charged Contribution
+feature_reaction;lunarcharged_contrubution_2;Вклад в Лунный заряд / 2;Lunar-Charged Contribution / 2
+feature_reaction;lunarcharged_contrubution_12;Вклад в Лунный заряд / 12;Lunar-Charged Contribution / 12
+feature_reaction;melt;Таяние;Melt
+feature_reaction;none;Без реакции;No reaction
+feature_reaction;overloaded;Перегрузка;Overloaded
+feature_reaction;shatter;Разбит;Shattered
+feature_reaction;superconduct;Сверхпроводник;Superconduct
+feature_reaction;swirl;Рассеивание;Swirl
+feature_reaction;swirl_cryo;Крио рассеивание;Cryo Swirl
+feature_reaction;swirl_electro;Электро рассеивание;Electro Swirl
+feature_reaction;swirl_electro_aggravate;Рассеивание + Обострение;Aggravate Electro Swirl
+feature_reaction;swirl_hydro;Гидро рассеивание;Hydro Swirl
+feature_reaction;swirl_pyro;Пиро рассеивание;Pyro Swirl
+feature_reaction;vaporize;Пар;Vaporize
+feature_reaction;cross_melt_cryo;Перекрёстное Крио таяние;Cross-melt Cryo
+feature_reaction;cross_melt_pyro;Перекрёстное Пиро таяние;Cross-melt Pyro
+feature_reaction;cross_vaporize_pyro;Перекрёстный пар;Cross-vaporize
+feature_reaction;quicken;Стимуляция;Quicken
+feature_reaction;spread;Разрастание;Spread
+feature_reaction;aggravate;Обострение;Aggravate
+feature_reaction;rupture;Взрыв дендро ядра;Dendro core explosion
+feature_reaction;burgeon;Цветение;Burgeon
+feature_reaction;bloom;Бутонизация;Bloom
+feature_reaction;hyperbloom;Вегетация;Hyperbloom
+feature_reaction;lunarcharged;Лунный заряд;Lunar-Charged
+feature_rotation;anemo;Анемо урон;Anemo DMG
+feature_rotation;attack;Атака;Attack
+feature_rotation;normal;Обычная атака;Normal attack
+feature_rotation;charged;Заряженная атака;Charged attack
+feature_rotation;plunge;Атака в падении;Plunged attack
+feature_rotation;burst;Взрыв стихий;Elemental Burst
+feature_rotation;none;Без типа урона;No DMG type
+feature_rotation;cryo;Крио урон;Cryo DMG
+feature_rotation;dendro;Дендро урон;Dendro DMG
+feature_rotation;electro;Электро урон;Electro DMG
+feature_rotation;geo;Гео урон;Geo DMG
+feature_rotation;hydro;Гидро урон;Hydro DMG
+feature_rotation;weapon;Оружие;Weapon
+feature_rotation;other;Прочее;Other
+feature_rotation;phys;Физический урон;Physical DMG
+feature_rotation;pyro;Пиро урон;Pyro DMG
+feature_rotation;reaction;Трансформ. реакции;Transform. Reactions
+feature_rotation;lunarreaction;Лунные реакции;Lunar Reactions
+feature_rotation;lunardirect;Лунный урон;Direct Lunar DMG
+feature_rotation;skill;Элемент. навык;Elemental Skill
+feature_rotation;total;Урона всего;Total DMG
+feature_rotation;heal_total;Лечения всего;Total Healing
+feature_rotation;heal_total_self;Лечение персонажа;Self healing
+feature_rotation;heal_total_party;Лечения членов отряда;Party members healing
+feature_section;attack;Атака;Attack
+feature_section;burst;Взрыв стихий;Elemental Burst
+feature_section;other;Прочее;Other
+feature_section;reaction;Элементальные реакции;Elemental Reactions
+feature_section;rotation;Ротация;Rotation
+feature_section;select_feature;Выберите показатель;Select feature
+feature_section;select_feature_info;Сравнить другой показатель;Compare other feature
+feature_section;skill;Элементальный навык;Elemental Skill
+feature_section;stats;Характеристики;Attributes
+feature_section;weapon;Оружие;Weapon
+feature_shield;element_bonus;С бонусом элемента;With element absorption
+feature_shield;strength_bonus;С Прочностью щита;With Shield Strength
+feature_skill;activation_dmg;Урон активации;Activation DMG
+feature_skill;base_cd;Базовое время отката;Base CD
+feature_skill;cd_hold;Откат долгого нажатия;Holding CD
+feature_skill;cd_press;Откат быстрого нажатия;Press CD
+feature_skill;cd;Время отката;CD
+feature_skill;charge_level_1_1;Уровень заряда 1-1;Charge Level 1-1
+feature_skill;charge_level_1_2;Уровень заряда 1-2;Charge Level 1-2
+feature_skill;charge_level_1;Уровень заряда 1;Charge Level 1
+feature_skill;charge_level_2_1;Уровень заряда 2-1;Charge Level 2-1
+feature_skill;charge_level_2_2;Уровень заряда 2-2;Charge Level 2-2
+feature_skill;charge_level_2;Уровень заряда 2;Charge Level 2
+feature_skill;charged_hit_total;Заряженная (всего);Charged Total
+feature_skill;dmg_reduction;Отношение понижения урона;Damage Reduction Ratio
+feature_skill;dmg_reduction;Снижение входящего урона;Damage taken reduction
+feature_skill;dot_dmg;Периодический урон;DMG over time
+feature_skill;duration;Длительность;Duration
+feature_skill;explosion_dmg;Урон взрыва;Explosion DMG
+feature_skill;heal_charged_atk;Лечение заряженной атакой;Charged Atk Heal
+feature_skill;heal_dot;Периодическое лечение;Regeneration
+feature_skill;heal_normal_atk;Лечение обычной атакой;Normal Atk Heal
+feature_skill;heal;Лечение;Heal
+feature_skill;hold_dmg;Урон долгого нажатия;Hold DMG
+feature_skill;max_cd;Макс. время отката;Max CD
+feature_skill;max_duration;Макс. длительность;Max Duration
+feature_skill;normal_hit_1;Обычная-1;Normal hit-1
+feature_skill;normal_hit_2;Обычная-2;Normal hit-2
+feature_skill;normal_hit_3;Обычная-3;Normal hit-3
+feature_skill;normal_hit_4;Обычная-4;Normal hit-4
+feature_skill;normal_hit_5;Обычная-5;Normal hit-5
+feature_skill;normal_hit_6;Обычная-6;Normal hit-6
+feature_skill;normal_hit_6;Обычная-6;Normal hit-6
+feature_skill;charged_hit;Заряженная;Charged
+feature_skill;plunge_high;Высокая;Plunge High
+feature_skill;plunge_low;Низкая;Plunge Low
+feature_skill;plunge;В падении;Plunge
+feature_skill;party_heal_on_hit;Лечение отряда при ударе;Party Heal on Hit
+feature_skill;party_shield_hold;Щит отряда (удержание);Party Shield (hold)
+feature_skill;party_shield_press;Щит отряда (быстрое нажатие);Party Shield (press)
+feature_skill;press_dmg;Урон быстрого нажатия;Press Skill DMG
+feature_skill;shield_absorption;Поглощение урона;Shield DMG Absorption
+feature_skill;shield_hold;Щит (удержание);Shield (hold)
+feature_skill;shield_press;Щит (быстрое нажатие);Shield (press)
+feature_skill;shield;Щит;Shield
+feature_skill;skill_dmg;Урон элементального навыка;Elemental Skill Dmg
+feature_skill;skill_hit_1;Удар-1;Hit-1
+feature_skill;skill_hit_2;Удар-2;Hit-2
+feature_skill;skill_hit_3;Удар-3;Hit-3
+feature_skill;stamina_consume;Потребление выносливости;Stamina Consumption
+feature_skill;stamina_cost;Потребление выносливости;Charged Attack Stamina Cost
+feature_skill;swing_dmg;Урон взмаха;Swing DMG
+feature_stats;atk;Сила атаки;ATK
+feature_stats;crit_dmg;Крит. урон;Crit. DMG
+feature_stats;crit_rate;Шанс крит. попадания;Crit. Rate
+feature_stats;crit_value;Крит. масса;Crit. Value
+feature_stats;def;Защита;DEF
+feature_stats;hp;HP;HP
+feature_stats;mastery;Мастерство стихий;Elemental Mastery
+feature_stats;recharge;Воcст. энергии;Energy Recharge
+feature_skill;shield_duration;Длительность щита;Shield Duration
+feature_skill;shield_max_absorption;Макс. поглощение урона;Max Shield DMG Absorption
+feature_skill;surging_blade_dmg;Урон Клинка бурных вод;Surging Blade DMG
+feature_skill;surging_blade_interval;Интервал Клинка бурных вод;Surging Blade Interval
+feature_skill;hp_cost;Потребление HP;HP Cost
+feature_attack;spiritbreath_thorn_dmg;Урон Иглы дыхания душ;Spiritbreath Thorn DMG
+feature_attack;spiritbreath_thorn_interval;Интервал Иглы дыхания душ;Spiritbreath Thorn Interval
+feature_attack;surging_blade_dmg;Урон Клинка бурных вод;Surging Blade DMG
+feature_attack;surging_blade_interval;Интервал Клинка бурных вод;Surging Blade Interval
+feature_skill;spiritbreath_thorn_dmg;Урон Иглы дыхания душ;Spiritbreath Thorn DMG
+feature_skill;spiritbreath_thorn_interval;Интервал Иглы дыхания душ;Spiritbreath Thorn Interval
+feature_skill;surging_blade_dmg;Урон Клинка бурных вод;Surging Blade DMG
+feature_skill;surging_blade_interval;Интервал Клинка бурных вод;Surging Blade Interval
+feature_burst;spiritbreath_thorn_dmg;Урон Иглы дыхания душ;Spiritbreath Thorn DMG
+feature_burst;spiritbreath_thorn_interval;Интервал Иглы дыхания душ;Spiritbreath Thorn Interval
+feature_burst;surging_blade_dmg;Урон Клинка бурных вод;Surging Blade DMG
+feature_burst;surging_blade_interval;Интервал Клинка бурных вод;Surging Blade Interval
+feature_skill;sourcewater_droplet_duration;Длительность Капли источника;Sourcewater Droplet Duration

@@ -1,0 +1,138 @@
+category;name;rus;eng
+talent_name;whopperflower_stunned;Оглушение;Stunned
+talent_descr;whopperflower_stunned;Пока name{попрыгунья} оглушена её name{сопротивления} снижаются на value{25%}.;While name{whopperflower} is stunned name{all resistances} reduced by value{25%}.
+talent_name;fatiu_shield;Стихийная броня Фатуи;Fatui Elemental Armor
+talent_descr;fatiu_shield;Под защитой name{Стихийной брони} получает value{+100%} name{всем сопротивлениям}.;While protected by name{Elemental Armor} recieve value{+100%} to name{all resistances}.
+talent_name;fatiu_invisible;В невидимости;Invisible
+talent_descr;fatiu_invisible;Пока находится в невидимости получает +%{enemy_res_anemo} name{всем сопротивлениям}.;While in invisible mode recieve +%{enemy_res_anemo} to name{all resistances}.
+talent_name;geovishap_infusion;Элемент Геовишапа;Elemental infusion
+talent_descr;geovishap_infusion;Увеличивает name{сопротивление} соответствующему элементу на value{20%};Increase name{resistance} to corresponding element by value{20%}.
+talent_name;geovishap_counter;Отражено Стихийное дыхание;Counter Elemental Breath
+talent_descr;geovishap_counter;name{Все сопротивления} снижаются на %{enemy_res_phys} на 5 сек.;name{All resistances} reduced by %{enemy_res_phys} for 5 sec.
+
+talent_name;regisvine_shielded;Под щитом;Shielded
+talent_descr;regisvine_shielded;Пока находится под щитом name{все сопротивления} повышаются на %{enemy_res_phys}.;While shielded name{all resistances} increased by %{enemy_res_phys}.
+
+talent_name;bossfight_phase;Фаза боя;Fight phase
+talent_descr;childe_phase;1я фаза: hydro{Гидро сопротивление} value{+50%}<br>2я фаза: electro{Электро сопротивление} value{+50%}<br>3я фаза: hydro{Гидро} и electro{Электро сопротивления} value{+70%};1st phase: hydro{Hydro resistance} value{+50%}<br>2nd phase: electro{Electro resistance} value{+50%}<br>3rd phase: hydro{Hydro} and electro{Electro resistances} value{+70%}.
+talent_descr;signora_phase;1я фаза: cryo{Крио сопротивление} value{+40%}<br>2я фаза: pyro{Пиро сопротивление} value{+60%}.;1st phase: cryo{Cryo resistance} value{+40%}<br>2nd phase: pyro{Pyro resistance} value{+60%}.
+talent_name;azhdaha_infusion_1;Первый поглощенный элемент;First infusion element
+talent_descr;azhdaha_infusion_1;Увеличивает name{сопротивление} соответствующему элементу на value{60%};Increase name{resistance} to corresponding element by value{60%}.
+talent_name;azhdaha_infusion_2;Второй поглощенный элемент;Second infusion element
+talent_descr;azhdaha_infusion_2;Увеличивает name{сопротивление} соответствующему элементу на value{50%};Increase name{resistance} to corresponding element by value{50%}.
+talent_name;automaton_stunned;Парализован;Paralyzed
+talent_descr;automaton_stunned;Пока механизм парализован name{все сопротивления} снижаются на %{enemy_res_phys}.;While automaton is paralyzed name{all resistances} reduced by %{enemy_res_phys}.
+talent_name;ruin_drake_infusion;Поглощённый элемент;Infused element
+talent_descr;ruin_drake_infusion;Увеличивает name{сопротивление} соответствующему элементу на value{40%}.;Increase name{resistance} to corresponding element by value{40%}.
+talent_descr;aeonblight_drake_infusion;Увеличивает name{сопротивление} соответствующему элементу на value{60%}.;Increase name{resistance} to corresponding element by value{60%}.
+talent_descr;legend_drake_infusion;Увеличивает name{сопротивление} соответствующему элементу на value{120%}.;Increase name{resistance} to corresponding element by value{120%}.
+
+talent_name;enemy_reaction_superconduct;Суперпроводник;Superconduct
+talent_descr;enemy_reaction_superconduct;Cнижает name{физическое сопротивление} на value{40%}.;Reduces the name{physical resistance} by value{40%}.
+talent_name;enemy_status;Элемент;Element
+talent_descr;enemy_status;Противник находится под действием выбранного элемента.<br>Для подсчёта урона name{Пара} и name{Таяния} используйте вкладку tab{rotation:Ротация}.;Enemy is affected by selected element. For name{Vaporize} and name{Melt} damage use tab{rotation:Rotation} tab.
+talent_name;enemy_frozen;Заморожен;Frozen
+talent_descr;enemy_frozen;Противник заморожен;Enemy is frozen
+talent_name;enemy_reaction_burning;Противник горит;Enemy is burning
+talent_name;enemy_reaction_quicken;Стимуляция;Quicken
+
+talent_name;enemy_stunned;Оглушение;Stunned
+talent_descr;enemy_stunned_res;Пока оглушен все name{сопротивления} снижаются на %{enemy_res_phys}.;While is stunned name{all resistances} reduced by %{enemy_res_phys}.
+talent_descr;enemy_stunned_bonus;Пока оглушен получаемый урон увеличен на %{dmg_all}.;While is stunned damage taken is increased by %{dmg_all}.
+
+talent_name;rifthound_devour;Пожиратель элементов;Elemental Devourer
+talent_descr;rifthound_devour;Когда name{Гончая разрыва} находится в состоянии name{Пожирателя элементов} сопротивление соответвующего ему элементу снижается на %{text_percent}.;When name{Rifthounds} are in name{Elemental Devourer} state they have resistance for their corresponding element reduced by %{text_percent}.
+talent_name;golden_wolflord_devour;Пожиратель элементов;Elemental Devourer
+talent_descr;golden_wolflord_devour;Когда name{Золотой волчий вожак} находится в состоянии name{Пожирателя элементов} его geo{гео сопротивление} снижается на %{text_percent}.;When name{Golden Wolflord} is in name{Elemental Devourer} state it have geo{geo resistance} reduced by %{text_percent}.
+
+talent_name;enemy_weak_shot;Выстрел в уязвимое место;Shot in weak spot
+talent_descr;enemy_weak_shot;Прицельный выстрел попадает в уязвимое место противника.<br>Попадание в уязвимое место противника всегда считается name{критическим ударом};Aimed shots hit an enemy weak spot<br>Hitting the enemy's weak spot automatically counts as a name{Critical Hit}.
+
+talent_name;bathysmal_vishap_hatchling;Детёныш;Hatchling
+talent_descr;bathysmal_vishap_hatchling;Увеличивает name{сопротивление} соответствующему элементу на value{10%};Increase name{resistance} to corresponding element by value{10%}.
+talent_name;bathysmal_vishap_large;Взрослый;Large
+talent_descr;bathysmal_vishap_large;Увеличивает name{сопротивление} соответствующему элементу на value{20%};Increase name{resistance} to corresponding element by value{20%}.
+
+talent_name;raiden_shield;Сиятельный повелитель теней;Baleful Shadowlord
+talent_descr;raiden_shield;Все name{сопротивления} увеличиваются на %{enemy_res_phys}.;All name{resistances} increased by %{enemy_res_phys}.
+talent_name;raiden_stunned;Оглушена;Stunned
+talent_descr;raiden_stunned;Пока оглушена name{сопротивления} снижаются на %{enemy_res_phys}.;While she is stunned name{all resistances} reduced by %{enemy_res_phys}.
+
+talent_name;terrorshroom_stunned;Оглушен;Stunned
+talent_descr;terrorshroom_stunned;Пока оглушен name{сопротивления} снижаются на %{enemy_res_phys}.;While he is stunned name{all resistances} reduced by %{enemy_res_phys}.
+
+talent_name;automaton_invisible;В невидимости;Is invisible
+talent_descr;automaton_invisible;Пока в невидимости name{сопротивления} увеличиваются на %{enemy_res_phys}.;While is invisible name{all resistances} increased by %{enemy_res_phys}.
+talent_name;boss_begin_fight;Начало боя;Beginning of Fight
+talent_descr;boss_begin_fight;В начале боя name{сопротивления} увеличиваются на %{enemy_res_phys}.;At the beginning of fight name{all resistances} increased by %{enemy_res_phys}.
+
+talent_name;eremite_enhanced;Усилен;Enhanced state
+talent_descr;eremite_enhanced;Входит в состояние усиления призывая на помощь компаньона. name{Сопротивление прерыванию} и name{все сопротивления} увеличены.;Enter an enhanced state by summoning a companion to assist in battle, gaining increased name{RES} and high name{Interruption Resistance}.
+talent_name;eremite_stunned;Оглушен;Stunned
+talent_descr;eremite_stunned_geo;После победы над компаньоном состояние усиление заканчивается и противник оглушается. geo{Гео сопротивление} снижается на %{enemy_res_geo}.;When the companoin is defeated, the enhanced state will end, and he will become stunned with decreased geo{Geo RES} by %{enemy_res_geo}.
+talent_descr;eremite_stunned_anemo;После победы над компаньоном состояние усиление заканчивается и противник оглушается. anemo{Анемо сопротивление} снижается на %{enemy_res_anemo};When the companoin is defeated, the enhanced state will end, and she will become stunned with decreased anemo{Anemo RES} by %{enemy_res_anemo}.
+talent_descr;eremite_stunned_pyro;После победы над компаньоном состояние усиление заканчивается и противник оглушается. pyro{Пиро сопротивление} снижается на %{enemy_res_pyro};When the companoin is defeated, the enhanced state will end, and she will become stunned with decreased pyro{Pyro RES} by %{enemy_res_pyro}.
+talent_descr;eremite_stunned_dendro;После победы над компаньоном состояние усиление заканчивается и противник оглушается. dendro{Дендро сопротивление} снижается на %{enemy_res_dendro};When the companoin is defeated, the enhanced state will end, and she will become stunned with decreased dendro{Dendro RES} by %{enemy_res_dendro}.
+
+talent_name;consecrated_beast_sunned;Оглушен;Stunned
+talent_descr;consecrated_beast_sunned;Пока оглушен name{все сопротивления} снижаются на %{enemy_res_phys}. Сопротивление своему элементу дополнительно снижается на %{enemy_res_phys};While it is stunned name{all resistances} reduced by %{enemy_res_phys}. Additionally resistance to corresponging element reduced by %{enemy_res_phys}.
+
+talent_name;setekh_wenut_paralized;Оглушен;Stunned
+talent_descr;setekh_wenut_paralized;Сопротивление элеметам, которыми были уничтожены name{Шары Эрозии}, снижается на name{45%};Reduce resitances to elements that its name{Windbite Bullets} were destroyed by name{45%}.
+
+talent_descr;shouki_no_kami_phase;1я фаза: electro{Электро сопротивление} value{+40%}<br>2я фаза: все сопротивления value{+20%}, electro{Электро сопротивление} value{+80%};1st phase: electro{Electro resistance} value{+40%}<br>2nd phase: all name{resistances} value{+20%}, electro{Electro resistance} value{+80%}.
+talent_name;shouki_no_kami_shielded;Под щитом;Shielded
+talent_descr;shouki_no_kami_shielded;Все name{сопротивления} увеличиваются на %{enemy_res_phys}.;All name{resistances} increased by %{enemy_res_phys}.
+talent_name;shouki_no_kami_stunned;Оглушен;Stunned
+talent_descr;shouki_no_kami_stunned;Пока оглушен name{сопротивления} снижаются на %{enemy_res_phys}.;While he is stunned name{all resistances} reduced by %{enemy_res_phys}.
+
+talent_name;spiral_abyss_buff;Витая бездна;Spiral Abyss Buff
+talent_name;black_serpent_hits_shield;Ударил по щиту игрока;Hit player's shield
+talent_descr;buff_all_resistances;Все name{сопротивления} увеличиваются на %{enemy_res_phys}.;All name{resistances} increased by %{enemy_res_phys}.
+talent_descr;debuff_all_resistances;Все name{сопротивления} уменьшаются на %{enemy_res_phys}.;All name{resistances} descreased by %{enemy_res_phys}.
+
+talent_name;mitachurl_shield;Морозный щит;Frozen shield
+talent_descr;mitachurl_shield;Входящий урон снижается на %{dmg_all}.;Gains a %{dmg_all} Damage Reduction.
+
+talent_name;icewind_suite_climax;Кульминация Коппелиуса;Coppelia's Climax
+talent_name;fontemer_aberrant_shielded;Под щитом;Shielded
+talent_descr;fontemer_aberrant_shielded;Пока находится под щитом name{все сопротивления} повышаются на %{enemy_res_phys}.;While shielded name{all resistances} increased by %{enemy_res_phys}.
+
+talent_name;field_generator_active;Поле пониженной гравитации;Gravity Reduction Field
+
+talent_name;hydro_tulpa_rage;Разъярён;Enraged
+talent_name;all_devouring_narwhal_shadow;Тень;Shadow
+talent_descr;all_devouring_narwhal_shadow;electro{Электро} сопротивление увеличено на %{enemy_res_electro}.;electro{Electro} resistance increased by %{enemy_res_electro}.
+talent_name;solitary_suanni_rage;Сила адептов;Adeptal energy
+
+talent_name;ichcahuipillis_aegis;Арена: Момент испытания;Arena: Moment of Trial
+talent_descr;ichcahuipillis_aegis;Урон персонажей повышается на %{dmg_all}.;Characters damage increased by %{dmg_all}.
+
+talent_name;enemy_weakened;Ослаблен;Weakened
+talent_descr;enemy_weakened;Пока противник ослаблен name{все сопротивления} снижаются на %{enemy_res_phys}.;While enemy is weakened name{all resistances} reduced by %{enemy_res_phys}.
+
+talent_name;enemy_recovering;Восстанавливается;Recoveweion
+talent_descr;enemy_recovering;Пока противник восстанавливается name{все сопротивления} снижаются на %{enemy_res_phys}.;While enemy is recoverion name{all resistances} reduced by %{enemy_res_phys}.
+
+talent_name;enemy_molten_state;Расплавленный дракон;Molten Dragon
+talent_descr;enemy_molten_state;Все name{сопротивления} кроме pyro{пиро} снижаются.;name{All resistances} except pyro{Pyro} are reduced.
+talent_name;enemy_overburn_state;Сверхгорение;Overburn
+talent_descr;enemy_overburn_state;Все name{сопротивления} снижаются.;name{All resistances} are reduced.
+
+talent_name;enemy_thunderous_rebuke;Электро барьер;Electro Ward
+talent_name;enemy_horns_ignited;Горящие рога;Flaming Horns
+
+talent_name;overseer_device_sweeper_mode;Режим зачистки;Sweeper Mode
+talent_name;overseer_device_counterstrike_mode;Низкий импульс потока;Low Flow Momentum points
+talent_name;overseer_device_flow_momentum;Режим контрудара;Counterstrike Mode
+
+talent_name;enemy_variation;Противник;Enemy
+talent_name;variation_king;Шахматы: Король;Chess Game: King Piece
+talent_name;variation_queen;Шахматы: Ферзь;Chess Game: Queen Piece
+talent_name;variation_king_ascended;Вознёсшийся король;Ascended King
+talent_name;variation_sublimated;Возвысившийся ферзь;Sublimated Queen
+
+talent_name;enemy_summon_queen;Призывает королеву;Summmoning Queen
+talent_name;enemy_queen_defeated;Королева побеждена;Queen Defeated
+talent_name;enemy_king_reviving;Возрождает;Reviving
+talent_name;enemy_king_berserk;Берсерк;Berserk

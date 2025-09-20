@@ -1,0 +1,5 @@
+category;name;rus;eng
+feature_skill;escoffier_frozen_parfait_attack_dmg;Урон атаки замороженного парфе;Frozen Parfait Attack DMG
+feature_skill;escoffier_duration;Длительность Кулинарного мека: режим холодильника;Cooking Mek: Cold Storage Mode Duration
+feature_other;escoffier_rehab_diet_heal;Лечение Восстановительной диеты;Rehab Diet Heal
+feature_other;escoffier_special_grade_frozen_parfait_dmg;Урон Особого замороженного парфе;Special-Grade Frozen Parfait DMG

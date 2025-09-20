@@ -1,0 +1,36 @@
+category;name;rus;eng
+modal_window;rotation_feature;Показатель;Feature
+modal_window;rotation_condition;Условие;Condition
+modal_window;rotation_storage;Хранилище ротаций;Rotation storage
+modal_window;rotation_blocks;Добавить блок;Add block
+rotation_view;add_feature;Показатель;Feature
+rotation_view;add_condition;Условие;Condition
+rotation_view;add_buff_uptime;Действие бафов;Buffs uptime
+rotation_view;add_repeat;Повтор;Repeat
+rotation_view;add_block;Блок;Block
+rotation_view;save_load;Загрузить/Сохранить;Save/Load
+rotation_view;feature_count;Ударов;Hits
+rotation_view;section_char;Персонаж;Character
+rotation_view;section_weapon;Оружие;Weapon
+rotation_view;section_artifacts;Артефакты;Artifacts
+rotation_view;section_enemy;Противник;Enemy
+rotation_view;section_buffs;Усиления;Buffs
+rotation_view;section_party;Отряд;Party
+rotation_view;confirm_delete;Удалить из ротации?;Delete rotation item?
+rotation_view;clear;Очистить;Clear
+rotation_view;copy_link;Поделиться;Share
+rotation_view;add_placeholder;Введите название ротации;Enter rotation name
+rotation_view;save_rotation;Сохранить;Save
+rotation_view;no_title;Без названия;No title
+rotation_view;clear_confirm;Очистить текущую ротацию?;Clear current rotation?
+rotation_view;confirm_load;Выбранная ротация загрузится вместо текущей. Продолжить?;Selected rotation will replace current one. Do you want to continue?
+rotation_view;confirm_overwrite;Перезаписать сохранённую ротацию?;Overwrite saved rotation?
+rotation_view;confirm_delete;Удалить выбранную ротацию?;Are you sure you want to delete rotation?
+rotation_view;uptime_conditions;Условия;Conditions
+rotation_view;uptime_features;Показатели;Features
+rotation_view;uptime_text;Время действия бафов: {x};Buffs uptime: {x}
+rotation_view;repeat_text;Повторить раз: {x};Repeat {x} times
+rotation_view;items_collapsed;Скрыто элементов: %{number|0};%{number|0} hidden items
+rotation_view;block_repeat_descr;Повторяет вложенные элементы заданное число раз. Все условия включенные или выключенные внутри блока не влияют на дальнейшие расчёты.;Repeat nested items X times. All conditions that have turned on or off inside this block will not be saved.
+rotation_view;block_uptime_descr;Вычисляет среднее значение показателей с учётом заданного времени действия условий.;Calculating average features value depends on specific conditions uptime.
+rotation_view;enter_value;Введите значение;Enter value

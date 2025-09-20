@@ -1,0 +1,18 @@
+category;name;rus;eng
+
+feature_attack;lyney_charged_dmg;Уровень заряда 1;Aimed Shot Charge Level 1
+feature_attack;lyney_prop_arrow_dmg;Урон стрелы-реквизита;Prop Arrow DMG
+feature_attack;lyney_hp_cost;Потребление HP;HP Cost
+feature_attack;lyney_hat_hp;HP Шляпы - Хохочущего кота;Grin-Malkin Hat HP
+feature_attack;lyney_hat_duration;Длительность Шляпы - Хохочущего кота;Grin-Malkin Hat Duration
+feature_attack;lyney_pyrotechnic_strike_dmg;Урон Пиротехнического снаряда;Pyrotechnic Strike DMG
+feature_attack;lyney_pyrotechnic_strike_reprised_dmg;Урон Пиротехнического снаряда: Реприза;Pyrotechnic Strike: Reprised DMG;
+
+feature_skill;lyney_skill_dmg_bonus;Бонус урона навыка;Skill DMG Bonus
+feature_skill;lyney_hp_regeneration;Восстановление HP;HP Regeneration
+feature_skill;lyney_energy_regeneration;Восстановление энергии;Energy Regeneration
+
+feature_burst;lyney_explosive_firework_dmg;Урон фейерверка;Explosive Firework DMG
+
+talent_name;lyney_surplus_stacks;Уровни Избыточного реквизита;Prop Surplus stacks
+talent_descr;lyney_surplus_stacks;В зависимости от снятых уровней эффекта урон увеличивается. Кроме того, HP name{Лини} восстанавливается в зависимости от его name{макс. HP}.;DMG will be increased according to the stacks cleared, and this will also regenerate name{Lyney}'s HP based on his name{Max HP}.

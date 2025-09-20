@@ -1,0 +1,15 @@
+category;name;rus;eng
+feature_burst;gorou_crystal_collapse_dmg;Урон Кристального обвала;Crystal Collapse DMG
+feature_skill;gorou_def_bonus;Бонус к Защите;DEF Bonus
+feature_skill;gorou_geo_bonus;Бонус Гео урона;Geo DMG Bonus
+feature_skill;gorou_lapping_hound_heal;Лечение Нежности воды;Lapping Hound Heal
+
+talent_name;gorou_generals_war_banner;Боевой штандарт генерала;General's War Banner
+talent_descr;gorou_generals_war_banner;Даёт усиления активному персонажу в области действия штандарта в зависимости от числа персонажей geo{Гео} в отряде.<br>name{Горо} не может установить больше одного своего name{Боевого штандарта генерала} на поле боя одновременно. Персонажи могут одновременно использовать эффекты только одного name{Боевого штандарта генерала}. Эффект области действует в течение 2 сек. после выхода из области.;Provides the following buffs to active characters within the ability's AoE based on the number of party members in-field at the time who are of the geo{Geo Element}.<br>Only 1 name{General's War-Banner} that name{Gorou} created himself can exist on the field at any one time. Characters can only benefit from 1 name{General's War-Banner} at a time. When members leave the field, the field's effects will last for 2s.
+
+talent_name;gorou_standing_firm;Стойкость;Standing Firm
+talent_descr;gorou_standing_firm;Если в отряде есть один персонаж geo{Гео}, даётся эффект name{Стойкость}, увеличивающий name{защиту}.;Having 1 geo{Geo} party member grants name{"Standing Firm"}: name{DEF Bonus}.
+talent_name;gorou_impregnable;Крепость;Impregnable
+talent_descr;gorou_impregnable;При наличии двух персонажей geo{Гео} в отряде действует name{Крепость}: к эффекту name{Стойкости} добавляется сопротивление прерыванию.;Having 2 geo{Geo} party members adds the name{"Impregnable"} effect: grants resistance to interruption.
+talent_name;gorou_crunch;Ярость;Crunch
+talent_descr;gorou_crunch;Три персонажа geo{Гео} в отряде дают эффект name{Ярость}: к прошлым эффектам прибавляется бонус geo{Гео урона}.;Having 3 geo{Geo} party members adds the name{"Crunch"} effect: grants a geo{Geo DMG Bonus}.

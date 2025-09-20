@@ -1,0 +1,7 @@
+category;name;rus;eng
+suggester;no_artifacts;Экипируйте артефакты;Equip artifacts
+suggester;main_stat_remark;Сравнение основано на итоговых характеристиках персонажа и не учитывает конфликт доп. характеристик артефакта с основной.;The comparison is based on the total character's stats and ignores conflict of additional artifact stat with main one.
+suggester;substat_roll;Средний бонус доп. хр-ки;Average substat roll
+suggester;display_percent;Процент;Percent
+suggester;display_absolute;Абсолютное;Absolute
+suggester;no_equipped_artifacts;У персонажа нет экипированных артефактов, или характеристики артефактов не влияют на выбранный показатель. Добавить их на вкладке tab{artifacts:артефактов} или экипируйте из tab{artifacts-pool:хранилища}.;There are no equipped artifacts or selected feature is not affected by artifacts stats. Add artifacts either from tab{artifacts:Artifacts} tab or from artifacts tab{artifacts-pool:Storage}.

@@ -1,0 +1,7 @@
+.gi-char-tab .gi-tab-item-inner {
+    background-image: url("../../../images/icons/tab_char_light.png");
+}
+
+.gi-char-tab.active .gi-tab-item-inner {
+    background-image: url("../../../images/icons/tab_char_dark.png");
+}

@@ -1,0 +1,18 @@
+category;name;rus;eng
+
+feature_skill;charlotte_photo_press_dmg;Урон быстрого нажатия фото;Photo DMG (Press)
+feature_skill;charlotte_photo_hold_dmg;Урон долгого нажатия фото;Photo DMG (Hold)
+feature_skill;charlotte_snappy_silhouette_mark_dmg;Урон Скоростного силуэта;"Snappy Silhouette" Mark DMG
+feature_skill;charlotte_snappy_silhouette_interval;Интервал активации Скоростного силуэта;"Snappy Silhouette" Mark Trigger Interval
+feature_skill;charlotte_snappy_silhouette_duration;Длительность Скоростного силуэта;"Snappy Silhouette" Mark Duration
+feature_skill;charlotte_focused_impression_mark_dmg;Урон Сфокусированного впечатления;"Focused Impression" Mark DMG
+feature_skill;charlotte_focused_impression_interval;Интервал Сфокусированного впечатления;"Focused Impression" Mark Interval
+feature_skill;charlotte_focused_impression_duration;Длительность Сфокусированного впечатления;"Focused Impression" Mark Duration
+feature_skill;charlotte_finisher_frame_cast_cd;Время отката активации Великого кадра;Finisher Frame Cast CD
+
+feature_burst;charlotte_kamera_heal;Периодическое восстановление HP камерой;Kamera Continuous Regeneration
+feature_burst;charlotte_kamera_dmg;Урон камеры;Kamera DMG
+feature_burst;charlotte_verification_heal;Лечение Верификации;Verification Heal
+feature_burst;charlotte_coordinate_dmg;Урон совместной атаки;Coordinate Attack DMG
+feature_burst;charlotte_coordinate_heal;Лечение совместной атаки;Coordinate Attack Heal
+feature_burst;charlotte_duration;Длительность Места происшествия;Newsflash Field Duration

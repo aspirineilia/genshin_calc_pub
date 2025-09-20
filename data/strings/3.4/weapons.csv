@@ -1,0 +1,5 @@
+category;name;rus;eng
+weapon_name;light_of_foliar_incision;Свет лиственного разреза;Light of Foliar Incision
+talent_name;weapon_light_of_foliar_incision;Остриё белой луны;Whitemoon Bristle
+talent_descr;weapon_light_of_foliar_incision_1;name{Шанс крит. попадания} увеличивается на %{crit_rate}.;name{CRIT Rate} is increased by %{crit_rate}.
+talent_descr;weapon_light_of_foliar_incision_2;Когда name{Обычная атака} наносит элементальный урон, она даёт эффект name{Лиственного выреза}: урон name{обычных атак} и name{элементальных навыков} повышается на %{text_percent} от name{мастерства стихий}. После 28 активаций или через 12 сек. эффект исчезнет. name{Лиственный вырез} можно получить не чаще одного раза в 12 сек.;After name{Normal Attacks} deal Elemental DMG, the name{Foliar Incision} effect will be obtained, increasing DMG dealt by name{Normal Attacks} and name{Elemental Skills} by %{text_percent} of name{Elemental Mastery}. This effect will disappear after 28 DMG instances or 12s. You can obtain name{Foliar Incision} once every 12s.

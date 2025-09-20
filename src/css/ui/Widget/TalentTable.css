@@ -1,0 +1,43 @@
+.gi-talent-table {
+    width: 100%;
+    padding-bottom: 20px;
+    overflow-x: none;
+    overflow-y: auto;
+}
+
+.gi-talent-table-line {
+    display: inline-flex;
+    align-items: center;
+    min-width: 100%;
+    font-size: 13px;
+}
+
+.gi-talent-table-line > div {
+    padding: 4px;
+    box-sizing: border-box;
+    min-height: 24px;
+}
+
+.gi-talent-table-line-name {
+    width: 200px;
+    flex-shrink: 0;
+    color: #D3BC8E;
+}
+
+.gi-talent-table-line-caption {
+    flex-shrink: 0;
+    text-align: center;
+}
+
+.gi-talent-table-line-value {
+    flex-shrink: 0;
+    text-align: center;
+}
+
+.gi-talent-table-line-caption, .gi-talent-table-line-value {
+    width: 80px;
+}
+
+.gi-talent-table-line:nth-child(2n) {
+    background-color: rgba(23, 17, 16, 0.5);
+}

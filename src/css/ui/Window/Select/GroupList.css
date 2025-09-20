@@ -1,0 +1,50 @@
+.gi-window-select.gi-window-select-grouplist {
+    width: 500px;
+}
+
+.gi-window-select-grouplist .gi-window-select-content {
+    grid-template-columns: none;
+}
+
+.gi-window-select-grouplist .gi-modal-buttons {
+    display: flex;
+}
+
+.gi-grouplist-caption {
+    width: 100%;
+    color: #D3BC8E;
+}
+
+.gi-grouplist-items {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.gi-grouplist-items .gi-checkbox-label {
+    color: #FFF7E9;
+}
+
+.gi-grouplist-button {
+    width: 18px;
+    height: 18px;
+    border-radius: 5px;
+    background-color: rgba(40, 28, 15, 0.7);
+    cursor: pointer;
+    border: solid 1px #ECE5D8;
+    background-image: url("../../../../images/icons/editart.png");
+    background-repeat: no-repeat;
+    margin-right: 5px;
+}
+
+.gi-grouplist-edit {
+    background-position: -1px -1px;
+}
+
+.gi-grouplist-delete {
+    background-position: -21px -1px;
+}
+
+.gi-grouplist-items .gi-checkbox-label {
+    display: flex;
+    align-items: center;
+}

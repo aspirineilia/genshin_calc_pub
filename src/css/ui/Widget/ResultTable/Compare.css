@@ -1,0 +1,24 @@
+.gi-compare-name-edit {
+    width: 18px;
+    height: 18px;
+    border-radius: 5px;
+    background-color: rgba(40, 28, 15, 0.7);
+    cursor: pointer;
+    border: solid 1px#ECE5D8;
+    background-image: url("../../../../images/icons/editart.png");
+    background-position: -1px -1px;
+    background-repeat: no-repeat;
+    margin-right: 5px;
+    position: relative;
+    flex-shrink: 0;
+}
+
+.gi-compare-name {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.gi-compare-name .gi-radio-wrapper {
+    margin-right: 5px;
+}

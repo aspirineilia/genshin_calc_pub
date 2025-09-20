@@ -1,0 +1,19 @@
+.gi-buffs-tab .gi-tab-item-inner {
+    background-image: url("../../../images/icons/tab_buffs_light.png");
+}
+.gi-buffs-tab.active .gi-tab-item-inner {
+    background-color: #ECE5D8;
+    background-image: url("../../../images/icons/tab_buffs_dark.png");
+}
+
+.buffs-char-list {
+    display: flex;
+}
+
+.buffs-char-list .item {
+    cursor: pointer;
+}
+
+.buffs-char-list .condition-list-item {
+    margin: 3px;
+}

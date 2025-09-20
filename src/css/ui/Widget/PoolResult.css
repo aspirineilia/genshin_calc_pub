@@ -1,0 +1,105 @@
+.gi-pool-result {
+    width: 100%;
+    padding: 5px 0px;
+}
+
+.gi-pool-result-info {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.gi-pool-result.even {
+    background-color: rgba(23, 17, 16, 0.5);
+}
+
+.gi-pool-result-icons {
+    width: 120px;
+    display: flex;
+    flex-shrink: 0;
+    flex-wrap: wrap;
+}
+
+.gi-pool-result-button {
+    width: 35px;
+    margin: 0px 5px;
+    flex-shrink: 0;
+}
+
+.gi-pool-result-values {
+    flex-grow: 1;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.gi-pool-result-line {
+    width: 100%;
+    height: 40px;
+    display: flex;
+    font-size: 13px;
+}
+
+.gi-pool-result-line-name {
+    flex-grow: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    line-height: 40px;
+}
+
+.gi-pool-result-line-value {
+    flex-grow: 0;
+    flex-shrink: 0;
+    width: 60px;
+    text-align: right;
+    line-height: 18px;
+    margin: 0 2px;
+}
+
+.gi-pool-result-line-remark {
+    color: #BEAEA9;
+    font-size: 11px;
+}
+
+.gi-pool-result-line-remark.negative {
+    color: #e54d4e;
+}
+
+.gi-pool-result-line-remark.positive {
+    color: #32af00;
+}
+
+.gi-pool-result-line-value:last-child {
+    padding-right: 13px;
+}
+
+.gi-pool-result-artifacts {
+    width: 100%;
+}
+
+.artifact-list.hidden {
+    display: none;
+}
+
+.gi-pool-result-artifacts-hide {
+    display: none;
+}
+
+.gi-pool-result-artifacts-show, .gi-pool-result-artifacts-hide {
+    width: 100%;
+    text-align: center;
+    cursor: pointer;
+    color: #BEAEA9;
+    font-size: 12px;
+    text-decoration: underline;
+    padding-bottom: 3px;
+}
+
+.gi-artifacts-pool-result-features {
+    width: 100%;
+    margin: 5px 0;
+    display: flex;
+    align-items: center;
+}

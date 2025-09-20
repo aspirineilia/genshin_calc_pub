@@ -1,0 +1,19 @@
+category;name;rus;eng
+feature_skill;baal_coordinated_atk_dmg;Урон совместной атаки;Coordinated ATK DMG
+feature_burst;baal_musou_no_hitotachi_dmg;Урон Мусо но хитотати;Musou no Hitotachi DMG
+feature_burst;baal_resolve_bonus;Бонус урона за уровень Решимости;DMG Bonus per Resolve Stack
+feature_burst;baal_resolve_gain;Накопление уровней Решимости;Resolve Stacks Gained
+feature_burst;baal_energy_recharge;Восст. энергии Мусо иссин;Musou Isshin Energy Restoration
+feature_skill;baal_burst_bonus;Бонус урона взрыва стихии;Elemental Burst DMG Bonus
+feature_burst;baal_resolve_burst;Бонус Решимости (базовый);Resolve Bonus Initial
+feature_burst;baal_resolve_atk;Бонус Решимости (атака);Resolve Bonus Attack
+feature_burst;baal_resolve_stack;Накопление уровней Решимости;Resolve Stacks Gained
+
+talent_name;baal_eye_of_stormy_judgment;Глаз грозового наказания;Eye of Stormy Judgment
+talent_descr;baal_eye_of_stormy_judgment;Увеличивает урон name{взрыва стихии} персонажа в зависимости от стоимости name{энергии} взрыва стихии во время действия skill{skill:Глаза грозового наказания}.;Characters who gain the skill{skill:Eye of Stormy Judgment} will have their name{Elemental Burst DMG} increased based on the name{Energy Cost} of the Elemental Burst during the Eye's duration.
+
+talent_name;baal_musou_isshin;Мусо иссин;Musou Isshin
+talent_descr;baal_musou_isshin;В этом состоянии name{сёгун Райдэн} использует в бою свой меч, а её name{обычные атаки}, name{заряженные атаки} и name{атаки в падении} получают инфузию electro{Электро}, которая не может быть отменена какой-либо другой элементальной инфузией. Когда эти атаки попадают по противнику, name{сёгун Райдэн} восстанавливает name{энергию} всем окружающим членам отряда. Энергия может восстановиться таким способом только раз в 1 сек., и этот эффект может быть активирован до 5 раз во время действия навыка.<br>В этом состоянии повышается name{сопротивление прерыванию} name{сёгуна Райдэн}, и она получает иммунитет к урону от реакции electro{Заряжен}. Когда name{Мусо иссин} активен, урон name{обычной атаки}, name{заряженной атаки} и name{атаки в падении} будет считаться name{уроном взрыва стихии}.;While in this state, the name{Raiden Shogun} will wield her tachi in battle, while her name{Normal}, name{Charged}, and name{Plunging Attacks} will be infused with electro{Electro DMG}, which cannot be overridden. When such attacks hit opponents, she will regenerate name{Energy} for all nearby party members. Energy can be restored this way once every 1s, and this effect can be triggered 5 times throughout this skill's duration.<br>While in this state, the name{Raiden Shogun}'s name{resistance to interruption} is increased, and she is immune to electro{Electro-Charged} reaction DMG.<br>While name{Musou Isshin} is active, the name{Raiden Shogun}'s name{Normal}, name{Charged}, and name{Plunging Attack} DMG will be considered name{Elemental Burst} DMG.
+
+talent_name;baal_resolve_stacks;Уровень Решимости;Resolve stacks
+talent_descr;baal_resolve_stacks;Урон, наносимый атаками name{Мусо но хитотати} и name{Мусо иссин}, увеличивается в зависимости от количества потраченных при активации навыка уровней name{Решимости Чакры вожделения}.;The DMG dealt by name{Musou no Hitotachi} and name{Musou Isshin}'s attacks will be increased based on the number of name{Chakra Desiderata}'s name{Resolve stacks} consumed when this skill is used.

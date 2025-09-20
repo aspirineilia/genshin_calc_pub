@@ -1,0 +1,22 @@
+category;name;rus;eng
+feature_burst;traveler_lea_lotus_lamp_attack_dmg;Урон Лотосового светильника;Lea Lotus Lamp Attack DMG
+feature_burst;traveler_explosion_dmg;Урон от взрыва;Explosion DMG
+feature_burst;traveler_duration;Длительность Лотосового светильника;Lea Lotus Lamp Duration
+feature_other;traveler_dendro_skill_bonus;Бонус урона элем. навыка;Skill DMG Bonus
+feature_other;traveler_dendro_burst_bonus;Бонус урона взрыва стихий;Burst DMG Bonus
+
+talent_name;traveler_verdant_overgrowth;Ползучая поросль;Verdant Overgrowth
+talent_descr;traveler_verdant_overgrowth;Находясь на поле боя, skill{burst:Лотосовый светильник} получает один уровень name{Лучезарного лотоса} каждую секунду, увеличивая name{мастерство стихий} активных персонажей в области действия на %{mastery} ед. Эффект складывается до 10 раз.;skill{burst:Lea Lotus Lamp} will obtain one level of name{Overflowing Lotuslight} every second it is on the field, increasing the name{Elemental Mastery} of active character(s) within its AoE by %{mastery}. name{Overflowing Lotuslight} has a maximum of 10 stacks.
+talent_name;traveler_verdant_luxury;Роскошная зелень;Verdant Luxury
+talent_descr;traveler_verdant_luxury;Каждая единица name{мастерства стихий} name{путешественника} повышает урон, наносимый skill{skill:Травяным клинком} на value{0,15%}, а урон, наносимый skill{burst:Пригибающим траву ветром} - на value{0,1%}.;Every point of name{Elemental Mastery} the name{Traveler} possesses increases the DMG dealt by skill{skill:Razorgrass Blade} by value{0.15%} and the DMG dealt by skill{burst:Surgent Manifestation} by value{0.1%}.
+talent_name;traveler_symbiotic_creeper;Вьющийся симбиот;Symbiotic Creeper
+talent_descr;traveler_symbiotic_creeper;Попадание по врагу skill{skill:Травяным клинком} восстанавливает name{путешественнику} 3,5 name{ед. энергии}.;After skill{skill:Razorgrass Blade} hits an opponent, it will regenerate 3.5 name{Energy} for the name{Traveler}.
+talent_name;traveler_green_resilience;Стойкость растений;Green Resilience
+talent_descr;traveler_green_resilience;Длительность skill{burst:Лотосового светильника} увеличивается на 3 сек.;skill{burst:Lea Lotus Lamp}'s duration is increased by 3s.
+talent_name;traveler_whirling_weeds;Хоровод трав;Whirling Weeds
+talent_name;traveler_treacle_grass;Сахарная трава;Treacle Grass
+talent_descr;traveler_treacle_grass;При активации name{Преобращения света} лотоса skill{burst:Лотосовый светильник} получит 5 уровней name{Лучезарного лотоса} от пассивного таланта «name{Ползучая поросль}».<br>Требуется разблокировать пассивный талант «name{Ползучая поросль}».;"After the skill{burst:Lea Lotus Lamp} triggers a name{Lotuslight Transfiguration}, it will obtain 5 stacks of the name{Overflowing Lotuslight} effect from the Passive Talent ""name{Verdant Overgrowth}.""<br>You must have unlocked this Passive Talent first."
+talent_name;traveler_viridian_transience;Буйство зелени;Viridian Transience
+talent_name;traveler_withering_aggregation;Увядающее скопление;Withering Aggregation
+talent_descr;traveler_withering_aggregation_1;Персонаж с name{Лучезарным лотосом} skill{burst:Лотосового светильника} получает %{dmg_dendro} бонус dendro{Дендро урона}.;The dendro{Dendro DMG Bonus} of the character under the effect of name{Overflowing Lotuslight} as created by the skill{burst:Lea Lotus Lamp} is increased by %{dmg_dendro}.
+talent_descr;traveler_withering_aggregation_2;Если произошло name{Преобращение света} лотоса name{Лотосового светильника}, персонаж получает ещё value{12%} бонуса name{элементального урона} соответствующего элемента.;If the Lamp has experienced a name{Lotuslight Transfiguration} previously, the character will also gain value{12%} name{DMG Bonus} for the corresponding element.

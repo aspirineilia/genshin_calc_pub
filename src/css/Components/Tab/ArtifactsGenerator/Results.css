@@ -1,0 +1,94 @@
+.artifact-generator-results {
+    width: 100%;
+    min-height: 200px;
+}
+
+.artifact-generator-results .item {
+    width: 100%;
+    min-height: 50px;
+    padding: 5px 0;
+    padding-right: 13px;
+    box-sizing: border-box;
+}
+
+.artifact-generator-results .item.even {
+    background-color: rgba(23, 17, 16, 0.5);
+}
+
+.artifact-generator-results .line-substats {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+
+.artifact-generator-results .line {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.artifact-generator-results .main-stats {
+    flex-grow: 1;
+}
+
+.artifact-generator-results .roll-item {
+    display: flex;
+}
+
+.artifact-generator-results .roll-count {
+    flex-grow: 0;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 12px;
+}
+
+.artifact-generator-results .roll-stat {
+    flex-grow: 0;
+    color: #BEAEA9;
+    font-size: 12px;
+}
+
+.artifact-generator-results .button {
+    width: 35px;
+    margin: 0px 5px;
+    flex-shrink: 0;
+}
+
+.artifact-generator-results .show-arts {
+    cursor: pointer;
+    color: #BEAEA9;
+    font-size: 12px;
+    text-decoration: underline;
+    padding-bottom: 3px;
+    flex-grow: 0;
+    flex-shrink: 0;
+}
+
+.artifact-generator-results .artifacts {
+    width: 100%;
+}
+
+.artifact-generator-results .slot {
+    width: 20px;
+    height: 20px;
+    background-size: 100px 20px;
+    background-color: #ECE5D8;
+    border-radius: 50%;
+    background-image: url("../../../../images/icons/slots1.png");
+    margin: 1px;
+    margin-right: 5px;
+}
+
+.artifact-generator-results .slot.sands {
+    background-position: -40px 0px;
+}
+
+.artifact-generator-results .slot.goblet {
+    background-position: -60px 0px;
+}
+
+.artifact-generator-results .slot.circlet {
+    background-position: -80px 0px;
+}

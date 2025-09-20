@@ -1,0 +1,3 @@
+category;name;rus;eng
+set_bonus;echoes_of_an_offering_4_avg;Средний бонус урона;Average DMG bonus
+set_descr;echoes_of_an_offering_4_avg;Считать повышение name{урона обычной атаки} в соответвии со средним шансом срабатывания name{Ритаула долины};Use name{Normal Attack DMG} increase corresponding to average activation chance of name{Valley Rite}

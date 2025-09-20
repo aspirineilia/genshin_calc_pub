@@ -1,0 +1,55 @@
+.char-select-modal .icons {
+    display: flex;
+}
+
+.char-select-modal .filter {
+    background-size: cover;
+    cursor: pointer;
+    height: 30px;
+    width: 30px;
+    margin: 5px;
+    opacity: 0.3;
+}
+
+.char-select-modal .filter.active {
+    opacity: 1;
+}
+
+.char-select-modal .element, .char-select-modal .weapon {
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+    background-size: cover;
+}
+
+.char-select-modal .spacer {
+    width: 20px;
+}
+
+.object-select.char-select .name {
+    font-size: 18px;
+}
+
+.contellation-block {
+    display: flex;
+    align-items: center;
+}
+
+.contellation-block .value {
+    border: 2px solid #626770;
+    background-color: #353d4f;
+    border-radius: 10px;
+    width: 40px;
+    height: 25px;
+    text-align: center;
+    line-height: 27px;
+}
+
+.char-select .space {
+    min-width: 7px;
+}
+
+.inputs-2digit {
+    width: 45px;
+    margin: 0;
+}

@@ -1,0 +1,74 @@
+category;name;rus;eng
+features_view;details;Подробнее;Details
+features_view;block_base_damage;Базовое значение;Base value
+features_view;block_multiplier_bonus;Бонусы;Bonuses
+features_view;block_multiplier_defence;Множитель защиты;Defence Multiplier
+features_view;block_multiplier_resistance;Множитель сопротивления;Resistance Multiplier
+features_view;block_multiplier_reaction;Множитель реакции;Reaction Multiplier
+features_view;block_multiplier_amplifying;Множитель реакции;Reaction Multiplier
+features_view;block_multiplier_custom;Дополнительный множитель;Additional Multiplier
+features_view;block_damage_result;Итоговый урон;Final DMG
+features_view;block_heal_result;Итоговое лечение;Final Heal
+features_view;block_shield_result;Итоговое поглощение;Final Shield absorption
+features_view;block_flat_damage;Добавочное значение;Flat increase
+features_view;block_flat_reduce;Уменьшения значения;Flat reduce
+
+features_view;reaction_remark;Выбор урона реакции влияет только на отображение в текущей вкладке. Для корректной оптимизации показатей с учётом реакций используйте вкладку tab{rotation:Ротация}.;Reaction damage selector is used only for display in this tab. For proper features optimisation use tab{rotation:Rotation} tab.
+
+features_view;comment_ascension1;A1;A1
+features_view;comment_ascension4;A4;A4
+features_view;comment_constellation1;C1;C1
+features_view;comment_constellation2;C2;C2
+features_view;comment_constellation3;C3;C3
+features_view;comment_constellation4;C4;C4
+features_view;comment_constellation5;C5;C5
+features_view;comment_constellation6;C6;C6
+features_view;comment_weapon;Оружие;Weapon
+features_view;comment_artifacts;Артефакты;Artifacts
+features_view;comment_reaction_base;Ур.;Lvl
+features_view;comment_reaction_ratio;Реакция;Ratio
+features_view;comment_reaction_bonus;Бонус;Bonus
+features_view;comment_reaction_penalty;Штраф;Penalty
+features_view;comment_talent_attack;Об. атака;N. Attack
+features_view;comment_talent_elemental;Элем. навык;El. Skill
+features_view;comment_talent_burst;Взрыв стихий;El. Burst
+features_view;comment_navia_bullet;Пули;Bullets
+features_view;comment_mizuki_selfheal;На себя;Self
+
+features_view;stat_base_bonus;Базовый;Base
+features_view;stat_dmg_normal;Обычная атака;Normal Attack
+features_view;stat_dmg_charged;Заряженна атака;Charged Attack
+features_view;stat_dmg_plunge;Атака в падении;Plunge Attack
+
+features_view;stat_dmg_reaction_electrocharged;Заряжен;El-Charged
+features_view;stat_dmg_reaction_vaporize;Пар;Vaporize
+features_view;stat_dmg_reaction_melt;Таяние;Melt
+features_view;stat_dmg_reaction_quicken;Стимуляция;Quicken
+features_view;stat_dmg_reaction_spread;Разрастание;Spread
+features_view;stat_dmg_reaction_aggravate;Обострение;Aggravate
+features_view;stat_dmg_reaction_bloom;Бутонизация;Bloom
+features_view;stat_dmg_reaction_lunarcharged;Лунный заряд;Lunar-Charged
+features_view;stat_lunarcharged;Лунный заряд;Lunar-Charged
+features_view;stat_reaction_aggravate;Обострение;Aggravate
+features_view;stat_reaction_spread;Разрастание;Spread
+features_view;stat_citlali_mastery_total;М. стихий;EM
+features_view;stat_yunjin_def_total;Защита;DEF
+features_view;stat_mizuki_mastery;М. стихий;EM
+features_view;stat_shenhe_atk_total;Атака;ATK
+features_view;stat_escoffier_atk_total;Атака;ATK
+features_view;stat_xilonen_def_total;Защита;DEF
+features_view;stat_traveler_clear_waters_percent;Чистые воды;Clear Waters
+features_view;stat_days_past_healing_recorded;Лечение;Healing
+features_view;stat_party_days_past_healing_recorded;Лечение;Healing
+features_view;stat_reaction_vape_forvard;Прямой пар;Forvard Vape
+features_view;stat_reaction_vape_reverse;Обратный пар;Reverse Vape
+features_view;stat_reaction_melt_forvard;Прямое таяние;Forvard Melt
+features_view;stat_reaction_melt_reverse;Обратное таяние;Reverse Melt
+features_view;stat_mastery_multi;Мн. МС;EMM
+features_view;stat_char_level;Ур. персонажа;Char lvl
+features_view;stat_enemy_level;Ур. врага;Enemy lvl
+features_view;stat_enemy_def_reduce;Сниж. защ.;DEF reduce
+features_view;stat_enemy_def_ignore;Игнор. защ.;DEF ignore
+features_view;stat_stacks;Уровни;Stacks
+features_view;stat_atk_base;Базовая СА;Base ATK
+features_view;stat_base_res;Противник;Enemy

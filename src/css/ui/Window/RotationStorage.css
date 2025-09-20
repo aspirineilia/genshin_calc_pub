@@ -1,0 +1,31 @@
+.gi-window-rotation-buttons {
+    width: 100%;
+    display: flex;
+}
+
+.gi-window-rotation-buttons > * {
+    flex-shrink: 0;
+}
+
+.gi-rotation-wrapper {
+    flex-grow: 1;
+}
+
+.gi-window-rotation-buttons .gi-rotation-text-wrapper {
+    flex-grow: 1;
+    display: flex;
+    margin-top: 2px;
+    padding-right: 5px;
+}
+
+.gi-window-rotation-items {
+    padding-right: 10px;
+}
+
+.gi-window-rotation-storage {
+    width: 700px;
+}
+
+/* .gi-window-rotation-storage .gi-modal-content {
+    overflow: visible;
+} */

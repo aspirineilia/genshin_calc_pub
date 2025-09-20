@@ -1,0 +1,6 @@
+category;name;rus;eng
+feature_skill;layla_shooting_star_dmg;Урон Метеора;Shooting Star DMG
+feature_skill;layla_base_shield_dmg_absorption;Базовое поглощение щита;Base Shield DMG Absorption
+feature_skill;layla_party_shield;Базовое поглощение щита (отряд);Party Base Shield DMG Absorption
+feature_skill;layla_shield_duration;Длительность щита;Shield Duration
+feature_burst;layla_starlight_slug_dmg;Урон Заряда звёздного света;Starlight Slug DMG

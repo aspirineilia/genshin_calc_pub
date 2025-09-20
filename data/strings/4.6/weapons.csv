@@ -1,0 +1,6 @@
+category;name;rus;eng
+weapon_name;crimson_moons_semblance;Очертания алой луны;Crimson Moon's Semblance
+talent_name;crimson_moons_semblance;Тень пепельного солнца;Ashen Sun's Shadow
+talent_descr;crimson_moons_semblance_1;Попадание name{заряженной атакой} по врагу наделяет name{Долгом жизни}, равным %{text_percent} от макс. HP. Этот эффект может возникнуть раз в 14 сек.;Grants a name{Bond of Life} equal to %{text_percent} of Max HP when a name{Charged Attack} hits an opponent. This effect can be triggered up to once every 14s.
+talent_descr;crimson_moons_semblance_2;Кроме того, пока экипированный персонаж наделён name{Долгом жизни}, наносимый им урон повышается на %{dmg_all}.;In addition, when the equipping character has a name{Bond of Life}, they gain a %{dmg_all} DMG Bonus.
+talent_descr;crimson_moons_semblance_3;Если значение name{Долга жизни} равно или превышает %{text_percent} от макс. HP, наносимый урон дополнительно повышается на %{dmg_all}.;If the value of the name{Bond of Life} is greater than or equal to %{text_percent} of Max HP, then gain an additional %{dmg_all} DMG Bonus.

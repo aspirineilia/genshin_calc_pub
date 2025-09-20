@@ -1,0 +1,76 @@
+.tab-header {
+    width: 100%;
+    color: #D3BC8E;
+    height: 36px;
+    line-height: 34px;
+    font-size: 22px;
+    text-align: center;
+    box-sizing: border-box;
+    position: relative;
+    background-color: rgba(23, 17, 16, 0.5);
+    border-bottom: solid 2px #6C6D76;
+    box-sizing: border-box;
+}
+
+.tab-content {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    flex-grow: 1;
+}
+
+.gi-tab-right .tab-content {
+    padding-left: 3px;
+}
+
+.gi-tab-left .tab-content {
+    padding-right: 3px;
+}
+
+.react-tab {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+}
+
+.narrow .react-tab {
+    position: unset;
+}
+
+.content-scrollable {
+    flex-grow: 1;
+    flex-shrink: 1;
+    overflow: hidden;
+    margin-bottom: 7px;
+}
+
+.tab-message .gi-tab-change {
+    text-decoration: underline;
+}
+
+.tab-disclaimer {
+    margin: 20px 20px;
+}
+
+.tab-loading {
+    position: absolute;
+    padding-top: 80px;
+    text-align: center;
+    background: rgba(100, 100, 100, 0.5);
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+}
+
+.tab-loading > .text {
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+.dropdown-display-mode {
+    flex-shrink: 0;
+    width: 150px;
+}

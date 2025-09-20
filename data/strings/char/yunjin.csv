@@ -1,0 +1,8 @@
+category;name;rus;eng
+feature_skill;yunjin_charge_1_dmg;Урон заряда 1;Charge Level 1 DMG
+feature_skill;yunjin_charge_2_dmg;Урон заряда 2;Charge Level 2 DMG
+feature_burst;yunjin_dmg_bonus;Повышение урона;DMG Increase
+feature_burst;yunjin_quota;Количество сложений;Trigger Quota
+
+talent_name;yunjin_flag;Строй облачных флагов;Flying Cloud Flag Formation
+talent_descr;yunjin_flag;Когда противникам наносится урон name{обычной атаки}, они получают бонусный урон, который зависит от текущей name{защиты} name{Юнь Цзинь}.;When name{Normal Attack} DMG is dealt to opponents, Bonus DMG will be dealt based on name{Yun Jin}'s current name{DEF}.

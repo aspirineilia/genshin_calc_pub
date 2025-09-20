@@ -1,0 +1,21 @@
+category;name;rus;eng
+weapon_name;calamity_of_eshu;Бедствие Эшу;Calamity of Eshu
+weapon_name;flower_wreathed_feathers;Украшенные цветами перья;Flower-Wreathed Feathers
+weapon_name;astral_vultures_crimson_plumage;Алое перо звёздного грифа;Astral Vulture's Crimson Plumage
+
+talent_name;astral_vultures_crimson_plumage;Глаза с лунным ореолом;The Moonring Sighted
+talent_descr;astral_vultures_crimson_plumage_1;Повышает name{силу атаки} на %{atk_percent} на 12 сек. после активации реакции anemo{Рассеивание}.;For 12s after triggering a anemo{Swirl} reaction, name{ATK} increases by %{atk_percent}.
+talent_descr;astral_vultures_crimson_plumage_2;Кроме того, если в отряде format{text_number_f=1|1}/format{text_number_f=2|2} и более персонажей с элементом, отличным от элемента экипированного персонажа, то урон name{заряженной атаки} экипированного персонажа увеличивается на format{text_number_f=1|%{text_percent_1}}/format{text_number_f=2|%{text_percent_2}}, а урон name{взрыва стихии} - на format{text_number_f=1|%{text_percent_3}}/format{text_number_f=2|%{text_percent_4}}.;In addition, when format{text_number_f=1|1}/format{text_number_f=2|2} or more characters in the party are of a different Elemental Type from the equipping character, the DMG dealt by the equipping character's name{Charged Attacks} is increased by format{text_number_f=1|%{text_percent_1}}/format{text_number_f=2|%{text_percent_2}} and name{Elemental Burst} DMG dealt is increased by format{text_number_f=1|%{text_percent_3}}/format{text_number_f=2|%{text_percent_4}}.
+
+talent_name;flower_wreathed_feathers;Недостижимое цветение;Inflorescence Unattainable
+talent_descr;flower_wreathed_feathers_1;Уменьшает потребление выносливости во время полёта на %{text_percent}.;Decreases Gliding Stamina consumption by %{text_percent}.
+talent_descr;flower_wreathed_feathers_2;Урон name{заряженных атак} при выполнении прицельных выстрелов увеличивается на %{dmg_charged} каждые 0,5 сек. Этот эффект может складываться до 6 раз и исчезает через 10 сек. после выхода из режима прицеливания.;When using Aimed Shots, the DMG dealt by name{Charged Attacks} increases by %{dmg_charged} every 0.5s. This effect can stack up to 6 times and will be removed 10s after leaving Aiming Mode.
+
+talent_name;calamity_of_eshu;Надвигающийся рубеж;Diffusing Boundary
+talent_descr;calamity_of_eshu;Повышает урон name{обычной} и name{заряженной атаки} на %{dmg_normal}, а также name{шанс крит. попадания} name{обычной} и name{заряженной атаки} на %{crit_rate_normal}, если персонаж защищён щитом.;While characters are protected by a Shield, DMG dealt by name{Normal} and name{Charged Attacks} is increased by %{dmg_normal}, and name{Normal} and name{Charged Attack} name{CRIT Rate} is increased by %{crit_rate_normal}.
+
+weapon_name;waveriding_whirl;Вихрь на волнах;Waveriding Whirl
+talent_name;waveriding_whirl;Мечущиеся клыки;Fangs Flying To and Fro
+talent_descr;waveriding_whirl_1;Уменьшает потребление выносливости во время плавания на 15%.;Decreases Swimming Stamina consumption by 15%.
+talent_descr;waveriding_whirl_2;Кроме того, увеличивает name{макс. HP} на %{hp_percent} на 10 сек. после применения элементального навыка. Этот эффект может возникнуть один раз в 15 сек.;In addition, for 10s after using an name{Elemental Skill}, name{Max HP} is increased by %{hp_percent}. Can be triggered once every 15s.
+talent_descr;waveriding_whirl_3;За каждого hydro{Гидро} персонажа в отряде name{макс. HP} дополнительно повышается на %{text_percent}. Максимальное увеличение, получаемое таким способом, составляет %{text_percent_max}. (%{text_number_f});For every hydro{Hydro} Elemental Type character in the party, name{Max HP} is increased by another %{text_percent}, and the maximum increase that can be achieved in this way is %{text_percent_max}. (%{text_number_f})

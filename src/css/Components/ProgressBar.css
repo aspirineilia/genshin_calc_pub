@@ -1,0 +1,57 @@
+.progress-bar {
+    width: 100%;
+    height: 24px;
+    line-height: 24px;
+    position: relative;
+}
+
+.progress-bar .bar {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 24px;
+    background-color: #2B2D33;
+    border-radius: 5px;
+}
+
+.progress-bar .line {
+    z-index: 1;
+    position: relative;
+    display: flex;
+}
+
+.progress-bar.small {
+    height: 16px;
+    line-height: 16px;
+}
+
+.progress-bar.small .bar {
+    height: 16px;
+}
+
+.progress-bar.small .value {
+    font-size: 12px;
+}
+
+.progress-bar .line .value {
+    flex: 1 1 0px;
+}
+
+.progress-bar .line .value.left {
+    text-align: right;
+}
+
+.progress-bar .line .value.right {
+    text-align: left;
+}
+
+.progress-bar .line .sep {
+    flex-grow: 0;
+    width: 30px;
+    text-align: center;
+}
+
+.progress-bar.small .line .sep {
+    font-size: 12px;
+    width: 20px;
+}

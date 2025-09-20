@@ -1,0 +1,36 @@
+.artifact-generator .line {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    min-height: 36px;
+}
+
+.artifact-generator .line .name {
+    width: 150px;
+    flex-shrink: 0;
+    padding-left: 5px;
+}
+
+.artifact-generator .line .value {
+    width: 50px;
+    flex-shrink: 0;
+    text-align: center;
+}
+
+.artifact-generator .line .control {
+    flex-grow: 1;
+    padding-right: 5px;
+}
+
+.artifact-generator .line .control.dropdown {
+    padding-left: 4px;
+}
+
+.artifact-generator .number-input {
+    width: 60px;
+}
+
+.artifact-generator .placeholder {
+    width: 100%;
+    min-height: 208px;
+}

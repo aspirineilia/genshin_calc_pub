@@ -1,0 +1,10 @@
+category;name;rus;eng
+feature_attack;mona_charged_hit;Лунная цепь;Lunar Chain
+feature_skill;mona_phantom_explosion_dmg;Урон взрыва фантома;Phantom explosion DMG
+feature_burst;mona_buble_dmg;Урон взрыва пузыря;Illusory Bubble Explosion DMG
+feature_burst;mona_buble_duration;Длительность пузыря;Illusory Bubble Duration
+feature_burst;mona_dmg_bonus;Бонус урона;DMG Bonus
+feature_burst;mona_omen_duration;Длительность Омена;Omen Duration
+
+talent_name;mona_omen;Омен;Omen
+talent_descr;mona_omen;На время длительности навыка skill{burst:Звёздный фантазм} увеличивает name{получаемый противником урон}.;During skill{burst:Stellaris Phantasm} duration, increases name{DMG taken by opponents}.

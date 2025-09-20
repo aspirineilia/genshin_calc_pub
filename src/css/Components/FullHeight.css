@@ -1,0 +1,59 @@
+.full-height {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    flex-grow: 1;
+}
+
+.tab-content > .full-height {
+    margin-bottom: 7px;
+}
+
+.full-height .block {
+    flex-shrink: 0;
+}
+
+.full-height .content {
+    flex-grow: 1;
+    flex-shrink: 1;
+    overflow: hidden;
+    position: relative;
+}
+
+.full-height .content-scrollbar {
+    width: 100%;
+    padding-right: 13px;
+    box-sizing: border-box;
+}
+
+.full-height .content-scrollbar.no-padding {
+    padding-right: 0;
+}
+
+.full-height-wrapper {
+    width: 100%;
+    height: 100%;
+}
+
+.full-height .loading-progress {
+    height: 30px;
+    line-height: 30px;
+}
+
+.full-height .float-title {
+    position: absolute;
+    top: 0px;
+    width: 100%;
+    padding: 5px;
+    color: #D3BC8E;
+    box-sizing: border-box;
+    background-color: rgba(23, 17, 16, 0.9);
+}
+
+.float-table-block > .title {
+    width: 100%;
+    text-align: left;
+    padding: 5px;
+    color: #D3BC8E;
+    box-sizing: border-box;
+}

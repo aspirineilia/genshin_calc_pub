@@ -1,0 +1,7 @@
+category;name;rus;eng
+feature_burst;diluc_infusion_duration;Длительность инфузии;Infusion Duration
+feature_burst;dilic_burst_dot;Периодический урон;DoT DMG
+feature_burst;diluc_burst_explosion;Урон от взрыва;Explosion DMG
+feature_burst;diluc_burst_slash;Рубящий урон;Slashing DMG
+
+talent_descr;diluc_dawn_talent;Собравшееся пламя наделяет оружие name{Дилюка} инфузией pyro{Пиро}.;The searing flames that run down his blade cause it to be infused with pyro{Pyro}.

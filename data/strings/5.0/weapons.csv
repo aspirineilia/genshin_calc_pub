@@ -1,0 +1,35 @@
+category;name;rus;eng
+weapon_name;flamebreath_flute;Флейта Эспицаль;Flute of Ezpitzal
+talent_name;weapon_flamebreath_flute;Тайна дыма и зеркал;Smoke-and-Mirror Mystery
+talent_descr;weapon_flamebreath_flute;Использование name{элементального навыка} повышает name{защиту} на %{def_percent} на 15 сек.;Increases this character's def{DEF} by %{def_percent} for 15s when using an name{Elemental Skill}.
+
+weapon_name;rainbows_trail;След радуги;Footprint of the Rainbow
+talent_name;weapon_rainbows_trail;Обещание течений и родников;Pact of Flowing Springs
+talent_descr;weapon_rainbows_trail;Использование name{элементального навыка} повышает name{защиту} на %{def_percent} на 15 сек.;Increases this character's def{DEF} by %{def_percent} for 15s when using an name{Elemental Skill}.
+
+weapon_name;shattered_chains;Разбивающий цепи;Chain Breaker
+talent_name;weapon_shattered_chains;Песнь цветов и падающих перьев;Feather-Flower Song
+talent_descr;weapon_shattered_chains_1;За каждого члена отряда из Натлана или с элементом, отличным от элемента экипированного персонажа, name{сила атаки} экипированного персонажа повышается на %{atk_percent}. (%{weapon_shattered_chains_stacks});For every party member from Natlan or who has a different Elemental Type from the equipping character, the equipping character gains %{atk_percent} increased name{ATK}. (%{weapon_shattered_chains_stacks})
+talent_descr;weapon_shattered_chains_2;Когда таких персонажей не менее 3, экипированный персонаж получает %{mastery} ед. name{мастерства стихий}.;When there are no less than 3 of the aforementioned characters, the equipping character gains %{mastery} name{Elemental Mastery}.
+
+weapon_name;mountain_kings_fang;Клык Горного короля;Fang of the Mountain King
+talent_name;weapon_mountain_kings_fang;Бирюзовая охота;Turquoise Hunt
+talent_descr;weapon_mountain_kings_fang;Попадание name{элементального навыка} по противнику наделяет 1 уровнем name{Благоволения Крон}. Этот эффект может возникнуть 1 раз в 0,5 сек. Когда члены отряда активируют реакции pyro{Горение} или dendro{Цветение}, экипированный персонаж получает 3 уровня name{Благоволения Крон}. Данный эффект может возникнуть 1 раз в 2 сек. и срабатывает, даже когда персонаж не на поле боя. name{Благоволение Крон}: урон name{элементального навыка} и name{взрыва стихии} увеличивается на %{dmg_skill}, длится 6 сек. и складывается до 6 раз. Длительность каждого уровня рассчитывается отдельно.;Gain 1 name{Canopy's Favor} stack after hitting an opponent with an name{Elemental Skill}. This can be triggered once every 0.5s. After a nearby party member triggers a pyro{Burning} or dendro{Burgeon} reaction, the equipping character will gain 3 stacks. This effect, in turn, can be triggered once every 2s and can be triggered even when the character is off-field. name{Canopy's Favor}: name{Elemental Skill} and name{Burst} DMG is increased by %{dmg_skill} for 6s. Max 6 stacks. Each stack is counted independently.
+
+weapon_name;earthshaker;Сотрясающий землю;Earth Shaker
+talent_name;weapon_earthshaker;Клятва изумрудной тропы;Oath of the Verdant Path
+talent_descr;weapon_earthshaker;Активация членами отряда реакций pyro{Пиро} повышает урон name{элементального навыка} экипированного персонажа на %{dmg_skill} на 8 сек.;When a party member triggers a pyro{Pyro}-related reaction, the equipping character's name{Elemental Skill} DMG is increased by %{dmg_skill} for 8s.
+
+weapon_name;surfing_time;Лови волну;Surf's Up
+talent_name;weapon_surfing_time;Воспоминания воды;Aqua Remembrance
+talent_descr;weapon_surfing_time_1;Увеличивает name{макс. HP} на %{hp_percent}.;name{Max HP} increased by %{hp_percent}.
+talent_descr;weapon_surfing_time_2;Один раз в 12 сек. в течение 10 сек. после использования name{элементального навыка} возникает следующий эффект: наделяет 4 уровнями name{Знойного лета}. Каждый уровень увеличивает урон name{обычной атаки} на %{dmg_normal}. Во время его действия каждые 1,5 сек. попадание name{обычной атаки} по противнику снимает 1 уровень, каждые 1,5 сек.: активация реакции name{Пар} на противнике добавляет 1 уровень. Эффект name{Знойного лета} складывается до 4 раз.;Every 12s, the following will occur within 10s after using an name{Elemental Skill}: Gain 4 name{Scorching Summer} stacks. Each stack increases name{Normal Attack} DMG by %{dmg_normal}. In this duration, every 1.5s: After a name{Normal Attack hits} an opponent, remove 1 stack, once every 1.5s: After triggering a name{Vaporize} reaction on an opponent, add 1 stack. Max 4 name{Scorching Summer} stacks.
+
+feature_weapon;ash_graven_drinking_horn_dmg;Урон Хватки Тупака;Tupac's Grip DMG
+weapon_name;ash_graven_drinking_horn;Пепельный рог;Ash-Graven Drinking Horn
+talent_name;weapon_ash_graven_drinking_horn;Хватка Тупака;Tupac's Grip
+talent_descr;weapon_ash_graven_drinking_horn;При попадании атаки по противнику на его позиции наносится урон по площади, равный %{text_percent_dmg} от name{макс. HP}. Этот эффект может возникнуть один раз в 15 сек.;When an attack hits an opponent, deal %{text_percent_dmg} of name{Max HP} as AoE DMG at the target location. This effect can be triggered once every 15s.
+
+weapon_name;ring_of_ceiba;Кольцо Яшче;Ring of Yaxche
+talent_name;weapon_ring_of_ceiba;Эхо земли изобилия;Echoes of the Plentiful Land
+talent_descr;weapon_ring_of_ceiba;Использование name{элементального навыка} наделяет эффектом name{Нефритовой короны}: урон name{обычной атаки} экипированного персонажа повысится на %{text_percent} за каждую 1000 ед. name{макс. HP} на 10 сек. Урон name{обычной атаки} таким образом можно повысить максимум на %{text_percent_max}.;Gain the name{Jade-Forged Crown} effect when using an name{Elemental Skill}: Every 1,000 name{Max HP} will increase the equipping character's name{Normal Attack} DMG by %{text_percent} for 10s. name{Normal Attack} DMG can be increased this way by a maximum of %{text_percent_max}.
